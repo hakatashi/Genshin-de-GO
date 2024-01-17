@@ -21,10 +21,13 @@ export const Bunny = () => {
 		update({
 			type: 'update',
 			data: {
-				x: Math.sin(i) * 300 + 500,
-				y: Math.sin(i / 1.5) * 300 + 500,
+				x: Math.sin(i) * 300,
+				y: Math.sin(i / 1.5) * 300,
 				rotation: Math.sin(i) * Math.PI,
-				anchor: Math.sin(i / 2),
+				anchor: {
+					x: 0.5,
+					y: 0.5,
+				},
 			},
 		});
 	});
