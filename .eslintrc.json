@@ -1,0 +1,6 @@
+{
+	"extends": "@hakatashi/eslint-config/typescript",
+	"rules": {
+		"import/no-named-as-default-member": "off"
+	}
+}
