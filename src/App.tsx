@@ -4,11 +4,18 @@ import {HomeScene} from './scenes/HomeScene';
 
 const App = () => (
 	<div className="App">
-		<header className="App-header">
-			<Stage width={1000} height={1000} options={{backgroundAlpha: 0}}>
-				<HomeScene/>
-			</Stage>
-		</header>
+		<Stage
+			width={960}
+			height={540}
+			options={{backgroundAlpha: 0}}
+			style={{
+				width: '100vw',
+				height: '100vh',
+				objectFit: 'contain',
+			}}
+		>
+			<HomeScene/>
+		</Stage>
 	</div>
 );
 

@@ -6,8 +6,8 @@ export const HomeScene = () => (
 	<Container>
 		<Text
 			text="原神でGO!"
-			x={500}
-			y={500}
+			x={480}
+			y={200}
 			anchor={0.5}
 			style={new TextStyle({
 				fontFamily: 'sans-serif',
@@ -30,8 +30,8 @@ export const HomeScene = () => (
 		<Button
 			width={400}
 			height={100}
-			cx={500}
-			cy={700}
+			cx={480}
+			cy={400}
 			borderRadius={10}
 			onClick={() => console.log('clicked')}
 			backgroundColor={0xbc9c56}
