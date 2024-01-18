@@ -30,20 +30,21 @@ export const Button = (props: ButtonProps) => {
 			props.borderRadius,
 		);
 		g.endFill();
-	}, [props.width, props.height]);
+	}, [props.width, props.height, props.borderRadius, props.backgroundColor, props.borderColor, props.borderWidth]);
 
 	return (
 		<Container
 			x={props.cx}
 			y={props.cy}
-			pointertap={props.onClick}
+			onclick={props.onClick}
+			eventMode="static"
+			cursor="pointer"
 		>
 			<Graphics
 				draw={draw}
 				x={0}
 				y={0}
 				anchor={0.5}
-				pointertap={props.onClick}
 			/>
 			<Text
 				text={props.text}
@@ -51,7 +52,6 @@ export const Button = (props: ButtonProps) => {
 				y={0}
 				anchor={0.5}
 				style={props.textStyle}
-				pointertap={props.onClick}
 			/>
 		</Container>
 	);

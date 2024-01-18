@@ -9,17 +9,26 @@
 	color: white;
 }
 
-.App canvas {
-	width: 100vw;
-	height: 100vh;
-	object-fit: contain;
+.App-GameWrap {
+	position: relative;
 }
 
-@keyframes App-logo-spin {
-	from {
-		transform: rotate(0deg);
-	}
-	to {
-		transform: rotate(360deg);
-	}
+.App-Game {
+	position: relative;
+	vertical-align: middle;
+}
+
+.App-AnswerInput {
+	position: absolute;
+	width: 100%;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 10%;
+
+	box-sizing: border-box;
+
+	text-align: center;
+	font-weight: bold;
+	font-size: 100%;
 }

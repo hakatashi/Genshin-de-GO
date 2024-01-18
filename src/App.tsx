@@ -1,21 +1,25 @@
 import {Stage} from '@pixi/react';
 import './App.css';
-import {HomeScene} from './scenes/HomeScene';
+import {RecoilRoot} from 'recoil';
+import SceneWrapper from './SceneWrapper';
 
 const App = () => (
 	<div className="App">
-		<Stage
-			width={960}
-			height={540}
-			options={{backgroundAlpha: 0}}
-			style={{
-				width: '100vw',
-				height: '100vh',
-				objectFit: 'contain',
-			}}
-		>
-			<HomeScene/>
-		</Stage>
+		<div className="App-GameWrap">
+			<Stage
+				width={960}
+				height={540}
+				options={{
+					backgroundAlpha: 0,
+				}}
+				className="App-Game"
+			>
+				<RecoilRoot>
+					<SceneWrapper/>
+				</RecoilRoot>
+			</Stage>
+			<input type="text" className="App-AnswerInput"/>
+		</div>
 	</div>
 );
 
