@@ -38,10 +38,7 @@ export const HomeScene = () => {
 				cx={480}
 				cy={400}
 				borderRadius={10}
-				onClick={() => {
-					console.log('clicked');
-					setScene('quiz');
-				}}
+				onClick={() => setScene('quiz')}
 				backgroundColor={0xbc9c56}
 				borderColor={0x604200}
 				borderWidth={0}

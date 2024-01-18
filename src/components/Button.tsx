@@ -37,6 +37,7 @@ export const Button = (props: ButtonProps) => {
 			x={props.cx}
 			y={props.cy}
 			onclick={props.onClick}
+			ontap={props.onClick}
 			eventMode="static"
 			cursor="pointer"
 		>
