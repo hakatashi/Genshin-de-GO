@@ -46,9 +46,9 @@ const emitterComponent: EmitterComponent = {
 	willUnmount() {
 		if (this._emitter) {
 			this._emitter.emit = false;
-			if (this._raf) {
-				cancelAnimationFrame(this._raf);
-			}
+		}
+		if (this._raf) {
+			cancelAnimationFrame(this._raf);
 		}
 	},
 };
