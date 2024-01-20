@@ -1,37 +1,31 @@
 import {Container, Text, useTick} from '@pixi/react';
 import {TextStyle} from 'pixi.js';
 import {useEffect, useState} from 'react';
-import {useRecoilState, useRecoilValue} from 'recoil';
+import {useRecoilState} from 'recoil';
 import {inputTextState, isInputShownState, textInputTimeState} from '../atoms';
+import {Button} from '../components/Button';
+import {ExplanationDialog} from '../components/ExplanationDialog';
 import {Explosion} from '../components/Explosion';
-import {Rectangle} from '../components/Rectangle';
-
-interface QuizConfig {
-	kanji: string,
-	answer: string,
-	category: string[],
-	comment: string,
-	isOfficial?: boolean,
-}
+import {QuizConfig} from '../lib/types';
 
 interface QuizProps {
 	quiz: QuizConfig,
-	onEnd: (state: 'correct' | 'failed') => void,
+	onEnd: (state: 'correct' | 'wrong') => void,
 }
 
 const Quiz = (props: QuizProps) => {
-	const {quiz: {kanji, answer, category, comment, isOfficial = false}, onEnd} = props;
-
-	const commentLines = comment.split('\n');
+	const {quiz, onEnd} = props;
+	const {kanji, answer, category} = quiz;
 
 	const [scale, setScale] = useState(0.5);
 	const [lastAnswer, setLastAnswer] = useState<string | null>(null);
-	const [remainingTime, setRemainingTime] = useState<number>(20);
-	const [state, setState] = useState<'playing' | 'correct' | 'failed'>('playing');
-	const [endTimer, setEndTimer] = useState<number | null>(null);
+	const [remainingTime, setRemainingTime] = useState<number>(3);
+	const [state, setState] = useState<'playing' | 'correct' | 'wrongEffect' | 'wrong'>('playing');
+	const [correctTimer, setCorrectTimer] = useState<number | null>(null);
+	const [wrongEffectTimer, setWrongEffectTimer] = useState<number | null>(null);
 
 	const [, setIsInputShown] = useRecoilState(isInputShownState);
-	const textInputTime = useRecoilValue(textInputTimeState);
+	const [textInputTime, setTextInputTime] = useRecoilState(textInputTimeState);
 	const [inputText, setInputText] = useRecoilState(inputTextState);
 
 	useTick((delta) => {
@@ -40,10 +34,17 @@ const Quiz = (props: QuizProps) => {
 			setRemainingTime(remainingTime - delta / 60);
 		}
 
-		if (endTimer !== null) {
-			setEndTimer(endTimer - delta);
-			if (endTimer <= 0 && (state === 'correct' || state === 'failed')) {
-				onEnd(state);
+		if (correctTimer !== null) {
+			setCorrectTimer(correctTimer - delta);
+			if (correctTimer <= 0) {
+				onEnd('correct');
+			}
+		}
+
+		if (wrongEffectTimer !== null) {
+			setWrongEffectTimer(wrongEffectTimer - delta);
+			if (wrongEffectTimer <= 0) {
+				setState('wrong');
 			}
 		}
 	});
@@ -57,9 +58,10 @@ const Quiz = (props: QuizProps) => {
 			if (inputText === answer) {
 				setLastAnswer(null);
 				setInputText('');
+				setTextInputTime(null);
 				setIsInputShown(false);
 				setState('correct');
-				setEndTimer(300);
+				setCorrectTimer(5 * 60);
 			} else {
 				setLastAnswer(inputText);
 			}
@@ -68,7 +70,8 @@ const Quiz = (props: QuizProps) => {
 
 	useEffect(() => {
 		if (remainingTime <= 0) {
-			setState('failed');
+			setState('wrongEffect');
+			setWrongEffectTimer(2 * 60);
 			setIsInputShown(false);
 		}
 	}, [remainingTime]);
@@ -129,7 +132,7 @@ const Quiz = (props: QuizProps) => {
 					/>
 				</>
 			) : null}
-			{(state === 'playing' && lastAnswer !== null) ? (
+			{(state === 'playing' && lastAnswer !== null) && (
 				<Text
 					text={`直前の誤答: ${lastAnswer}`}
 					x={480}
@@ -143,106 +146,37 @@ const Quiz = (props: QuizProps) => {
 						fill: '#000',
 					})}
 				/>
-			) : null}
-			{state === 'correct' ? (
+			)}
+			{state === 'correct' && (
 				<Container>
 					<Explosion x={480} y={200}/>
-					<Container x={0} y={440}>
-						<Rectangle
-							width={960}
-							height={100}
-							x={0}
-							y={0}
-							alpha={0.5}
-							backgroundColor={0x000000}
-						/>
-						<Text
-							text={kanji}
-							x={150}
-							y={60}
-							anchor={0.5}
-							style={new TextStyle({
-								fontFamily: 'Noto Sans JP',
-								fontSize: 48,
-								fontStyle: 'normal',
-								fontWeight: 'bold',
-								fill: '#f3c72e',
-								stroke: '#000000',
-								strokeThickness: 5,
-								lineJoin: 'round',
-							})}
-						/>
-						<Text
-							text={answer}
-							x={150}
-							y={20}
-							anchor={0.5}
-							style={new TextStyle({
-								fontFamily: 'Noto Sans JP',
-								fontSize: 16,
-								fontStyle: 'normal',
-								fontWeight: 'bold',
-								fill: '#f3c72e',
-								stroke: '#000000',
-								strokeThickness: 5,
-								lineJoin: 'round',
-							})}
-						/>
-						<Container x={300} y={5}>
-							<Rectangle
-								width={40}
-								height={16}
-								x={0}
-								y={0}
-								backgroundColor={isOfficial ? 0xF44336 : 0x2196F3}
-								borderRadius={3}
-							/>
-							<Text
-								text={isOfficial ? '公式' : '推定'}
-								x={20}
-								y={8}
-								anchor={0.5}
-								style={new TextStyle({
-									fontFamily: 'Noto Sans JP',
-									fontSize: 12,
-									fontStyle: 'normal',
-									fontWeight: 'bold',
-									fill: '#ffffff',
-								})}
-							/>
-						</Container>
-						<Text
-							text={`ジャンル: ${category.join(' / ')}`}
-							x={345}
-							y={12}
-							anchor={[0, 0.5]}
-							style={new TextStyle({
-								fontFamily: 'Noto Sans JP',
-								fontSize: 14,
-								fontStyle: 'normal',
-								fontWeight: 'bold',
-								fill: '#ffffff',
-							})}
-						/>
-						{commentLines.map((line, index) => (
-							<Text
-								key={index}
-								text={line}
-								x={300}
-								y={35 + index * 25}
-								anchor={[0, 0.5]}
-								style={new TextStyle({
-									fontFamily: 'Noto Sans JP',
-									fontSize: 20,
-									fontStyle: 'normal',
-									fontWeight: 'bold',
-									fill: '#ffffff',
-								})}
-							/>
-						))}
-					</Container>
+					<ExplanationDialog x={0} y={440} quiz={quiz}/>
 				</Container>
-			) : null}
+			)}
+			{state === 'wrong' && (
+				<Container>
+					<ExplanationDialog x={0} y={200} quiz={quiz}/>
+					<Button
+						width={300}
+						height={70}
+						cx={480}
+						cy={400}
+						borderRadius={35}
+						onClick={() => onEnd('wrong')}
+						backgroundColor={0x484848}
+						borderColor={0x161616}
+						borderWidth={3}
+						text="コンティニュー"
+						textStyle={new TextStyle({
+							fontFamily: 'Noto Sans JP',
+							fontSize: 30,
+							fontStyle: 'normal',
+							fontWeight: 'bold',
+							fill: '#FFFFFF',
+						})}
+					/>
+				</Container>
+			)}
 		</Container>
 	);
 };
@@ -360,7 +294,7 @@ export const QuizScene = (props: QuizSceneProps) => {
 	const [progress, setProgress] = useState(0);
 	const [remainingLife, setRemainingLife] = useState(3);
 
-	const onEnd = (state: 'correct' | 'failed') => {
+	const onEnd = (state: 'correct' | 'wrong') => {
 		if (state === 'correct') {
 			if (progress + 1 >= totalProgress) {
 				setProgress(0);
@@ -380,7 +314,7 @@ export const QuizScene = (props: QuizSceneProps) => {
 	return (
 		<Container>
 			<Quiz
-				key={progress}
+				key={`${progress}-${remainingLife}`}
 				quiz={quizzes[progress]}
 				onEnd={onEnd}
 			/>
