@@ -11,6 +11,7 @@ interface QuizConfig {
 	answer: string,
 	category: string[],
 	comment: string,
+	isOfficial?: boolean,
 }
 
 interface QuizProps {
@@ -19,7 +20,7 @@ interface QuizProps {
 }
 
 const Quiz = (props: QuizProps) => {
-	const {quiz: {kanji, answer, category, comment}, onEnd} = props;
+	const {quiz: {kanji, answer, category, comment, isOfficial = false}, onEnd} = props;
 
 	const commentLines = comment.split('\n');
 
@@ -54,7 +55,7 @@ const Quiz = (props: QuizProps) => {
 	useEffect(() => {
 		if (textInputTime !== null) {
 			if (inputText === answer) {
-				setLastAnswer('');
+				setLastAnswer(null);
 				setInputText('');
 				setIsInputShown(false);
 				setState('correct');
@@ -103,7 +104,7 @@ const Quiz = (props: QuizProps) => {
 					<Text
 						text={`${remainingTime.toFixed(2)}秒`}
 						x={480}
-						y={80}
+						y={40}
 						anchor={0.5}
 						style={new TextStyle({
 							fontFamily: 'Noto Sans JP',
@@ -128,9 +129,9 @@ const Quiz = (props: QuizProps) => {
 					/>
 				</>
 			) : null}
-			{lastAnswer === null ? null : (
+			{(state === 'playing' && lastAnswer !== null) ? (
 				<Text
-					text={lastAnswer}
+					text={`直前の誤答: ${lastAnswer}`}
 					x={480}
 					y={460}
 					anchor={0.5}
@@ -142,7 +143,7 @@ const Quiz = (props: QuizProps) => {
 						fill: '#000',
 					})}
 				/>
-			)}
+			) : null}
 			{state === 'correct' ? (
 				<Container>
 					<Explosion x={480} y={200}/>
@@ -187,16 +188,52 @@ const Quiz = (props: QuizProps) => {
 								lineJoin: 'round',
 							})}
 						/>
+						<Container x={300} y={5}>
+							<Rectangle
+								width={40}
+								height={16}
+								x={0}
+								y={0}
+								backgroundColor={isOfficial ? 0xF44336 : 0x2196F3}
+								borderRadius={3}
+							/>
+							<Text
+								text={isOfficial ? '公式' : '推定'}
+								x={20}
+								y={8}
+								anchor={0.5}
+								style={new TextStyle({
+									fontFamily: 'Noto Sans JP',
+									fontSize: 12,
+									fontStyle: 'normal',
+									fontWeight: 'bold',
+									fill: '#ffffff',
+								})}
+							/>
+						</Container>
+						<Text
+							text={`ジャンル: ${category.join(' / ')}`}
+							x={345}
+							y={12}
+							anchor={[0, 0.5]}
+							style={new TextStyle({
+								fontFamily: 'Noto Sans JP',
+								fontSize: 14,
+								fontStyle: 'normal',
+								fontWeight: 'bold',
+								fill: '#ffffff',
+							})}
+						/>
 						{commentLines.map((line, index) => (
 							<Text
 								key={index}
 								text={line}
 								x={300}
-								y={30 + index * 15}
+								y={35 + index * 25}
 								anchor={[0, 0.5]}
 								style={new TextStyle({
 									fontFamily: 'Noto Sans JP',
-									fontSize: 24,
+									fontSize: 20,
 									fontStyle: 'normal',
 									fontWeight: 'bold',
 									fill: '#ffffff',
@@ -220,15 +257,29 @@ const quizzes: QuizConfig[] = [
 		answer: 'ぼうじょりょかん',
 		category: ['璃月', '地名'],
 		comment: [
-			'璃月の旅館。璃月の中心部に位置する。',
+			'璃月・荻花洲に位置する旅館。',
+			'見晴らしがよく、遠方にある軽策山や絶雲の間を眺められる。',
 		].join('\n'),
+		isOfficial: true,
 	},
 	{
 		kanji: '明蘊町',
 		answer: 'めいうんちょう',
 		category: ['璃月', '地名'],
 		comment: [
-			'璃月の町。璃月の中心部に位置する。',
+			'璃月・瓊璣野の廃村。',
+			'枯渇した鉱脈が原因で人々が去り、現在は廃墟と化している。',
+		].join('\n'),
+		isOfficial: true,
+	},
+	{
+		kanji: '翠楓庭',
+		answer: 'すいふうてい',
+		category: ['璃月', '地名'],
+		comment: [
+			'璃月・漉華の池の近くにある宿屋。',
+			'朱店主が経営している。',
+			'モナがモンドを訪れる前によく利用していた。',
 		].join('\n'),
 	},
 	{
@@ -236,15 +287,29 @@ const quizzes: QuizConfig[] = [
 		answer: 'ぼうじょりょかん',
 		category: ['璃月', '地名'],
 		comment: [
-			'璃月の旅館。璃月の中心部に位置する。',
+			'璃月・荻花洲に位置する旅館。',
+			'見晴らしがよく、遠方にある軽策山や絶雲の間を眺められる。',
 		].join('\n'),
+		isOfficial: true,
 	},
 	{
 		kanji: '明蘊町',
 		answer: 'めいうんちょう',
 		category: ['璃月', '地名'],
 		comment: [
-			'璃月の町。璃月の中心部に位置する。',
+			'璃月・瓊璣野の廃村。',
+			'枯渇した鉱脈が原因で人々が去り、現在は廃墟と化している。',
+		].join('\n'),
+		isOfficial: true,
+	},
+	{
+		kanji: '翠楓庭',
+		answer: 'すいふうてい',
+		category: ['璃月', '地名'],
+		comment: [
+			'璃月・漉華の池の近くにある宿屋。',
+			'朱店主が経営している。',
+			'モナがモンドを訪れる前によく利用していた。',
 		].join('\n'),
 	},
 	{
@@ -252,47 +317,39 @@ const quizzes: QuizConfig[] = [
 		answer: 'ぼうじょりょかん',
 		category: ['璃月', '地名'],
 		comment: [
-			'璃月の旅館。璃月の中心部に位置する。',
+			'璃月・荻花洲に位置する旅館。',
+			'見晴らしがよく、遠方にある軽策山や絶雲の間を眺められる。',
 		].join('\n'),
+		isOfficial: true,
 	},
 	{
 		kanji: '明蘊町',
 		answer: 'めいうんちょう',
 		category: ['璃月', '地名'],
 		comment: [
-			'璃月の町。璃月の中心部に位置する。',
+			'璃月・瓊璣野の廃村。',
+			'枯渇した鉱脈が原因で人々が去り、現在は廃墟と化している。',
+		].join('\n'),
+		isOfficial: true,
+	},
+	{
+		kanji: '翠楓庭',
+		answer: 'すいふうてい',
+		category: ['璃月', '地名'],
+		comment: [
+			'璃月・漉華の池の近くにある宿屋。',
+			'朱店主が経営している。',
+			'モナがモンドを訪れる前によく利用していた。',
 		].join('\n'),
 	},
 	{
-		kanji: '望舒旅館',
-		answer: 'ぼうじょりょかん',
+		kanji: '翠楓庭',
+		answer: 'すいふうてい',
 		category: ['璃月', '地名'],
 		comment: [
-			'璃月の旅館。璃月の中心部に位置する。',
-		].join('\n'),
-	},
-	{
-		kanji: '明蘊町',
-		answer: 'めいうんちょう',
-		category: ['璃月', '地名'],
-		comment: [
-			'璃月の町。璃月の中心部に位置する。',
-		].join('\n'),
-	},
-	{
-		kanji: '望舒旅館',
-		answer: 'ぼうじょりょかん',
-		category: ['璃月', '地名'],
-		comment: [
-			'璃月の旅館。璃月の中心部に位置する。',
-		].join('\n'),
-	},
-	{
-		kanji: '明蘊町',
-		answer: 'めいうんちょう',
-		category: ['璃月', '地名'],
-		comment: [
-			'璃月の町。璃月の中心部に位置する。',
+			'璃月・漉華の池の近くにある宿屋。',
+			'朱店主が経営している。',
+			'モナがモンドを訪れる前によく利用していた。',
 		].join('\n'),
 	},
 ];
