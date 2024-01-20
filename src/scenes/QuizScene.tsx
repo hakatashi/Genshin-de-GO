@@ -4,10 +4,13 @@ import {useEffect, useState} from 'react';
 import {useRecoilState, useRecoilValue} from 'recoil';
 import {inputTextState, isInputShownState, textInputTimeState} from '../atoms';
 import {Explosion} from '../components/Explosion';
+import {Rectangle} from '../components/Rectangle';
 
 interface QuizConfig {
 	kanji: string,
 	answer: string,
+	category: string[],
+	comment: string,
 }
 
 interface QuizProps {
@@ -16,7 +19,9 @@ interface QuizProps {
 }
 
 const Quiz = (props: QuizProps) => {
-	const {quiz: {kanji, answer}, onEnd} = props;
+	const {quiz: {kanji, answer, category, comment}, onEnd} = props;
+
+	const commentLines = comment.split('\n');
 
 	const [scale, setScale] = useState(0.5);
 	const [lastAnswer, setLastAnswer] = useState<string | null>(null);
@@ -51,6 +56,7 @@ const Quiz = (props: QuizProps) => {
 			if (inputText === answer) {
 				setLastAnswer('');
 				setInputText('');
+				setIsInputShown(false);
 				setState('correct');
 				setEndTimer(300);
 			} else {
@@ -107,6 +113,19 @@ const Quiz = (props: QuizProps) => {
 							fill: '#000',
 						})}
 					/>
+					<Text
+						text={category.join(' / ')}
+						x={480}
+						y={400}
+						anchor={0.5}
+						style={new TextStyle({
+							fontFamily: 'Noto Sans JP',
+							fontSize: 24,
+							fontStyle: 'normal',
+							fontWeight: 'bold',
+							fill: '#000',
+						})}
+					/>
 				</>
 			) : null}
 			{lastAnswer === null ? null : (
@@ -125,7 +144,67 @@ const Quiz = (props: QuizProps) => {
 				/>
 			)}
 			{state === 'correct' ? (
-				<Explosion x={480} y={200}/>
+				<Container>
+					<Explosion x={480} y={200}/>
+					<Container x={0} y={440}>
+						<Rectangle
+							width={960}
+							height={100}
+							x={0}
+							y={0}
+							alpha={0.5}
+							backgroundColor={0x000000}
+						/>
+						<Text
+							text={kanji}
+							x={150}
+							y={60}
+							anchor={0.5}
+							style={new TextStyle({
+								fontFamily: 'Noto Sans JP',
+								fontSize: 48,
+								fontStyle: 'normal',
+								fontWeight: 'bold',
+								fill: '#f3c72e',
+								stroke: '#000000',
+								strokeThickness: 5,
+								lineJoin: 'round',
+							})}
+						/>
+						<Text
+							text={answer}
+							x={150}
+							y={20}
+							anchor={0.5}
+							style={new TextStyle({
+								fontFamily: 'Noto Sans JP',
+								fontSize: 16,
+								fontStyle: 'normal',
+								fontWeight: 'bold',
+								fill: '#f3c72e',
+								stroke: '#000000',
+								strokeThickness: 5,
+								lineJoin: 'round',
+							})}
+						/>
+						{commentLines.map((line, index) => (
+							<Text
+								key={index}
+								text={line}
+								x={300}
+								y={30 + index * 15}
+								anchor={[0, 0.5]}
+								style={new TextStyle({
+									fontFamily: 'Noto Sans JP',
+									fontSize: 24,
+									fontStyle: 'normal',
+									fontWeight: 'bold',
+									fill: '#ffffff',
+								})}
+							/>
+						))}
+					</Container>
+				</Container>
 			) : null}
 		</Container>
 	);
@@ -139,34 +218,82 @@ const quizzes: QuizConfig[] = [
 	{
 		kanji: '望舒旅館',
 		answer: 'ぼうじょりょかん',
+		category: ['璃月', '地名'],
+		comment: [
+			'璃月の旅館。璃月の中心部に位置する。',
+		].join('\n'),
 	},
 	{
 		kanji: '明蘊町',
 		answer: 'めいうんちょう',
+		category: ['璃月', '地名'],
+		comment: [
+			'璃月の町。璃月の中心部に位置する。',
+		].join('\n'),
 	},
 	{
 		kanji: '望舒旅館',
 		answer: 'ぼうじょりょかん',
+		category: ['璃月', '地名'],
+		comment: [
+			'璃月の旅館。璃月の中心部に位置する。',
+		].join('\n'),
 	},
 	{
 		kanji: '明蘊町',
 		answer: 'めいうんちょう',
+		category: ['璃月', '地名'],
+		comment: [
+			'璃月の町。璃月の中心部に位置する。',
+		].join('\n'),
 	},
 	{
 		kanji: '望舒旅館',
 		answer: 'ぼうじょりょかん',
+		category: ['璃月', '地名'],
+		comment: [
+			'璃月の旅館。璃月の中心部に位置する。',
+		].join('\n'),
 	},
 	{
 		kanji: '明蘊町',
 		answer: 'めいうんちょう',
+		category: ['璃月', '地名'],
+		comment: [
+			'璃月の町。璃月の中心部に位置する。',
+		].join('\n'),
 	},
 	{
 		kanji: '望舒旅館',
 		answer: 'ぼうじょりょかん',
+		category: ['璃月', '地名'],
+		comment: [
+			'璃月の旅館。璃月の中心部に位置する。',
+		].join('\n'),
 	},
 	{
 		kanji: '明蘊町',
 		answer: 'めいうんちょう',
+		category: ['璃月', '地名'],
+		comment: [
+			'璃月の町。璃月の中心部に位置する。',
+		].join('\n'),
+	},
+	{
+		kanji: '望舒旅館',
+		answer: 'ぼうじょりょかん',
+		category: ['璃月', '地名'],
+		comment: [
+			'璃月の旅館。璃月の中心部に位置する。',
+		].join('\n'),
+	},
+	{
+		kanji: '明蘊町',
+		answer: 'めいうんちょう',
+		category: ['璃月', '地名'],
+		comment: [
+			'璃月の町。璃月の中心部に位置する。',
+		].join('\n'),
 	},
 ];
 
@@ -174,6 +301,7 @@ export const QuizScene = (props: QuizSceneProps) => {
 	const {totalProgress} = props;
 
 	const [progress, setProgress] = useState(0);
+	const [remainingLife, setRemainingLife] = useState(3);
 
 	const onEnd = (state: 'correct' | 'failed') => {
 		if (state === 'correct') {
@@ -181,6 +309,13 @@ export const QuizScene = (props: QuizSceneProps) => {
 				setProgress(0);
 			} else {
 				setProgress(progress + 1);
+			}
+		} else {
+			if (remainingLife - 1 <= 0) {
+				setProgress(0);
+				setRemainingLife(3);
+			} else {
+				setRemainingLife(remainingLife - 1);
 			}
 		}
 	};
@@ -196,6 +331,19 @@ export const QuizScene = (props: QuizSceneProps) => {
 				text={`${progress + 1} / ${totalProgress}`}
 				x={20}
 				y={40}
+				anchor={[0, 0.5]}
+				style={new TextStyle({
+					fontFamily: 'Noto Sans JP',
+					fontSize: 24,
+					fontStyle: 'normal',
+					fontWeight: 'bold',
+					fill: '#000',
+				})}
+			/>
+			<Text
+				text={`残機: ${remainingLife}`}
+				x={20}
+				y={80}
 				anchor={[0, 0.5]}
 				style={new TextStyle({
 					fontFamily: 'Noto Sans JP',
