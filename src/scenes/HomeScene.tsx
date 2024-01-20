@@ -56,7 +56,7 @@ export const HomeScene = () => {
 									list: [
 										{
 											time: 0,
-											value: 0.5,
+											value: 0.8,
 										},
 										{
 											time: 1,
@@ -99,7 +99,7 @@ export const HomeScene = () => {
 							config: {
 								textures: [
 									Texture.from('https://pixijs.io/particle-emitter/examples/images/particle.png'),
-									Texture.from('https://pixijs.io/particle-emitter/examples/images/Fire.png'),
+									// Texture.from('https://pixijs.io/particle-emitter/examples/images/Fire.png'),
 								],
 							},
 						},

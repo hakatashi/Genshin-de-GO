@@ -11,7 +11,7 @@ const SceneWrapper = () => {
 	return (
 		<Container >
 			{scene === 'home' && <HomeScene/>}
-			{scene === 'quiz' && <QuizScene/>}
+			{scene === 'quiz' && <QuizScene totalProgress={10}/>}
 		</Container>
 	);
 };

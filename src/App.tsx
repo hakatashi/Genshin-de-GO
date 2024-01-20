@@ -39,7 +39,7 @@ const App = () => {
 					<SceneWrapper/>
 				</Stage>
 				{isInputShown ? (
-					<form className="App-AnswerForm" onSubmit={onSubmit}>
+					<form className="App-AnswerForm" autoComplete="off" onSubmit={onSubmit}>
 						<input
 							type="text"
 							name="text"
