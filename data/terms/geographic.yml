@@ -1,0 +1,488 @@
+テイワット:
+  地名:
+    - kanji: [北国]銀行
+      yomi: [きたくに]ぎんこう
+      level: 1
+      comment: |
+        世界各地に支店を持つスネージナヤ系の銀行。
+      isOfficial: true
+
+璃月:
+  地名:
+    - kanji: [碧水]の[原]
+      yomi: [へきすい]の[はら]
+      level: [1, 1]
+      comment: |
+        璃月のエリア名。
+      isOfficial: true
+
+    - kanji: 軽策荘
+      yomi: けいさくそう
+      level: 1
+      comment: |
+        璃月のエリア名。
+      isOfficial: true
+
+    - kanji: 石門
+      yomi: せきもん
+      level: 1
+      comment: |
+        璃月のエリア名。
+      isOfficial: true
+
+    - kanji: 地中の[塩]
+      yomi: ちちゅうの[しお]
+      level: 1
+      comment: |
+        璃月のエリア名。
+      isOfficial: true
+
+    - kanji: 荻花洲
+      yomi: てきかしゅう
+      level: 2
+      comment: |
+        璃月のエリア名。
+      isOfficial: true
+
+    - kanji: 望舒旅館
+      yomi: ぼうじょりょかん
+      level: 2
+      comment: |
+        璃月・荻花洲に位置する旅館。
+        見晴らしがよく、遠方にある軽策山や絶雲の間を眺められる。
+      isOfficial: true
+
+    - kanji: [無妄]の丘
+      yomi: [むぼう]のおか
+      level: 1
+      comment: |
+        璃月のエリア名。
+      isOfficial: true
+
+    - kanji: 範木堂
+      yomi: はんきどう
+      level: 2
+      comment: |
+        璃月・軽策荘に位置する家具屋。
+      isOfficial: true
+      ref:
+        - https://genshin.honeyhunterworld.com/q_11031/?lang=JA
+
+    - kanji: 珉林
+      yomi: みんりん
+      level: 2
+      comment: |
+        璃月のエリア名。
+      isOfficial: true
+
+    - kanji: 奥蔵山
+      yomi: おくぞうさん
+      level: 1
+      comment: |
+        璃月のエリア名。
+        留雲借風真君が住んでいる。
+      isOfficial: true
+
+    - kanji: [華光]の[林]
+      yomi: [かこう]の[りん]
+      level: [1, 2]
+      comment: |
+        璃月のエリア名。
+      isOfficial: true
+
+    - kanji: 慶雲頂
+      yomi: けいうんちょう
+      level: 2
+      comment: |
+        璃月のエリア名。
+        削月築陽真君が住んでいる。
+      isOfficial: true
+
+    - kanji: 琥牢山
+      yomi: ころうざん
+      level: 2
+      comment: |
+        璃月のエリア名。
+      isOfficial: true
+
+    - kanji: 翠決坡
+      yomi: すいけつざか
+      level: 2
+      comment: |
+        璃月のエリア名。
+      isOfficial: true
+
+    - kanji: [絶雲]の間
+      yomi: [ぜつうん]のま
+      level: 1
+      comment: |
+        璃月のエリア名。
+      isOfficial: true
+
+    - kanji: [天穹]の谷
+      yomi: けいさくそう
+      level: 1
+      comment: |
+        璃月のエリア名。
+      isOfficial: true
+
+    - kanji: 南天門
+      yomi: なんてんもん
+      level: 1
+      comment: |
+        璃月のエリア名。
+      isOfficial: true
+
+    - kanji: 雲中仙居
+      yomi: うんちゅうせんきょ？
+      level: 1
+      comment: |
+        璃月のエリア名。
+
+    - kanji: 下川
+      yomi: しもかわ
+      level: 2
+      comment: |
+        璃月・珉林にある廃村。
+        北斗が生まれ育った村。
+      isOfficial: true
+
+    - kanji: 伏龍の木
+      yomi:
+        - ふくりゅうのき？
+        - ふくりょうのき？
+      comment: |
+        璃月のエリア名。
+
+    - kanji: 明蘊町
+      yomi: めいうんちょう
+      level: 2
+      comment: |
+        璃月・瓊璣野の廃村。
+        枯渇した鉱脈が原因で人々が去り、現在は廃墟と化している。
+      isOfficial: true
+
+    - kanji: 瓊璣野
+      yomi: けいきや
+      level: 3
+      comment: |
+        璃月のエリア名。
+      isOfficial: true
+
+    - kanji: 帰離原
+      yomi: きりはら
+      level: 1
+      comment: |
+        璃月のエリア名。
+      isOfficial: true
+
+    - kanji: 明蘊町
+      yomi: めいうんちょう
+      level: 2
+      comment: |
+        璃月のエリア名。
+      isOfficial: true
+
+    - kanji: [瑶光]の浜
+      yomi: [ようこう]のはま
+      level: 2
+      comment: |
+        璃月のエリア名。
+      isOfficial: true
+
+    - kanji: [漉華]の池
+      yomi: [ろくか]のいけ
+      level: 1
+      comment: |
+        璃月のエリア名。
+      isOfficial: true
+
+    - kanji: 璃沙郊
+      yomi: りしゃこう
+      level: 2
+      comment: |
+        璃月のエリア名。
+      isOfficial: true
+
+    - kanji: 青墟浦
+      yomi: せいきょうら
+      level: 2
+      comment: |
+        璃月のエリア名。
+      isOfficial: true
+
+    - kanji: [遁玉]の丘
+      yomi: [とんぎょく]のおか
+      level: 3
+      comment: |
+        璃月のエリア名。
+      isOfficial: true
+
+    - kanji: 霊矩関
+      yomi: れいくかん
+      level: 2
+      comment: |
+        璃月のエリア名。
+      isOfficial: true
+
+    - kanji: [雲来]の海
+      yomi: [うんらい]のうみ
+      level: 1
+      comment: |
+        璃月のエリア名。
+      isOfficial: true
+
+    - kanji: 孤雲閣
+      yomi: こうんかく
+      level: 2
+      comment: |
+        璃月のエリア名。
+      isOfficial: true
+
+    - kanji: 天衡山
+      yomi: てんこうざん
+      level: 2
+      comment: |
+        璃月のエリア名。
+      isOfficial: true
+
+    - kanji: 璃月港
+      yomi: りーゆえこう
+      comment: |
+        璃月の中心都市。
+      isOfficial: true
+
+    - kanji: 黄金屋
+      yomi: おうごんや
+      level: 1
+      comment: |
+        璃月に存在する、テイワット唯一の造幣局。
+      isOfficial: true
+
+    - kanji: 玉京台
+      yomi: ぎょくけいだい
+      level: 2
+      comment: |
+        璃月港の西に位置する住宅地。
+      isOfficial: true
+
+    - kanji: 不卜廬
+      yomi: ふぼくろ
+      level: 2
+      comment: |
+        璃月港の薬局。
+        白朮が店主を勤めている。
+      isOfficial: true
+
+    - kanji: 倚岩殿
+      yomi: いがんでん
+      level: 3
+      comment: |
+        玉京台にある、岩神モラクスを祀る場所。
+        ここで迎仙儀式が行われた。
+
+    - kanji: 月海亭
+      yomi: げっかいてい
+      level: 1
+      comment: |
+        玉京台にある建物。
+        璃月七星の秘書である甘雨が勤務している。
+      isOfficial: true
+
+    - kanji: [栄発]商店
+      yomi: [えいはつ]しょうてん
+      level: 1
+      comment: |
+        璃月港の雑貨屋。
+      isOfficial: true
+
+    - kanji: 往生堂
+      yomi: おうじょうどう
+      level: 1
+      comment: |
+        璃月港の葬儀屋。
+        胡桃が堂主を、鍾離が客卿を勤めている。
+      isOfficial: true
+
+    - kanji: 解翠行
+      yomi: かいすいこう
+      level: 1
+      comment: |
+        璃月の石屋。
+        送仙儀式のために必要な夜泊石を購入した。
+      isOfficial: true
+
+    - kanji: 岩上茶室
+      yomi: がんじょうちゃしつ
+      level: 1
+      comment: |
+        璃月港にある、茶館⋯⋯を装ったカジノ。
+        現在は夜蘭が経営している。
+      isOfficial: true
+
+    - kanji: 寒鋒鉄器
+      yomi: かんほうてっき
+      level: 2
+      comment: |
+        璃月港の武器屋。
+      isOfficial: true
+
+    - kanji: 希古居
+      yomi: きこきょ
+      level: 2
+      comment: |
+        璃月港のアイテムショップ。
+
+    - kanji: 黒岩場
+      yomi: こくがんじょう
+      level: 2
+      comment: |
+        璃月港の武器工場。
+      isOfficial: true
+
+    - kanji: 三杯酔
+      yomi: さんばいよい
+      level: 2
+      comment: |
+        璃月港の酒場。
+        田饒舌が講談を語っている。
+      isOfficial: true
+
+    - kanji: 新月軒
+      yomi: しんげつけん
+      level: 1
+      comment: |
+        璃月港のレストラン。
+      isOfficial: true
+
+    - kanji: 総務司
+      yomi: そうむし
+      level: 1
+      comment: |
+        璃月の政府組織。璃月七星が管理する。
+      isOfficial: true
+
+    - kanji: 白駒逆旅
+      yomi: はっくげきりょ？
+      comment: |
+        璃月港の旅館。
+
+    - kanji: 万有商舗
+      yomi: ばんゆうしょうほ
+      level: 2
+      comment: |
+        璃月港のアイテムショップ。
+      isOfficial: true
+
+    - kanji: 万文集舎
+      yomi: まんぶんしゅうしゃ
+      level: 2
+      comment: |
+        璃月港の書店。
+      isOfficial: true
+
+    - kanji: 明星斎
+      yomi: みょうじょうさい
+      level: 2
+      comment: |
+        璃月港の記念品ショップ。
+      isOfficial: true
+      ref:
+        - https://genshin.honeyhunterworld.com/q_1021/?lang=JA
+
+    - kanji: 琉璃亭
+      yomi: るりてい
+      level: 2
+      comment: |
+        璃月港の料亭。
+      isOfficial: true
+
+    - kanji: [和裕]茶館
+      yomi: [わゆう]ちゃかん
+      level: 2
+      comment: |
+        璃月港の茶館。
+        茶博士劉蘇が講談を語っている。
+      isOfficial: true
+
+    - kanji: チ虎岩
+      yomi: ちこがん
+      level: 1
+      comment: |
+        璃月港のエリア名。
+      isOfficial: true
+
+    - kanji: おもちゃ屋
+      yomi: おもちゃや
+      comment: |
+        璃月港の特別な記念品ショップ。
+
+    - kanji: 一寸強
+      yomi: いっすんきょう？
+
+    - kanji: [死兆星]号
+      yomi: [しちょうせい]ごう
+      level: 1
+      comment: |
+        南十字船隊の旗艦。
+        北斗が頭領を務めている。
+      isOfficial: true
+
+    - kanji: 群玉閣
+      yomi: ぐんぎょくかく
+      level: 2
+      comment: |
+        璃月の上空にある空中建造物。
+        璃月七星が璃月のすべてを監視している。
+      isOfficial: true
+
+    - kanji: 翹英荘
+      yomi: ぎょうえいそう
+      level: 3
+      comment: |
+        璃月の北西にあるといわれる地名。
+        茶業で有名。
+      isOfficial: true
+      ref:
+        - https://youtu.be/FkybJaq6MvY?t=981
+
+    - kanji: 宿屋・[翠楓庭]
+      yomi: やどや[すいふうてい]
+      level: 2
+      comment: |
+        璃月・漉華の池の近くにある宿屋。
+        モナがモンドを訪れる前によく利用していた。
+
+  人物:
+    - kanji: 銀杏
+      yomi: ぎんきょう
+      level: 3
+      comment: |
+        南十字船隊の船医。
+        北斗のデートイベントに登場。
+      isOfficial: true
+      ref:
+        - https://genshin.honeyhunterworld.com/q_19051/?lang=JA
+
+    - kanji: 阿旭
+      yomi: あきょく
+      level: 3
+      comment: |
+        「飛雲商会」の従僕。
+      ref:
+        - https://youtu.be/9KMvRi-Mdq4?t=1091
+
+    - kanji: 小雨
+      yomi: しゃおゆう
+      level: 4
+      comment: |
+        「璃月総務司」幹事。彼女と話すことで、
+        璃月の評判任務を受けることができる。
+        日本語版では「シャオユウ」表記。
+
+    - kanji: 芷若
+      yomi: しにゃく
+      level: 4
+      comment: |
+        三杯酔の店員。
+        日本語版では「シニャク」表記。

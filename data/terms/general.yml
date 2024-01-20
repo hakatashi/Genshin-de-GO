@@ -1,0 +1,39 @@
+その他:
+  - kanji: 蝸虎魚
+    yomi: ちこざかな
+    level: 3
+    comment: |
+      「チ虎魚」の本来の名称。
+      昔の璃月で豊富に採れた。
+    isOfficial: true
+  - kanji: チ虎魚
+    yomi: ちこざかな
+    level: 2
+    comment: |
+      璃月人の食用魚の代名詞。
+      武器「チ虎魚の刀」の由来。
+    isOfficial: true
+  - kanji: 鳴霞浮生石
+    yomi: めいかふじょういし
+    level: 3
+    comment: |
+      群玉閣を浮遊させるのに用いられている石。
+    isOfficial: true
+    ref:
+      - https://genshin.honeyhunterworld.com/q_11013/?lang=JA
+  - kanji: 千奇核心
+    yomi: せんきかくしん
+    level: 2
+    comment: |
+      群玉閣を制御するのに用いられているアイテム。
+    isOfficial: true
+    ref:
+      - https://genshin.honeyhunterworld.com/q_11015/?lang=JA
+  - kanji: 仙家呪符
+    yomi: せんかじゅふ
+    level: 2
+    comment: |
+      群玉閣を制御するのに用いられているアイテム。
+    isOfficial: true
+    ref:
+      - https://genshin.honeyhunterworld.com/q_11015/?lang=JA

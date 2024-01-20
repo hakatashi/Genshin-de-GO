@@ -19,7 +19,7 @@ const Quiz = (props: QuizProps) => {
 
 	const [scale, setScale] = useState(0.5);
 	const [lastAnswer, setLastAnswer] = useState<string | null>(null);
-	const [remainingTime, setRemainingTime] = useState<number>(3);
+	const [remainingTime, setRemainingTime] = useState<number>(20);
 	const [state, setState] = useState<'playing' | 'correct' | 'wrongEffect' | 'wrong'>('playing');
 	const [correctTimer, setCorrectTimer] = useState<number | null>(null);
 	const [wrongEffectTimer, setWrongEffectTimer] = useState<number | null>(null);

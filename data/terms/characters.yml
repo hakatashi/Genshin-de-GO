@@ -1,0 +1,119 @@
+神里綾華:
+  通常攻撃:
+    - kanji: 神里流·[傾]き
+      yomi: かみさとりゅう[かぶ]き
+      level: 3
+      comment: |
+        神里綾華の通常攻撃。
+      ref:
+        - https://twitter.com/genshin_kanji/status/1707300069140246833
+
+  元素スキル:
+    - kanji: 神里流·[氷華]
+      yomi: かみさとりゅう[ひょうか]
+      level: 1
+      comment: |
+        神里綾華の元素スキル。
+      isOfficial: true
+      ref:
+        - https://youtu.be/R7uBLW2SWHg?t=178
+
+  特殊天賦:
+    - kanji: 神里流·[霰歩]
+      yomi: かみさとりゅう[さんほ]
+      level: 3
+      comment: |
+        神里綾華の特殊天賦。
+        ダッシュの代わりに発動する。
+      isOfficial: true
+      ref:
+        - https://youtu.be/R7uBLW2SWHg?t=113
+
+  元素爆発:
+    - kanji: 神里流·[霜滅]
+      yomi: かみさとりゅう[そうめつ]
+      level: 2
+      comment: |
+        神里綾華の元素爆発。
+      isOfficial: true
+
+  固有天賦:
+    - kanji: [鑑査]の心得
+      yomi: [かんさ、しんさ]のこころえ
+      level: 1
+      comment: |
+        神里綾華の固有天賦。
+
+    - kanji: 天つ罪·国つ罪の[鎮詞]
+      yomi: あまつつみくにつつみの[いはひごと]
+      level: 4
+      comment: |
+        神里綾華の固有天賦。
+      isOfficial: true
+      ref:
+        - https://youtu.be/R7uBLW2SWHg?t=178
+
+    - kanji: [寒空]の[宣命祝詞]
+      yomi: [かんてん、てんかん]の[せんみょうのりと]
+      level: [4, 3]
+      comment: |
+        神里綾華の固有天賦。
+      isOfficial: true
+      ref:
+        - https://youtu.be/R7uBLW2SWHg?t=133
+
+  命ノ星座:
+    - kanji: 霜枯れの[墨染櫻]
+      yomi: しもがれの[すみぞめざくら]
+      level: 3
+      comment: |
+        神里綾華の命ノ星座・第1重。
+        「墨染桜」は京都にあったという伝説上の桜。
+      ref:
+        - https://twitter.com/genshin_kanji/status/1428557526040158212
+        - https://kotobank.jp/word/%E5%A2%A8%E6%9F%93%E6%A1%9C-543559
+
+    - kanji: 三重雪関扉
+      yomi: みえゆきのせきのと？
+      comment: |
+        神里綾華の命ノ星座・第2重。
+      ref:
+        - https://twitter.com/genshin_kanji/status/1428557526040158212
+
+    - kanji: 花白錦画紙吹雪
+      yomi:
+        - はなしろにしきがかみふぶき？
+        - はなしろにしきえかみふぶき？
+      comment: |
+        神里綾華の命ノ星座・第3重。
+      ref:
+        - https://twitter.com/genshin_kanji/status/1428557526040158212
+
+    - kanji: 栄枯盛衰
+      yomi: えいこせいすい
+      level: 1
+      comment: |
+        神里綾華の命ノ星座・第4重。
+        栄えることと衰えることを意味する四字熟語。
+      ref:
+        - https://twitter.com/genshin_kanji/status/1428557526040158212
+        - https://kotobank.jp/word/%E6%A0%84%E6%9E%AF%E7%9B%9B%E8%A1%B0-443103
+
+    - kanji: 花雲鐘入月
+      yomi:
+        - はなのくもかねにいるつき
+        - はなにくもかねにいるつき
+      level: 4
+      comment: |
+        神里綾華の命ノ星座・第5重。
+        同名の歌舞伎の外題から取られたと思われる。
+      ref:
+        - https://kotobank.jp/word/%E8%8A%B1%E9%9B%B2%E9%90%98%E5%85%A5%E6%9C%88-2111704
+
+    - kanji: 間水月
+      yomi: あいすいげつ？
+      comment: |
+        神里綾華の命ノ星座・第6重。
+      ref:
+        - https://twitter.com/genshin_kanji/status/1428557526040158212
+
