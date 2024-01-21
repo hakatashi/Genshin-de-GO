@@ -1,0 +1,65 @@
+刻晴:
+  通常攻撃:
+    - kanji: 雲来剣法
+      yomi: うんらいけんぽう
+      comment: |
+        刻晴の通常攻撃。
+
+  元素スキル:
+    - kanji: 星辰帰位
+      yomi: せいしんきい
+      comment: |
+        刻晴の元素スキル。
+
+  元素爆発:
+    - kanji: 天街巡遊
+      yomi: てんがいじゅんゆう
+      comment: |
+        刻晴の元素爆発。
+
+  固有天賦:
+    - kanji: 抵天の雷罰
+      yomi: 抵てんのかみなりばつ
+      comment: |
+        刻晴の固有天賦。
+
+    - kanji: 玉衡の貴
+      yomi: たま衡のとうと
+      comment: |
+        刻晴の固有天賦。
+
+    - kanji: 総務土地
+      yomi: そうむとち
+      comment: |
+        刻晴の固有天賦。
+
+  命ノ星座:
+    - kanji: 迅雷
+      yomi: じんらい
+      comment: |
+        刻晴の命ノ星座・第1重。
+
+    - kanji: 苛捐
+      yomi: 苛捐
+      comment: |
+        刻晴の命ノ星座・第2重。
+
+    - kanji: 登楼
+      yomi: とうろう
+      comment: |
+        刻晴の命ノ星座・第3重。
+
+    - kanji: 調律
+      yomi: ちょうりつ
+      comment: |
+        刻晴の命ノ星座・第4重。
+
+    - kanji: 移燈
+      yomi: うつり燈
+      comment: |
+        刻晴の命ノ星座・第5重。
+
+    - kanji: 廉貞
+      yomi: れんさだ
+      comment: |
+        刻晴の命ノ星座・第6重。

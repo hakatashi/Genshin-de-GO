@@ -88,6 +88,15 @@ const compileEntry = (entry: Entry, category: string[]) => {
 	const yomis = Array.isArray(entry.yomi) ? entry.yomi : [entry.yomi];
 	const levels = Array.isArray(entry.level) ? entry.level : [entry.level];
 
+	for (const yomi of yomis) {
+		if (yomi === '') {
+			throw new Error(stripIndent`
+				読みが空です。
+				漢字: ${entry.kanji}
+			`);
+		}
+	}
+
 	const kanjiMatches = {
 		parenMatches: Array.from(
 			entry.kanji.matchAll(/\((?<subgroup>.+?)\)/g),
@@ -139,6 +148,13 @@ const compileEntry = (entry: Entry, category: string[]) => {
 			カッコで囲まれた漢字がないのにレベルが複数あります。
 			漢字: ${entry.kanji}
 			レベル: [${levels.join(', ')}]
+		`);
+	}
+
+	if (entry.comment === '') {
+		throw new Error(stripIndent`
+			コメントが空です。
+			漢字: ${entry.kanji}
 		`);
 	}
 
@@ -224,6 +240,8 @@ const getCompiledTerms = (terms: Terms, category: string[]) => {
 	assert(quizzes.length > 0, 'No quizzes were found.');
 
 	const dictionary = JSON.stringify(quizzes.toSorted((a, b) => a.level - b.level), null, '  ');
+
+	console.log(`Built ${quizzes.length} quizzes.`);
 
 	await fs.writeFile('data/dictionary.json', dictionary);
 })();

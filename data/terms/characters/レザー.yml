@@ -1,0 +1,65 @@
+レザー:
+  通常攻撃:
+    - kanji: 鋼の脊
+      yomi: はがねの脊
+      comment: |
+        レザーの通常攻撃。
+
+  元素スキル:
+    - kanji: 鋭い爪と蒼雷
+      yomi: するどいつめとあおいかみなり
+      comment: |
+        レザーの元素スキル。
+
+  元素爆発:
+    - kanji: 雷牙
+      yomi: かみなりきば
+      comment: |
+        レザーの元素爆発。
+
+  固有天賦:
+    - kanji: 覚醒
+      yomi: かくせい
+      comment: |
+        レザーの固有天賦。
+
+    - kanji: 飢餓
+      yomi: きが
+      comment: |
+        レザーの固有天賦。
+
+    - kanji: 奔狼
+      yomi: 奔おおかみ
+      comment: |
+        レザーの固有天賦。
+
+  命ノ星座:
+    - kanji: 狼の性
+      yomi: おおかみのせい
+      comment: |
+        レザーの命ノ星座・第1重。
+
+    - kanji: 制圧
+      yomi: せいあつ
+      comment: |
+        レザーの命ノ星座・第2重。
+
+    - kanji: 獣の魂
+      yomi: ししのたましい
+      comment: |
+        レザーの命ノ星座・第3重。
+
+    - kanji: 噛みつく
+      yomi: かみつく
+      comment: |
+        レザーの命ノ星座・第4重。
+
+    - kanji: 鋭い爪
+      yomi: するどいつめ
+      comment: |
+        レザーの命ノ星座・第5重。
+
+    - kanji: 天狼
+      yomi: てんおおかみ
+      comment: |
+        レザーの命ノ星座・第6重。
