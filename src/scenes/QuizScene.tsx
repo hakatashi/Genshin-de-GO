@@ -17,7 +17,7 @@ interface QuizProps {
 
 const Quiz = (props: QuizProps) => {
 	const {quiz, onEnd} = props;
-	const {kanji, answers, category} = quiz;
+	const {answers, category} = quiz;
 
 	const [scale, setScale] = useState(0.5);
 	const [lastAnswer, setLastAnswer] = useState<string | null>(null);
@@ -183,8 +183,7 @@ export const QuizScene = (props: QuizSceneProps) => {
 	});
 
 	useEffect(() => {
-		// setQuiz(dictionary[Math.floor(Math.random() * dictionary.length)]);
-		setQuiz(dictionary[79]);
+		setQuiz(dictionary[Math.floor(Math.random() * dictionary.length)]);
 	}, []);
 
 	const onEnd = useCallback((state: 'correct' | 'wrong') => {

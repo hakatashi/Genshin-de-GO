@@ -1,0 +1,97 @@
+ジン:
+  通常攻撃:
+    - kanji: 西風剣術
+      yomi: せぴゅろすけんじゅつ？
+      comment: |
+        ジンの通常攻撃。
+
+  元素スキル:
+    - kanji: 風圧剣
+      yomi: ふうあつけん
+      level: 1
+      comment: |
+        ジンの元素スキル。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=hrk-zttVy8M
+
+  元素爆発:
+    - kanji: 蒲公英の風
+      yomi: たんぽぽのかぜ？
+      comment: |
+        ジンの元素爆発。
+
+    - kanji: (蒲公英)エリア
+      yomi: (たんぽぽ)えりあ
+      comment: |
+        ジンの元素爆発「蒲公英の風」によって生成されるエリア。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=hrk-zttVy8M
+
+  固有天賦:
+    - kanji: (導)きの風
+      yomi: (みちび)きのかぜ
+      level: 1
+      comment: |
+        ジンの固有天賦。
+
+    - kanji: 風の(赴)くままに
+      yomi: かぜの(おもむ)くままに
+      level: 1
+      comment: |
+        ジンの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=hrk-zttVy8M
+
+    - kanji: 風の(導)くままに
+      yomi: かぜの(みちび)くままに
+      level: 1
+      comment: |
+        ジンの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=hrk-zttVy8M
+
+  命ノ星座:
+    - kanji: (剣脊)に流れる暴風
+      yomi: (けんせき)にながれるぼうふう
+      level: 3
+      comment: |
+        ジンの命ノ星座・第1重。
+        「剣脊」とは刀のしのぎの部分のこと。
+      ref:
+        - https://twitter.com/genshin_kanji/status/1428557526040158212
+        - https://kotobank.jp/word/%E5%A2%A8%E6%9F%93%E6%A1%9C-543559
+
+    - kanji: 人々を守る盾
+      yomi: ひとびとをまもるたて
+      comment: |
+        ジンの命ノ星座・第2重。
+
+    - kanji: 西風が吹く時
+      yomi: せいふうがふくとき？
+      comment: |
+        ジンの命ノ星座・第3重。
+
+    - kanji: 蒲公英の国土
+      yomi: たんぽぽのこくど？
+      comment: |
+        ジンの命ノ星座・第4重。
+
+    - kanji: しばしの(烈風)
+      yomi: しばしの(れっぷう)
+      level: 1
+      comment: |
+        ジンの命ノ星座・第5重。
+
+    - kanji: 民を(眷顧)する獅子の牙
+      yomi: たみを(けんこ)するししのきば
+      level: 3
+      comment: |
+        ジンの命ノ星座・第6重。
+        「眷顧」とは特別に目にかけること。
+      ref:
+        - https://dictionary.goo.ne.jp/word/%E7%9C%B7%E9%A1%A7/
+

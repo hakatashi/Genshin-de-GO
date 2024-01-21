@@ -13,6 +13,12 @@ const App = () => {
 	const [, setInputText] = useRecoilState(inputTextState);
 	const [, setTextInputTime] = useRecoilState(textInputTimeState);
 
+	const inputRef = useCallback((el: HTMLInputElement | null) => {
+		if (el) {
+			el.focus();
+		}
+	}, []);
+
 	const onSubmit = useCallback((event: React.FormEvent<HTMLFormElement>) => {
 		event.preventDefault();
 
@@ -38,17 +44,18 @@ const App = () => {
 				>
 					<SceneWrapper/>
 				</Stage>
-				{isInputShown ? (
+				{isInputShown === true && (
 					<form className="App-AnswerForm" autoComplete="off" onSubmit={onSubmit}>
 						<input
 							type="text"
 							name="text"
 							className="App-AnswerInput"
+							ref={inputRef}
 							value={text}
 							onInput={onInput}
 						/>
 					</form>
-				) : null}
+				)}
 			</div>
 		</div>
 	);

@@ -486,6 +486,312 @@
     "isOfficial": true
   },
   {
+    "kanji": "風圧剣",
+    "answers": [
+      "ふうあつけん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "ジン",
+      "元素スキル"
+    ],
+    "comment": "ジンの元素スキル。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "導",
+    "answers": [
+      "みちび"
+    ],
+    "prefix": "",
+    "suffix": "きの風",
+    "yomiPrefix": "",
+    "yomiSuffix": "きのかぜ",
+    "category": [
+      "ジン",
+      "固有天賦"
+    ],
+    "comment": "ジンの固有天賦。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "赴",
+    "answers": [
+      "おもむ"
+    ],
+    "prefix": "風の",
+    "suffix": "くままに",
+    "yomiPrefix": "かぜの",
+    "yomiSuffix": "くままに",
+    "category": [
+      "ジン",
+      "固有天賦"
+    ],
+    "comment": "ジンの固有天賦。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "導",
+    "answers": [
+      "みちび"
+    ],
+    "prefix": "風の",
+    "suffix": "くままに",
+    "yomiPrefix": "かぜの",
+    "yomiSuffix": "くままに",
+    "category": [
+      "ジン",
+      "固有天賦"
+    ],
+    "comment": "ジンの固有天賦。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "烈風",
+    "answers": [
+      "れっぷう"
+    ],
+    "prefix": "しばしの",
+    "suffix": "",
+    "yomiPrefix": "しばしの",
+    "yomiSuffix": "",
+    "category": [
+      "ジン",
+      "命ノ星座"
+    ],
+    "comment": "ジンの命ノ星座・第5重。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "草薙",
+    "answers": [
+      "くさなぎ"
+    ],
+    "prefix": "異邦の",
+    "suffix": "",
+    "yomiPrefix": "いほうの",
+    "yomiSuffix": "",
+    "category": [
+      "主人公",
+      "通常攻撃"
+    ],
+    "comment": "草主人公の通常攻撃。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "旋風",
+    "answers": [
+      "せんぷう"
+    ],
+    "prefix": "",
+    "suffix": "の剣",
+    "yomiPrefix": "",
+    "yomiSuffix": "のけん",
+    "category": [
+      "主人公",
+      "元素スキル"
+    ],
+    "comment": "風主人公の元素スキル。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "星落",
+    "answers": [
+      "ほしお"
+    ],
+    "prefix": "",
+    "suffix": "としの剣",
+    "yomiPrefix": "",
+    "yomiSuffix": "としのけん",
+    "category": [
+      "主人公",
+      "元素スキル"
+    ],
+    "comment": "岩主人公の元素スキル。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "紫影",
+    "answers": [
+      "しえい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "主人公",
+      "元素スキル"
+    ],
+    "comment": "雷主人公が元素スキルを使用する時の掛け声。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "蔓延",
+    "answers": [
+      "はびこ"
+    ],
+    "prefix": "",
+    "suffix": "れ",
+    "yomiPrefix": "",
+    "yomiSuffix": "れ",
+    "category": [
+      "主人公",
+      "元素スキル"
+    ],
+    "comment": "草主人公が元素スキルを使用する時の掛け声。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "棘",
+    "answers": [
+      "とげ"
+    ],
+    "prefix": "霊息の",
+    "suffix": "",
+    "yomiPrefix": "れいそくの",
+    "yomiSuffix": "",
+    "category": [
+      "主人公",
+      "元素スキル"
+    ],
+    "comment": "水主人公の元素スキルによって放たれる攻撃。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "蘇生",
+    "answers": [
+      "そせい"
+    ],
+    "prefix": "",
+    "suffix": "の風",
+    "yomiPrefix": "",
+    "yomiSuffix": "のかぜ",
+    "category": [
+      "主人公",
+      "固有天賦"
+    ],
+    "comment": "風主人公の固有天賦。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "狂乱",
+    "answers": [
+      "きょうらん"
+    ],
+    "prefix": "",
+    "suffix": "の岩崩れ",
+    "yomiPrefix": "",
+    "yomiSuffix": "のいわくずれ",
+    "category": [
+      "主人公",
+      "固有天賦"
+    ],
+    "comment": "岩主人公の固有天賦。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "轟",
+    "answers": [
+      "とどろ"
+    ],
+    "prefix": "",
+    "suffix": "く雷鳴",
+    "yomiPrefix": "",
+    "yomiSuffix": "くらいめい",
+    "category": [
+      "主人公",
+      "固有天賦"
+    ],
+    "comment": "雷主人公の固有天賦。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "旋風",
+    "answers": [
+      "せんぷう"
+    ],
+    "prefix": "革新の",
+    "suffix": "",
+    "yomiPrefix": "かくしんの",
+    "yomiSuffix": "",
+    "category": [
+      "主人公",
+      "命ノ星座"
+    ],
+    "comment": "風主人公の命ノ星座・第2重。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "険",
+    "answers": [
+      "けわ"
+    ],
+    "prefix": "",
+    "suffix": "しい重岩",
+    "yomiPrefix": "",
+    "yomiSuffix": "しいおもいわ",
+    "category": [
+      "主人公",
+      "命ノ星座"
+    ],
+    "comment": "岩主人公の命ノ星座・第4重。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "回旋",
+    "answers": [
+      "かいせん"
+    ],
+    "prefix": "",
+    "suffix": "の曲水",
+    "yomiPrefix": "",
+    "yomiSuffix": "のきょくすい",
+    "category": [
+      "主人公",
+      "命ノ星座"
+    ],
+    "comment": "水主人公の命ノ星座・第5重。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
     "kanji": "氷華",
     "answers": [
       "ひょうか"
@@ -1132,6 +1438,151 @@
     "isOfficial": false
   },
   {
+    "kanji": "荒星",
+    "answers": [
+      "こうせい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "主人公",
+      "元素スキル"
+    ],
+    "comment": "岩主人公が元素スキルを使用する時の掛け声。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "電光雷轟",
+    "answers": [
+      "でんこうらいごう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "主人公",
+      "元素爆発"
+    ],
+    "comment": "雷主人公の元素爆発。\n勢いが非常に激しいという意味の四字熟語。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "纏",
+    "answers": [
+      "まと"
+    ],
+    "prefix": "身に",
+    "suffix": "う雷霆",
+    "yomiPrefix": "みに",
+    "yomiSuffix": "うらいてい",
+    "category": [
+      "主人公",
+      "元素爆発"
+    ],
+    "comment": "雷主人公の元素爆発によって得られる加護。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "雷霆",
+    "answers": [
+      "らいてい"
+    ],
+    "prefix": "身に纏う",
+    "suffix": "",
+    "yomiPrefix": "みにまとう",
+    "yomiSuffix": "",
+    "category": [
+      "主人公",
+      "元素爆発"
+    ],
+    "comment": "雷主人公の元素爆発によって得られる加護。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "天鼓雷音",
+    "answers": [
+      "てんくらいおん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "主人公",
+      "元素爆発"
+    ],
+    "comment": "雷主人公が元素爆発を使用する時の掛け声。\n仏教の「天鼓雷音如来」に由来すると思われる。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "新蕾貫土",
+    "answers": [
+      "しんらいかんど"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "主人公",
+      "元素爆発"
+    ],
+    "comment": "草主人公が元素爆発を使用する時の掛け声。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "恩眷",
+    "answers": [
+      "おんけん"
+    ],
+    "prefix": "",
+    "suffix": "の和風",
+    "yomiPrefix": "",
+    "yomiSuffix": "のわふう",
+    "category": [
+      "主人公",
+      "命ノ星座"
+    ],
+    "comment": "風主人公の命ノ星座・第4重。\n「恩眷」とは、情けをかけて慈しむこと。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "細波",
+    "answers": [
+      "さざなみ",
+      "さざれなみ"
+    ],
+    "prefix": "",
+    "suffix": "の湖水",
+    "yomiPrefix": "",
+    "yomiSuffix": "のこすい",
+    "category": [
+      "主人公",
+      "命ノ星座"
+    ],
+    "comment": "水主人公の命ノ星座・第1重。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
     "kanji": "霜滅",
     "answers": [
       "そうめつ"
@@ -1292,6 +1743,171 @@
     "isOfficial": true
   },
   {
+    "kanji": "剣脊",
+    "answers": [
+      "けんせき"
+    ],
+    "prefix": "",
+    "suffix": "に流れる暴風",
+    "yomiPrefix": "",
+    "yomiSuffix": "にながれるぼうふう",
+    "category": [
+      "ジン",
+      "命ノ星座"
+    ],
+    "comment": "ジンの命ノ星座・第1重。\n「剣脊」とは刀のしのぎの部分のこと。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "眷顧",
+    "answers": [
+      "けんこ"
+    ],
+    "prefix": "民を",
+    "suffix": "する獅子の牙",
+    "yomiPrefix": "たみを",
+    "yomiSuffix": "するししのきば",
+    "category": [
+      "ジン",
+      "命ノ星座"
+    ],
+    "comment": "ジンの命ノ星座・第6重。\n「眷顧」とは特別に目にかけること。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "蔓生",
+    "answers": [
+      "まんせい"
+    ],
+    "prefix": "",
+    "suffix": "の埜草",
+    "yomiPrefix": "",
+    "yomiSuffix": "のやそう",
+    "category": [
+      "主人公",
+      "固有天賦"
+    ],
+    "comment": "草主人公の固有天賦。\n「蔓生」とは、植物の茎がつるとなって生長すること。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "草叢",
+    "answers": [
+      "くさむら",
+      "そうそう"
+    ],
+    "prefix": "生い茂る",
+    "suffix": "",
+    "yomiPrefix": "おいしげる",
+    "yomiSuffix": "",
+    "category": [
+      "主人公",
+      "固有天賦"
+    ],
+    "comment": "草主人公の固有天賦。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "巍然",
+    "answers": [
+      "ぎぜん"
+    ],
+    "prefix": "",
+    "suffix": "たる青岩",
+    "yomiPrefix": "",
+    "yomiSuffix": "たるあおいわ",
+    "category": [
+      "主人公",
+      "命ノ星座"
+    ],
+    "comment": "岩主人公の命ノ星座・第1重。\n「巍然」とは、山が高くそびえ立っている様子。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "婆娑",
+    "answers": [
+      "ばさ",
+      "ばしゃ"
+    ],
+    "prefix": "",
+    "suffix": "の瑶草",
+    "yomiPrefix": "",
+    "yomiSuffix": "のようそう",
+    "category": [
+      "主人公",
+      "命ノ星座"
+    ],
+    "comment": "草主人公の命ノ星座・第3重。\n「婆娑」とは、踊るときに衣の袖が舞う様子のこと。\n「瑶草」は、美しく咲く仙草の名前。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "瑶草",
+    "answers": [
+      "ようそう"
+    ],
+    "prefix": "婆娑の",
+    "suffix": "",
+    "yomiPrefix": "ばさの",
+    "yomiSuffix": "",
+    "category": [
+      "主人公",
+      "命ノ星座"
+    ],
+    "comment": "草主人公の命ノ星座・第3重。\n「婆娑」とは、踊るときに衣の袖が舞う様子のこと。\n「瑶草」は、美しく咲く仙草の名前。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "婆娑",
+    "answers": [
+      "ばさ",
+      "ばしゃ"
+    ],
+    "prefix": "",
+    "suffix": "の瑶草",
+    "yomiPrefix": "",
+    "yomiSuffix": "のようそう",
+    "category": [
+      "主人公",
+      "命ノ星座"
+    ],
+    "comment": "草主人公の命ノ星座・第3重。\n「婆娑」とは、踊るときに衣の袖が舞う様子のこと。\n「瑶草」は、美しく咲く仙草の名前。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "瑶草",
+    "answers": [
+      "ようそう"
+    ],
+    "prefix": "婆娑の",
+    "suffix": "",
+    "yomiPrefix": "ばさの",
+    "yomiSuffix": "",
+    "category": [
+      "主人公",
+      "命ノ星座"
+    ],
+    "comment": "草主人公の命ノ星座・第3重。\n「婆娑」とは、踊るときに衣の袖が舞う様子のこと。\n「瑶草」は、美しく咲く仙草の名前。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
     "kanji": "傾",
     "answers": [
       "かぶ"
@@ -1412,6 +2028,24 @@
       "人物"
     ],
     "comment": "三杯酔の店員。\n日本語版では「シニャク」表記。\n",
+    "hint": "none",
+    "level": 4,
+    "isOfficial": false
+  },
+  {
+    "kanji": "潺湲",
+    "answers": [
+      "せんかん"
+    ],
+    "prefix": "",
+    "suffix": "の碧水",
+    "yomiPrefix": "",
+    "yomiSuffix": "のへきすい",
+    "category": [
+      "主人公",
+      "命ノ星座"
+    ],
+    "comment": "水主人公の命ノ星座・第2重。\n「潺湲」とは、さらさらと水が流れる様子のこと。\n",
     "hint": "none",
     "level": 4,
     "isOfficial": false
