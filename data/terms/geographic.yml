@@ -7,6 +7,22 @@
         世界各地に支店を持つスネージナヤ系の銀行。
       isOfficial: true
 
+    - kanji: 璃月
+      yomi: りーゆえ
+      level: 1
+      comment: |
+        テイワットの七国の1つ。
+        岩神を信仰する「契約」の国。
+      isOfficial: true
+
+    - kanji: 稲妻
+      yomi: いなずま
+      level: 1
+      comment: |
+        テイワットの七国の1つ。
+        雷神を信仰する「永遠」の国。
+      isOfficial: true
+
 璃月:
   地名:
     - kanji: (碧水)の(原)

@@ -7,6 +7,7 @@ import {inputTextState, isInputShownState, sceneState, textInputTimeState} from 
 import {Button} from '../components/Button';
 import {ExplanationDialog} from '../components/ExplanationDialog';
 import {Explosion} from '../components/Explosion';
+import {Kanji} from '../components/Kanji';
 import {QuizConfig} from '../lib/types';
 
 interface QuizProps {
@@ -75,12 +76,11 @@ const Quiz = (props: QuizProps) => {
 		<Container>
 			{state === 'playing' ? (
 				<>
-					<Text
-						text={kanji}
+					<Kanji
 						x={480}
-						y={200}
+						y={200 + 50 * scale}
 						scale={scale}
-						anchor={0.5}
+						quiz={quiz}
 						style={new TextStyle({
 							fontFamily: 'Noto Sans JP',
 							fontSize: 144,
@@ -98,6 +98,7 @@ const Quiz = (props: QuizProps) => {
 							wordWrapWidth: 440,
 							lineJoin: 'round',
 						})}
+						maxWidth={1000}
 					/>
 					<Text
 						text={`${remainingTime.toFixed(2)}秒`}
@@ -152,22 +153,6 @@ const Quiz = (props: QuizProps) => {
 	);
 };
 
-const sampleSize = (array: any[], n: number) => {
-	const shuffled = array.slice(0);
-	let i = array.length;
-	let temp;
-	let index;
-
-	while (i--) {
-		index = Math.floor((i + 1) * Math.random());
-		temp = shuffled[index];
-		shuffled[index] = shuffled[i];
-		shuffled[i] = temp;
-	}
-
-	return shuffled.slice(0, n);
-};
-
 interface QuizSceneProps {
 	totalProgress: number,
 }
@@ -198,7 +183,8 @@ export const QuizScene = (props: QuizSceneProps) => {
 	});
 
 	useEffect(() => {
-		setQuiz(dictionary[Math.floor(Math.random() * dictionary.length)]);
+		// setQuiz(dictionary[Math.floor(Math.random() * dictionary.length)]);
+		setQuiz(dictionary[79]);
 	}, []);
 
 	const onEnd = useCallback((state: 'correct' | 'wrong') => {

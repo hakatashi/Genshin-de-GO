@@ -1,8 +1,10 @@
 import {Container, Text} from '@pixi/react';
 import {TextStyle, Texture} from 'pixi.js';
 import {useRecoilState} from 'recoil';
+import dictionary from '../../data/dictionary';
 import {sceneState} from '../atoms';
 import {Button} from '../components/Button';
+import {ExplanationDialog} from '../components/ExplanationDialog';
 import {Emitter} from '../components/Particles';
 
 export const HomeScene = () => {
@@ -160,6 +162,7 @@ export const HomeScene = () => {
 					fill: '#604200',
 				})}
 			/>
+			<ExplanationDialog x={0} y={440} quiz={dictionary[79]}/>
 		</Container>
 	);
 };

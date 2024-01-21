@@ -1,6 +1,7 @@
 import {Container, Text} from '@pixi/react';
 import {TextStyle} from 'pixi.js';
 import {QuizConfig} from '../lib/types';
+import {Kanji} from './Kanji';
 import {Rectangle} from './Rectangle';
 
 interface ExplanationDialogProps {
@@ -10,7 +11,8 @@ interface ExplanationDialogProps {
 }
 
 export const ExplanationDialog = (props: ExplanationDialogProps) => {
-	const {quiz: {kanji, answers, category, comment, isOfficial = false}, x, y} = props;
+	const {quiz, x, y} = props;
+	const {category, comment, isOfficial = false} = quiz;
 
 	const commentLines = comment.split('\n');
 
@@ -24,11 +26,10 @@ export const ExplanationDialog = (props: ExplanationDialogProps) => {
 				alpha={0.5}
 				backgroundColor={0x000000}
 			/>
-			<Text
-				text={kanji}
+			<Kanji
 				x={150}
-				y={60}
-				anchor={0.5}
+				y={50}
+				quiz={quiz}
 				style={new TextStyle({
 					fontFamily: 'Noto Sans JP',
 					fontSize: 48,
@@ -39,22 +40,8 @@ export const ExplanationDialog = (props: ExplanationDialogProps) => {
 					strokeThickness: 5,
 					lineJoin: 'round',
 				})}
-			/>
-			<Text
-				text={answers[0]}
-				x={150}
-				y={20}
-				anchor={0.5}
-				style={new TextStyle({
-					fontFamily: 'Noto Sans JP',
-					fontSize: 16,
-					fontStyle: 'normal',
-					fontWeight: 'bold',
-					fill: '#f3c72e',
-					stroke: '#000000',
-					strokeThickness: 5,
-					lineJoin: 'round',
-				})}
+				maxWidth={250}
+				showAnswer
 			/>
 			<Container x={300} y={5}>
 				<Rectangle

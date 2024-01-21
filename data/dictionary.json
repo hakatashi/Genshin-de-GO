@@ -18,6 +18,42 @@
     "isOfficial": true
   },
   {
+    "kanji": "璃月",
+    "answers": [
+      "りーゆえ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "テイワット",
+      "地名"
+    ],
+    "comment": "テイワットの七国の1つ。\n岩神を信仰する「契約」の国。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "稲妻",
+    "answers": [
+      "いなずま"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "テイワット",
+      "地名"
+    ],
+    "comment": "テイワットの七国の1つ。\n雷神を信仰する「永遠」の国。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
     "kanji": "碧水",
     "answers": [
       "へきすい"
