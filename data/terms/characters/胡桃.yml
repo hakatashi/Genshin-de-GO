@@ -1,4 +1,22 @@
 胡桃:
+  衣装:
+    - kanji: 梅の残り香
+      yomi: うめののこりが
+      comment: |
+        胡桃の初期衣装。
+
+  名刺の飾り紋:
+    - kanji: 安神
+      yomi: あんしん
+      comment: |
+        胡桃の名刺の飾り紋。
+
+  称号:
+    - kanji: 
+      yomi: 
+      comment: |
+        胡桃の称号。
+
   通常攻撃:
     - kanji: 往生秘伝槍法
       yomi: おうじょうひでんやりほう
@@ -34,6 +52,11 @@
         胡桃の固有天賦。
 
   命ノ星座:
+    - kanji: 座
+      yomi: ざ
+      comment: |
+        胡桃の命ノ星座。
+
     - kanji: 朱色の花束
       yomi: しゅいろのはなたば
       comment: |

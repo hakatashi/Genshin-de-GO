@@ -1,4 +1,22 @@
 魈:
+  衣装:
+    - kanji: 千年の歳月
+      yomi: せんねんのさいげつ
+      comment: |
+        魈の初期衣装。
+
+  名刺の飾り紋:
+    - kanji: 儺面
+      yomi: 儺めん
+      comment: |
+        魈の名刺の飾り紋。
+
+  称号:
+    - kanji: 夜叉
+      yomi: やしゃ
+      comment: |
+        魈の称号。
+
   通常攻撃:
     - kanji: 微塵突進
       yomi: みじんとっしん
@@ -34,6 +52,11 @@
         魈の固有天賦。
 
   命ノ星座:
+    - kanji: 座
+      yomi: ざ
+      comment: |
+        魈の命ノ星座。
+
     - kanji: 壊劫・三界破壊
       yomi: 壊こうさんがいはかい
       comment: |

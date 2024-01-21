@@ -1,4 +1,22 @@
 申鶴:
+  衣装:
+    - kanji: 縛絶紅塵
+      yomi: ばくぜっべにちり
+      comment: |
+        申鶴の初期衣装。
+
+  名刺の飾り紋:
+    - kanji: 櫛掠
+      yomi: くしかす
+      comment: |
+        申鶴の名刺の飾り紋。
+
+  称号:
+    - kanji: 孤辰悲哀
+      yomi: こたつひあい
+      comment: |
+        申鶴の称号。
+
   通常攻撃:
     - kanji: 踏辰摂斗
       yomi: 踏たつとと
@@ -34,6 +52,11 @@
         申鶴の固有天賦。
 
   命ノ星座:
+    - kanji: 愁疏座
+      yomi: 愁疏ざ
+      comment: |
+        申鶴の命ノ星座。
+
     - kanji: 心斎
       yomi: こころとき
       comment: |

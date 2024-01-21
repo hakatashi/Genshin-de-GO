@@ -1,4 +1,27 @@
 凝光:
+  衣装:
+    - kanji: 璣玉瓊金
+      yomi: 璣だま瓊きん
+      comment: |
+        凝光の初期衣装。
+
+    - kanji: 紗の幽蘭
+      yomi: しゃのかそけらん
+      comment: |
+        凝光の限定衣装。
+
+  名刺の飾り紋:
+    - kanji: 鳳儀
+      yomi: おおとりただし
+      comment: |
+        凝光の名刺の飾り紋。
+
+  称号:
+    - kanji: 月を覆う天権
+      yomi: つきをおおうてんけん
+      comment: |
+        凝光の称号。
+
   通常攻撃:
     - kanji: 千金擲
       yomi: せんきん擲
@@ -34,6 +57,11 @@
         凝光の固有天賦。
 
   命ノ星座:
+    - kanji: 璣衡儀座
+      yomi: 璣衡ぎざ
+      comment: |
+        凝光の命ノ星座。
+
     - kanji: 散る星の破片
       yomi: ちるほしのはへん
       comment: |

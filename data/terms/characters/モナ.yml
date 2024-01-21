@@ -1,4 +1,27 @@
 モナ:
+  衣装:
+    - kanji: 星命流転
+      yomi: ほしいのちるてん
+      comment: |
+        モナの初期衣装。
+
+    - kanji: 星と月の約束
+      yomi: ほしとつきのやくそく
+      comment: |
+        モナのオルタ衣装。
+
+  名刺の飾り紋:
+    - kanji: 天星
+      yomi: てんぼし
+      comment: |
+        モナの名刺の飾り紋。
+
+  称号:
+    - kanji: 星天水鏡
+      yomi: ほしてんすいきょう
+      comment: |
+        モナの称号。
+
   通常攻撃:
     - kanji: 因果点破
       yomi: いんがてんやぶ
@@ -40,6 +63,11 @@
         モナの固有天賦。
 
   命ノ星座:
+    - kanji: 映天座
+      yomi: うつあまざ
+      comment: |
+        モナの命ノ星座。
+
     - kanji: 沈没の預言
       yomi: ちんぼつのよげん
       comment: |

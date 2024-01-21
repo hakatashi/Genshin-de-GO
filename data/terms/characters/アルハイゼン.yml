@@ -1,4 +1,23 @@
 アルハイゼン:
+  衣装:
+    - kanji: (理)を崇める者
+      yomi: (ことわり)をあがめるもの
+      level: 1
+      comment: |
+        アルハイゼンの初期衣装。
+
+  名刺の飾り紋:
+    - kanji: 叡誨
+      yomi: えいかい
+      comment: |
+        アルハイゼンの名刺の飾り紋。
+
+  称号:
+    - kanji: 権謀教戒
+      yomi: けんぼうきょうかい
+      comment: |
+        アルハイゼンの称号。
+
   通常攻撃:
     - kanji: リトロダクション
       yomi: りとろだくしょん
@@ -7,26 +26,59 @@
 
   元素スキル:
     - kanji: 共相・イデア模写
-      yomi: ともしょういであもしゃ
+      yomi: ぎょうそういであもしゃ？
       comment: |
         アルハイゼンの元素スキル。
 
+    - kanji: 琢光鏡
+      yomi: たくこうきょう
+      level: 3
+      isOfficial: true
+      comment: |
+        アルハイゼンの元素スキルで生成される鏡。
+      ref:
+        - https://www.youtube.com/watch?v=XWkh9XBCFY8
+
   元素爆発:
     - kanji: 殊境・顕象結縛
-      yomi: ことさかいあきらぞうゆいばく
+      yomi: しゅきょうけんしょうけつばく
       comment: |
         アルハイゼンの元素爆発。
 
+    - kanji: 特殊縛境
+      yomi: とくしゅばくきょう
+      level: 2
+      comment: |
+        アルハイゼンの元素爆発で生成されるエリア。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=XWkh9XBCFY8
+
+    - kanji: 理論の(演繹)
+      yomi: りろんの(えんえき)
+      level: 2
+      comment: |
+        アルハイゼンが元素爆発を使用する際の掛け声
+      isOfficial: true
+
   固有天賦:
     - kanji: 四因是正
-      yomi: よんいんぜせい
+      yomi: しいんぜせい
+      level: 2
       comment: |
         アルハイゼンの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=XWkh9XBCFY8
 
     - kanji: 謎林説破
-      yomi: なぞりんせっぱ
+      yomi: めいりんせっぱ
+      level: 2
       comment: |
         アルハイゼンの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=XWkh9XBCFY8
 
     - kanji: 超越還元律
       yomi: ちょうえつかんげんりつ
@@ -34,6 +86,12 @@
         アルハイゼンの固有天賦。
 
   命ノ星座:
+    - kanji: (隼)座
+      yomi: (はやぶさ)ざ
+      level: 2
+      comment: |
+        アルハイゼンの命ノ星座。
+
     - kanji: イントゥイション
       yomi: いんとぅいしょん
       comment: |

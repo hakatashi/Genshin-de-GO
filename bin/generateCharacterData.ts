@@ -38,6 +38,20 @@ const wikiDataSchema = z.object({
 	}),
 });
 
+const statusModuleSchema = z.object({
+	list: z.array(z.object({
+		key: z.string(),
+		value: z.array(z.string()),
+	})),
+});
+
+const galleryModuleSchema = z.object({
+	list: z.array(z.object({
+		key: z.string(),
+		imgDesc: z.string(),
+	})),
+});
+
 const talentsModuleSchema = z.object({
 	list: z.array(z.object({
 		attributes: z.union([
@@ -184,6 +198,14 @@ const getTermTemplate = async (name: string, comment: sting) => [
 
 			const {modules} = data.page;
 
+			const statusModule = modules.find((m) => m.id === '1');
+			const statusData = (statusModule?.components ?? []).find((c) => c.component_id === 'baseInfo')?.data;
+			const status = statusModuleSchema.parse(JSON.parse(statusData ?? '{}'));
+
+			const galleryModule = modules.find((m) => m.id === '3');
+			const galleryData = (galleryModule?.components ?? []).find((c) => c.component_id === 'gallery_character')?.data;
+			const gallery = galleryModuleSchema.parse(JSON.parse(galleryData ?? '{}'));
+
 			const talentsModule = modules.find((m) => m.id === '4');
 			const talentsData = (talentsModule?.components ?? []).find((c) => c.component_id === 'talent')?.data;
 			const talents = talentsModuleSchema.parse(JSON.parse(talentsData ?? '{}'));
@@ -211,8 +233,45 @@ const getTermTemplate = async (name: string, comment: sting) => [
 				specialTalent = nonBattleTalents.shift()!;
 			}
 
+			const title = status.list.find((c) => c.key === '称号')?.value?.[0];
+			const constellationName = status.list.find((c) => c.key === '命ノ星座')?.value?.[0];
+
+			assert(constellationName !== undefined, `Failed to parse constellation name for ${character.name}`);
+
+			const normalizedConstellationName = constellationName.replace(/<.+?>/g, '');
+
+			const normalCostumeDescription = gallery.list.find((c) => c.key === '原画')?.imgDesc;
+			const normalCostumeRegexp = /<p>初期衣装(?:ー| - |——)(?<costume>.+?)<\/p>/;
+			const normalConsume = normalCostumeDescription?.match(normalCostumeRegexp)?.groups?.costume;
+
+			assert(normalConsume !== undefined, `Failed to parse normal costume for ${character.name}`);
+
+			const specialCostumeDescription = gallery.list.find((c) => c.key === 'コスチューム')?.imgDesc;
+			const specialCostumeRegexp = /<p>(?<costumeType>.+?)(?:ー| - |——)(?<costumeName>.+?)<\/p>/;
+			const specialConsume = specialCostumeDescription?.match(specialCostumeRegexp)?.groups?.costumeName;
+			const specialConsumeType = specialCostumeDescription?.match(specialCostumeRegexp)?.groups?.costumeType;
+
+			const cardDecorationDescription = gallery.list.find((c) => c.key === '名刺の飾り紋1')?.imgDesc;
+			const cardDecorationRegexp = /<p>(?:.+?)・(?<name>.+?)<\/p>/;
+			const cardDecoration = cardDecorationDescription?.match(cardDecorationRegexp)?.groups?.name;
+
 			const template = [
 				`${character.name}:`,
+				'  衣装:',
+				await getTermTemplate(normalConsume, `${character.name}の初期衣装。`),
+				'',
+				...(specialConsume === undefined ? [] : [
+					await getTermTemplate(specialConsume, `${character.name}の${specialConsumeType}。`),
+					'',
+				]),
+				...(cardDecoration === undefined ? [] : [
+					'  名刺の飾り紋:',
+					await getTermTemplate(cardDecoration, `${character.name}の名刺の飾り紋。`),
+					'',
+				]),
+				'  称号:',
+				await getTermTemplate(title ?? '', `${character.name}の称号。`),
+				'',
 				'  通常攻撃:',
 				await getTermTemplate(normalTalentTitle, `${character.name}の通常攻撃。`),
 				'',
@@ -233,6 +292,8 @@ const getTermTemplate = async (name: string, comment: sting) => [
 					'',
 				]))).flat(),
 				'  命ノ星座:',
+				await getTermTemplate(normalizedConstellationName, `${character.name}の命ノ星座。`),
+				'',
 				...(await Promise.all(constellations.list.map(async (c, i) => [
 					await getTermTemplate(c.name, `${character.name}の命ノ星座・第${i + 1}重。`),
 					'',

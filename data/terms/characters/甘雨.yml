@@ -1,4 +1,22 @@
 甘雨:
+  衣装:
+    - kanji: 霜麟聚露
+      yomi: しも麟聚ろ
+      comment: |
+        甘雨の初期衣装。
+
+  名刺の飾り紋:
+    - kanji: 麒麟の跡
+      yomi: きりんのあと
+      comment: |
+        甘雨の名刺の飾り紋。
+
+  称号:
+    - kanji: 循々守月
+      yomi: 循々まもりつき
+      comment: |
+        甘雨の称号。
+
   通常攻撃:
     - kanji: 流天射術
       yomi: ながれてんしゃじゅつ
@@ -34,6 +52,11 @@
         甘雨の固有天賦。
 
   命ノ星座:
+    - kanji: 仙麟座
+      yomi: せん麟ざ
+      comment: |
+        甘雨の命ノ星座。
+
     - kanji: 飲露
       yomi: いんろ
       comment: |

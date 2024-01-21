@@ -1,4 +1,34 @@
 ジン:
+  衣装:
+    - kanji: 風の加護
+      yomi: かぜのかご
+      comment: |
+        ジンの初期衣装。
+
+    - kanji: 海風の夢
+      yomi: うみかぜのゆめ
+      comment: |
+        ジンの限定衣装。
+
+    - kanji: グンヒルドの伝承
+      yomi: ぐんひるどのでんしょう
+      comment: |
+        ジンのオルタ衣装。
+
+  名刺の飾り紋:
+    - kanji: 風向き
+      yomi: かざむき
+      comment: |
+        ジンの名刺の飾り紋。
+
+  称号:
+    - kanji: (蒲公英)騎士
+      yomi: (だんでぃらいおん)きし
+      isOfficial: true
+      level: 2
+      comment: |
+        ジンの称号。
+
   通常攻撃:
     - kanji: 西風剣術
       yomi: せぴゅろすけんじゅつ？
@@ -55,6 +85,11 @@
         - https://www.youtube.com/watch?v=hrk-zttVy8M
 
   命ノ星座:
+    - kanji: (仔獅子)座
+      yomi: (こじし)ざ
+      comment: |
+        ジンの命ノ星座。
+
     - kanji: (剣脊)に流れる暴風
       yomi: (けんせき)にながれるぼうふう
       level: 3

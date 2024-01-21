@@ -1,4 +1,31 @@
 神里綾華:
+  衣装:
+    - kanji: (艶)やかな華
+      yomi: (あで)やかなはな
+      level: 1
+      comment: |
+        神里綾華の初期衣装。
+
+    - kanji: (花時)に訪れた手紙
+      yomi: (はなどき)におとずれたてがみ
+      level: 1
+      comment: |
+        神里綾華の限定衣装。
+        「花時」とは、花の咲く盛りの時期のこと。
+
+  名刺の飾り紋:
+    - kanji: 扇子
+      yomi: せんす
+      comment: |
+        神里綾華の名刺の飾り紋。
+
+  称号:
+    - kanji: (白鷺)氷華
+      yomi: (しらさぎ)ひょうか
+      level: 2
+      comment: |
+        神里綾華の称号。
+
   通常攻撃:
     - kanji: 神里流·(傾)き
       yomi: かみさとりゅう(かぶ)き
@@ -63,6 +90,11 @@
         - https://youtu.be/R7uBLW2SWHg?t=133
 
   命ノ星座:
+    - kanji: 雪鶴座
+      yomi: ゆきづるざ？
+      comment: |
+        神里綾華の命ノ星座。
+
     - kanji: 霜枯れの(墨染櫻)
       yomi: しもがれの(すみぞめざくら)
       level: 3
