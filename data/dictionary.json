@@ -216,24 +216,6 @@
     "isOfficial": true
   },
   {
-    "kanji": "雲中仙居",
-    "answers": [
-      "うんちゅうせんきょ？"
-    ],
-    "prefix": "",
-    "suffix": "",
-    "yomiPrefix": "",
-    "yomiSuffix": "",
-    "category": [
-      "璃月",
-      "地名"
-    ],
-    "comment": "璃月のエリア名。\n",
-    "hint": "none",
-    "level": 1,
-    "isOfficial": false
-  },
-  {
     "kanji": "帰離原",
     "answers": [
       "きりはら"
@@ -1271,7 +1253,7 @@
     "comment": "「飛雲商会」の従僕。\n",
     "hint": "none",
     "level": 3,
-    "isOfficial": false
+    "isOfficial": true
   },
   {
     "kanji": "傾",

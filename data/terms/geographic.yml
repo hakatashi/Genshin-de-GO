@@ -135,7 +135,6 @@
 
     - kanji: 雲中仙居
       yomi: うんちゅうせんきょ？
-      level: 1
       comment: |
         璃月のエリア名。
 
@@ -469,6 +468,7 @@
       level: 3
       comment: |
         「飛雲商会」の従僕。
+      isOfficial: true
       ref:
         - https://youtu.be/9KMvRi-Mdq4?t=1091
 

@@ -171,6 +171,18 @@ const compileEntry = (entry: Entry, category: string[]) => {
 		}
 	}
 
+	for (const quiz of quizzes) {
+		for (const answer of quiz.answers) {
+			if (!answer.match(/^[ぁ-んー]+$/)) {
+				throw new Error(stripIndent`
+					読みにひらがな以外の文字が含まれています。
+					漢字: ${quiz.kanji}
+					読み: ${quiz.answers}
+				`);
+			}
+		}
+	}
+
 	return quizzes;
 };
 
