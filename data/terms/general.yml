@@ -6,6 +6,7 @@
       「チ虎魚」の本来の名称。
       昔の璃月で豊富に採れた。
     isOfficial: true
+
   - kanji: チ虎魚
     yomi: ちこざかな
     level: 2
@@ -13,6 +14,7 @@
       璃月人の食用魚の代名詞。
       武器「チ虎魚の刀」の由来。
     isOfficial: true
+
   - kanji: 鳴霞浮生石
     yomi: めいかふじょういし
     level: 3
@@ -21,6 +23,7 @@
     isOfficial: true
     ref:
       - https://genshin.honeyhunterworld.com/q_11013/?lang=JA
+
   - kanji: 千奇核心
     yomi: せんきかくしん
     level: 2
@@ -29,6 +32,7 @@
     isOfficial: true
     ref:
       - https://genshin.honeyhunterworld.com/q_11015/?lang=JA
+
   - kanji: 仙家呪符
     yomi: せんかじゅふ
     level: 2
@@ -37,3 +41,13 @@
     isOfficial: true
     ref:
       - https://genshin.honeyhunterworld.com/q_11015/?lang=JA
+
+  - kanji: 鍋巴
+    yomi: ぐぅおぱぁー
+    hint: length
+    level: 4
+    comment: |
+      香菱の相棒の小さなマスコット。
+      彼女が子供の頃好きだった料理の名前(実在)がつけられている。
+      日本語版では「グゥオパァー」表記。
+    isOfficial: true

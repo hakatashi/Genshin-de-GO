@@ -43,6 +43,13 @@
   },
   "devDependencies": {
     "@hakatashi/eslint-config": "^1.20.0",
-    "eslint": "^8.56.0"
+    "@types/js-yaml": "^4.0.9",
+    "@types/klaw": "^3.0.6",
+    "common-tags": "^1.8.2",
+    "eslint": "^8.56.0",
+    "js-yaml": "^4.1.0",
+    "klaw": "^4.1.0",
+    "tsx": "^4.7.0",
+    "zod": "^3.22.4"
   }
 }

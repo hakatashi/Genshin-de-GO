@@ -1,0 +1,1457 @@
+[
+  {
+    "kanji": "北国",
+    "answers": [
+      "きたくに"
+    ],
+    "prefix": "",
+    "suffix": "銀行",
+    "yomiPrefix": "",
+    "yomiSuffix": "ぎんこう",
+    "category": [
+      "テイワット",
+      "地名"
+    ],
+    "comment": "世界各地に支店を持つスネージナヤ系の銀行。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "碧水",
+    "answers": [
+      "へきすい"
+    ],
+    "prefix": "",
+    "suffix": "の原",
+    "yomiPrefix": "",
+    "yomiSuffix": "のはら",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "原",
+    "answers": [
+      "はら"
+    ],
+    "prefix": "碧水の",
+    "suffix": "",
+    "yomiPrefix": "へきすいの",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "軽策荘",
+    "answers": [
+      "けいさくそう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "石門",
+    "answers": [
+      "せきもん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "塩",
+    "answers": [
+      "しお"
+    ],
+    "prefix": "地中の",
+    "suffix": "",
+    "yomiPrefix": "ちちゅうの",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "無妄",
+    "answers": [
+      "むぼう"
+    ],
+    "prefix": "",
+    "suffix": "の丘",
+    "yomiPrefix": "",
+    "yomiSuffix": "のおか",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "奥蔵山",
+    "answers": [
+      "おくぞうさん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n留雲借風真君が住んでいる。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "華光",
+    "answers": [
+      "かこう"
+    ],
+    "prefix": "",
+    "suffix": "の林",
+    "yomiPrefix": "",
+    "yomiSuffix": "のりん",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "絶雲",
+    "answers": [
+      "ぜつうん"
+    ],
+    "prefix": "",
+    "suffix": "の間",
+    "yomiPrefix": "",
+    "yomiSuffix": "のま",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "天穹",
+    "answers": [
+      "てんきゅう"
+    ],
+    "prefix": "",
+    "suffix": "の谷",
+    "yomiPrefix": "",
+    "yomiSuffix": "のたに",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "南天門",
+    "answers": [
+      "なんてんもん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "雲中仙居",
+    "answers": [
+      "うんちゅうせんきょ？"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "帰離原",
+    "answers": [
+      "きりはら"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "漉華",
+    "answers": [
+      "ろくか"
+    ],
+    "prefix": "",
+    "suffix": "の池",
+    "yomiPrefix": "",
+    "yomiSuffix": "のいけ",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "雲来",
+    "answers": [
+      "うんらい"
+    ],
+    "prefix": "",
+    "suffix": "の海",
+    "yomiPrefix": "",
+    "yomiSuffix": "のうみ",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "黄金屋",
+    "answers": [
+      "おうごんや"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月に存在する、テイワット唯一の造幣局。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "月海亭",
+    "answers": [
+      "げっかいてい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "玉京台にある建物。\n璃月七星の秘書である甘雨が勤務している。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "栄発",
+    "answers": [
+      "えいはつ"
+    ],
+    "prefix": "",
+    "suffix": "商店",
+    "yomiPrefix": "",
+    "yomiSuffix": "しょうてん",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月港の雑貨屋。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "往生堂",
+    "answers": [
+      "おうじょうどう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月港の葬儀屋。\n胡桃が堂主を、鍾離が客卿を勤めている。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "解翠行",
+    "answers": [
+      "かいすいこう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月の石屋。\n送仙儀式のために必要な夜泊石を購入した。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "岩上茶室",
+    "answers": [
+      "がんじょうちゃしつ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月港にある、茶館⋯⋯を装ったカジノ。\n現在は夜蘭が経営している。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "新月軒",
+    "answers": [
+      "しんげつけん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月港のレストラン。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "総務司",
+    "answers": [
+      "そうむし"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月の政府組織。璃月七星が管理する。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "チ虎岩",
+    "answers": [
+      "ちこがん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月港のエリア名。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "死兆星",
+    "answers": [
+      "しちょうせい"
+    ],
+    "prefix": "",
+    "suffix": "号",
+    "yomiPrefix": "",
+    "yomiSuffix": "ごう",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "南十字船隊の旗艦。\n北斗が頭領を務めている。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "氷華",
+    "answers": [
+      "ひょうか"
+    ],
+    "prefix": "神里流·",
+    "suffix": "",
+    "yomiPrefix": "かみさとりゅう",
+    "yomiSuffix": "",
+    "category": [
+      "神里綾華",
+      "元素スキル"
+    ],
+    "comment": "神里綾華の元素スキル。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "鑑査",
+    "answers": [
+      "かんさ",
+      "しんさ"
+    ],
+    "prefix": "",
+    "suffix": "の心得",
+    "yomiPrefix": "",
+    "yomiSuffix": "のこころえ",
+    "category": [
+      "神里綾華",
+      "固有天賦"
+    ],
+    "comment": "神里綾華の固有天賦。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "栄枯盛衰",
+    "answers": [
+      "えいこせいすい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "神里綾華",
+      "命ノ星座"
+    ],
+    "comment": "神里綾華の命ノ星座・第4重。\n栄えることと衰えることを意味する四字熟語。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "チ虎魚",
+    "answers": [
+      "ちこざかな"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "その他"
+    ],
+    "comment": "璃月人の食用魚の代名詞。\n武器「チ虎魚の刀」の由来。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "千奇核心",
+    "answers": [
+      "せんきかくしん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "その他"
+    ],
+    "comment": "群玉閣を制御するのに用いられているアイテム。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "仙家呪符",
+    "answers": [
+      "せんかじゅふ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "その他"
+    ],
+    "comment": "群玉閣を制御するのに用いられているアイテム。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "荻花洲",
+    "answers": [
+      "てきかしゅう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "望舒旅館",
+    "answers": [
+      "ぼうじょりょかん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月・荻花洲に位置する旅館。\n見晴らしがよく、遠方にある軽策山や絶雲の間を眺められる。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "範木堂",
+    "answers": [
+      "はんきどう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月・軽策荘に位置する家具屋。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "珉林",
+    "answers": [
+      "みんりん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "林",
+    "answers": [
+      "りん"
+    ],
+    "prefix": "華光の",
+    "suffix": "",
+    "yomiPrefix": "かこうの",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "慶雲頂",
+    "answers": [
+      "けいうんちょう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n削月築陽真君が住んでいる。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "琥牢山",
+    "answers": [
+      "ころうざん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "翠決坡",
+    "answers": [
+      "すいけつざか"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "下川",
+    "answers": [
+      "しもかわ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月・珉林にある廃村。\n北斗が生まれ育った村。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "明蘊町",
+    "answers": [
+      "めいうんちょう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月・瓊璣野の廃村。\n枯渇した鉱脈が原因で人々が去り、現在は廃墟と化している。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "明蘊町",
+    "answers": [
+      "めいうんちょう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "瑶光",
+    "answers": [
+      "ようこう"
+    ],
+    "prefix": "",
+    "suffix": "の浜",
+    "yomiPrefix": "",
+    "yomiSuffix": "のはま",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "璃沙郊",
+    "answers": [
+      "りしゃこう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "青墟浦",
+    "answers": [
+      "せいきょうら"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "霊矩関",
+    "answers": [
+      "れいくかん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "孤雲閣",
+    "answers": [
+      "こうんかく"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "天衡山",
+    "answers": [
+      "てんこうざん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "玉京台",
+    "answers": [
+      "ぎょくけいだい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月港の西に位置する住宅地。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "不卜廬",
+    "answers": [
+      "ふぼくろ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月港の薬局。\n白朮が店主を勤めている。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "寒鋒鉄器",
+    "answers": [
+      "かんほうてっき"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月港の武器屋。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "希古居",
+    "answers": [
+      "きこきょ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月港のアイテムショップ。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "黒岩場",
+    "answers": [
+      "こくがんじょう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月港の武器工場。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "三杯酔",
+    "answers": [
+      "さんばいよい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月港の酒場。\n田饒舌が講談を語っている。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "万有商舗",
+    "answers": [
+      "ばんゆうしょうほ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月港のアイテムショップ。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "万文集舎",
+    "answers": [
+      "まんぶんしゅうしゃ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月港の書店。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "明星斎",
+    "answers": [
+      "みょうじょうさい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月港の記念品ショップ。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "琉璃亭",
+    "answers": [
+      "るりてい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月港の料亭。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "和裕",
+    "answers": [
+      "わゆう"
+    ],
+    "prefix": "",
+    "suffix": "茶館",
+    "yomiPrefix": "",
+    "yomiSuffix": "ちゃかん",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月港の茶館。\n茶博士劉蘇が講談を語っている。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "群玉閣",
+    "answers": [
+      "ぐんぎょくかく"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月の上空にある空中建造物。\n璃月七星が璃月のすべてを監視している。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "翠楓庭",
+    "answers": [
+      "すいふうてい"
+    ],
+    "prefix": "宿屋・",
+    "suffix": "",
+    "yomiPrefix": "やどや",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月・漉華の池の近くにある宿屋。\nモナがモンドを訪れる前によく利用していた。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "霜滅",
+    "answers": [
+      "そうめつ"
+    ],
+    "prefix": "神里流·",
+    "suffix": "",
+    "yomiPrefix": "かみさとりゅう",
+    "yomiSuffix": "",
+    "category": [
+      "神里綾華",
+      "元素爆発"
+    ],
+    "comment": "神里綾華の元素爆発。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "蝸虎魚",
+    "answers": [
+      "ちこざかな"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "その他"
+    ],
+    "comment": "「チ虎魚」の本来の名称。\n昔の璃月で豊富に採れた。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "鳴霞浮生石",
+    "answers": [
+      "めいかふじょういし"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "その他"
+    ],
+    "comment": "群玉閣を浮遊させるのに用いられている石。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "瓊璣野",
+    "answers": [
+      "けいきや"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "遁玉",
+    "answers": [
+      "とんぎょく"
+    ],
+    "prefix": "",
+    "suffix": "の丘",
+    "yomiPrefix": "",
+    "yomiSuffix": "のおか",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "倚岩殿",
+    "answers": [
+      "いがんでん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "玉京台にある、岩神モラクスを祀る場所。\nここで迎仙儀式が行われた。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "翹英荘",
+    "answers": [
+      "ぎょうえいそう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月の北西にあるといわれる地名。\n茶業で有名。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "銀杏",
+    "answers": [
+      "ぎんきょう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "人物"
+    ],
+    "comment": "南十字船隊の船医。\n北斗のデートイベントに登場。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "阿旭",
+    "answers": [
+      "あきょく"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "人物"
+    ],
+    "comment": "「飛雲商会」の従僕。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "傾",
+    "answers": [
+      "かぶ"
+    ],
+    "prefix": "神里流·",
+    "suffix": "き",
+    "yomiPrefix": "かみさとりゅう",
+    "yomiSuffix": "き",
+    "category": [
+      "神里綾華",
+      "通常攻撃"
+    ],
+    "comment": "神里綾華の通常攻撃。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "霰歩",
+    "answers": [
+      "さんほ"
+    ],
+    "prefix": "神里流·",
+    "suffix": "",
+    "yomiPrefix": "かみさとりゅう",
+    "yomiSuffix": "",
+    "category": [
+      "神里綾華",
+      "特殊天賦"
+    ],
+    "comment": "神里綾華の特殊天賦。\nダッシュの代わりに発動する。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "宣命祝詞",
+    "answers": [
+      "せんみょうのりと"
+    ],
+    "prefix": "寒空の",
+    "suffix": "",
+    "yomiPrefix": "かんてんの",
+    "yomiSuffix": "",
+    "category": [
+      "神里綾華",
+      "固有天賦"
+    ],
+    "comment": "神里綾華の固有天賦。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "墨染櫻",
+    "answers": [
+      "すみぞめざくら"
+    ],
+    "prefix": "霜枯れの",
+    "suffix": "",
+    "yomiPrefix": "しもがれの",
+    "yomiSuffix": "",
+    "category": [
+      "神里綾華",
+      "命ノ星座"
+    ],
+    "comment": "神里綾華の命ノ星座・第1重。\n「墨染桜」は京都にあったという伝説上の桜。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "鍋巴",
+    "answers": [
+      "ぐぅおぱぁー"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "その他"
+    ],
+    "comment": "香菱の相棒の小さなマスコット。\n彼女が子供の頃好きだった料理の名前(実在)がつけられている。\n日本語版では「グゥオパァー」表記。\n",
+    "hint": "length",
+    "level": 4,
+    "isOfficial": true
+  },
+  {
+    "kanji": "小雨",
+    "answers": [
+      "しゃおゆう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "人物"
+    ],
+    "comment": "「璃月総務司」幹事。彼女と話すことで、\n璃月の評判任務を受けることができる。\n日本語版では「シャオユウ」表記。\n",
+    "hint": "none",
+    "level": 4,
+    "isOfficial": false
+  },
+  {
+    "kanji": "芷若",
+    "answers": [
+      "しにゃく"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "人物"
+    ],
+    "comment": "三杯酔の店員。\n日本語版では「シニャク」表記。\n",
+    "hint": "none",
+    "level": 4,
+    "isOfficial": false
+  },
+  {
+    "kanji": "鎮詞",
+    "answers": [
+      "いはひごと"
+    ],
+    "prefix": "天つ罪·国つ罪の",
+    "suffix": "",
+    "yomiPrefix": "あまつつみくにつつみの",
+    "yomiSuffix": "",
+    "category": [
+      "神里綾華",
+      "固有天賦"
+    ],
+    "comment": "神里綾華の固有天賦。\n",
+    "hint": "none",
+    "level": 4,
+    "isOfficial": true
+  },
+  {
+    "kanji": "寒空",
+    "answers": [
+      "かんてん",
+      "てんかん"
+    ],
+    "prefix": "",
+    "suffix": "の宣命祝詞",
+    "yomiPrefix": "",
+    "yomiSuffix": "のせんみょうのりと",
+    "category": [
+      "神里綾華",
+      "固有天賦"
+    ],
+    "comment": "神里綾華の固有天賦。\n",
+    "hint": "none",
+    "level": 4,
+    "isOfficial": true
+  },
+  {
+    "kanji": "花雲鐘入月",
+    "answers": [
+      "はなのくもかねにいるつき",
+      "はなにくもかねにいるつき"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "神里綾華",
+      "命ノ星座"
+    ],
+    "comment": "神里綾華の命ノ星座・第5重。\n同名の歌舞伎の外題から取られたと思われる。\n",
+    "hint": "none",
+    "level": 4,
+    "isOfficial": false
+  }
+]

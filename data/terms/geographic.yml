@@ -1,7 +1,7 @@
 テイワット:
   地名:
-    - kanji: [北国]銀行
-      yomi: [きたくに]ぎんこう
+    - kanji: (北国)銀行
+      yomi: (きたくに)ぎんこう
       level: 1
       comment: |
         世界各地に支店を持つスネージナヤ系の銀行。
@@ -9,8 +9,8 @@
 
 璃月:
   地名:
-    - kanji: [碧水]の[原]
-      yomi: [へきすい]の[はら]
+    - kanji: (碧水)の(原)
+      yomi: (へきすい)の(はら)
       level: [1, 1]
       comment: |
         璃月のエリア名。
@@ -30,8 +30,8 @@
         璃月のエリア名。
       isOfficial: true
 
-    - kanji: 地中の[塩]
-      yomi: ちちゅうの[しお]
+    - kanji: 地中の(塩)
+      yomi: ちちゅうの(しお)
       level: 1
       comment: |
         璃月のエリア名。
@@ -52,8 +52,8 @@
         見晴らしがよく、遠方にある軽策山や絶雲の間を眺められる。
       isOfficial: true
 
-    - kanji: [無妄]の丘
-      yomi: [むぼう]のおか
+    - kanji: (無妄)の丘
+      yomi: (むぼう)のおか
       level: 1
       comment: |
         璃月のエリア名。
@@ -83,8 +83,8 @@
         留雲借風真君が住んでいる。
       isOfficial: true
 
-    - kanji: [華光]の[林]
-      yomi: [かこう]の[りん]
+    - kanji: (華光)の(林)
+      yomi: (かこう)の(りん)
       level: [1, 2]
       comment: |
         璃月のエリア名。
@@ -112,15 +112,15 @@
         璃月のエリア名。
       isOfficial: true
 
-    - kanji: [絶雲]の間
-      yomi: [ぜつうん]のま
+    - kanji: (絶雲)の間
+      yomi: (ぜつうん)のま
       level: 1
       comment: |
         璃月のエリア名。
       isOfficial: true
 
-    - kanji: [天穹]の谷
-      yomi: けいさくそう
+    - kanji: (天穹)の谷
+      yomi: (てんきゅう)のたに
       level: 1
       comment: |
         璃月のエリア名。
@@ -183,15 +183,15 @@
         璃月のエリア名。
       isOfficial: true
 
-    - kanji: [瑶光]の浜
-      yomi: [ようこう]のはま
+    - kanji: (瑶光)の浜
+      yomi: (ようこう)のはま
       level: 2
       comment: |
         璃月のエリア名。
       isOfficial: true
 
-    - kanji: [漉華]の池
-      yomi: [ろくか]のいけ
+    - kanji: (漉華)の池
+      yomi: (ろくか)のいけ
       level: 1
       comment: |
         璃月のエリア名。
@@ -211,8 +211,8 @@
         璃月のエリア名。
       isOfficial: true
 
-    - kanji: [遁玉]の丘
-      yomi: [とんぎょく]のおか
+    - kanji: (遁玉)の丘
+      yomi: (とんぎょく)のおか
       level: 3
       comment: |
         璃月のエリア名。
@@ -225,8 +225,8 @@
         璃月のエリア名。
       isOfficial: true
 
-    - kanji: [雲来]の海
-      yomi: [うんらい]のうみ
+    - kanji: (雲来)の海
+      yomi: (うんらい)のうみ
       level: 1
       comment: |
         璃月のエリア名。
@@ -289,8 +289,8 @@
         璃月七星の秘書である甘雨が勤務している。
       isOfficial: true
 
-    - kanji: [栄発]商店
-      yomi: [えいはつ]しょうてん
+    - kanji: (栄発)商店
+      yomi: (えいはつ)しょうてん
       level: 1
       comment: |
         璃月港の雑貨屋。
@@ -397,8 +397,8 @@
         璃月港の料亭。
       isOfficial: true
 
-    - kanji: [和裕]茶館
-      yomi: [わゆう]ちゃかん
+    - kanji: (和裕)茶館
+      yomi: (わゆう)ちゃかん
       level: 2
       comment: |
         璃月港の茶館。
@@ -420,8 +420,8 @@
     - kanji: 一寸強
       yomi: いっすんきょう？
 
-    - kanji: [死兆星]号
-      yomi: [しちょうせい]ごう
+    - kanji: (死兆星)号
+      yomi: (しちょうせい)ごう
       level: 1
       comment: |
         南十字船隊の旗艦。
@@ -446,8 +446,8 @@
       ref:
         - https://youtu.be/FkybJaq6MvY?t=981
 
-    - kanji: 宿屋・[翠楓庭]
-      yomi: やどや[すいふうてい]
+    - kanji: 宿屋・(翠楓庭)
+      yomi: やどや(すいふうてい)
       level: 2
       comment: |
         璃月・漉華の池の近くにある宿屋。

@@ -2,6 +2,7 @@ import {Container, Text, useTick} from '@pixi/react';
 import {TextStyle} from 'pixi.js';
 import {useEffect, useState} from 'react';
 import {useRecoilState} from 'recoil';
+import dictionary from '../../data/dictionary';
 import {inputTextState, isInputShownState, textInputTimeState} from '../atoms';
 import {Button} from '../components/Button';
 import {ExplanationDialog} from '../components/ExplanationDialog';
@@ -15,7 +16,7 @@ interface QuizProps {
 
 const Quiz = (props: QuizProps) => {
 	const {quiz, onEnd} = props;
-	const {kanji, answer, category} = quiz;
+	const {kanji, answers, category} = quiz;
 
 	const [scale, setScale] = useState(0.5);
 	const [lastAnswer, setLastAnswer] = useState<string | null>(null);
@@ -55,7 +56,7 @@ const Quiz = (props: QuizProps) => {
 
 	useEffect(() => {
 		if (textInputTime !== null) {
-			if (inputText === answer) {
+			if (answers.includes(inputText)) {
 				setLastAnswer(null);
 				setInputText('');
 				setTextInputTime(null);
@@ -181,118 +182,32 @@ const Quiz = (props: QuizProps) => {
 	);
 };
 
+const sampleSize = (array: any[], n: number) => {
+	const shuffled = array.slice(0);
+	let i = array.length;
+	let temp;
+	let index;
+
+	while (i--) {
+		index = Math.floor((i + 1) * Math.random());
+		temp = shuffled[index];
+		shuffled[index] = shuffled[i];
+		shuffled[i] = temp;
+	}
+
+	return shuffled.slice(0, n);
+};
+
 interface QuizSceneProps {
 	totalProgress: number,
 }
-
-const quizzes: QuizConfig[] = [
-	{
-		kanji: '望舒旅館',
-		answer: 'ぼうじょりょかん',
-		category: ['璃月', '地名'],
-		comment: [
-			'璃月・荻花洲に位置する旅館。',
-			'見晴らしがよく、遠方にある軽策山や絶雲の間を眺められる。',
-		].join('\n'),
-		isOfficial: true,
-	},
-	{
-		kanji: '明蘊町',
-		answer: 'めいうんちょう',
-		category: ['璃月', '地名'],
-		comment: [
-			'璃月・瓊璣野の廃村。',
-			'枯渇した鉱脈が原因で人々が去り、現在は廃墟と化している。',
-		].join('\n'),
-		isOfficial: true,
-	},
-	{
-		kanji: '翠楓庭',
-		answer: 'すいふうてい',
-		category: ['璃月', '地名'],
-		comment: [
-			'璃月・漉華の池の近くにある宿屋。',
-			'朱店主が経営している。',
-			'モナがモンドを訪れる前によく利用していた。',
-		].join('\n'),
-	},
-	{
-		kanji: '望舒旅館',
-		answer: 'ぼうじょりょかん',
-		category: ['璃月', '地名'],
-		comment: [
-			'璃月・荻花洲に位置する旅館。',
-			'見晴らしがよく、遠方にある軽策山や絶雲の間を眺められる。',
-		].join('\n'),
-		isOfficial: true,
-	},
-	{
-		kanji: '明蘊町',
-		answer: 'めいうんちょう',
-		category: ['璃月', '地名'],
-		comment: [
-			'璃月・瓊璣野の廃村。',
-			'枯渇した鉱脈が原因で人々が去り、現在は廃墟と化している。',
-		].join('\n'),
-		isOfficial: true,
-	},
-	{
-		kanji: '翠楓庭',
-		answer: 'すいふうてい',
-		category: ['璃月', '地名'],
-		comment: [
-			'璃月・漉華の池の近くにある宿屋。',
-			'朱店主が経営している。',
-			'モナがモンドを訪れる前によく利用していた。',
-		].join('\n'),
-	},
-	{
-		kanji: '望舒旅館',
-		answer: 'ぼうじょりょかん',
-		category: ['璃月', '地名'],
-		comment: [
-			'璃月・荻花洲に位置する旅館。',
-			'見晴らしがよく、遠方にある軽策山や絶雲の間を眺められる。',
-		].join('\n'),
-		isOfficial: true,
-	},
-	{
-		kanji: '明蘊町',
-		answer: 'めいうんちょう',
-		category: ['璃月', '地名'],
-		comment: [
-			'璃月・瓊璣野の廃村。',
-			'枯渇した鉱脈が原因で人々が去り、現在は廃墟と化している。',
-		].join('\n'),
-		isOfficial: true,
-	},
-	{
-		kanji: '翠楓庭',
-		answer: 'すいふうてい',
-		category: ['璃月', '地名'],
-		comment: [
-			'璃月・漉華の池の近くにある宿屋。',
-			'朱店主が経営している。',
-			'モナがモンドを訪れる前によく利用していた。',
-		].join('\n'),
-	},
-	{
-		kanji: '翠楓庭',
-		answer: 'すいふうてい',
-		category: ['璃月', '地名'],
-		comment: [
-			'璃月・漉華の池の近くにある宿屋。',
-			'朱店主が経営している。',
-			'モナがモンドを訪れる前によく利用していた。',
-		].join('\n'),
-	},
-];
 
 export const QuizScene = (props: QuizSceneProps) => {
 	const {totalProgress} = props;
 
 	const [progress, setProgress] = useState(0);
 	const [remainingLife, setRemainingLife] = useState(3);
+	const [quizzes, setQuizzes] = useState<QuizConfig[]>(sampleSize(dictionary, 10));
 
 	const onEnd = (state: 'correct' | 'wrong') => {
 		if (state === 'correct') {

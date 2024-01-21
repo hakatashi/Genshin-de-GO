@@ -10,7 +10,7 @@ interface ExplanationDialogProps {
 }
 
 export const ExplanationDialog = (props: ExplanationDialogProps) => {
-	const {quiz: {kanji, answer, category, comment, isOfficial = false}, x, y} = props;
+	const {quiz: {kanji, answers, category, comment, isOfficial = false}, x, y} = props;
 
 	const commentLines = comment.split('\n');
 
@@ -41,7 +41,7 @@ export const ExplanationDialog = (props: ExplanationDialogProps) => {
 				})}
 			/>
 			<Text
-				text={answer}
+				text={answers[0]}
 				x={150}
 				y={20}
 				anchor={0.5}
