@@ -6,8 +6,9 @@
         ナヴィアの初期衣装。
 
   称号:
-    - kanji: 舵を這うラディアントローズ
-      yomi: かじをはうらでぃあんとろーず
+    - kanji: 舵を(這)うラディアントローズ
+      yomi: かじを(は)うらでぃあんとろーず
+      level: 1
       comment: |
         ナヴィアの称号。
 
@@ -23,22 +24,77 @@
       comment: |
         ナヴィアの元素スキル。
 
+    - kanji: ガンブレラ
+      yomi: がんぶれら
+      comment: |
+        ナヴィアの元素スキルによって放たれる攻撃。
+
+    - kanji: ロースラ晶弾
+      yomi: ろーすらしょうだん
+      comment: |
+        ナヴィアの元素スキルによって放たれる弾丸。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=3cb1eeXDPE8
+
+    - kanji: 裂晶の(欠片)
+      yomi: れっしょうのかけら
+      level: 1
+      comment: |
+        ナヴィアが結晶を取得したときに獲得できる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=3cb1eeXDPE8
+
+    - kanji: これって(傘弾銃)？
+      yomi: これって(さんだんじゅう)
+      level: 1
+      comment: |
+        ナヴィアが元素スキルを放つ時の台詞。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=3cb1eeXDPE8
+
   元素爆発:
-    - kanji: 晴天を衝く霰弾のサルート
-      yomi: せいてんをつく霰だんのさるーと
+    - kanji: 晴天を(衝)く霰弾のサルート
+      yomi: せいてんを(つ)くさんだんのさるーと
+      level: 2
       comment: |
         ナヴィアの元素爆発。
+
+    - kanji: (金薔薇)の礼砲
+      yomi: (きんばら)のれいほう
+      level: 1
+      comment: |
+        ナヴィアの元素爆発によって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=3cb1eeXDPE8
+
+    - kanji: 火力支援
+      yomi: かりょくしえん
+      comment: |
+        ナヴィアの元素爆発によって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=3cb1eeXDPE8
 
   固有天賦:
     - kanji: 未知の流通ルート
       yomi: みちのりゅうつうるーと
       comment: |
         ナヴィアの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=3cb1eeXDPE8
 
     - kanji: 相互連携ネットワーク
       yomi: そうごれんけいねっとわーく
       comment: |
         ナヴィアの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=3cb1eeXDPE8
 
     - kanji: きめ細やかなビジネス
       yomi: きめこまやかなびじねす
@@ -71,8 +127,9 @@
       comment: |
         ナヴィアの命ノ星座・第4重。
 
-    - kanji: 交渉人の毅然たる協議
-      yomi: こうしょうじんのきぜんたるきょうぎ
+    - kanji: 交渉人の(毅然)たる協議
+      yomi: こうしょうじんの(きぜん)たるきょうぎ
+      level: 1
       comment: |
         ナヴィアの命ノ星座・第5重。
 

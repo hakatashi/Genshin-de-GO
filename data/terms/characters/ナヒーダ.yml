@@ -1,9 +1,10 @@
 ナヒーダ:
   衣装:
-    - kanji: 万識一偈
-      yomi: まん識いちげ
+    - kanji: 万識(一偈)
+      yomi: ばんしき(いちげ)
       comment: |
         ナヒーダの初期衣装。
+        「偈」とは、仏教の経典における詩のこと。
 
   名刺の飾り紋:
     - kanji: 月を仰ぐ
@@ -13,76 +14,140 @@
 
   称号:
     - kanji: 白草浄華
-      yomi: しろそうきよしはな
+      yomi: しらくさじょうか？
       comment: |
         ナヒーダの称号。
 
   通常攻撃:
     - kanji: 行相
-      yomi: くだりしょう
+      yomi: こうそう？
       comment: |
         ナヒーダの通常攻撃。
 
   元素スキル:
     - kanji: 所聞遍計
-      yomi: ところ聞へんけい
+      yomi: しょぶんへんげ
+      level: 4
       comment: |
         ナヒーダの元素スキル。
+        「遍計」は、仏教用語「遍計所執」から取られたと思われる。
+        心の外にあって、分別して捉えられるとされるものの意味。
+      ref:
+        - https://note.com/genshin_kanji/n/n82b430e5ac80
+        - https://www.jstage.jst.go.jp/article/ibk1952/11/1/11_1_207/_pdf/-char/ja
+        - http://www.wikidharma.org/index.php/%E3%81%B8%E3%82%93%E3%81%92%E3%81%97%E3%82%87%E3%81%97%E3%82%85%E3%81%86%E3%81%97%E3%82%87%E3%81%86
+
+    - kanji: 草木の(纏縛)
+      yomi: くさきの(てんばく)
+      level: 3
+      comment: |
+        ナヒーダの元素スキルによって発動する効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=lug3QHBfxYE
+
+    - kanji: 蘊種印
+      yomi: うんしゅいん
+      level: 3
+      comment: |
+        ナヒーダの元素スキルによって敵に付与できる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=lug3QHBfxYE
+
+    - kanji: 滅浄三業
+      yomi: めつじょうさんごう
+      level: 3
+      comment: |
+        ナヒーダの元素スキルによって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=lug3QHBfxYE
 
   元素爆発:
     - kanji: 心景幻成
-      yomi: こころけいまぼろししげる
+      yomi: しんけいげんせい
       comment: |
         ナヒーダの元素爆発。
 
+    - kanji: (摩耶)の宮殿
+      yomi: (まや)のきゅうでん
+      level: 2
+      comment: |
+        ナヒーダの元素爆発によって展開される領域。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=lug3QHBfxYE
+
   固有天賦:
     - kanji: 浄善摂受明論
-      yomi: きよしぜんと受めいろん
+      yomi: じょうぜんしょうじゅめいろん
+      level: 4
       comment: |
         ナヒーダの固有天賦。
+        「摂受」とは、仏教用語で衆生の善なる心を受け入れて導くこと。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=lug3QHBfxYE
 
     - kanji: 慧明縁覚智論
-      yomi: としあきらえんさとしさとしろん
+      yomi: けいめいえんがくちろん
+      level: 3
       comment: |
         ナヒーダの固有天賦。
+        「縁覚」とは、仏の教えによらずに悟りを得た覚者のこと。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=lug3QHBfxYE
 
     - kanji: 諸相随念浄行
-      yomi: しょそうずいねんきよしゆき
+      yomi: しょそうずいねんじょうぎょう
       comment: |
         ナヒーダの固有天賦。
 
   命ノ星座:
     - kanji: 知恵の主座
-      yomi: ちえのしゅざ
+      yomi: ちえのぬしざ
       comment: |
         ナヒーダの命ノ星座。
 
     - kanji: 心識蘊蔵の種
-      yomi: こころ識蘊くらのたね
+      yomi: しんしきうんぞうのたね
       comment: |
         ナヒーダの命ノ星座・第1重。
 
     - kanji: 正覚善見の根
-      yomi: しょうがくぜんみのね
+      yomi: しょうがくぜんけんのね
       comment: |
         ナヒーダの命ノ星座・第2重。
 
-    - kanji: 薫習成就の芽
-      yomi: かおる習じょうじゅのめ
+    - kanji: (薫習成就)の芽
+      yomi: (くんじゅうじょうじゅ)のめ
+      level: 3
       comment: |
         ナヒーダの命ノ星座・第3重。
+        「薫習」とは、仏教用語で、香りが物に染み入るように、
+        あるものが他のものに影響を植えつけることを意味する。
 
-    - kanji: 比量現行の茎
-      yomi: ひりょうげんこうのくき
+    - kanji: (比量現行)の茎
+      yomi: (ひりょうげんぎょう)のくき
+      level: 3
       comment: |
         ナヒーダの命ノ星座・第4重。
+        「比量」とは、仏教用語で未知の事柄をおしはかること。
+        「現行」とは、仏教用語で心の働きが具体的に現れること。
 
-    - kanji: 妙諦破愚の葉
-      yomi: みょうていやぶぐのは
+    - kanji: (妙諦破愚)の葉
+      yomi: みょうていはぐのは
+      level: 3
       comment: |
         ナヒーダの命ノ星座・第5重。
+        「妙諦」とは、仏教用語で卓越した真理のこと。
 
-    - kanji: 大辯円成の実
-      yomi: だい辯えんなるのみ
+    - kanji: (大辯円成)の実
+      yomi: (だいべんえんじょう)のみ
+      level: 3
       comment: |
         ナヒーダの命ノ星座・第6重。
+        「大辯」とは、優れた弁舌のこと。
+        「円成」とは、仏教用語で円満に成就すること。
