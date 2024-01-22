@@ -60,3 +60,10 @@
     isOfficial: true
     ref:
       - https://genshin.honeyhunterworld.com/q_11015/?lang=JA
+
+  - kanji: 霊息の(棘)
+    yomi: れいそくの(とげ)
+    level: 1
+    comment: |
+      フォンテーヌ出身のキャラクターが放つことができる、
+      アルケーを帯びた攻撃。

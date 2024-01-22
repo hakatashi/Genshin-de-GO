@@ -19,7 +19,7 @@
 
   通常攻撃:
     - kanji: マーベラスソードダンス・改
-      yomi: まーべらすそーどだんすあらため
+      yomi: まーべらすそーどだんすかい
       comment: |
         ドリーの通常攻撃。
 
@@ -29,11 +29,40 @@
       comment: |
         ドリーの元素スキル。
 
+    - kanji: ジンニーランプ
+      yomi: じんにーらんぷ
+      comment: |
+        ドリーが所持しているランプ。
+
+    - kanji: トラブルシューター砲
+      yomi: とらぶるしゅーたーほう
+      comment: |
+        ドリーが所持しているランプ。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=U3rI6m5AaMg
+
+    - kanji: アフターサービス弾
+      yomi: あふたーさーびすだん
+      comment: |
+        ドリーの元素スキルによって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=U3rI6m5AaMg
+
   元素爆発:
     - kanji: アルカサルザライの極上サービス
       yomi: あるかさるざらいのごくじょうさーびす
       comment: |
         ドリーの元素爆発。
+
+    - kanji: ランプの精
+      yomi: らんぷのせい
+      comment: |
+        ドリーの元素爆発によって召喚される精霊。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=U3rI6m5AaMg
 
   固有天賦:
     - kanji: ゴールドマイニング
@@ -45,6 +74,9 @@
       yomi: すなだるましきりし
       comment: |
         ドリーの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=U3rI6m5AaMg
 
     - kanji: 予期せぬオーダー
       yomi: よきせぬおーだー
@@ -68,7 +100,7 @@
         ドリーの命ノ星座・第2重。
 
     - kanji: 百技千巧
-      yomi: ひゃくわざせんたくみ
+      yomi: ひゃくぎせんこう
       comment: |
         ドリーの命ノ星座・第3重。
 
@@ -83,6 +115,6 @@
         ドリーの命ノ星座・第5重。
 
     - kanji: 大金ばら撒き
-      yomi: おおかねばらまき
+      yomi: たいきんばらまき
       comment: |
         ドリーの命ノ星座・第6重。

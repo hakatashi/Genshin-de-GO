@@ -1,7 +1,7 @@
 タルタリヤ:
   衣装:
     - kanji: 栄光の刃
-      yomi: えいこうのは
+      yomi: えいこうのやいば？
       comment: |
         タルタリヤの初期衣装。
 
@@ -23,6 +23,15 @@
       comment: |
         タルタリヤの通常攻撃。
 
+    - kanji: 断流
+      yomi: だんりゅう
+      level: 1
+      comment: |
+        タルタリヤの攻撃によって敵に与えることができる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=Sz3qXtVmtb0
+
   元素スキル:
     - kanji: 魔王の武装・荒波
       yomi: まおうのぶそうあらなみ
@@ -30,21 +39,49 @@
         タルタリヤの元素スキル。
 
   元素爆発:
-    - kanji: 極悪技・尽滅閃
-      yomi: ごくあくわざ尽めつ閃
+    - kanji: 極悪技・(尽滅閃)
+      yomi: ごくあくぎ(じんめつせん)
+      level: 1
       comment: |
         タルタリヤの元素爆発。
+
+    - kanji: 魔弾一閃
+      yomi: まだんいっせん
+      comment: |
+        タルタリヤの元素爆発によって放たれる攻撃。
+
+    - kanji: 尽滅の水光
+      yomi: じんめつのすいこう
+      comment: |
+        タルタリヤの元素爆発によって放たれる攻撃。
+
+    - kanji: 狂瀾怒濤
+      yomi: きょうらんどとう
+      level: 2
+      comment: |
+        タルタリヤが元素爆発を放つ時の台詞。
+        ひどく乱れて手の施しようのないさまを
+        意味する四字熟語。
+      isOfficial: true
 
   固有天賦:
     - kanji: 無尽蔵
       yomi: むじんぞう
+      level: 1
       comment: |
         タルタリヤの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=Sz3qXtVmtb0
 
     - kanji: 水形剣
-      yomi: みずがたけん
+      yomi: すいけいけん
+      level: 1
       comment: |
         タルタリヤの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=Sz3qXtVmtb0
 
     - kanji: 武芸マスター
       yomi: ぶげいますたー
@@ -53,12 +90,12 @@
 
   命ノ星座:
     - kanji: 空鯨座
-      yomi: そらくじらざ
+      yomi: くうげいざ
       comment: |
         タルタリヤの命ノ星座。
 
     - kanji: 魔王の武装・押波
-      yomi: まおうのぶそう押は
+      yomi: まおうのぶそうおしなみ？
       comment: |
         タルタリヤの命ノ星座・第1重。
 
@@ -68,21 +105,21 @@
         タルタリヤの命ノ星座・第2重。
 
     - kanji: 淵の災い・紛争の源
-      yomi: ふちのわざわいふんそうのみなもと
+      yomi: えんのわざわいふんそうのみなもと？
       comment: |
         タルタリヤの命ノ星座・第3重。
 
     - kanji: 淵の災い・復水放流
-      yomi: ふちのわざわいふくすいほうりゅう
+      yomi: えんのわざわいふくすいほうりゅう？
       comment: |
         タルタリヤの命ノ星座・第4重。
 
     - kanji: 極悪技・雨斬り
-      yomi: ごくあくわざあめきり
+      yomi: ごくあくぎあめきり？
       comment: |
         タルタリヤの命ノ星座・第5重。
 
     - kanji: 極悪技・天使の滅び
-      yomi: ごくあくわざてんしのほろび
+      yomi: ごくあくぎてんしのほろび
       comment: |
         タルタリヤの命ノ星座・第6重。

@@ -7,44 +7,131 @@
 
   名刺の飾り紋:
     - kanji: 沐露
-      yomi: 沐ろ
+      yomi: もくろ
       comment: |
         ティナリの名刺の飾り紋。
 
   称号:
     - kanji: 緑土逍遥
       yomi: りょくどしょうよう
+      level: 2
       comment: |
         ティナリの称号。
+        「逍遥」とは、気ままに歩き回ること。
 
   通常攻撃:
     - kanji: 蔵蘊散悩
-      yomi: くら蘊ち悩
+      yomi: ぞううんさんのう？
       comment: |
         ティナリの通常攻撃。
 
+    - kanji: (花筐)の矢
+      yomi: (かきょう)のや
+      level: 3
+      comment: |
+        ティナリの通常攻撃2段チャージで放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=dNgbWTJ8cMM
+
+    - kanji: (蔵蘊)の花矢
+      yomi: (ぞううん)のはなや
+      level: 3
+      comment: |
+        ティナリの通常攻撃によって放たれる自動追尾攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=dNgbWTJ8cMM
+
   元素スキル:
     - kanji: 識果榴弾
-      yomi: 識はてりゅうだん
+      yomi: しきかりゅうだん？
       comment: |
         ティナリの元素スキル。
 
+    - kanji: 識種の(心榴弾)
+      yomi: しきしゅの(しんりゅうだん)
+      level: 2
+      comment: |
+        ティナリの元素スキルによって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=dNgbWTJ8cMM
+
+    - kanji: (識蘊)の領域
+      yomi: (しきうん)のりょういき
+      level: 3
+      comment: |
+        ティナリの元素スキルによって生成される領域。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=dNgbWTJ8cMM
+
+    - kanji: 通塞識
+      yomi: つうそくしき
+      level: 2
+      comment: |
+        ティナリの元素スキルによって獲得できる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=dNgbWTJ8cMM
+
+    - kanji: 一葉目を(蔽)えば
+      yomi: いちようめを(おお)えば
+      level: 2
+      comment: |
+        ティナリが元素スキルを放つ時の台詞。
+        故事成語「一葉目を蔽えば泰山を見ず」に由来すると思われる。
+      isOfficial: true
+
   元素爆発:
     - kanji: 造生・蔓纏いの矢
-      yomi: みやつこせいつるまといのや
+      yomi: ぞうせいつるまといのや
       comment: |
         ティナリの元素爆発。
+
+    - kanji: (蔓纏)いの矢
+      yomi: (つるまと)いのや
+      level: 3
+      comment: |
+        ティナリの元素爆発によって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=dNgbWTJ8cMM
+
+    - kanji: 次級・蔓纏いの矢
+      yomi: じきゅうつるまといのや
+      comment: |
+        ティナリの元素爆発によって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=dNgbWTJ8cMM
+
+    - kanji: (株連蔓引)だよ
+      yomi: (しゅれんまんいん)だよ
+      level: 3
+      comment: |
+        ティナリが元素爆発を放つ時の台詞。
+        植物のつるを引き抜いて根をすべて取り去ることから、
+        関係者を根こそぎ処罰することを意味する四字熟語。
+      isOfficial: true
 
   固有天賦:
     - kanji: 深き眼識
       yomi: ふかきがんしき
       comment: |
         ティナリの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=dNgbWTJ8cMM
 
     - kanji: 草樹精通
-      yomi: くさじゅせいつう
+      yomi: そうじゅせいつう
       comment: |
         ティナリの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=dNgbWTJ8cMM
 
     - kanji: 広き見聞
       yomi: ひろきけんぶん
@@ -62,8 +149,9 @@
       comment: |
         ティナリの命ノ星座・第1重。
 
-    - kanji: 茎から分析する由来
-      yomi: くきからぶんせきするゆらい
+    - kanji: (茎)から分析する由来
+      yomi: (くき)からぶんせきするゆらい
+      level: 1
       comment: |
         ティナリの命ノ星座・第2重。
 

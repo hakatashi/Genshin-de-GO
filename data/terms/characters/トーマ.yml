@@ -1,69 +1,128 @@
 トーマ:
   衣装:
     - kanji: 焔の赤武
-      yomi: ほのおのあかぶ
+      yomi: ほのおのせきぶ？
       comment: |
         トーマの初期衣装。
 
   名刺の飾り紋:
     - kanji: 炎袖
-      yomi: ほのおそで
+      yomi: えんしゅう？
       comment: |
         トーマの名刺の飾り紋。
 
   称号:
     - kanji: 渡来介者
       yomi: とらいかいしゃ
+      level: 1
       comment: |
         トーマの称号。
+        「介者」とは、甲冑を着た兵士のこと。
+
+    - kanji: 家司
+      yomi: けいし
+      level: 3
+      comment: |
+        トーマの神里家における身分。
+      isOfficial: true
 
   通常攻撃:
     - kanji: 瞬破槍勢
-      yomi: まどかやぶやりぜい
+      yomi: しゅんぱそうせい
       comment: |
         トーマの通常攻撃。
 
   元素スキル:
     - kanji: 烈炎侍立
       yomi: れつえんじりつ
+      level: 2
       comment: |
         トーマの元素スキル。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=6KKhzUhI5P0
+
+    - kanji: 烈炎侍立シールド
+      yomi: れつえんじりつしーるど
+      comment: |
+        トーマの元素スキルによって獲得できるシールド。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=6KKhzUhI5P0
 
   元素爆発:
     - kanji: 真紅熾炎の大鎧
-      yomi: しんくおきえんのだいよろい
+      yomi: しんくしえんのおおよろい
       comment: |
         トーマの元素爆発。
 
+    - kanji: 熾炎の(大鎧)
+      yomi: しえんの(おおよろい)
+      level: 2
+      comment: |
+        トーマの元素爆発によって獲得できる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=6KKhzUhI5P0
+
+    - kanji: 熾炎崩滅
+      yomi: しえんほうめつ
+      level: 2
+      comment: |
+        トーマの元素爆発によって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=6KKhzUhI5P0
+
+    - kanji: (護持)の炎
+      yomi: (ごじ)のほのお
+      level: 2
+      comment: |
+        トーマが元素爆発を放つ時の台詞。
+      isOfficial: true
+
   固有天賦:
     - kanji: 重装甲胄
-      yomi: じゅうそうこう胄
+      yomi: じゅうそうかっちゅう
+      level: 2
       comment: |
         トーマの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=6KKhzUhI5P0
 
     - kanji: 進撃の烈炎
       yomi: しんげきのれつえん
       comment: |
         トーマの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=6KKhzUhI5P0
 
-    - kanji: 懸鯛狩り
-      yomi: かかたいかり
+    - kanji: (懸鯛)狩り
+      yomi: (かけだい)がり
+      level: 3
       comment: |
         トーマの固有天賦。
+        「懸鯛」とは、正月の祝いに二匹の鯛を藁で結び、
+        神棚や竈などの上に掛ける風習のこと。
 
   命ノ星座:
     - kanji: 赤楯座
-      yomi: あかたてざ
+      yomi: せきじゅんざ？
       comment: |
         トーマの命ノ星座。
 
-    - kanji: 同袍の義理
-      yomi: どうほうのぎり
+    - kanji: (同袍)の義理
+      yomi: (どうほう)のぎり
+      level: 2
       comment: |
         トーマの命ノ星座・第1重。
+        「同袍」とは、友人のこと。
 
-    - kanji: 官吏の才知
-      yomi: かんりのさいち
+    - kanji: (官吏)の才知
+      yomi: (かんり)のさいち
+      level: 2
       comment: |
         トーマの命ノ星座・第2重。
 

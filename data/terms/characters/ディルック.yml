@@ -18,27 +18,40 @@
 
   称号:
     - kanji: アカツキの裏面
-      yomi: あかつきのりめん
+      yomi: あかつきのりめん？
       comment: |
         ディルックの称号。
 
   通常攻撃:
     - kanji: 百煉の剣
-      yomi: ひゃくねりのけん
+      yomi: ひゃくれんのけん
       comment: |
         ディルックの通常攻撃。
 
   元素スキル:
-    - kanji: 逆焔の刃
-      yomi: ぎゃくほのおのは
+    - kanji: (逆焔)の刃
+      yomi: (ぎゃくえん)のやいば
+      level: 1
       comment: |
         ディルックの元素スキル。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=TmXgXu3FFF4
 
   元素爆発:
     - kanji: 黎明
       yomi: れいめい
+      level: 1
       comment: |
         ディルックの元素爆発。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=TmXgXu3FFF4
+
+    - kanji: 炎の鳥
+      yomi: ほのおのとり
+      comment: |
+        ディルックの元素爆発によって放たれる巨大な鳥。
 
   固有天賦:
     - kanji: ノンストップ
@@ -46,10 +59,14 @@
       comment: |
         ディルックの固有天賦。
 
-    - kanji: 溶融の翼
-      yomi: ようゆうのつばさ
+    - kanji: (溶融)の翼
+      yomi: (ようゆう)のつばさ
+      level: 1
       comment: |
         ディルックの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=TmXgXu3FFF4
 
     - kanji: アカツキの伝統
       yomi: あかつきのでんとう
@@ -69,16 +86,18 @@
 
     - kanji: 灼熱余燼
       yomi: しゃくねつよじん
+      level: 3
       comment: |
         ディルックの命ノ星座・第2重。
+        「余燼」とは、燃え残った炎のこと。
 
     - kanji: 鋼鉄の熾焔
-      yomi: こうてつのおきほのお
+      yomi: こうてつのしえん
       comment: |
         ディルックの命ノ星座・第3重。
 
     - kanji: 流火焼灼
-      yomi: ながれひしょうしゃく
+      yomi: りゅうかしょうしゃく？
       comment: |
         ディルックの命ノ星座・第4重。
 

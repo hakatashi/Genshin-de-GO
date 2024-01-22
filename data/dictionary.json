@@ -17,6 +17,23 @@
     "isOfficial": true
   },
   {
+    "kanji": "棘",
+    "answers": [
+      "とげ"
+    ],
+    "prefix": "霊息の",
+    "suffix": "",
+    "yomiPrefix": "れいそくの",
+    "yomiSuffix": "",
+    "category": [
+      "その他"
+    ],
+    "comment": "フォンテーヌ出身のキャラクターが放つことができる、\nアルケーを帯びた攻撃。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
     "kanji": "北国",
     "answers": [
       "きたくに"
@@ -989,6 +1006,204 @@
     "isOfficial": false
   },
   {
+    "kanji": "遠吠",
+    "answers": [
+      "とおぼ"
+    ],
+    "prefix": "犬坂の",
+    "suffix": "え方円陣",
+    "yomiPrefix": "いぬさかの",
+    "yomiSuffix": "えほうえんじん",
+    "category": [
+      "ゴロー",
+      "元素スキル"
+    ],
+    "comment": "ゴローの元素スキル。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "風雨",
+    "answers": [
+      "ふうう"
+    ],
+    "prefix": "",
+    "suffix": "を恐れず",
+    "yomiPrefix": "",
+    "yomiSuffix": "をおそれず",
+    "category": [
+      "ゴロー",
+      "固有天賦"
+    ],
+    "comment": "ゴローの固有天賦。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "報恩",
+    "answers": [
+      "ほうおん"
+    ],
+    "prefix": "",
+    "suffix": "の守護",
+    "yomiPrefix": "",
+    "yomiSuffix": "のしゅご",
+    "category": [
+      "ゴロー",
+      "固有天賦"
+    ],
+    "comment": "ゴローの固有天賦。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "曇",
+    "answers": [
+      "くも"
+    ],
+    "prefix": "真実を求める",
+    "suffix": "りなきモノクル",
+    "yomiPrefix": "しんじつをもとめる",
+    "yomiSuffix": "りなきものくる",
+    "category": [
+      "シャルロット",
+      "称号"
+    ],
+    "comment": "シャルロットの称号。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "督促",
+    "answers": [
+      "とくそく"
+    ],
+    "prefix": "",
+    "suffix": "を以て義務と為す",
+    "yomiPrefix": "",
+    "yomiSuffix": "をもってぎむとなす",
+    "category": [
+      "シャルロット",
+      "命ノ星座"
+    ],
+    "comment": "シャルロットの命ノ星座・第4重。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "貫",
+    "answers": [
+      "つらぬ"
+    ],
+    "prefix": "正義を",
+    "suffix": "く銃",
+    "yomiPrefix": "せいぎを",
+    "yomiSuffix": "くじゅう",
+    "category": [
+      "シュヴルーズ",
+      "衣装"
+    ],
+    "comment": "シュヴルーズの初期衣装。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "戦列槍術",
+    "answers": [
+      "せんれつそうじゅつ"
+    ],
+    "prefix": "",
+    "suffix": "・改",
+    "yomiPrefix": "",
+    "yomiSuffix": "かい",
+    "category": [
+      "シュヴルーズ",
+      "通常攻撃"
+    ],
+    "comment": "シュヴルーズの通常攻撃。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "近迫阻止射撃",
+    "answers": [
+      "きんぱくそししゃげき"
+    ],
+    "prefix": "",
+    "suffix": "・速",
+    "yomiPrefix": "",
+    "yomiSuffix": "そく",
+    "category": [
+      "シュヴルーズ",
+      "元素スキル"
+    ],
+    "comment": "シュヴルーズの元素スキル。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "尖兵協同戦術",
+    "answers": [
+      "せんぺいきょうどうせんじゅつ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "シュヴルーズ",
+      "固有天賦"
+    ],
+    "comment": "シュヴルーズの固有天賦。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "協同戦術",
+    "answers": [
+      "きょうどうせんじゅつ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "シュヴルーズ",
+      "固有天賦"
+    ],
+    "comment": "シュヴルーズの固有天賦によって付与される効果。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "秘訣",
+    "answers": [
+      "ひけつ"
+    ],
+    "prefix": "多重速射の",
+    "suffix": "",
+    "yomiPrefix": "たじゅうそくしゃの",
+    "yomiSuffix": "",
+    "category": [
+      "シュヴルーズ",
+      "命ノ星座"
+    ],
+    "comment": "シュヴルーズの命ノ星座・第4重。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
     "kanji": "風圧剣",
     "answers": [
       "ふうあつけん"
@@ -1074,6 +1289,368 @@
       "命ノ星座"
     ],
     "comment": "ジンの命ノ星座・第5重。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "恵風",
+    "answers": [
+      "けいふう"
+    ],
+    "prefix": "小さな",
+    "suffix": "",
+    "yomiPrefix": "ちいさな",
+    "yomiSuffix": "",
+    "category": [
+      "スクロース",
+      "固有天賦"
+    ],
+    "comment": "スクロースの固有天賦。\n「恵風」とは、めぐみの風のこと。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "偏執",
+    "answers": [
+      "へんしゅう",
+      "へんしつ"
+    ],
+    "prefix": "錬金の",
+    "suffix": "",
+    "yomiPrefix": "れんきんの",
+    "yomiSuffix": "",
+    "category": [
+      "スクロース",
+      "命ノ星座"
+    ],
+    "comment": "スクロースの命ノ星座・第4重。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "冥祭",
+    "answers": [
+      "めいさい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "セノ",
+      "元素スキル"
+    ],
+    "comment": "セノの元素爆発によって変化した元素スキル。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "渡荒",
+    "answers": [
+      "とこう"
+    ],
+    "prefix": "",
+    "suffix": "の雷",
+    "yomiPrefix": "",
+    "yomiSuffix": "のいかずち",
+    "category": [
+      "セノ",
+      "元素スキル"
+    ],
+    "comment": "セノの元素爆発によって放たれる攻撃。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "啓途誓使",
+    "answers": [
+      "けいとせいし"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "セノ",
+      "元素爆発"
+    ],
+    "comment": "セノが元素爆発を用いることで変化した状態。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "金狼",
+    "answers": [
+      "きんろう"
+    ],
+    "prefix": "",
+    "suffix": "座",
+    "yomiPrefix": "",
+    "yomiSuffix": "ざ",
+    "category": [
+      "セノ",
+      "命ノ星座"
+    ],
+    "comment": "セノの命ノ星座。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "断流",
+    "answers": [
+      "だんりゅう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "タルタリヤ",
+      "通常攻撃"
+    ],
+    "comment": "タルタリヤの攻撃によって敵に与えることができる効果。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "尽滅閃",
+    "answers": [
+      "じんめつせん"
+    ],
+    "prefix": "極悪技・",
+    "suffix": "",
+    "yomiPrefix": "ごくあくぎ",
+    "yomiSuffix": "",
+    "category": [
+      "タルタリヤ",
+      "元素爆発"
+    ],
+    "comment": "タルタリヤの元素爆発。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "無尽蔵",
+    "answers": [
+      "むじんぞう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "タルタリヤ",
+      "固有天賦"
+    ],
+    "comment": "タルタリヤの固有天賦。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "水形剣",
+    "answers": [
+      "すいけいけん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "タルタリヤ",
+      "固有天賦"
+    ],
+    "comment": "タルタリヤの固有天賦。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "茎",
+    "answers": [
+      "くき"
+    ],
+    "prefix": "",
+    "suffix": "から分析する由来",
+    "yomiPrefix": "",
+    "yomiSuffix": "からぶんせきするゆらい",
+    "category": [
+      "ティナリ",
+      "命ノ星座"
+    ],
+    "comment": "ティナリの命ノ星座・第2重。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "にゃん",
+    "answers": [
+      "にゃん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "ディオナ",
+      "名刺の飾り紋"
+    ],
+    "comment": "ディオナの名刺の飾り紋。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "狩人",
+    "answers": [
+      "かりうど",
+      "かりゅうど"
+    ],
+    "prefix": "",
+    "suffix": "の射術",
+    "yomiPrefix": "",
+    "yomiSuffix": "のしゃじゅつ",
+    "category": [
+      "ディオナ",
+      "通常攻撃"
+    ],
+    "comment": "ディオナの通常攻撃。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "滑稽",
+    "answers": [
+      "こっけい"
+    ],
+    "prefix": "",
+    "suffix": "な酔態",
+    "yomiPrefix": "",
+    "yomiSuffix": "なすいたい",
+    "category": [
+      "ディオナ",
+      "固有天賦"
+    ],
+    "comment": "ディオナの固有天賦。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "余韻",
+    "answers": [
+      "よいん"
+    ],
+    "prefix": "特製の",
+    "suffix": "",
+    "yomiPrefix": "とくせいの",
+    "yomiSuffix": "",
+    "category": [
+      "ディオナ",
+      "命ノ星座"
+    ],
+    "comment": "ディオナの命ノ星座・第1重。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "煌",
+    "answers": [
+      "きら"
+    ],
+    "prefix": "",
+    "suffix": "めく皎潔の炎",
+    "yomiPrefix": "",
+    "yomiSuffix": "めくこうけつのほのお",
+    "category": [
+      "ディシア",
+      "命ノ星座"
+    ],
+    "comment": "ディシアの命ノ星座・第1重。\n「皎潔」とは、清らかで汚れのない様子。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "逆焔",
+    "answers": [
+      "ぎゃくえん"
+    ],
+    "prefix": "",
+    "suffix": "の刃",
+    "yomiPrefix": "",
+    "yomiSuffix": "のやいば",
+    "category": [
+      "ディルック",
+      "元素スキル"
+    ],
+    "comment": "ディルックの元素スキル。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "黎明",
+    "answers": [
+      "れいめい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "ディルック",
+      "元素爆発"
+    ],
+    "comment": "ディルックの元素爆発。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "溶融",
+    "answers": [
+      "ようゆう"
+    ],
+    "prefix": "",
+    "suffix": "の翼",
+    "yomiPrefix": "",
+    "yomiSuffix": "のつばさ",
+    "category": [
+      "ディルック",
+      "固有天賦"
+    ],
+    "comment": "ディルックの固有天賦。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "渡来介者",
+    "answers": [
+      "とらいかいしゃ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "トーマ",
+      "称号"
+    ],
+    "comment": "トーマの称号。\n「介者」とは、甲冑を着た兵士のこと。\n",
     "hint": "none",
     "level": 1,
     "isOfficial": false
@@ -1167,24 +1744,6 @@
     "hint": "none",
     "level": 1,
     "isOfficial": true
-  },
-  {
-    "kanji": "棘",
-    "answers": [
-      "とげ"
-    ],
-    "prefix": "霊息の",
-    "suffix": "",
-    "yomiPrefix": "れいそくの",
-    "yomiSuffix": "",
-    "category": [
-      "主人公",
-      "元素スキル"
-    ],
-    "comment": "水主人公の元素スキルによって放たれる攻撃。\n",
-    "hint": "none",
-    "level": 1,
-    "isOfficial": false
   },
   {
     "kanji": "蘇生",
@@ -2337,6 +2896,207 @@
     "isOfficial": true
   },
   {
+    "kanji": "獣牙",
+    "answers": [
+      "じゅうが"
+    ],
+    "prefix": "",
+    "suffix": "突撃陣形戦法",
+    "yomiPrefix": "",
+    "yomiSuffix": "とつげきじんけいせんぽう",
+    "category": [
+      "ゴロー",
+      "元素爆発"
+    ],
+    "comment": "ゴローの元素爆発。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "大将威儀",
+    "answers": [
+      "たいしょういぎ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "ゴロー",
+      "元素爆発"
+    ],
+    "comment": "ゴローの元素爆発によって生成されるエリア。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "岩晶崩滅",
+    "answers": [
+      "がんしょうほうめつ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "ゴロー",
+      "元素爆発"
+    ],
+    "comment": "ゴローの元素爆発によって放たれる攻撃。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "疾",
+    "answers": [
+      "はや",
+      "と"
+    ],
+    "prefix": "犬瞬・",
+    "suffix": "きこと風の如く",
+    "yomiPrefix": "けんしゅん",
+    "yomiSuffix": "きことかぜのごとく",
+    "category": [
+      "ゴロー",
+      "命ノ星座"
+    ],
+    "comment": "ゴローの命ノ星座・第1重。\n『孫子』の「其の疾きこと風の如く」が元ネタと思われる。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "通暁者",
+    "answers": [
+      "つうぎょうしゃ"
+    ],
+    "prefix": "厳罰を与える法の",
+    "suffix": "",
+    "yomiPrefix": "げんばつをあたえるほうの",
+    "yomiSuffix": "",
+    "category": [
+      "シュヴルーズ",
+      "称号"
+    ],
+    "comment": "シュヴルーズの称号。\n「通暁」とは、あることについて深く知りつくしていること。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "轟榴弾",
+    "answers": [
+      "ごうりゅうだん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "シュヴルーズ",
+      "元素爆発"
+    ],
+    "comment": "シュヴルーズの元素爆発によって放たれる攻撃。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "二次榴弾",
+    "answers": [
+      "にじりゅうだん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "シュヴルーズ",
+      "元素爆発"
+    ],
+    "comment": "シュヴルーズの元素爆発によって設置される爆弾。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "縦陣戦力統括",
+    "answers": [
+      "じゅうじんせんりょくとうかつ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "シュヴルーズ",
+      "固有天賦"
+    ],
+    "comment": "シュヴルーズの固有天賦。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "誘導殉爆",
+    "answers": [
+      "ゆうどうじゅんばく"
+    ],
+    "prefix": "",
+    "suffix": "の狙撃",
+    "yomiPrefix": "",
+    "yomiSuffix": "のそげき",
+    "category": [
+      "シュヴルーズ",
+      "命ノ星座"
+    ],
+    "comment": "シュヴルーズの命ノ星座・第2重。\n「殉爆」とは、爆薬の塊が距離を隔てた他の爆薬の爆発に\n感応して爆発する現象のこと。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "毀傷",
+    "answers": [
+      "きしょう"
+    ],
+    "prefix": "火力増幅の",
+    "suffix": "",
+    "yomiPrefix": "かりょくぞうふくの",
+    "yomiSuffix": "",
+    "category": [
+      "シュヴルーズ",
+      "命ノ星座"
+    ],
+    "comment": "シュヴルーズの命ノ星座・第5重。\n「毀傷」とは、傷つけること。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "追捕",
+    "answers": [
+      "ついぶ",
+      "ついほ",
+      "ついふく"
+    ],
+    "prefix": "罪過終止の",
+    "suffix": "",
+    "yomiPrefix": "ざいかしゅうしの",
+    "yomiSuffix": "",
+    "category": [
+      "シュヴルーズ",
+      "命ノ星座"
+    ],
+    "comment": "シュヴルーズの命ノ星座・第6重。\n「追捕」とは、賊や罪人などを追いかけて捕らえること。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
     "kanji": "蒲公英",
     "answers": [
       "だんでぃらいおん"
@@ -2353,6 +3113,530 @@
     "hint": "none",
     "level": 2,
     "isOfficial": true
+  },
+  {
+    "kanji": "不羈型",
+    "answers": [
+      "ふきがた"
+    ],
+    "prefix": "",
+    "suffix": "ベト",
+    "yomiPrefix": "",
+    "yomiSuffix": "べと",
+    "category": [
+      "スクロース",
+      "命ノ星座"
+    ],
+    "comment": "スクロースの命ノ星座・第2重。\n「不羈」とは、他のものに束縛されず自由に行動すること。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "噤閉",
+    "answers": [
+      "きんぺい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "セノ",
+      "名刺の飾り紋"
+    ],
+    "comment": "セノの名刺の飾り紋。\n口をつぐむこと。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "落羽",
+    "answers": [
+      "らくは"
+    ],
+    "prefix": "",
+    "suffix": "の裁決",
+    "yomiPrefix": "",
+    "yomiSuffix": "のさいけつ",
+    "category": [
+      "セノ",
+      "固有天賦"
+    ],
+    "comment": "セノの固有天賦。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "九弓",
+    "answers": [
+      "くきゅう"
+    ],
+    "prefix": "",
+    "suffix": "の権能",
+    "yomiPrefix": "",
+    "yomiSuffix": "のけんのう",
+    "category": [
+      "セノ",
+      "固有天賦"
+    ],
+    "comment": "セノの固有天賦。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "恵賜",
+    "answers": [
+      "けいし"
+    ],
+    "prefix": "沈黙の",
+    "suffix": "",
+    "yomiPrefix": "ちんもくの",
+    "yomiSuffix": "",
+    "category": [
+      "セノ",
+      "固有天賦"
+    ],
+    "comment": "セノの固有天賦。\n「恵賜」とは、金品を目下の者に与えること。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "俯瞰晦冥",
+    "answers": [
+      "ふかんかいめい"
+    ],
+    "prefix": "立儀・",
+    "suffix": "",
+    "yomiPrefix": "りつぎ",
+    "yomiSuffix": "",
+    "category": [
+      "セノ",
+      "命ノ星座"
+    ],
+    "comment": "セノの命ノ星座・第1重。\n「晦冥」とは、あたりが暗くなること。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "拝謁返霊",
+    "answers": [
+      "はいえつへんれい"
+    ],
+    "prefix": "令儀・",
+    "suffix": "",
+    "yomiPrefix": "りょうぎ",
+    "yomiSuffix": "",
+    "category": [
+      "セノ",
+      "命ノ星座"
+    ],
+    "comment": "セノの命ノ星座・第2重。\n「拝謁」とは、自分より身分の高い人に会うこと。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "往昔星芒",
+    "answers": [
+      "おうじゃくせいぼう",
+      "おうせきせいぼう"
+    ],
+    "prefix": "幽儀・",
+    "suffix": "",
+    "yomiPrefix": "ゆうぎ",
+    "yomiSuffix": "",
+    "category": [
+      "セノ",
+      "命ノ星座"
+    ],
+    "comment": "セノの命ノ星座・第5重。\n「往昔」とは、昔という意味。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "狂瀾怒濤",
+    "answers": [
+      "きょうらんどとう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "タルタリヤ",
+      "元素爆発"
+    ],
+    "comment": "タルタリヤが元素爆発を放つ時の台詞。\nひどく乱れて手の施しようのないさまを\n意味する四字熟語。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "緑土逍遥",
+    "answers": [
+      "りょくどしょうよう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "ティナリ",
+      "称号"
+    ],
+    "comment": "ティナリの称号。\n「逍遥」とは、気ままに歩き回ること。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "心榴弾",
+    "answers": [
+      "しんりゅうだん"
+    ],
+    "prefix": "識種の",
+    "suffix": "",
+    "yomiPrefix": "しきしゅの",
+    "yomiSuffix": "",
+    "category": [
+      "ティナリ",
+      "元素スキル"
+    ],
+    "comment": "ティナリの元素スキルによって放たれる攻撃。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "通塞識",
+    "answers": [
+      "つうそくしき"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "ティナリ",
+      "元素スキル"
+    ],
+    "comment": "ティナリの元素スキルによって獲得できる効果。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "蔽",
+    "answers": [
+      "おお"
+    ],
+    "prefix": "一葉目を",
+    "suffix": "えば",
+    "yomiPrefix": "いちようめを",
+    "yomiSuffix": "えば",
+    "category": [
+      "ティナリ",
+      "元素スキル"
+    ],
+    "comment": "ティナリが元素スキルを放つ時の台詞。\n故事成語「一葉目を蔽えば泰山を見ず」に由来すると思われる。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "熔鉄流獄",
+    "answers": [
+      "ようてつりゅうごく"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "ディシア",
+      "元素スキル"
+    ],
+    "comment": "ディシアの元素スキル。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "浄焔怒涛",
+    "answers": [
+      "じょうえんどとう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "ディシア",
+      "元素スキル"
+    ],
+    "comment": "ディシアの元素スキルによって放たれる攻撃。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "剣域熾焔",
+    "answers": [
+      "けんいきしえん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "ディシア",
+      "元素スキル"
+    ],
+    "comment": "ディシアの元素スキルによって放たれる攻撃。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "浄焔剣獄",
+    "answers": [
+      "じょうえんけんごく"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "ディシア",
+      "元素スキル"
+    ],
+    "comment": "ディシアの元素スキルによって生成される領域。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "熾炎獅子",
+    "answers": [
+      "しえんしし"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "ディシア",
+      "元素爆発"
+    ],
+    "comment": "ディシアの元素爆発により自身が変化した状態。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "炎咆連打",
+    "answers": [
+      "えんほうれんだ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "ディシア",
+      "元素爆発"
+    ],
+    "comment": "ディシアの元素爆発発動時に通常攻撃・元素スキルの\n代わりに発動する効果。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "扶翼",
+    "answers": [
+      "ふよく"
+    ],
+    "prefix": "惜しみなき",
+    "suffix": "",
+    "yomiPrefix": "おしみなき",
+    "yomiSuffix": "",
+    "category": [
+      "ディシア",
+      "固有天賦"
+    ],
+    "comment": "ディシアの固有天賦。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "皎潔",
+    "answers": [
+      "こうけつ",
+      "きょうけつ"
+    ],
+    "prefix": "煌めく",
+    "suffix": "の炎",
+    "yomiPrefix": "きらめく",
+    "yomiSuffix": "のほのお",
+    "category": [
+      "ディシア",
+      "命ノ星座"
+    ],
+    "comment": "ディシアの命ノ星座・第1重。\n「皎潔」とは、清らかで汚れのない様子。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "燿",
+    "answers": [
+      "かがや"
+    ],
+    "prefix": "",
+    "suffix": "く清砂の利刃",
+    "yomiPrefix": "",
+    "yomiSuffix": "くせいしゃのりじん",
+    "category": [
+      "ディシア",
+      "命ノ星座"
+    ],
+    "comment": "ディシアの命ノ星座・第2重。\n「利刃」とは、よく切れる刀のこと。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "烈炎侍立",
+    "answers": [
+      "れつえんじりつ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "トーマ",
+      "元素スキル"
+    ],
+    "comment": "トーマの元素スキル。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "大鎧",
+    "answers": [
+      "おおよろい"
+    ],
+    "prefix": "熾炎の",
+    "suffix": "",
+    "yomiPrefix": "しえんの",
+    "yomiSuffix": "",
+    "category": [
+      "トーマ",
+      "元素爆発"
+    ],
+    "comment": "トーマの元素爆発によって獲得できる効果。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "熾炎崩滅",
+    "answers": [
+      "しえんほうめつ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "トーマ",
+      "元素爆発"
+    ],
+    "comment": "トーマの元素爆発によって放たれる攻撃。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "護持",
+    "answers": [
+      "ごじ"
+    ],
+    "prefix": "",
+    "suffix": "の炎",
+    "yomiPrefix": "",
+    "yomiSuffix": "のほのお",
+    "category": [
+      "トーマ",
+      "元素爆発"
+    ],
+    "comment": "トーマが元素爆発を放つ時の台詞。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "重装甲胄",
+    "answers": [
+      "じゅうそうかっちゅう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "トーマ",
+      "固有天賦"
+    ],
+    "comment": "トーマの固有天賦。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "同袍",
+    "answers": [
+      "どうほう"
+    ],
+    "prefix": "",
+    "suffix": "の義理",
+    "yomiPrefix": "",
+    "yomiSuffix": "のぎり",
+    "category": [
+      "トーマ",
+      "命ノ星座"
+    ],
+    "comment": "トーマの命ノ星座・第1重。\n「同袍」とは、友人のこと。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "官吏",
+    "answers": [
+      "かんり"
+    ],
+    "prefix": "",
+    "suffix": "の才知",
+    "yomiPrefix": "",
+    "yomiSuffix": "のさいち",
+    "category": [
+      "トーマ",
+      "命ノ星座"
+    ],
+    "comment": "トーマの命ノ星座・第2重。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
   },
   {
     "kanji": "荒星",
@@ -2476,6 +3760,24 @@
       "命ノ星座"
     ],
     "comment": "風主人公の命ノ星座・第4重。\n「恩眷」とは、情けをかけて慈しむこと。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "瑶草",
+    "answers": [
+      "ようそう"
+    ],
+    "prefix": "婆娑の",
+    "suffix": "",
+    "yomiPrefix": "ばさの",
+    "yomiSuffix": "",
+    "category": [
+      "主人公",
+      "命ノ星座"
+    ],
+    "comment": "草主人公の命ノ星座・第3重。\n「婆娑」とは、踊るときに衣の袖が舞う様子のこと。\n「瑶草」は、美しく咲く仙草。\n",
     "hint": "none",
     "level": 2,
     "isOfficial": false
@@ -2678,6 +3980,24 @@
     "isOfficial": true
   },
   {
+    "kanji": "芷若",
+    "answers": [
+      "しにゃく"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "人物"
+    ],
+    "comment": "三杯酔の店員。\n日本語版では「シニャク」表記。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
     "kanji": "琢光鏡",
     "answers": [
       "たくこうきょう"
@@ -2768,6 +4088,24 @@
     "isOfficial": false
   },
   {
+    "kanji": "旗指物",
+    "answers": [
+      "はたさしもの"
+    ],
+    "prefix": "大将の",
+    "suffix": "",
+    "yomiPrefix": "たいしょうの",
+    "yomiSuffix": "",
+    "category": [
+      "ゴロー",
+      "元素スキル"
+    ],
+    "comment": "ゴローの元素スキルによって生成されるエリア。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
     "kanji": "剣脊",
     "answers": [
       "けんせき"
@@ -2799,6 +4137,294 @@
       "命ノ星座"
     ],
     "comment": "ジンの命ノ星座・第6重。\n「眷顧」とは特別に目にかけること。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "混元熵增論",
+    "answers": [
+      "こんげんしょうぞうろん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "スクロース",
+      "命ノ星座"
+    ],
+    "comment": "スクロースの命ノ星座・第6重。\n「熵」は、「エントロピー」を意味する中国の訳語。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "緘秘",
+    "answers": [
+      "かんぴ"
+    ],
+    "prefix": "",
+    "suffix": "の裁き",
+    "yomiPrefix": "",
+    "yomiSuffix": "のさばき",
+    "category": [
+      "セノ",
+      "称号"
+    ],
+    "comment": "セノの称号。\n「緘秘」とは、秘密にして隠すこと。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "秤量",
+    "answers": [
+      "ひょうりょう"
+    ],
+    "prefix": "",
+    "suffix": "してやる",
+    "yomiPrefix": "",
+    "yomiSuffix": "してやる",
+    "category": [
+      "セノ",
+      "元素爆発"
+    ],
+    "comment": "セノが元素爆発を発動する時の台詞。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "花筐",
+    "answers": [
+      "かきょう"
+    ],
+    "prefix": "",
+    "suffix": "の矢",
+    "yomiPrefix": "",
+    "yomiSuffix": "のや",
+    "category": [
+      "ティナリ",
+      "通常攻撃"
+    ],
+    "comment": "ティナリの通常攻撃2段チャージで放たれる攻撃。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "蔵蘊",
+    "answers": [
+      "ぞううん"
+    ],
+    "prefix": "",
+    "suffix": "の花矢",
+    "yomiPrefix": "",
+    "yomiSuffix": "のはなや",
+    "category": [
+      "ティナリ",
+      "通常攻撃"
+    ],
+    "comment": "ティナリの通常攻撃によって放たれる自動追尾攻撃。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "識蘊",
+    "answers": [
+      "しきうん"
+    ],
+    "prefix": "",
+    "suffix": "の領域",
+    "yomiPrefix": "",
+    "yomiSuffix": "のりょういき",
+    "category": [
+      "ティナリ",
+      "元素スキル"
+    ],
+    "comment": "ティナリの元素スキルによって生成される領域。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "蔓纏",
+    "answers": [
+      "つるまと"
+    ],
+    "prefix": "",
+    "suffix": "いの矢",
+    "yomiPrefix": "",
+    "yomiSuffix": "いのや",
+    "category": [
+      "ティナリ",
+      "元素爆発"
+    ],
+    "comment": "ティナリの元素爆発によって放たれる攻撃。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "株連蔓引",
+    "answers": [
+      "しゅれんまんいん"
+    ],
+    "prefix": "",
+    "suffix": "だよ",
+    "yomiPrefix": "",
+    "yomiSuffix": "だよ",
+    "category": [
+      "ティナリ",
+      "元素爆発"
+    ],
+    "comment": "ティナリが元素爆発を放つ時の台詞。\n植物のつるを引き抜いて根をすべて取り去ることから、\n関係者を根こそぎ処罰することを意味する四字熟語。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "熾鬣",
+    "answers": [
+      "しりょう"
+    ],
+    "prefix": "",
+    "suffix": "の獅子",
+    "yomiPrefix": "",
+    "yomiSuffix": "のしし",
+    "category": [
+      "ディシア",
+      "称号"
+    ],
+    "comment": "ディシアの称号。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "赤鬣",
+    "answers": [
+      "せきりょう"
+    ],
+    "prefix": "",
+    "suffix": "の血",
+    "yomiPrefix": "",
+    "yomiSuffix": "のち",
+    "category": [
+      "ディシア",
+      "元素スキル"
+    ],
+    "comment": "ディシアの元素スキル発動時、ダメージをカット効果が\n蓄積される対象。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "炎哮獅子咬",
+    "answers": [
+      "えんこうししがみ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "ディシア",
+      "元素爆発"
+    ],
+    "comment": "ディシアの元素爆発。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "熾鬣拳",
+    "answers": [
+      "しりょうけん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "ディシア",
+      "元素爆発"
+    ],
+    "comment": "ディシアの元素爆発によって放たれる攻撃。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "残火蹴",
+    "answers": [
+      "ざんかげり"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "ディシア",
+      "元素爆発"
+    ],
+    "comment": "ディシアの元素爆発によって放たれる攻撃。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "灼熱余燼",
+    "answers": [
+      "しゃくねつよじん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "ディルック",
+      "命ノ星座"
+    ],
+    "comment": "ディルックの命ノ星座・第2重。\n「余燼」とは、燃え残った炎のこと。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "家司",
+    "answers": [
+      "けいし"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "トーマ",
+      "称号"
+    ],
+    "comment": "トーマの神里家における身分。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "懸鯛",
+    "answers": [
+      "かけだい"
+    ],
+    "prefix": "",
+    "suffix": "狩り",
+    "yomiPrefix": "",
+    "yomiSuffix": "がり",
+    "category": [
+      "トーマ",
+      "固有天賦"
+    ],
+    "comment": "トーマの固有天賦。\n「懸鯛」とは、正月の祝いに二匹の鯛を藁で結び、\n神棚や竈などの上に掛ける風習のこと。\n",
     "hint": "none",
     "level": 3,
     "isOfficial": false
@@ -2873,61 +4499,6 @@
       "命ノ星座"
     ],
     "comment": "草主人公の命ノ星座・第3重。\n「婆娑」とは、踊るときに衣の袖が舞う様子のこと。\n「瑶草」は、美しく咲く仙草。\n",
-    "hint": "none",
-    "level": 3,
-    "isOfficial": false
-  },
-  {
-    "kanji": "瑶草",
-    "answers": [
-      "ようそう"
-    ],
-    "prefix": "婆娑の",
-    "suffix": "",
-    "yomiPrefix": "ばさの",
-    "yomiSuffix": "",
-    "category": [
-      "主人公",
-      "命ノ星座"
-    ],
-    "comment": "草主人公の命ノ星座・第3重。\n「婆娑」とは、踊るときに衣の袖が舞う様子のこと。\n「瑶草」は、美しく咲く仙草。\n",
-    "hint": "none",
-    "level": 3,
-    "isOfficial": false
-  },
-  {
-    "kanji": "婆娑",
-    "answers": [
-      "ばさ",
-      "ばしゃ"
-    ],
-    "prefix": "",
-    "suffix": "の瑶草",
-    "yomiPrefix": "",
-    "yomiSuffix": "のようそう",
-    "category": [
-      "主人公",
-      "命ノ星座"
-    ],
-    "comment": "草主人公の命ノ星座・第3重。\n「婆娑」とは、踊るときに衣の袖が舞う様子のこと。\n「瑶草」は、美しく咲く仙草の名前。\n",
-    "hint": "none",
-    "level": 3,
-    "isOfficial": false
-  },
-  {
-    "kanji": "瑶草",
-    "answers": [
-      "ようそう"
-    ],
-    "prefix": "婆娑の",
-    "suffix": "",
-    "yomiPrefix": "ばさの",
-    "yomiSuffix": "",
-    "category": [
-      "主人公",
-      "命ノ星座"
-    ],
-    "comment": "草主人公の命ノ星座・第3重。\n「婆娑」とは、踊るときに衣の袖が舞う様子のこと。\n「瑶草」は、美しく咲く仙草の名前。\n",
     "hint": "none",
     "level": 3,
     "isOfficial": false
@@ -3035,24 +4606,6 @@
       "人物"
     ],
     "comment": "「璃月総務司」幹事。彼女と話すことで、\n璃月の評判任務を受けることができる。\n日本語版では「シャオユウ」表記。\n",
-    "hint": "none",
-    "level": 4,
-    "isOfficial": false
-  },
-  {
-    "kanji": "芷若",
-    "answers": [
-      "しにゃく"
-    ],
-    "prefix": "",
-    "suffix": "",
-    "yomiPrefix": "",
-    "yomiSuffix": "",
-    "category": [
-      "璃月",
-      "人物"
-    ],
-    "comment": "三杯酔の店員。\n日本語版では「シニャク」表記。\n",
     "hint": "none",
     "level": 4,
     "isOfficial": false

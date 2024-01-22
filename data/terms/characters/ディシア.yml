@@ -1,44 +1,138 @@
 ディシア:
   衣装:
     - kanji: 獅子と赤陽
-      yomi: ししとあかひ
+      yomi: ししとせきよう？
       comment: |
         ディシアの初期衣装。
 
   称号:
-    - kanji: 熾鬣の獅子
-      yomi: おきたてがみのしし
+    - kanji: (熾鬣)の獅子
+      yomi: (しりょう)のしし
+      level: 3
       comment: |
         ディシアの称号。
+      isOfficial: true
+      ref:
+        - ストーリー「黒く染まった赤い絹」
+        - https://www.youtube.com/watch?v=2xZkIfz2V9M
 
   通常攻撃:
     - kanji: 剣闘術・金砂塵
-      yomi: けん闘じゅつきむさじん
+      yomi: けんとうじゅつきんさじん？
       comment: |
         ディシアの通常攻撃。
 
   元素スキル:
     - kanji: 熔鉄流獄
-      yomi: 熔てつりゅうごく
+      yomi: ようてつりゅうごく
+      level: 2
       comment: |
         ディシアの元素スキル。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=2xZkIfz2V9M
+
+    - kanji: 浄焔怒涛
+      yomi: じょうえんどとう
+      level: 2
+      comment: |
+        ディシアの元素スキルによって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=2xZkIfz2V9M
+
+    - kanji: 剣域熾焔
+      yomi: けんいきしえん
+      level: 2
+      comment: |
+        ディシアの元素スキルによって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=2xZkIfz2V9M
+
+    - kanji: 浄焔剣獄
+      yomi: じょうえんけんごく
+      level: 2
+      comment: |
+        ディシアの元素スキルによって生成される領域。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=2xZkIfz2V9M
+
+    - kanji: (赤鬣)の血
+      yomi: (せきりょう)のち
+      level: 3
+      comment: |
+        ディシアの元素スキル発動時、ダメージをカット効果が
+        蓄積される対象。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=2xZkIfz2V9M
 
   元素爆発:
     - kanji: 炎哮獅子咬
-      yomi: ほのおたけしし咬
+      yomi: えんこうししがみ
+      level: 3
       comment: |
         ディシアの元素爆発。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=2xZkIfz2V9M
+
+    - kanji: 熾炎獅子
+      yomi: しえんしし
+      level: 2
+      comment: |
+        ディシアの元素爆発により自身が変化した状態。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=2xZkIfz2V9M
+
+    - kanji: 熾鬣拳
+      yomi: しりょうけん
+      level: 3
+      comment: |
+        ディシアの元素爆発によって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=2xZkIfz2V9M
+
+    - kanji: 残火蹴
+      yomi: ざんかげり
+      level: 3
+      comment: |
+        ディシアの元素爆発によって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=2xZkIfz2V9M
+
+    - kanji: 炎咆連打
+      yomi: えんほうれんだ
+      level: 2
+      comment: |
+        ディシアの元素爆発発動時に通常攻撃・元素スキルの
+        代わりに発動する効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=2xZkIfz2V9M
 
   固有天賦:
-    - kanji: 惜しみなき扶翼
-      yomi: おしみなきふよく
+    - kanji: 惜しみなき(扶翼)
+      yomi: おしみなき(ふよく)
+      level: 2
       comment: |
         ディシアの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=2xZkIfz2V9M
 
     - kanji: 至誠の尊崇
       yomi: しせいのそんすう
       comment: |
         ディシアの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=2xZkIfz2V9M
 
     - kanji: 陽の指す正道
       yomi: ひのさすせいどう
@@ -51,18 +145,22 @@
       comment: |
         ディシアの命ノ星座。
 
-    - kanji: 煌めく皎潔の炎
-      yomi: きらめくこうきよしのほのお
+    - kanji: (煌)めく(皎潔)の炎
+      yomi: (きら)めく(こうけつ、きょうけつ)のほのお
+      level: [1, 2]
       comment: |
         ディシアの命ノ星座・第1重。
+        「皎潔」とは、清らかで汚れのない様子。
 
-    - kanji: 燿く清砂の利刃
-      yomi: 燿くきよしすなのりじん
+    - kanji: (燿)く清砂の利刃
+      yomi: (かがや)くせいしゃのりじん
+      level: 2
       comment: |
         ディシアの命ノ星座・第2重。
+        「利刃」とは、よく切れる刀のこと。
 
     - kanji: 掠める熾炎の怒り
-      yomi: かすめるおきえんのいかり
+      yomi: かすめるしえんのいかり
       comment: |
         ディシアの命ノ星座・第3重。
 
@@ -77,6 +175,6 @@
         ディシアの命ノ星座・第5重。
 
     - kanji: 黄金を裂く焔爪
-      yomi: おうごんをさくほのおつめ
+      yomi: おうごんをさくえんそう？
       comment: |
         ディシアの命ノ星座・第6重。

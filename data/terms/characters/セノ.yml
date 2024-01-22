@@ -7,82 +7,144 @@
 
   名刺の飾り紋:
     - kanji: 噤閉
-      yomi: 噤閉
+      yomi: きんぺい
+      level: 2
       comment: |
         セノの名刺の飾り紋。
+        口をつぐむこと。
 
   称号:
-    - kanji: 緘秘の裁き
-      yomi: 緘ひのさばき
+    - kanji: (緘秘)の裁き
+      yomi: (かんぴ)のさばき
+      level: 3
       comment: |
         セノの称号。
+        「緘秘」とは、秘密にして隠すこと。
 
   通常攻撃:
     - kanji: 七聖槍術
-      yomi: ななひじりそうじゅつ
+      yomi: しちせいそうじゅつ
       comment: |
         セノの通常攻撃。
 
   元素スキル:
     - kanji: 秘儀・律淵渡魂
-      yomi: ひぎりつふちわたしたましい
+      yomi: ひぎりつえんとこん？
       comment: |
         セノの元素スキル。
 
+    - kanji: 冥祭
+      yomi: めいさい
+      level: 1
+      comment: |
+        セノの元素爆発によって変化した元素スキル。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=5Qrfb2vX5aA
+
+    - kanji: (渡荒)の雷
+      yomi: (とこう)のいかずち
+      level: 1
+      comment: |
+        セノの元素爆発によって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=5Qrfb2vX5aA
+
   元素爆発:
     - kanji: 聖儀・狼駆憑走
-      yomi: ひじりただしおおかみか憑はし
+      yomi: せいぎろうくひょうそう？
       comment: |
         セノの元素爆発。
 
+    - kanji: 啓途誓使
+      yomi: けいとせいし
+      level: 1
+      comment: |
+        セノが元素爆発を用いることで変化した状態。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=5Qrfb2vX5aA
+
+    - kanji: (秤量)してやる
+      yomi: (ひょうりょう)してやる
+      level: 3
+      comment: |
+        セノが元素爆発を発動する時の台詞。
+
   固有天賦:
-    - kanji: 落羽の裁決
-      yomi: 落わのさいけつ
+    - kanji: (落羽)の裁決
+      yomi: (らくは)のさいけつ
+      level: 2
       comment: |
         セノの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=5Qrfb2vX5aA
 
-    - kanji: 九弓の権能
-      yomi: きゅうゆみのけんのう
+    - kanji: 末路真眼
+      yomi: まつろしんがん
       comment: |
-        セノの固有天賦。
+        セノの固有天賦によって獲得できる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=5Qrfb2vX5aA
 
-    - kanji: 沈黙の恵賜
-      yomi: ちんもくのめぐみたまもの
+    - kanji: (九弓)の権能
+      yomi: (くきゅう)のけんのう
+      level: 2
       comment: |
         セノの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=5Qrfb2vX5aA
+
+    - kanji: 沈黙の(恵賜)
+      yomi: ちんもくの(けいし)
+      level: 2
+      comment: |
+        セノの固有天賦。
+        「恵賜」とは、金品を目下の者に与えること。
 
   命ノ星座:
-    - kanji: 金狼座
-      yomi: きんおおかみざ
+    - kanji: (金狼)座
+      yomi: (きんろう)ざ
+      level: 1
       comment: |
         セノの命ノ星座。
 
-    - kanji: 立儀・俯瞰晦冥
-      yomi: たつぎふかんかいめい
+    - kanji: 立儀・(俯瞰晦冥)
+      yomi: りつぎ(ふかんかいめい)
+      level: 2
       comment: |
         セノの命ノ星座・第1重。
+        「晦冥」とは、あたりが暗くなること。
 
-    - kanji: 令儀・拝謁返霊
-      yomi: りょうぎはいえつかえれい
+    - kanji: 令儀・(拝謁返霊)
+      yomi: りょうぎ(はいえつへんれい)
+      level: 2
       comment: |
         セノの命ノ星座・第2重。
+        「拝謁」とは、自分より身分の高い人に会うこと。
 
     - kanji: 律儀・行度警戒
-      yomi: りちぎこうどけいかい
+      yomi: りつぎこうどけいかい？
       comment: |
         セノの命ノ星座・第3重。
 
     - kanji: 巡儀・貫徹禁網
-      yomi: めぐただしかんてつきんもう
+      yomi: じゅんぎかんてつきんもう
       comment: |
         セノの命ノ星座・第4重。
 
-    - kanji: 幽儀・往昔星芒
-      yomi: かそけただしおうせきぼしすすき
+    - kanji: 幽儀・(往昔星芒)
+      yomi: ゆうぎ(おうじゃくせいぼう、おうせきせいぼう)
+      level: 2
       comment: |
         セノの命ノ星座・第5重。
+        「往昔」とは、昔という意味。
 
     - kanji: 羽儀・裁落鈞衡
-      yomi: はねぎさい落ひとし衡
+      yomi: うぎさいらくきんこう？
       comment: |
         セノの命ノ星座・第6重。

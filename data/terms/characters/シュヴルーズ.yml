@@ -1,44 +1,92 @@
 シュヴルーズ:
   衣装:
-    - kanji: 正義を貫く銃
-      yomi: せいぎをつらぬくじゅう
+    - kanji: 正義を(貫)く銃
+      yomi: せいぎを(つらぬ)くじゅう
+      level: 1
       comment: |
         シュヴルーズの初期衣装。
 
   称号:
-    - kanji: 厳罰を与える法の通暁者
-      yomi: げんばつをあたえるほうのつうぎょうしゃ
+    - kanji: 厳罰を与える法の(通暁者)
+      yomi: げんばつをあたえるほうの(つうぎょうしゃ)
+      level: 2
       comment: |
         シュヴルーズの称号。
+        「通暁」とは、あることについて深く知りつくしていること。
 
   通常攻撃:
-    - kanji: 戦列槍術・改
-      yomi: せんれつそうじゅつあらため
+    - kanji: (戦列槍術)・改
+      yomi: (せんれつそうじゅつ)かい
+      level: 1
       comment: |
         シュヴルーズの通常攻撃。
 
   元素スキル:
-    - kanji: 近迫阻止射撃・速
-      yomi: きんはさまそししゃげきそく
+    - kanji: (近迫阻止射撃)・速
+      yomi: (きんぱくそししゃげき)そく
+      level: 1
       comment: |
         シュヴルーズの元素スキル。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=Tg6LjGXuBWk
+
+    - kanji: マグナムブレッド
+      yomi: まぐなむぶれっど
+      comment: |
+        シュヴルーズの元素スキルで獲得できる効果。
 
   元素爆発:
     - kanji: 円形爆撃戦術・轟
-      yomi: えんけいばくげきせんじゅつとどろき
+      yomi: えんけいばくげきせんじゅつごう
       comment: |
         シュヴルーズの元素爆発。
+
+    - kanji: 轟榴弾
+      yomi: ごうりゅうだん
+      comment: |
+        シュヴルーズの元素爆発によって放たれる攻撃。
+      level: 2
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=Tg6LjGXuBWk
+
+    - kanji: 二次榴弾
+      yomi: にじりゅうだん
+      comment: |
+        シュヴルーズの元素爆発によって設置される爆弾。
+      level: 2
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=Tg6LjGXuBWk
 
   固有天賦:
     - kanji: 尖兵協同戦術
       yomi: せんぺいきょうどうせんじゅつ
       comment: |
         シュヴルーズの固有天賦。
+      level: 1
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=Tg6LjGXuBWk
+
+    - kanji: 協同戦術
+      yomi: きょうどうせんじゅつ
+      comment: |
+        シュヴルーズの固有天賦によって付与される効果。
+      level: 1
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=Tg6LjGXuBWk
 
     - kanji: 縦陣戦力統括
       yomi: じゅうじんせんりょくとうかつ
       comment: |
         シュヴルーズの固有天賦。
+      level: 2
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=Tg6LjGXuBWk
 
     - kanji: 迅速行軍戦略
       yomi: じんそくこうぐんせんりゃく
@@ -47,7 +95,7 @@
 
   命ノ星座:
     - kanji: 刀銃座
-      yomi: がたなじゅうざ
+      yomi: とうじゅうざ
       comment: |
         シュヴルーズの命ノ星座。
 
@@ -56,27 +104,35 @@
       comment: |
         シュヴルーズの命ノ星座・第1重。
 
-    - kanji: 誘導殉爆の狙撃
-      yomi: ゆうどう殉爆のそげき
+    - kanji: (誘導殉爆)の狙撃
+      yomi: (ゆうどうじゅんばく)のそげき
+      level: 2
       comment: |
         シュヴルーズの命ノ星座・第2重。
+        「殉爆」とは、爆薬の塊が距離を隔てた他の爆薬の爆発に
+        感応して爆発する現象のこと。
 
     - kanji: 熟練装弾の技術
       yomi: じゅくれんそうだんのぎじゅつ
       comment: |
         シュヴルーズの命ノ星座・第3重。
 
-    - kanji: 多重速射の秘訣
-      yomi: たじゅうそくしゃのひけつ
+    - kanji: 多重速射の(秘訣)
+      yomi: たじゅうそくしゃの(ひけつ)
+      level: 1
       comment: |
         シュヴルーズの命ノ星座・第4重。
 
-    - kanji: 火力増幅の毀傷
-      yomi: かりょくぞうふくのきしょう
+    - kanji: 火力増幅の(毀傷)
+      yomi: かりょくぞうふくの(きしょう)
+      level: 2
       comment: |
         シュヴルーズの命ノ星座・第5重。
+        「毀傷」とは、傷つけること。
 
-    - kanji: 罪過終止の追捕
-      yomi: ざいかしゅうしのついと
+    - kanji: 罪過終止の(追捕)
+      yomi: ざいかしゅうしの(ついぶ、ついほ、ついふく)
+      level: 2
       comment: |
         シュヴルーズの命ノ星座・第6重。
+        「追捕」とは、賊や罪人などを追いかけて捕らえること。
