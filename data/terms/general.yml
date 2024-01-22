@@ -66,11 +66,15 @@
     level: 1
     comment: |
       フォンテーヌ出身のキャラクターが放つことができる、
-      アルケーを帯びた攻撃。
+      プネウマを帯びた追撃。
+    isOfficial: true
 
-  - kanji: 迸発の刃
-    yomi: 
-    level: 1
+  - kanji: (迸発)の刃
+    yomi: (ほうはつ)のやいば
+    level: 3
     comment: |
       フォンテーヌ出身のキャラクターが放つことができる、
-      アルケーを帯びた攻撃。
+      ウーシアを帯びた追撃。
+    isOfficial: true
+    ref:
+      - https://www.youtube.com/watch?v=3cb1eeXDPE8

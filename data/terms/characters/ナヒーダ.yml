@@ -64,6 +64,13 @@
       ref:
         - https://www.youtube.com/watch?v=lug3QHBfxYE
 
+    - kanji: (蔓延)りなさい
+      yomi: (はびこ)りなさい
+      level: 2
+      comment: |
+        ナヒーダが元素スキルを放つ時の台詞。
+      isOfficial: true
+
   元素爆発:
     - kanji: 心景幻成
       yomi: しんけいげんせい
@@ -138,7 +145,7 @@
         「現行」とは、仏教用語で心の働きが具体的に現れること。
 
     - kanji: (妙諦破愚)の葉
-      yomi: みょうていはぐのは
+      yomi: (みょうていはぐ)のは
       level: 3
       comment: |
         ナヒーダの命ノ星座・第5重。

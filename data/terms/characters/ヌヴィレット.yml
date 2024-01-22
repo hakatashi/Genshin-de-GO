@@ -6,8 +6,9 @@
         ヌヴィレットの初期衣装。
 
   称号:
-    - kanji: 告諭の潮騒
-      yomi: こくゆのしおさい
+    - kanji: 告諭の(潮騒)
+      yomi: こくゆの(しおさい)
+      level: 2
       comment: |
         ヌヴィレットの称号。
 
@@ -17,11 +18,70 @@
       comment: |
         ヌヴィレットの通常攻撃。
 
+    - kanji: 心証開示
+      yomi: しんしょうかいじ
+      comment: |
+        ヌヴィレットの通常攻撃長押しで発動する効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=985SZkdp768
+
+    - kanji: 審理のエンブレム
+      yomi: しんりのえんぶれむ
+      comment: |
+        ヌヴィレットの通常攻撃長押しによって生成されるエンブレム。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=985SZkdp768
+
+    - kanji: (衡平)な裁量
+      yomi: (こうへい)なさいりょう
+      level: 1
+      comment: |
+        ヌヴィレットの通常攻撃によって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=985SZkdp768
+
+    - kanji: (遺龍)の栄光
+      yomi: (いりゅう)のえいこう
+      level: 1
+      comment: |
+        水元素関連反応によってヌヴィレットが獲得する効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=985SZkdp768
+
   元素スキル:
     - kanji: 涙よ、私は必ずや償おう
       yomi: なみだよわたしはかならずやつぐなおう
       comment: |
         ヌヴィレットの元素スキル。
+
+    - kanji: 立ち騒ぐ(瀑)
+      yomi: たちさわぐ(たき)
+      level: 3
+      comment: |
+        ヌヴィレットの元素スキルによって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=985SZkdp768
+
+    - kanji: 源水の雫
+      yomi: げんすいのしずく
+      comment: |
+        ヌヴィレットの元素スキル・元素爆発によって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=985SZkdp768
+
+    - kanji: (頭)を垂れろ
+      yomi: (こうべ)をたれろ
+      comment: |
+        ヌヴィレットが元素スキルを放つ時の台詞。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=985SZkdp768
 
   元素爆発:
     - kanji: 海よ、私は帰ってきた
@@ -29,19 +89,35 @@
       comment: |
         ヌヴィレットの元素爆発。
 
+    - kanji: (迸)る怒涛
+      yomi: (ほとばし)るどとう
+      level: 2
+      comment: |
+        ヌヴィレットの元素爆発によって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=985SZkdp768
+
   固有天賦:
-    - kanji: 古海継嗣の権威
-      yomi: ふるみけいしのけんい
+    - kanji: (古海継嗣)の権威
+      yomi: (こかいけいし)のけんい
+      level: 2
       comment: |
         ヌヴィレットの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=985SZkdp768
 
     - kanji: 至高なる審理の紀律
       yomi: しこうなるしんりのきりつ
       comment: |
         ヌヴィレットの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=985SZkdp768
 
     - kanji: 潮波のように集いて
-      yomi: しおはのようにつどいて
+      yomi: しおなみのようにつどいて？
       comment: |
         ヌヴィレットの固有天賦。
 
@@ -52,31 +128,34 @@
         ヌヴィレットの命ノ星座。
 
     - kanji: 尊栄の創定
-      yomi: みことさかえのそうじょう
+      yomi: そんえいのそうてい？
       comment: |
         ヌヴィレットの命ノ星座・第1重。
 
     - kanji: 律法の懲罰
-      yomi: りつほうのちょうばつ
+      yomi: りっぽうのちょうばつ
       comment: |
         ヌヴィレットの命ノ星座・第2重。
 
-    - kanji: 旧時の擬制
-      yomi: きゅうじのぎせい
+    - kanji: 旧時の(擬制)
+      yomi: きゅうじの(ぎせい)
+      level: 1
       comment: |
         ヌヴィレットの命ノ星座・第3重。
+        「擬制」とは、法律用語で本質が違うものを同一と見なすこと。
 
-    - kanji: 憐憫の玉冠
-      yomi: れんびんのたまかんむり
+    - kanji: (憐憫)の玉冠
+      yomi: (れんびん)のぎょっかん
+      level: 1
       comment: |
         ヌヴィレットの命ノ星座・第4重。
 
     - kanji: 公義の裁定
-      yomi: きみよしのさいてい
+      yomi: こうぎのさいてい
       comment: |
         ヌヴィレットの命ノ星座・第5重。
 
     - kanji: 憤怒の報償
-      yomi: ふんどのほうしょう
+      yomi: ふんぬのほうしょう
       comment: |
         ヌヴィレットの命ノ星座・第6重。

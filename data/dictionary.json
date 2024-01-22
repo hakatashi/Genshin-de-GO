@@ -28,10 +28,10 @@
     "category": [
       "その他"
     ],
-    "comment": "フォンテーヌ出身のキャラクターが放つことができる、\nアルケーを帯びた攻撃。\n",
+    "comment": "フォンテーヌ出身のキャラクターが放つことができる、\nプネウマを帯びた追撃。\n",
     "hint": "none",
     "level": 1,
-    "isOfficial": false
+    "isOfficial": true
   },
   {
     "kanji": "北国",
@@ -1651,6 +1651,258 @@
       "称号"
     ],
     "comment": "トーマの称号。\n「介者」とは、甲冑を着た兵士のこと。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "這",
+    "answers": [
+      "は"
+    ],
+    "prefix": "舵を",
+    "suffix": "うラディアントローズ",
+    "yomiPrefix": "かじを",
+    "yomiSuffix": "うらでぃあんとろーず",
+    "category": [
+      "ナヴィア",
+      "称号"
+    ],
+    "comment": "ナヴィアの称号。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "欠片",
+    "answers": [
+      "かけら"
+    ],
+    "prefix": "裂晶の",
+    "suffix": "",
+    "yomiPrefix": "れっしょうの",
+    "yomiSuffix": "",
+    "category": [
+      "ナヴィア",
+      "元素スキル"
+    ],
+    "comment": "ナヴィアが結晶を取得したときに獲得できる効果。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "傘弾銃",
+    "answers": [
+      "さんだんじゅう"
+    ],
+    "prefix": "これって",
+    "suffix": "？",
+    "yomiPrefix": "これって",
+    "yomiSuffix": "",
+    "category": [
+      "ナヴィア",
+      "元素スキル"
+    ],
+    "comment": "ナヴィアが元素スキルを放つ時の台詞。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "金薔薇",
+    "answers": [
+      "きんばら"
+    ],
+    "prefix": "",
+    "suffix": "の礼砲",
+    "yomiPrefix": "",
+    "yomiSuffix": "のれいほう",
+    "category": [
+      "ナヴィア",
+      "元素爆発"
+    ],
+    "comment": "ナヴィアの元素爆発によって放たれる攻撃。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "毅然",
+    "answers": [
+      "きぜん"
+    ],
+    "prefix": "交渉人の",
+    "suffix": "たる協議",
+    "yomiPrefix": "こうしょうじんの",
+    "yomiSuffix": "たるきょうぎ",
+    "category": [
+      "ナヴィア",
+      "命ノ星座"
+    ],
+    "comment": "ナヴィアの命ノ星座・第5重。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "非",
+    "answers": [
+      "あら"
+    ],
+    "prefix": "花や霧に",
+    "suffix": "ず",
+    "yomiPrefix": "はなやきりに",
+    "yomiSuffix": "ず",
+    "category": [
+      "ニィロウ",
+      "衣装"
+    ],
+    "comment": "ニィロウの初期衣装。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "絨毯",
+    "answers": [
+      "じゅうたん"
+    ],
+    "prefix": "",
+    "suffix": "に舞い落ちる蓮光",
+    "yomiPrefix": "",
+    "yomiSuffix": "にまいおちるれんこう",
+    "category": [
+      "ニィロウ",
+      "称号"
+    ],
+    "comment": "ニィロウの称号。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "豊穣",
+    "answers": [
+      "ほうじょう"
+    ],
+    "prefix": "",
+    "suffix": "の核",
+    "yomiPrefix": "",
+    "yomiSuffix": "のかく",
+    "category": [
+      "ニィロウ",
+      "元素スキル"
+    ],
+    "comment": "ニィロウの元素スキルによって生成される特殊な草原核。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "衡平",
+    "answers": [
+      "こうへい"
+    ],
+    "prefix": "",
+    "suffix": "な裁量",
+    "yomiPrefix": "",
+    "yomiSuffix": "なさいりょう",
+    "category": [
+      "ヌヴィレット",
+      "通常攻撃"
+    ],
+    "comment": "ヌヴィレットの通常攻撃によって放たれる攻撃。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "遺龍",
+    "answers": [
+      "いりゅう"
+    ],
+    "prefix": "",
+    "suffix": "の栄光",
+    "yomiPrefix": "",
+    "yomiSuffix": "のえいこう",
+    "category": [
+      "ヌヴィレット",
+      "通常攻撃"
+    ],
+    "comment": "水元素関連反応によってヌヴィレットが獲得する効果。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "擬制",
+    "answers": [
+      "ぎせい"
+    ],
+    "prefix": "旧時の",
+    "suffix": "",
+    "yomiPrefix": "きゅうじの",
+    "yomiSuffix": "",
+    "category": [
+      "ヌヴィレット",
+      "命ノ星座"
+    ],
+    "comment": "ヌヴィレットの命ノ星座・第3重。\n「擬制」とは、法律用語で本質が違うものを同一と見なすこと。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "憐憫",
+    "answers": [
+      "れんびん"
+    ],
+    "prefix": "",
+    "suffix": "の玉冠",
+    "yomiPrefix": "",
+    "yomiSuffix": "のぎょっかん",
+    "category": [
+      "ヌヴィレット",
+      "命ノ星座"
+    ],
+    "comment": "ヌヴィレットの命ノ星座・第4重。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "誠心誠意",
+    "answers": [
+      "せいしんせいい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "ノエル",
+      "固有天賦"
+    ],
+    "comment": "ノエルの固有天賦。\nまごころこめて相手に接することを意味する四字熟語。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "埃",
+    "answers": [
+      "ほこり"
+    ],
+    "prefix": "",
+    "suffix": "は許しません",
+    "yomiPrefix": "",
+    "yomiSuffix": "はゆるしません",
+    "category": [
+      "ノエル",
+      "命ノ星座"
+    ],
+    "comment": "ノエルの命ノ星座・第6重。\n",
     "hint": "none",
     "level": 1,
     "isOfficial": false
@@ -3639,6 +3891,204 @@
     "isOfficial": false
   },
   {
+    "kanji": "蔓延",
+    "answers": [
+      "はびこ"
+    ],
+    "prefix": "",
+    "suffix": "りなさい",
+    "yomiPrefix": "",
+    "yomiSuffix": "りなさい",
+    "category": [
+      "ナヒーダ",
+      "元素スキル"
+    ],
+    "comment": "ナヒーダが元素スキルを放つ時の台詞。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "摩耶",
+    "answers": [
+      "まや"
+    ],
+    "prefix": "",
+    "suffix": "の宮殿",
+    "yomiPrefix": "",
+    "yomiSuffix": "のきゅうでん",
+    "category": [
+      "ナヒーダ",
+      "元素爆発"
+    ],
+    "comment": "ナヒーダの元素爆発によって展開される領域。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "衝",
+    "answers": [
+      "つ"
+    ],
+    "prefix": "晴天を",
+    "suffix": "く霰弾のサルート",
+    "yomiPrefix": "せいてんを",
+    "yomiSuffix": "くさんだんのさるーと",
+    "category": [
+      "ナヴィア",
+      "元素爆発"
+    ],
+    "comment": "ナヴィアの元素爆発。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "旋舞",
+    "answers": [
+      "せんぶ"
+    ],
+    "prefix": "",
+    "suffix": "のステップ",
+    "yomiPrefix": "",
+    "yomiSuffix": "のすてっぷ",
+    "category": [
+      "ニィロウ",
+      "元素スキル"
+    ],
+    "comment": "ニィロウの元素スキルが元素スキルによって変化した状態。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "金盃",
+    "answers": [
+      "きんぱい"
+    ],
+    "prefix": "",
+    "suffix": "の豊穣",
+    "yomiPrefix": "",
+    "yomiSuffix": "のほうじょう",
+    "category": [
+      "ニィロウ",
+      "元素スキル"
+    ],
+    "comment": "ニィロウの元素スキルによって味方に付与される状態変化。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "遠夢聆泉",
+    "answers": [
+      "えんむれいせん"
+    ],
+    "prefix": "浮蓮のダンス・",
+    "suffix": "",
+    "yomiPrefix": "ふれんのだんす",
+    "yomiSuffix": "",
+    "category": [
+      "ニィロウ",
+      "元素爆発"
+    ],
+    "comment": "ニィロウの元素爆発。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "惑溺",
+    "answers": [
+      "わくでき"
+    ],
+    "prefix": "久遠の",
+    "suffix": "",
+    "yomiPrefix": "くおんの",
+    "yomiSuffix": "",
+    "category": [
+      "ニィロウ",
+      "元素爆発"
+    ],
+    "comment": "ニィロウの元素爆発によって敵に付与される状態。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "清漣",
+    "answers": [
+      "せいれん"
+    ],
+    "prefix": "",
+    "suffix": "の音節",
+    "yomiPrefix": "",
+    "yomiSuffix": "のおんせつ",
+    "category": [
+      "ニィロウ",
+      "命ノ星座"
+    ],
+    "comment": "ニィロウの命ノ星座・第4重。\n「清漣」とは、清らかなさざなみのこと。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "潮騒",
+    "answers": [
+      "しおさい"
+    ],
+    "prefix": "告諭の",
+    "suffix": "",
+    "yomiPrefix": "こくゆの",
+    "yomiSuffix": "",
+    "category": [
+      "ヌヴィレット",
+      "称号"
+    ],
+    "comment": "ヌヴィレットの称号。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "迸",
+    "answers": [
+      "ほとばし"
+    ],
+    "prefix": "",
+    "suffix": "る怒涛",
+    "yomiPrefix": "",
+    "yomiSuffix": "るどとう",
+    "category": [
+      "ヌヴィレット",
+      "元素爆発"
+    ],
+    "comment": "ヌヴィレットの元素爆発によって放たれる攻撃。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "古海継嗣",
+    "answers": [
+      "こかいけいし"
+    ],
+    "prefix": "",
+    "suffix": "の権威",
+    "yomiPrefix": "",
+    "yomiSuffix": "のけんい",
+    "category": [
+      "ヌヴィレット",
+      "固有天賦"
+    ],
+    "comment": "ヌヴィレットの固有天賦。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
     "kanji": "荒星",
     "answers": [
       "こうせい"
@@ -3838,6 +4288,24 @@
     "isOfficial": true
   },
   {
+    "kanji": "墨染櫻",
+    "answers": [
+      "すみぞめざくら"
+    ],
+    "prefix": "霜枯れの",
+    "suffix": "",
+    "yomiPrefix": "しもがれの",
+    "yomiSuffix": "",
+    "category": [
+      "神里綾華",
+      "命ノ星座"
+    ],
+    "comment": "神里綾華の命ノ星座・第1重。\n「墨染桜」は京都にあったという伝説上の桜。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
     "kanji": "蝸虎魚",
     "answers": [
       "ちこざかな"
@@ -3867,6 +4335,23 @@
       "その他"
     ],
     "comment": "群玉閣を浮遊させるのに用いられている石。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "迸発",
+    "answers": [
+      "ほうはつ"
+    ],
+    "prefix": "",
+    "suffix": "の刃",
+    "yomiPrefix": "",
+    "yomiSuffix": "のやいば",
+    "category": [
+      "その他"
+    ],
+    "comment": "フォンテーヌ出身のキャラクターが放つことができる、\nウーシアを帯びた追撃。\n",
     "hint": "none",
     "level": 3,
     "isOfficial": true
@@ -4430,6 +4915,168 @@
     "isOfficial": false
   },
   {
+    "kanji": "纏縛",
+    "answers": [
+      "てんばく"
+    ],
+    "prefix": "草木の",
+    "suffix": "",
+    "yomiPrefix": "くさきの",
+    "yomiSuffix": "",
+    "category": [
+      "ナヒーダ",
+      "元素スキル"
+    ],
+    "comment": "ナヒーダの元素スキルによって発動する効果。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "蘊種印",
+    "answers": [
+      "うんしゅいん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "ナヒーダ",
+      "元素スキル"
+    ],
+    "comment": "ナヒーダの元素スキルによって敵に付与できる効果。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "滅浄三業",
+    "answers": [
+      "めつじょうさんごう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "ナヒーダ",
+      "元素スキル"
+    ],
+    "comment": "ナヒーダの元素スキルによって放たれる攻撃。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "慧明縁覚智論",
+    "answers": [
+      "けいめいえんがくちろん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "ナヒーダ",
+      "固有天賦"
+    ],
+    "comment": "ナヒーダの固有天賦。\n「縁覚」とは、仏の教えによらずに悟りを得た覚者のこと。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "薫習成就",
+    "answers": [
+      "くんじゅうじょうじゅ"
+    ],
+    "prefix": "",
+    "suffix": "の芽",
+    "yomiPrefix": "",
+    "yomiSuffix": "のめ",
+    "category": [
+      "ナヒーダ",
+      "命ノ星座"
+    ],
+    "comment": "ナヒーダの命ノ星座・第3重。\n「薫習」とは、仏教用語で、香りが物に染み入るように、\nあるものが他のものに影響を植えつけることを意味する。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "比量現行",
+    "answers": [
+      "ひりょうげんぎょう"
+    ],
+    "prefix": "",
+    "suffix": "の茎",
+    "yomiPrefix": "",
+    "yomiSuffix": "のくき",
+    "category": [
+      "ナヒーダ",
+      "命ノ星座"
+    ],
+    "comment": "ナヒーダの命ノ星座・第4重。\n「比量」とは、仏教用語で未知の事柄をおしはかること。\n「現行」とは、仏教用語で心の働きが具体的に現れること。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "妙諦破愚",
+    "answers": [
+      "みょうていはぐ"
+    ],
+    "prefix": "",
+    "suffix": "の葉",
+    "yomiPrefix": "",
+    "yomiSuffix": "のは",
+    "category": [
+      "ナヒーダ",
+      "命ノ星座"
+    ],
+    "comment": "ナヒーダの命ノ星座・第5重。\n「妙諦」とは、仏教用語で卓越した真理のこと。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "大辯円成",
+    "answers": [
+      "だいべんえんじょう"
+    ],
+    "prefix": "",
+    "suffix": "の実",
+    "yomiPrefix": "",
+    "yomiSuffix": "のみ",
+    "category": [
+      "ナヒーダ",
+      "命ノ星座"
+    ],
+    "comment": "ナヒーダの命ノ星座・第6重。\n「大辯」とは、優れた弁舌のこと。\n「円成」とは、仏教用語で円満に成就すること。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "瀑",
+    "answers": [
+      "たき"
+    ],
+    "prefix": "立ち騒ぐ",
+    "suffix": "",
+    "yomiPrefix": "たちさわぐ",
+    "yomiSuffix": "",
+    "category": [
+      "ヌヴィレット",
+      "元素スキル"
+    ],
+    "comment": "ヌヴィレットの元素スキルによって放たれる攻撃。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
     "kanji": "蔓生",
     "answers": [
       "まんせい"
@@ -4558,24 +5205,6 @@
     "isOfficial": true
   },
   {
-    "kanji": "墨染櫻",
-    "answers": [
-      "すみぞめざくら"
-    ],
-    "prefix": "霜枯れの",
-    "suffix": "",
-    "yomiPrefix": "しもがれの",
-    "yomiSuffix": "",
-    "category": [
-      "神里綾華",
-      "命ノ星座"
-    ],
-    "comment": "神里綾華の命ノ星座・第1重。\n「墨染桜」は京都にあったという伝説上の桜。\n",
-    "hint": "none",
-    "level": 3,
-    "isOfficial": false
-  },
-  {
     "kanji": "鍋巴",
     "answers": [
       "ぐぅおぱぁー"
@@ -4627,6 +5256,60 @@
     "hint": "none",
     "level": 4,
     "isOfficial": false
+  },
+  {
+    "kanji": "所聞遍計",
+    "answers": [
+      "しょぶんへんげ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "ナヒーダ",
+      "元素スキル"
+    ],
+    "comment": "ナヒーダの元素スキル。\n「遍計」は、仏教用語「遍計所執」から取られたと思われる。\n心の外にあって、分別して捉えられるとされるものの意味。\n",
+    "hint": "none",
+    "level": 4,
+    "isOfficial": false
+  },
+  {
+    "kanji": "浄善摂受明論",
+    "answers": [
+      "じょうぜんしょうじゅめいろん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "ナヒーダ",
+      "固有天賦"
+    ],
+    "comment": "ナヒーダの固有天賦。\n「摂受」とは、仏教用語で衆生の善なる心を受け入れて導くこと。\n",
+    "hint": "none",
+    "level": 4,
+    "isOfficial": true
+  },
+  {
+    "kanji": "滌",
+    "answers": [
+      "あら"
+    ],
+    "prefix": "天を",
+    "suffix": "う水環",
+    "yomiPrefix": "てんを",
+    "yomiSuffix": "うすいかん",
+    "category": [
+      "ニィロウ",
+      "元素スキル"
+    ],
+    "comment": "ニィロウの旋舞のステップによって生成される水の輪。\n",
+    "hint": "none",
+    "level": 4,
+    "isOfficial": true
   },
   {
     "kanji": "潺湲",

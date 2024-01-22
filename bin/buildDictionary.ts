@@ -3,6 +3,7 @@ import fs from 'fs/promises';
 import {stripIndent} from 'common-tags';
 import yaml from 'js-yaml';
 import klaw from 'klaw';
+import {countBy} from 'lodash';
 import {z} from 'zod';
 import type {QuizConfig} from '../src/lib/types';
 
@@ -242,6 +243,8 @@ const getCompiledTerms = (terms: Terms, category: string[]) => {
 	const dictionary = JSON.stringify(quizzes.toSorted((a, b) => a.level - b.level), null, '  ');
 
 	console.log(`Built ${quizzes.length} quizzes.`);
+
+	console.log(countBy(quizzes, (quiz) => quiz.level));
 
 	await fs.writeFile('data/dictionary.json', dictionary);
 })();

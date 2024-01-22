@@ -222,7 +222,7 @@ export const QuizScene = (props: QuizSceneProps) => {
 	const onClickContinue = useCallback(() => {
 		setPhase('playing');
 		setQuiz(getQuizForProgress(progress));
-	}, []);
+	}, [progress]);
 
 	return (
 		<Container>

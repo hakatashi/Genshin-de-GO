@@ -1,19 +1,21 @@
 ニィロウ:
   衣装:
-    - kanji: 花や霧に非ず
-      yomi: はなやきりにひず
+    - kanji: 花や霧に(非)ず
+      yomi: はなやきりに(あら)ず
+      level: 1
       comment: |
         ニィロウの初期衣装。
 
   名刺の飾り紋:
     - kanji: 蓮舞
-      yomi: はちすまい
+      yomi: れんぶ？
       comment: |
         ニィロウの名刺の飾り紋。
 
   称号:
-    - kanji: 絨毯に舞い落ちる蓮光
-      yomi: じゅうたんにまいおちるはちすこう
+    - kanji: (絨毯)に舞い落ちる蓮光
+      yomi: (じゅうたん)にまいおちるれんこう
+      level: 1
       comment: |
         ニィロウの称号。
 
@@ -25,29 +27,113 @@
 
   元素スキル:
     - kanji: 七域のダンス
-      yomi: なないきのだんす
+      yomi: しちいきのだんす
       comment: |
         ニィロウの元素スキル。
 
+    - kanji: ピルエット
+      yomi: ぴるえっと
+      comment: |
+        ニィロウの元素スキルによって自身に付与される状態。
+
+    - kanji: 剣舞のステップ
+      yomi: けんぶのすてっぷ
+      comment: |
+        ニィロウの通常攻撃が元素スキルによって変化した状態。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=jKMxiERjOUQ
+
+    - kanji: 水月
+      yomi: すいげつ
+      comment: |
+        ニィロウの元素スキルによって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=jKMxiERjOUQ
+
+    - kanji: 祈月
+      yomi: きげつ
+      comment: |
+        ニィロウの剣舞のステップによって自身に付与される状態。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=jKMxiERjOUQ
+
+    - kanji: (旋舞)のステップ
+      yomi: (せんぶ)のすてっぷ
+      level: 2
+      comment: |
+        ニィロウの元素スキルが元素スキルによって変化した状態。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=jKMxiERjOUQ
+
+    - kanji: 天を(滌)う水環
+      yomi: てんを(あら)うすいかん
+      level: 4
+      comment: |
+        ニィロウの旋舞のステップによって生成される水の輪。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=jKMxiERjOUQ
+
+    - kanji: (金盃)の豊穣
+      yomi: (きんぱい)のほうじょう
+      level: 2
+      comment: |
+        ニィロウの元素スキルによって味方に付与される状態変化。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=jKMxiERjOUQ
+
+    - kanji: (豊穣)の核
+      yomi: (ほうじょう)のかく
+      level: 1
+      comment: |
+        ニィロウの元素スキルによって生成される特殊な草原核。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=jKMxiERjOUQ
+
   元素爆発:
-    - kanji: 浮蓮のダンス・遠夢聆泉
-      yomi: 浮はちすのだんすとおゆめ聆いずみ
+    - kanji: 浮蓮のダンス・(遠夢聆泉)
+      yomi: ふれんのだんす(えんむれいせん)
+      level: 2
       comment: |
         ニィロウの元素爆発。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=jKMxiERjOUQ
+
+    - kanji: 久遠の(惑溺)
+      yomi: くおんの(わくでき)
+      level: 2
+      comment: |
+        ニィロウの元素爆発によって敵に付与される状態。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=jKMxiERjOUQ
 
   固有天賦:
     - kanji: 落花廻旋の庭
       yomi: らっかかいせんのにわ
       comment: |
         ニィロウの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=jKMxiERjOUQ
 
     - kanji: 軽やかに舞う永世の夢
       yomi: かろやかにまうえいせいのゆめ
       comment: |
         ニィロウの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=jKMxiERjOUQ
 
     - kanji: 白き玉蓮の盃
-      yomi: しろきたまはちすのさかずき
+      yomi: しろきぎょくれんのさかずき
       comment: |
         ニィロウの固有天賦。
 
@@ -58,31 +144,33 @@
         ニィロウの命ノ星座。
 
     - kanji: 却月の舞踊
-      yomi: 却つきのぶよう
+      yomi: きゃくげつのぶよう
       comment: |
         ニィロウの命ノ星座・第1重。
 
     - kanji: 星天の花雨
-      yomi: ほしたかしのはなう
+      yomi: せいてんのかう？
       comment: |
         ニィロウの命ノ星座・第2重。
 
     - kanji: 朝影の蓮歩
-      yomi: あさかげのれんぽ
+      yomi: あさかげのれんぽ？
       comment: |
         ニィロウの命ノ星座・第3重。
 
-    - kanji: 清漣の音節
-      yomi: きよしさざなみのおんせつ
+    - kanji: (清漣)の音節
+      yomi: (せいれん)のおんせつ
+      level: 2
       comment: |
         ニィロウの命ノ星座・第4重。
+        「清漣」とは、清らかなさざなみのこと。
 
     - kanji: 旋舞の流光
-      yomi: 旋まいのりゅうこう
+      yomi: せんぶのりゅうこう
       comment: |
         ニィロウの命ノ星座・第5重。
 
     - kanji: 霜絶の弦歌
-      yomi: しもぜっのげんか
+      yomi: そうぜつのげんか
       comment: |
         ニィロウの命ノ星座・第6重。
