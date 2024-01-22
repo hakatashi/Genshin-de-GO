@@ -51,3 +51,12 @@
       彼女が子供の頃好きだった料理の名前(実在)がつけられている。
       日本語版では「グゥオパァー」表記。
     isOfficial: true
+
+  - kanji: 草原核
+    yomi: そうげんかく
+    level: 1
+    comment: |
+      水元素と草元素が反応することによって生まれる草の核。
+    isOfficial: true
+    ref:
+      - https://genshin.honeyhunterworld.com/q_11015/?lang=JA

@@ -8,26 +8,46 @@
   名刺の飾り紋:
     - kanji: 春風駘蕩
       yomi: しゅんぷうたいとう
+      level: 2
       comment: |
         コレイの名刺の飾り紋。
+        春風がのどかに吹く様子を意味する四字熟語。
 
   称号:
-    - kanji: 純真を抱く萌蘖
-      yomi: じゅんしんをいだくもえひこばえ
+    - kanji: 純真を抱く(萌蘖)
+      yomi: じゅんしんをいだく(ほうげつ)
+      level: 4
       comment: |
         コレイの称号。
+        「萌蘖」とは、種から生じる芽と切り株から生じる芽のこと。
+        転じて、物の発生する元のことを指す。
+      ref:
+        - https://kotobank.jp/word/%E8%90%8C%E8%98%96-627401
 
   通常攻撃:
     - kanji: 祈りの射技
-      yomi: いのりのいわざ
+      yomi: いのりのしゃぎ
       comment: |
         コレイの通常攻撃。
 
   元素スキル:
     - kanji: 花触葉讃
-      yomi: はなさわはさん
+      yomi: かしょくようさん
       comment: |
         コレイの元素スキル。
+
+    - kanji: リーフブーメラン
+      yomi: りーふぶーめらん
+      comment: |
+        コレイの元素スキルで放たれる攻撃。
+
+    - kanji: 芽生え
+      yomi: めばえ
+      comment: |
+        コレイの元素スキル。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=N3zEo2La2xo
 
   元素爆発:
     - kanji: ニャンコトレジャー
@@ -35,16 +55,26 @@
       comment: |
         コレイの元素爆発。
 
+    - kanji: コレアンバー
+      yomi: これあんばー
+      comment: |
+        コレイの元素爆発で召喚される人形。
+
   固有天賦:
     - kanji: フライリーフワインダー
       yomi: ふらいりーふわいんだー
       comment: |
         コレイの固有天賦。
 
-    - kanji: 徐かなること森の如く
-      yomi: じょかなることもりのごとく
+    - kanji: (徐)かなること森の如く
+      yomi: (しず)かなることもりのごとく
+      level: 2
       comment: |
         コレイの固有天賦。
+        『孫子』の「その徐かなること林の如く」が元ネタと思われる。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=N3zEo2La2xo
 
     - kanji: 「スメールの飛行チャンピオン」
       yomi: すめーるのひこうちゃんぴおん

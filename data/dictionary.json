@@ -1,5 +1,22 @@
 [
   {
+    "kanji": "草原核",
+    "answers": [
+      "そうげんかく"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "その他"
+    ],
+    "comment": "水元素と草元素が反応することによって生まれる草の核。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
     "kanji": "北国",
     "answers": [
       "きたくに"
@@ -486,6 +503,492 @@
     "isOfficial": true
   },
   {
+    "kanji": "教令院",
+    "answers": [
+      "きょうれいいん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "スメール",
+      "地名"
+    ],
+    "comment": "スメールの研究機関。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "理",
+    "answers": [
+      "ことわり"
+    ],
+    "prefix": "",
+    "suffix": "を崇める者",
+    "yomiPrefix": "",
+    "yomiSuffix": "をあがめるもの",
+    "category": [
+      "アルハイゼン",
+      "衣装"
+    ],
+    "comment": "アルハイゼンの初期衣装。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "陽華",
+    "answers": [
+      "ようか"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "アルベド",
+      "元素スキル"
+    ],
+    "comment": "アルベドの元素スキルによって生成される花。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "晶台",
+    "answers": [
+      "しょうだい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "アルベド",
+      "元素スキル"
+    ],
+    "comment": "アルベドの元素スキルによって生成される台。\n俗に「アルベーター」とも。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "刹那",
+    "answers": [
+      "せつな"
+    ],
+    "prefix": "",
+    "suffix": "の花",
+    "yomiPrefix": "",
+    "yomiSuffix": "のはな",
+    "category": [
+      "アルベド",
+      "元素スキル"
+    ],
+    "comment": "アルベドの元素スキルによって放たれる攻撃。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "天智",
+    "answers": [
+      "てんち"
+    ],
+    "prefix": "ホムンクルスの",
+    "suffix": "",
+    "yomiPrefix": "ほむんくるすの",
+    "yomiSuffix": "",
+    "category": [
+      "アルベド",
+      "固有天賦"
+    ],
+    "comment": "アルベドの固有天賦。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "無垢",
+    "answers": [
+      "むく"
+    ],
+    "prefix": "",
+    "suffix": "なる土",
+    "yomiPrefix": "",
+    "yomiSuffix": "なるつち",
+    "category": [
+      "アルベド",
+      "命ノ星座"
+    ],
+    "comment": "アルベドの命ノ星座・第6重。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "伯爵",
+    "answers": [
+      "はくしゃく"
+    ],
+    "prefix": "ウサギ",
+    "suffix": "",
+    "yomiPrefix": "うさぎ",
+    "yomiSuffix": "",
+    "category": [
+      "アンバー",
+      "元素スキル"
+    ],
+    "comment": "アンバーが用いる、頼もしい人形。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "一触即発",
+    "answers": [
+      "いっしょくそくはつ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "アンバー",
+      "命ノ星座"
+    ],
+    "comment": "アンバーの命ノ星座・第2重。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "凍",
+    "answers": [
+      "い"
+    ],
+    "prefix": "",
+    "suffix": "てついた大地",
+    "yomiPrefix": "",
+    "yomiSuffix": "てついただいち",
+    "category": [
+      "アーロイ",
+      "元素スキル"
+    ],
+    "comment": "アーロイの元素スキル。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "余風",
+    "answers": [
+      "よふう"
+    ],
+    "prefix": "",
+    "suffix": "の抱擁",
+    "yomiPrefix": "",
+    "yomiSuffix": "のほうよう",
+    "category": [
+      "ウェンティ",
+      "固有天賦"
+    ],
+    "comment": "ウェンティの固有天賦。\n「余風」とは、嵐の後にも続く強い風のこと。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "恒風",
+    "answers": [
+      "こうふう"
+    ],
+    "prefix": "",
+    "suffix": "と共に",
+    "yomiPrefix": "",
+    "yomiSuffix": "とともに",
+    "category": [
+      "ウェンティ",
+      "固有天賦"
+    ],
+    "comment": "ウェンティの固有天賦。\n「恒風」とは、同じ方向に拭き続ける風のこと。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "氷潮",
+    "answers": [
+      "ひょうちょう"
+    ],
+    "prefix": "",
+    "suffix": "の渦",
+    "yomiPrefix": "",
+    "yomiSuffix": "のうず",
+    "category": [
+      "エウルア",
+      "元素スキル"
+    ],
+    "comment": "エウルアの元素スキル。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "冷酷",
+    "answers": [
+      "れいこく"
+    ],
+    "prefix": "",
+    "suffix": "な心",
+    "yomiPrefix": "",
+    "yomiSuffix": "なこころ",
+    "category": [
+      "エウルア",
+      "元素スキル"
+    ],
+    "comment": "エウルアの元素スキルによって獲得できる効果。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "氷渦",
+    "answers": [
+      "ひょうか"
+    ],
+    "prefix": "",
+    "suffix": "の剣",
+    "yomiPrefix": "",
+    "yomiSuffix": "のけん",
+    "category": [
+      "エウルア",
+      "元素スキル"
+    ],
+    "comment": "エウルアの元素スキルによって放たれる攻撃。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "結霜",
+    "answers": [
+      "けっそう"
+    ],
+    "prefix": "",
+    "suffix": "せよ",
+    "yomiPrefix": "",
+    "yomiSuffix": "せよ",
+    "category": [
+      "エウルア",
+      "元素スキル"
+    ],
+    "comment": "エウルアが元素スキルを放つ時のセリフ。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "光臨",
+    "answers": [
+      "こうりん"
+    ],
+    "prefix": "",
+    "suffix": "の剣",
+    "yomiPrefix": "",
+    "yomiSuffix": "のけん",
+    "category": [
+      "エウルア",
+      "元素爆発"
+    ],
+    "comment": "エウルアの元素爆発によって生成される剣。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "霜降",
+    "answers": [
+      "そうこう"
+    ],
+    "prefix": "",
+    "suffix": "の怨",
+    "yomiPrefix": "",
+    "yomiSuffix": "のおん",
+    "category": [
+      "エウルア",
+      "元素爆発"
+    ],
+    "comment": "エウルアが元素爆発を放つ時のセリフ。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "天穹",
+    "answers": [
+      "てんきゅう"
+    ],
+    "prefix": "",
+    "suffix": "の鏡",
+    "yomiPrefix": "",
+    "yomiSuffix": "のかがみ",
+    "category": [
+      "カーヴェ",
+      "称号"
+    ],
+    "comment": "カーヴェの称号。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "描像",
+    "answers": [
+      "びょうぞう"
+    ],
+    "prefix": "ムカルナスの",
+    "suffix": "",
+    "yomiPrefix": "むかるなすの",
+    "yomiSuffix": "",
+    "category": [
+      "カーヴェ",
+      "元素爆発"
+    ],
+    "comment": "カーヴェの元素爆発。\n「描像」とは、像を描くという意味。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "極楽鳥",
+    "answers": [
+      "ごくらくちょう"
+    ],
+    "prefix": "",
+    "suffix": "座",
+    "yomiPrefix": "",
+    "yomiSuffix": "ざ",
+    "category": [
+      "カーヴェ",
+      "命ノ星座"
+    ],
+    "comment": "カーヴェの命ノ星座。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "謁見",
+    "answers": [
+      "えっけん"
+    ],
+    "prefix": "イーワーンにて",
+    "suffix": "",
+    "yomiPrefix": "いーわーんにて",
+    "yomiSuffix": "",
+    "category": [
+      "カーヴェ",
+      "命ノ星座"
+    ],
+    "comment": "カーヴェの命ノ星座・第1重。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "饗宴",
+    "answers": [
+      "きょうえん"
+    ],
+    "prefix": "アパダーナの",
+    "suffix": "",
+    "yomiPrefix": "あぱだーなの",
+    "yomiSuffix": "",
+    "category": [
+      "カーヴェ",
+      "命ノ星座"
+    ],
+    "comment": "カーヴェの命ノ星座・第4重。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "戯",
+    "answers": [
+      "たわむ"
+    ],
+    "prefix": "帆影に",
+    "suffix": "る風",
+    "yomiPrefix": "ほかげに",
+    "yomiSuffix": "るかぜ",
+    "category": [
+      "ガイア",
+      "衣装"
+    ],
+    "comment": "ガイアの限定衣装。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "輪旋",
+    "answers": [
+      "りんせん"
+    ],
+    "prefix": "",
+    "suffix": "の氷",
+    "yomiPrefix": "",
+    "yomiSuffix": "のこおり",
+    "category": [
+      "ガイア",
+      "命ノ星座"
+    ],
+    "comment": "ガイアの命ノ星座・第6重。\n「輪旋」とは、円を描くように廻ること。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "火花騎士",
+    "answers": [
+      "ひばなきし"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "クレー",
+      "称号"
+    ],
+    "comment": "クレーの西風騎士団での称号。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "一触即発",
+    "answers": [
+      "いっしょくそくはつ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "クレー",
+      "命ノ星座"
+    ],
+    "comment": "クレーの命ノ星座・第4重。\n少し触れただけでたちまち爆発するという意味の四字熟語。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
     "kanji": "風圧剣",
     "answers": [
       "ふうあつけん"
@@ -645,7 +1148,7 @@
     "comment": "雷主人公が元素スキルを使用する時の掛け声。\n",
     "hint": "none",
     "level": 1,
-    "isOfficial": false
+    "isOfficial": true
   },
   {
     "kanji": "蔓延",
@@ -663,7 +1166,7 @@
     "comment": "草主人公が元素スキルを使用する時の掛け声。\n",
     "hint": "none",
     "level": 1,
-    "isOfficial": false
+    "isOfficial": true
   },
   {
     "kanji": "棘",
@@ -787,6 +1290,42 @@
       "命ノ星座"
     ],
     "comment": "水主人公の命ノ星座・第5重。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "艶",
+    "answers": [
+      "あで"
+    ],
+    "prefix": "",
+    "suffix": "やかな華",
+    "yomiPrefix": "",
+    "yomiSuffix": "やかなはな",
+    "category": [
+      "神里綾華",
+      "衣装"
+    ],
+    "comment": "神里綾華の初期衣装。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "花時",
+    "answers": [
+      "はなどき"
+    ],
+    "prefix": "",
+    "suffix": "に訪れた手紙",
+    "yomiPrefix": "",
+    "yomiSuffix": "におとずれたてがみ",
+    "category": [
+      "神里綾華",
+      "衣装"
+    ],
+    "comment": "神里綾華の限定衣装。\n「花時」とは、花の咲く盛りの時期のこと。\n",
     "hint": "none",
     "level": 1,
     "isOfficial": false
@@ -1438,6 +1977,384 @@
     "isOfficial": false
   },
   {
+    "kanji": "特殊縛境",
+    "answers": [
+      "とくしゅばくきょう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "アルハイゼン",
+      "元素爆発"
+    ],
+    "comment": "アルハイゼンの元素爆発で生成されるエリア。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "演繹",
+    "answers": [
+      "えんえき"
+    ],
+    "prefix": "理論の",
+    "suffix": "",
+    "yomiPrefix": "りろんの",
+    "yomiSuffix": "",
+    "category": [
+      "アルハイゼン",
+      "元素爆発"
+    ],
+    "comment": "アルハイゼンが元素爆発を使用する際の掛け声\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "四因是正",
+    "answers": [
+      "しいんぜせい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "アルハイゼン",
+      "固有天賦"
+    ],
+    "comment": "アルハイゼンの固有天賦。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "謎林説破",
+    "answers": [
+      "めいりんせっぱ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "アルハイゼン",
+      "固有天賦"
+    ],
+    "comment": "アルハイゼンの固有天賦。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "隼",
+    "answers": [
+      "はやぶさ"
+    ],
+    "prefix": "",
+    "suffix": "座",
+    "yomiPrefix": "",
+    "yomiSuffix": "ざ",
+    "category": [
+      "アルハイゼン",
+      "命ノ星座"
+    ],
+    "comment": "アルハイゼンの命ノ星座。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "星芒",
+    "answers": [
+      "せいぼう"
+    ],
+    "prefix": "新月の",
+    "suffix": "",
+    "yomiPrefix": "しんげつの",
+    "yomiSuffix": "",
+    "category": [
+      "アルベド",
+      "衣装"
+    ],
+    "comment": "アルベドの初期衣装。\n「星芒」とは、星の光のこと。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "生滅",
+    "answers": [
+      "しょうめつ"
+    ],
+    "prefix": "",
+    "suffix": "の花",
+    "yomiPrefix": "",
+    "yomiSuffix": "のはな",
+    "category": [
+      "アルベド",
+      "元素爆発"
+    ],
+    "comment": "アルベドの元素爆発によって放たれる攻撃。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "顕生",
+    "answers": [
+      "けんせい"
+    ],
+    "prefix": "",
+    "suffix": "の宇宙",
+    "yomiPrefix": "",
+    "yomiSuffix": "のうちゅう",
+    "category": [
+      "アルベド",
+      "命ノ星座"
+    ],
+    "comment": "アルベドの命ノ星座・第2重。\nカンブリア紀から続く地質年代のことを「顕生代」と呼ぶ。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "波花騎士",
+    "answers": [
+      "なみばなきし"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "エウルア",
+      "称号"
+    ],
+    "comment": "エウルアの西風騎士団における称号。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "堅氷",
+    "answers": [
+      "けんぴょう"
+    ],
+    "prefix": "",
+    "suffix": "、怨を絶つ",
+    "yomiPrefix": "",
+    "yomiSuffix": "おんをたつ",
+    "category": [
+      "エウルア",
+      "元素爆発"
+    ],
+    "comment": "エウルアが元素爆発を放つ時のセリフ。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "轍",
+    "answers": [
+      "わだち"
+    ],
+    "prefix": "キャラバンサライの",
+    "suffix": "",
+    "yomiPrefix": "きゃらばんさらいの",
+    "yomiSuffix": "",
+    "category": [
+      "カーヴェ",
+      "命ノ星座"
+    ],
+    "comment": "カーヴェの命ノ星座・第2重。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "凛冽",
+    "answers": [
+      "りんれつ"
+    ],
+    "prefix": "",
+    "suffix": "なる輪舞",
+    "yomiPrefix": "",
+    "yomiSuffix": "なるりんぶ",
+    "category": [
+      "ガイア",
+      "元素爆発"
+    ],
+    "comment": "ガイアの元素爆発。\n「凛冽」とは、寒さが厳しい様子のこと。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "蒼鷺",
+    "answers": [
+      "あおさぎ"
+    ],
+    "prefix": "聖儀・",
+    "suffix": "による庇護",
+    "yomiPrefix": "せいぎ",
+    "yomiSuffix": "によるひご",
+    "category": [
+      "キャンディス",
+      "元素スキル"
+    ],
+    "comment": "キャンディスの元素スキル。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "赤冠",
+    "answers": [
+      "せきかん"
+    ],
+    "prefix": "",
+    "suffix": "より授かりし祝福",
+    "yomiPrefix": "",
+    "yomiSuffix": "よりさずかりししゅくふく",
+    "category": [
+      "キャンディス",
+      "元素爆発"
+    ],
+    "comment": "キャンディスの元素爆発によって得られる効果。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "流羽",
+    "answers": [
+      "りゅうは"
+    ],
+    "prefix": "",
+    "suffix": "の守り",
+    "yomiPrefix": "",
+    "yomiSuffix": "のまもり",
+    "category": [
+      "キャンディス",
+      "固有天賦"
+    ],
+    "comment": "キャンディスの固有天賦。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "後嗣",
+    "answers": [
+      "こうし"
+    ],
+    "prefix": "赤砂の",
+    "suffix": "",
+    "yomiPrefix": "せきさの",
+    "yomiSuffix": "",
+    "category": [
+      "キャンディス",
+      "命ノ星座"
+    ],
+    "comment": "キャンディスの命ノ星座・第1重。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "鋒芒",
+    "answers": [
+      "ほうぼう"
+    ],
+    "prefix": "貫月の",
+    "suffix": "",
+    "yomiPrefix": "かんげつの",
+    "yomiSuffix": "",
+    "category": [
+      "キャンディス",
+      "命ノ星座"
+    ],
+    "comment": "キャンディスの命ノ星座・第2重。\n「鋒芒」とは、刃物のきっさきのこと。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "金縷",
+    "answers": [
+      "きんる"
+    ],
+    "prefix": "",
+    "suffix": "の蒼瞳",
+    "yomiPrefix": "",
+    "yomiSuffix": "のそうどう",
+    "category": [
+      "キャンディス",
+      "命ノ星座"
+    ],
+    "comment": "キャンディスの命ノ星座・第5重。\n「金縷」とは、金色の糸のこと。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "春風駘蕩",
+    "answers": [
+      "しゅんぷうたいとう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "コレイ",
+      "名刺の飾り紋"
+    ],
+    "comment": "コレイの名刺の飾り紋。\n春風がのどかに吹く様子を意味する四字熟語。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "徐",
+    "answers": [
+      "しず"
+    ],
+    "prefix": "",
+    "suffix": "かなること森の如く",
+    "yomiPrefix": "",
+    "yomiSuffix": "かなることもりのごとく",
+    "category": [
+      "コレイ",
+      "固有天賦"
+    ],
+    "comment": "コレイの固有天賦。\n『孫子』の「その徐かなること林の如く」が元ネタと思われる。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "蒲公英",
+    "answers": [
+      "だんでぃらいおん"
+    ],
+    "prefix": "",
+    "suffix": "騎士",
+    "yomiPrefix": "",
+    "yomiSuffix": "きし",
+    "category": [
+      "ジン",
+      "称号"
+    ],
+    "comment": "ジンの称号。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
     "kanji": "荒星",
     "answers": [
       "こうせい"
@@ -1453,7 +2370,7 @@
     "comment": "岩主人公が元素スキルを使用する時の掛け声。\n",
     "hint": "none",
     "level": 2,
-    "isOfficial": false
+    "isOfficial": true
   },
   {
     "kanji": "電光雷轟",
@@ -1525,7 +2442,7 @@
     "comment": "雷主人公が元素爆発を使用する時の掛け声。\n仏教の「天鼓雷音如来」に由来すると思われる。\n",
     "hint": "none",
     "level": 2,
-    "isOfficial": false
+    "isOfficial": true
   },
   {
     "kanji": "新蕾貫土",
@@ -1543,7 +2460,7 @@
     "comment": "草主人公が元素爆発を使用する時の掛け声。\n",
     "hint": "none",
     "level": 2,
-    "isOfficial": false
+    "isOfficial": true
   },
   {
     "kanji": "恩眷",
@@ -1578,6 +2495,24 @@
       "命ノ星座"
     ],
     "comment": "水主人公の命ノ星座・第1重。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "白鷺",
+    "answers": [
+      "しらさぎ"
+    ],
+    "prefix": "",
+    "suffix": "氷華",
+    "yomiPrefix": "",
+    "yomiSuffix": "ひょうか",
+    "category": [
+      "神里綾華",
+      "称号"
+    ],
+    "comment": "神里綾華の称号。\n",
     "hint": "none",
     "level": 2,
     "isOfficial": false
@@ -1741,6 +2676,96 @@
     "hint": "none",
     "level": 3,
     "isOfficial": true
+  },
+  {
+    "kanji": "琢光鏡",
+    "answers": [
+      "たくこうきょう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "アルハイゼン",
+      "元素スキル"
+    ],
+    "comment": "アルハイゼンの元素スキルで生成される鏡。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "一挙双擒",
+    "answers": [
+      "いっきょそうきん"
+    ],
+    "prefix": "",
+    "suffix": "！",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "アンバー",
+      "命ノ星座"
+    ],
+    "comment": "アンバーの命ノ星座・第1重。\n一つの行動で二つの目的を果たすという意味の四字熟語。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "戌守",
+    "answers": [
+      "じゅしゅ"
+    ],
+    "prefix": "",
+    "suffix": "の誓約",
+    "yomiPrefix": "",
+    "yomiSuffix": "のせいやく",
+    "category": [
+      "キャンディス",
+      "命ノ星座"
+    ],
+    "comment": "キャンディスの命ノ星座・第4重。\n「戌」は「戍」の誤記と思われる。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "満溢",
+    "answers": [
+      "まんいつ"
+    ],
+    "prefix": "",
+    "suffix": "の潮汐",
+    "yomiPrefix": "",
+    "yomiSuffix": "のちょうせき",
+    "category": [
+      "キャンディス",
+      "命ノ星座"
+    ],
+    "comment": "キャンディスの命ノ星座・第6重。\n「満溢」とは、水などが満ちあふれること。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "戎犬",
+    "answers": [
+      "じゅうけん"
+    ],
+    "prefix": "雄々しき",
+    "suffix": "",
+    "yomiPrefix": "おおしき",
+    "yomiSuffix": "",
+    "category": [
+      "ゴロー",
+      "称号"
+    ],
+    "comment": "ゴローの称号。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
   },
   {
     "kanji": "剣脊",
@@ -2028,6 +3053,24 @@
       "人物"
     ],
     "comment": "三杯酔の店員。\n日本語版では「シニャク」表記。\n",
+    "hint": "none",
+    "level": 4,
+    "isOfficial": false
+  },
+  {
+    "kanji": "萌蘖",
+    "answers": [
+      "ほうげつ"
+    ],
+    "prefix": "純真を抱く",
+    "suffix": "",
+    "yomiPrefix": "じゅんしんをいだく",
+    "yomiSuffix": "",
+    "category": [
+      "コレイ",
+      "称号"
+    ],
+    "comment": "コレイの称号。\n「萌蘖」とは、種から生じる芽と切り株から生じる芽のこと。\n転じて、物の発生する元のことを指す。\n",
     "hint": "none",
     "level": 4,
     "isOfficial": false

@@ -153,6 +153,24 @@ const Quiz = (props: QuizProps) => {
 	);
 };
 
+const getRandomQuiz = (level: number) => {
+	const candidates = dictionary.filter((quiz) => quiz.level === level);
+	return candidates[Math.floor(Math.random() * candidates.length)];
+};
+
+const getQuizForProgress = (progress: number) => {
+	if (progress < 3) {
+		return getRandomQuiz(1);
+	}
+	if (progress < 6) {
+		return getRandomQuiz(2);
+	}
+	if (progress < 9) {
+		return getRandomQuiz(3);
+	}
+	return getRandomQuiz(4);
+};
+
 interface QuizSceneProps {
 	totalProgress: number,
 }
@@ -183,7 +201,7 @@ export const QuizScene = (props: QuizSceneProps) => {
 	});
 
 	useEffect(() => {
-		setQuiz(dictionary[Math.floor(Math.random() * dictionary.length)]);
+		setQuiz(getQuizForProgress(progress));
 	}, []);
 
 	const onEnd = useCallback((state: 'correct' | 'wrong') => {
@@ -192,7 +210,7 @@ export const QuizScene = (props: QuizSceneProps) => {
 				setPhase('clear');
 			} else {
 				setProgress(progress + 1);
-				setQuiz(dictionary[Math.floor(Math.random() * dictionary.length)]);
+				setQuiz(getQuizForProgress(progress + 1));
 			}
 		} else {
 			setRemainingLife(remainingLife - 1);
@@ -203,7 +221,7 @@ export const QuizScene = (props: QuizSceneProps) => {
 
 	const onClickContinue = useCallback(() => {
 		setPhase('playing');
-		setQuiz(dictionary[Math.floor(Math.random() * dictionary.length)]);
+		setQuiz(getQuizForProgress(progress));
 	}, []);
 
 	return (

@@ -55,6 +55,7 @@
       level: 2
       comment: |
         岩主人公が元素スキルを使用する時の掛け声。
+      isOfficial: true
 
     - kanji: 雷影剣
       yomi: らいえいけん
@@ -71,12 +72,14 @@
       level: 1
       comment: |
         雷主人公が元素スキルを使用する時の掛け声。
+      isOfficial: true
 
     - kanji: (蔓延)れ
       yomi: (はびこ)れ
       level: 1
       comment: |
         草主人公が元素スキルを使用する時の掛け声。
+      isOfficial: true
 
     - kanji: 草縁剣
       yomi: そうえんけん？
@@ -150,6 +153,7 @@
       comment: |
         雷主人公が元素爆発を使用する時の掛け声。
         仏教の「天鼓雷音如来」に由来すると思われる。
+      isOfficial: true
 
     - kanji: 臥草若化
       yomi: がそうじゃっか？
@@ -178,6 +182,7 @@
       level: 2
       comment: |
         草主人公が元素爆発を使用する時の掛け声。
+      isOfficial: true
 
     - kanji: 昇流統水
       yomi: しょうりゅうとうすい

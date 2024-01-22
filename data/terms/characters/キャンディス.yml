@@ -1,53 +1,70 @@
 キャンディス:
   衣装:
-    - kanji: 砂漠と夜キャンディスの衣装。どこに行こうとも、服を飾っている金色の砂漠と故郷の夜空は付き添ってくれる。
-      yomi: さばくとよるきゃんでぃすのいしょうどこにいこうともふくをかざっているきんいろのさばくとこきょうのよぞらはつきそってくれる
+    - kanji: 砂漠と夜
+      yomi: さばくとよる
       comment: |
         キャンディスの初期衣装。
 
   名刺の飾り紋:
     - kanji: 蒼鷺
-      yomi: あおいさぎ
+      yomi: あおさぎ
       comment: |
         キャンディスの名刺の飾り紋。
 
   称号:
     - kanji: 浮金の誓願
-      yomi: うきがねのせいがん
+      yomi: うきがねのせいがん？
       comment: |
         キャンディスの称号。
 
   通常攻撃:
     - kanji: 流耀槍術・守勢
-      yomi: ながれ耀そうじゅつしゅせい
+      yomi: りゅうようそうじゅつしゅせい
       comment: |
         キャンディスの通常攻撃。
 
   元素スキル:
-    - kanji: 聖儀・蒼鷺による庇護
-      yomi: ひじりただしあおいさぎによるひご
+    - kanji: 聖儀・(蒼鷺)による庇護
+      yomi: せいぎ(あおさぎ)によるひご
+      level: 2
       comment: |
         キャンディスの元素スキル。
 
   元素爆発:
     - kanji: 聖儀・灰鴒の呼び潮
-      yomi: ひじりただしはい鴒のよびしお
+      yomi: せいぎはいれいのよびしお？
       comment: |
         キャンディスの元素爆発。
 
-  固有天賦:
-    - kanji: 流羽の守り
-      yomi: ながれわのもり
+    - kanji: (赤冠)より授かりし祝福
+      yomi: (せきかん)よりさずかりししゅくふく
       comment: |
-        キャンディスの固有天賦。
+        キャンディスの元素爆発によって得られる効果。
+      isOfficial: true
+      level: 2
+      ref:
+        - https://www.youtube.com/watch?v=8OC1c-KlNRA
 
-    - kanji: 砂の円蓋
-      yomi: すなのえんがい
+  固有天賦:
+    - kanji: (流羽)の守り
+      yomi: (りゅうは)のまもり
       comment: |
         キャンディスの固有天賦。
+      level: 2
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=8OC1c-KlNRA
+
+    - kanji: 砂の(円蓋)
+      yomi: すなの(えんがい)
+      comment: |
+        キャンディスの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=8OC1c-KlNRA
 
     - kanji: 暁の初陽へ
-      yomi: あかつきのはつひへ
+      yomi: あかつきのしょようへ？
       comment: |
         キャンディスの固有天賦。
 
@@ -57,32 +74,41 @@
       comment: |
         キャンディスの命ノ星座。
 
-    - kanji: 赤砂の後嗣
-      yomi: あかすなのこうし
+    - kanji: 赤砂の(後嗣)
+      yomi: せきさの(こうし)
+      level: 2
       comment: |
         キャンディスの命ノ星座・第1重。
 
-    - kanji: 貫月の鋒芒
-      yomi: ぬきつきのほこさきすすき
+    - kanji: 貫月の(鋒芒)
+      yomi: かんげつの(ほうぼう)
+      level: 2
       comment: |
         キャンディスの命ノ星座・第2重。
+        「鋒芒」とは、刃物のきっさきのこと。
 
     - kanji: 織狩の奉祀
-      yomi: おかりのほうし
+      yomi: しょくしゅのほうし？
       comment: |
         キャンディスの命ノ星座・第3重。
 
-    - kanji: 戌守の誓約
-      yomi: いぬもりのせいやく
+    - kanji: (戌守)の誓約
+      yomi: (じゅしゅ)のせいやく
+      level: 3
       comment: |
         キャンディスの命ノ星座・第4重。
+        「戌」は「戍」の誤記と思われる。
 
-    - kanji: 金縷の蒼瞳
-      yomi: きむ縷のあおいひとみ
+    - kanji: (金縷)の蒼瞳
+      yomi: (きんる)のそうどう
+      level: 2
       comment: |
         キャンディスの命ノ星座・第5重。
+        「金縷」とは、金色の糸のこと。
 
-    - kanji: 満溢の潮汐
-      yomi: まん溢のちょうせき
+    - kanji: (満溢)の潮汐
+      yomi: (まんいつ)のちょうせき
+      level: 3
       comment: |
         キャンディスの命ノ星座・第6重。
+        「満溢」とは、水などが満ちあふれること。

@@ -13,13 +13,13 @@
 
   称号:
     - kanji: 風色の詩人
-      yomi: ふうしょくのしじん
+      yomi: かぜいろのしじん
       comment: |
         ウェンティの称号。
 
   通常攻撃:
     - kanji: 神代の射術
-      yomi: かみよのしゃじゅつ
+      yomi: かみよのしゃじゅつ？
       comment: |
         ウェンティの通常攻撃。
 
@@ -28,6 +28,9 @@
       yomi: こうてんのうた
       comment: |
         ウェンティの元素スキル。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=cRL6LdEXUqo
 
   元素爆発:
     - kanji: 風神の詩
@@ -36,20 +39,30 @@
         ウェンティの元素爆発。
 
   固有天賦:
-    - kanji: 余風の抱擁
-      yomi: よふうのほうよう
+    - kanji: (余風)の抱擁
+      yomi: (よふう)のほうよう
+      level: 1
       comment: |
         ウェンティの固有天賦。
+        「余風」とは、嵐の後にも続く強い風のこと。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=cRL6LdEXUqo
 
     - kanji: 暴風の目
       yomi: ぼうふうのめ
       comment: |
         ウェンティの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=cRL6LdEXUqo
 
-    - kanji: 恒風と共に
-      yomi: つねふうとともに
+    - kanji: (恒風)と共に
+      yomi: (こうふう)とともに
+      level: 1
       comment: |
         ウェンティの固有天賦。
+        「恒風」とは、同じ方向に拭き続ける風のこと。
 
   命ノ星座:
     - kanji: 歌仙座
@@ -58,7 +71,7 @@
         ウェンティの命ノ星座。
 
     - kanji: 矢先の蒼風
-      yomi: やさきのあおふう
+      yomi: やさきのそうふう
       comment: |
         ウェンティの命ノ星座・第1重。
 

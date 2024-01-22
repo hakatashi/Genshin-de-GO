@@ -7,63 +7,134 @@
 
   名刺の飾り紋:
     - kanji: 氷印
-      yomi: こおりしるし
+      yomi: ひょういん？
       comment: |
         エウルアの名刺の飾り紋。
 
   称号:
     - kanji: 波沫のワルツ
-      yomi: なみあわのわるつ
+      yomi: なみしぶきのわるつ？
       comment: |
         エウルアの称号。
 
+    - kanji: 波花騎士
+      yomi: なみばなきし
+      level: 2
+      comment: |
+        エウルアの西風騎士団における称号。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=KmwuGsik5Fw
+
   通常攻撃:
     - kanji: 西風剣術・旧貴族
-      yomi: せいふうけんじゅつきゅうきぞく
+      yomi: せぴゅろすけんじゅつきゅうきぞく
       comment: |
         エウルアの通常攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=KmwuGsik5Fw
 
   元素スキル:
-    - kanji: 氷潮の渦
-      yomi: こおりしおのうず
+    - kanji: (氷潮)の渦
+      yomi: (ひょうちょう)のうず
       comment: |
         エウルアの元素スキル。
+      level: 1
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=KmwuGsik5Fw
+
+    - kanji: (冷酷)な心
+      yomi: (れいこく)なこころ
+      comment: |
+        エウルアの元素スキルによって獲得できる効果。
+      level: 1
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=KmwuGsik5Fw
+
+    - kanji: (氷渦)の剣
+      yomi: (ひょうか)のけん
+      comment: |
+        エウルアの元素スキルによって放たれる攻撃。
+      level: 1
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=KmwuGsik5Fw
+
+    - kanji: (結霜)せよ
+      yomi: (けっそう)せよ
+      comment: |
+        エウルアが元素スキルを放つ時のセリフ。
+      level: 1
+      isOfficial: true
 
   元素爆発:
+    # 元素爆発ボイスに「氷浪(ひょうろう)のように唸れ」がある
     - kanji: 氷浪の光剣
-      yomi: こおりなみのひかりけん
+      yomi: ひょうろうのひかりけん
       comment: |
         エウルアの元素爆発。
+
+    - kanji: (光臨)の剣
+      yomi: (こうりん)のけん
+      comment: |
+        エウルアの元素爆発によって生成される剣。
+      level: 1
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=KmwuGsik5Fw
+
+    - kanji: (霜降)の怨
+      yomi: (そうこう)のおん
+      comment: |
+        エウルアが元素爆発を放つ時のセリフ。
+      level: 1
+      isOfficial: true
+
+    - kanji: (堅氷)、怨を絶つ
+      yomi: (けんぴょう)おんをたつ
+      comment: |
+        エウルアが元素爆発を放つ時のセリフ。
+      level: 2
+      isOfficial: true
 
   固有天賦:
     - kanji: 氷の残剣
       yomi: こおりのざんけん
       comment: |
         エウルアの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=KmwuGsik5Fw
 
     - kanji: 戦意の表れ
       yomi: せんいのあらわれ
       comment: |
         エウルアの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=KmwuGsik5Fw
 
     - kanji: 貴族の省察
-      yomi: きぞくのせいさつ
+      yomi: きぞくのせいさつ？
       comment: |
         エウルアの固有天賦。
 
   命ノ星座:
     - kanji: 波沫座
-      yomi: なみあわざ
+      yomi: なみしぶきざ？
       comment: |
         エウルアの命ノ星座。
 
     - kanji: 潮の幻像
-      yomi: しおのげんぞう
+      yomi: しおのげんぞう？
       comment: |
         エウルアの命ノ星座・第1重。
 
     - kanji: 波花の淑女
-      yomi: なみはなのしゅくじょ
+      yomi: なみばなのしゅくじょ
       comment: |
         エウルアの命ノ星座・第2重。
 

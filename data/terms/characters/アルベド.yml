@@ -1,53 +1,103 @@
 アルベド:
   衣装:
-    - kanji: 新月の星芒
-      yomi: しんげつのほしすすき
+    - kanji: 新月の(星芒)
+      yomi: しんげつの(せいぼう)
+      level: 2
       comment: |
         アルベドの初期衣装。
+        「星芒」とは、星の光のこと。
 
   名刺の飾り紋:
     - kanji: 陽華
-      yomi: ひはな
+      yomi: ようか
       comment: |
         アルベドの名刺の飾り紋。
 
   称号:
-    - kanji: 白亜の申し子
-      yomi: はくあのもうしご
+    - kanji: (白亜)の申し子
+      yomi: (はくあ)のもうしご
       comment: |
         アルベドの称号。
+        「白亜」とは、石灰岩の一種。
 
   通常攻撃:
     - kanji: 西風剣術・白
-      yomi: せいふうけんじゅつしろ
+      yomi: せぴゅろすけんじゅつはく？
       comment: |
         アルベドの通常攻撃。
 
   元素スキル:
-    - kanji: 創生術・擬似陽華
-      yomi: そうせいじゅつぎじひはな
+    - kanji: 創生術・(擬似陽華)
+      yomi: そうせいじゅつ(ぎじようか)
       comment: |
         アルベドの元素スキル。
+      isOfficial: true
+      ref:
+        - 元素スキルボイス
+
+    - kanji: 陽華
+      yomi: ようか
+      level: 1
+      comment: |
+        アルベドの元素スキルによって生成される花。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=3YYiMk5hsTc
+
+    - kanji: 晶台
+      yomi: しょうだい
+      level: 1
+      comment: |
+        アルベドの元素スキルによって生成される台。
+        俗に「アルベーター」とも。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=3YYiMk5hsTc
+
+    - kanji: (刹那)の花
+      yomi: (せつな)のはな
+      level: 1
+      comment: |
+        アルベドの元素スキルによって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=3YYiMk5hsTc
 
   元素爆発:
     - kanji: 誕生式・大地の潮
-      yomi: たんじょうしきだいちのしお
+      yomi: たんじょうしきだいちのしお？
       comment: |
         アルベドの元素爆発。
 
+    - kanji: (生滅)の花
+      yomi: (しょうめつ)のはな
+      level: 2
+      comment: |
+        アルベドの元素爆発によって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=3YYiMk5hsTc
+
   固有天賦:
     - kanji: 白亜色の気迫
-      yomi: はくあしょくのきはく
+      yomi: はくあいろのきはく
       comment: |
         アルベドの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=3YYiMk5hsTc
 
-    - kanji: ホムンクルスの天智
-      yomi: ほむんくるすのてんじ
+    - kanji: ホムンクルスの(天智)
+      yomi: ほむんくるすの(てんち)
+      level: 1
       comment: |
         アルベドの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=3YYiMk5hsTc
 
     - kanji: 天才の気付き
-      yomi: てんさいのきつき
+      yomi: てんさいのきづき
       comment: |
         アルベドの固有天賦。
 
@@ -62,10 +112,13 @@
       comment: |
         アルベドの命ノ星座・第1重。
 
-    - kanji: 顕生の宇宙
-      yomi: あらわせいのうちゅう
+    # 元素爆発ボイスに「冥王(めいおう)、顕生(けんせい)へ。」がある
+    - kanji: (顕生)の宇宙
+      yomi: (けんせい)のうちゅう
+      level: 2
       comment: |
         アルベドの命ノ星座・第2重。
+        カンブリア紀から続く地質年代のことを「顕生代」と呼ぶ。
 
     - kanji: 太陽の華
       yomi: たいようのはな
@@ -78,11 +131,12 @@
         アルベドの命ノ星座・第4重。
 
     - kanji: 太古の潮
-      yomi: たいこのしお
+      yomi: たいこのしお？
       comment: |
         アルベドの命ノ星座・第5重。
 
-    - kanji: 無垢なる土
-      yomi: むくなるど
+    - kanji: (無垢)なる土
+      yomi: (むく)なるつち
+      level: 1
       comment: |
         アルベドの命ノ星座・第6重。

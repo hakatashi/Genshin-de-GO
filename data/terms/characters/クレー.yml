@@ -6,7 +6,7 @@
         クレーの初期衣装。
 
     - kanji: 星燭に揺れる爛花
-      yomi: ほししょくにゆれる爛はな
+      yomi: せいしょくにゆれるらんか？
       comment: |
         クレーの限定衣装。
 
@@ -22,6 +22,15 @@
       comment: |
         クレーの称号。
 
+    - kanji: 火花騎士
+      yomi: ひばなきし
+      level: 1
+      comment: |
+        クレーの西風騎士団での称号。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=6ypMge3YKws
+
   通常攻撃:
     - kanji: バンバン
       yomi: ばんばん
@@ -33,12 +42,18 @@
       yomi: ぼんぼんばくだん
       comment: |
         クレーの元素スキル。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=6ypMge3YKws
 
   元素爆発:
     - kanji: ドッカン花火
       yomi: どっかんはなび
       comment: |
         クレーの元素爆発。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=6ypMge3YKws
 
   固有天賦:
     - kanji: こんこんプレゼント
@@ -50,15 +65,18 @@
       yomi: むげんはなび
       comment: |
         クレーの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=6ypMge3YKws
 
     - kanji: 宝物揃い
-      yomi: ほうもつそろい
+      yomi: ほうもつぞろい？
       comment: |
         クレーの固有天賦。
 
   命ノ星座:
     - kanji: 四つ葉座
-      yomi: よっつはざ
+      yomi: よつばざ
       comment: |
         クレーの命ノ星座。
 
@@ -79,11 +97,13 @@
 
     - kanji: 一触即発
       yomi: いっしょくそくはつ
+      level: 1
       comment: |
         クレーの命ノ星座・第4重。
+        少し触れただけでたちまち爆発するという意味の四字熟語。
 
     - kanji: 轟撃の星
-      yomi: とどろき撃のほし
+      yomi: ごうげきのほし
       comment: |
         クレーの命ノ星座・第5重。
 

@@ -1,50 +1,119 @@
 ゴロー:
   衣装:
     - kanji: 百狩の鎧
-      yomi: ひゃくかりのよろい
+      yomi: ひゃくしゅのよろい？
       comment: |
         ゴローの初期衣装。
 
   名刺の飾り紋:
     - kanji: 悠犬
-      yomi: ゆういぬ
+      yomi: ゆうけん
       comment: |
         ゴローの名刺の飾り紋。
 
   称号:
-    - kanji: 雄々しき戎犬
-      yomi: おおしきえびすいぬ
+    - kanji: 雄々しき(戎犬)
+      yomi: おおしき(じゅうけん)
+      level: 3
       comment: |
         ゴローの称号。
+      ref:
+        - https://twitter.com/genshin_kanji/status/1464207113819869189
 
   通常攻撃:
     - kanji: 獣牙裂扇矢
-      yomi: ししきば裂おうぎや
+      yomi: じゅうがれっせんし？
       comment: |
         ゴローの通常攻撃。
 
   元素スキル:
-    - kanji: 犬坂の遠吠え方円陣
-      yomi: いぬざかのとおぼえほうえんじん
+    - kanji: 犬坂の(遠吠)え方円陣
+      yomi: いぬさかの(とおぼ)えほうえんじん
+      level: 1
       comment: |
         ゴローの元素スキル。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=q4oY0fXHI8g
+
+    - kanji: 大将の(旗指物)
+      yomi: たいしょうの(はたさしもの)
+      level: 3
+      comment: |
+        ゴローの元素スキルによって生成されるエリア。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=q4oY0fXHI8g
+
+    - kanji: 「堅牢」
+      yomi: けんろう
+      comment: |
+        ゴローの元素スキルによって得られる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=q4oY0fXHI8g
+
+    - kanji: 「破耐」
+      yomi: はたい
+      comment: |
+        ゴローの元素スキルによって得られる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=q4oY0fXHI8g
+
+    - kanji: 「粉砕」
+      yomi: ふんさい
+      comment: |
+        ゴローの元素スキルによって得られる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=q4oY0fXHI8g
 
   元素爆発:
-    - kanji: 獣牙突撃陣形戦法
-      yomi: ししきばとつげきじんけいせんぽう
+    - kanji: (獣牙)突撃陣形戦法
+      yomi: (じゅうが)とつげきじんけいせんぽう
+      level: 2
       comment: |
         ゴローの元素爆発。
+      ref:
+        - '英語版名称「Juuga: Forward Unto Victory」'
+
+    - kanji: 大将威儀
+      yomi: たいしょういぎ
+      level: 2
+      comment: |
+        ゴローの元素爆発によって生成されるエリア。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=q4oY0fXHI8g
+
+    - kanji: 岩晶崩滅
+      yomi: がんしょうほうめつ
+      level: 2
+      comment: |
+        ゴローの元素爆発によって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=q4oY0fXHI8g
 
   固有天賦:
-    - kanji: 風雨を恐れず
-      yomi: ふううをおそれず
+    - kanji: (風雨)を恐れず
+      yomi: (ふうう)をおそれず
+      level: 1
       comment: |
         ゴローの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=q4oY0fXHI8g
 
-    - kanji: 報恩の守護
+    - kanji: (報恩)の守護
       yomi: ほうおんのしゅご
+      level: 1
       comment: |
         ゴローの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=q4oY0fXHI8g
 
     - kanji: キラキラ発見術
       yomi: きらきらはっけんじゅつ
@@ -57,32 +126,34 @@
       comment: |
         ゴローの命ノ星座。
 
-    - kanji: 犬瞬・疾きこと風の如く
-      yomi: いぬまどか疾きことかぜのごとく
+    - kanji: 犬瞬・(疾)きこと風の如く
+      yomi: けんしゅん(はや、と)きことかぜのごとく
+      level: 2
       comment: |
         ゴローの命ノ星座・第1重。
+        『孫子』の「其の疾きこと風の如く」が元ネタと思われる。
 
     - kanji: 犬座・確固たること鐘の如く
-      yomi: いぬざかっこたることかねのごとく
+      yomi: けんざかっこたることかねのごとく
       comment: |
         ゴローの命ノ星座・第2重。
 
     - kanji: 犬爪・圧すること火の如く
-      yomi: いぬつめあっすることひのごとく
+      yomi: けんそうあっすることひのごとく？
       comment: |
         ゴローの命ノ星座・第3重。
 
     - kanji: 犬舌・優しきこと水の如く
-      yomi: いぬしたやさしきことみずのごとく
+      yomi: けんぜつやさしきことみずのごとく？
       comment: |
         ゴローの命ノ星座・第4重。
 
     - kanji: 犬突・動くこと雷の如く
-      yomi: いぬ突うごくことかみなりのごとく
+      yomi: けんとつうごくことかみなりのごとく？
       comment: |
         ゴローの命ノ星座・第5重。
 
     - kanji: 犬勇・忠に厚きこと山の如く
-      yomi: いぬいさむちゅうにあつきことやまのごとく
+      yomi: けんゆうちゅうにあつきことやまのごとく？
       comment: |
         ゴローの命ノ星座・第6重。
