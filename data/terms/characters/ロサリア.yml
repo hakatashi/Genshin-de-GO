@@ -11,10 +11,12 @@
         ロサリアのオルタ衣装。
 
   称号:
-    - kanji: 荊冠の恩典
-      yomi: けいかんのおんてん
+    - kanji: (荊冠)の恩典
+      yomi: (けいかん)のおんてん
+      level: 2
       comment: |
         ロサリアの称号。
+        「荊冠」とは、キリストが十字架の上で被せられたイバラの冠のこと。
 
   通常攻撃:
     - kanji: 教会槍術
@@ -23,38 +25,63 @@
         ロサリアの通常攻撃。
 
   元素スキル:
-    - kanji: 罪喰いの懺悔
+    - kanji: 罪喰いの(懺悔)
       yomi: つみくいのざんげ
+      level: 1
       comment: |
         ロサリアの元素スキル。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=wymYk-m113A
 
   元素爆発:
     - kanji: 臨終の聖礼
-      yomi: りんじゅうのひじりあや
+      yomi: りんじゅうのせいれい
       comment: |
         ロサリアの元素爆発。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=wymYk-m113A
+
+    - kanji: 氷槍
+      yomi: ひょうそう
+      level: 2
+      comment: |
+        ロサリアの元素爆発。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=wymYk-m113A
 
   固有天賦:
-    - kanji: 懺悔に耳を傾ける幻影
-      yomi: ざんげにみみをかたむけるげんえい
+    - kanji: (懺悔)に耳を傾ける幻影
+      yomi: (ざんげ)にみみをかたむけるげんえい
+      level: 1
       comment: |
         ロサリアの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=wymYk-m113A
 
     - kanji: 陰から支える暗色
       yomi: かげからささえるあんしょく
       comment: |
         ロサリアの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=wymYk-m113A
 
     - kanji: 夜行
-      yomi: やこう
+      yomi: やこう?
       comment: |
         ロサリアの固有天賦。
 
   命ノ星座:
-    - kanji: 荊冠座
-      yomi: けいかんざ
+    - kanji: (荊冠)座
+      yomi: (けいかん)ざ
+      level: 2
       comment: |
         ロサリアの命ノ星座。
+        「荊冠」とは、キリストが十字架の上で被せられたイバラの冠のこと。
 
     - kanji: 罪の導き
       yomi: つみのみちびき

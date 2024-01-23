@@ -1,7 +1,7 @@
 モナ:
   衣装:
     - kanji: 星命流転
-      yomi: ほしいのちるてん
+      yomi: せいめいるてん?
       comment: |
         モナの初期衣装。
 
@@ -12,45 +12,81 @@
 
   名刺の飾り紋:
     - kanji: 天星
-      yomi: てんぼし
+      yomi: てんせい
       comment: |
         モナの名刺の飾り紋。
 
   称号:
     - kanji: 星天水鏡
-      yomi: ほしてんすいきょう
+      yomi: せいてんすいきょう
       comment: |
         モナの称号。
 
   通常攻撃:
     - kanji: 因果点破
-      yomi: いんがてんやぶ
+      yomi: いんがてんぱ
       comment: |
         モナの通常攻撃。
 
   元素スキル:
     - kanji: 水中幻願
-      yomi: すいちゅうまぼろしねがい
+      yomi: すいちゅうげんがん
+      level: 1
       comment: |
         モナの元素スキル。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=iPidokj6_Yw
+
+    - kanji: 運命の虚影
+      yomi: うんめいのきょえい
+      comment: |
+        モナの元素スキルによって生成される影。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=iPidokj6_Yw
 
   特殊天賦:
     - kanji: 虚実流動
       yomi: きょじつりゅうどう
+      level: 1
       comment: |
         モナの特殊天賦。
+        ダッシュの代わりに発動する。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=iPidokj6_Yw
 
   元素爆発:
     - kanji: 星命定軌
-      yomi: ほしいのちてい軌
+      yomi: せいめいじょうき?
       comment: |
         モナの元素爆発。
 
+    - kanji: 泡影
+      yomi: ほうえい
+      comment: |
+        モナの元素爆発によって敵に与えることができる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=iPidokj6_Yw
+
+    - kanji: 星異
+      yomi: せいい
+      comment: |
+        モナの元素爆発によって敵に与えることができる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=iPidokj6_Yw
+
   固有天賦:
     - kanji: 「おばば、私を捕まえられますか～」
-      yomi: おばばわたしをつかまえられますか～
+      yomi: おばばわたしをつかまえられますか
       comment: |
         モナの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=iPidokj6_Yw
 
     - kanji: 「運命の流れに任せましょう！」
       yomi: うんめいのながれにまかせましょう
@@ -64,7 +100,7 @@
 
   命ノ星座:
     - kanji: 映天座
-      yomi: うつあまざ
+      yomi: えいてんざ?
       comment: |
         モナの命ノ星座。
 
@@ -74,22 +110,25 @@
         モナの命ノ星座・第1重。
 
     - kanji: 星月の連珠
-      yomi: ほしつきのれんじゅ
+      yomi: せいげつのれんじゅ?
       comment: |
         モナの命ノ星座・第2重。
 
-    - kanji: 果てしない天象
-      yomi: はてしないてんしょう
+    - kanji: 果てしない(天象)
+      yomi: はてしない(てんしょう)
+      level: 1
       comment: |
         モナの命ノ星座・第3重。
+        「天象」とは天体にまつわる現象のこと。
 
     - kanji: 絶滅の預言
       yomi: ぜつめつのよげん
       comment: |
         モナの命ノ星座・第4重。
 
-    - kanji: 運命の愚弄
-      yomi: うんめいのぐろう
+    - kanji: 運命の(愚弄)
+      yomi: うんめいの(ぐろう)
+      level: 1
       comment: |
         モナの命ノ星座・第5重。
 

@@ -198,6 +198,14 @@ const compileEntry = (entry: Entry, category: string[]) => {
 				`);
 			}
 		}
+
+		if (quiz.kanji.match(/^[ぁ-んー]+$/)) {
+			throw new Error(stripIndent`
+				漢字にひらがなが含まれています。
+				漢字: ${quiz.kanji}
+				読み: ${quiz.answers}
+			`);
+		}
 	}
 
 	return quizzes;

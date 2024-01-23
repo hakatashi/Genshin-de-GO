@@ -13,41 +13,100 @@
 
   称号:
     - kanji: 綺思と夜星
-      yomi: あやぎぬ思とよるほし
+      yomi: きしとよぼし
       comment: |
         レイラの称号。
 
   通常攻撃:
-    - kanji: 煌めく軌跡の剣
-      yomi: きらめくきせきのけん
+    - kanji: (煌)めく軌跡の剣
+      yomi: (きら)めくきせきのけん
+      level: 1
       comment: |
         レイラの通常攻撃。
 
   元素スキル:
-    - kanji: 垂裳凛然の夜
-      yomi: しでもりんぜんのよる
+    - kanji: (垂裳凛然)の夜
+      yomi: (すいしょうりんぜん)のよる
+      level: 2
       comment: |
         レイラの元素スキル。
+        「垂裳」とは、何もせず為すがままでいること。
+
+    - kanji: 安眠天幕シールド
+      yomi: あんみんてんまくしーるど
+      comment: |
+        レイラの元素スキルによって獲得できるシールド。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=V784hs5DMps
+
+    - kanji: 夜星
+      yomi: よぼし
+      level: 1
+      comment: |
+        レイラの元素スキルによって獲得できる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=V784hs5DMps
+
+    - kanji: 飛星
+      yomi: ひせい
+      comment: |
+        レイラの元素スキルによって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=V784hs5DMps
+
+    - kanji: 深眠
+      yomi: しんみん
+      comment: |
+        レイラの元素スキルによって獲得できる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=V784hs5DMps
 
   元素爆発:
     - kanji: 星流揺籠の夢
-      yomi: ほしりゅうゆらかごのゆめ
+      yomi: せいりゅうゆりかごのゆめ?
       comment: |
         レイラの元素爆発。
+
+    - kanji: 天球
+      yomi: てんきゅう
+      comment: |
+        レイラの元素爆発によって召喚される大きな球。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=V784hs5DMps
+
+    - kanji: 星光弾
+      yomi: せいこうだん
+      level: 1
+      comment: |
+        レイラの元素爆発によって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=V784hs5DMps
 
   固有天賦:
     - kanji: 降って湧いた光のように
       yomi: ふってわいたひかりのように
       comment: |
         レイラの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=V784hs5DMps
 
     - kanji: 熟睡妨害禁止！
       yomi: じゅくすいぼうがいきんし
       comment: |
         レイラの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=V784hs5DMps
 
     - kanji: 重なる影の夢兆
-      yomi: かさなるかげのゆめちょう
+      yomi: かさなるかげのむちょう
       comment: |
         レイラの固有天賦。
 
@@ -58,7 +117,7 @@
         レイラの命ノ星座。
 
     - kanji: 果てなき夢の領士
-      yomi: はてなきゆめのりょうし
+      yomi: はてなきゆめのりょうし?
       comment: |
         レイラの命ノ星座・第1重。
 
@@ -68,14 +127,16 @@
         レイラの命ノ星座・第2重。
 
     - kanji: 秘密を見せる長夜
-      yomi: ひみつをみせるちょうや
+      yomi: ひみつをみせるながよ?
       comment: |
         レイラの命ノ星座・第3重。
 
-    - kanji: 啓示を照らす星芒
-      yomi: けいじをてらすほしすすき
+    - kanji: 啓示を照らす(星芒)
+      yomi: けいじをてらす(せいぼう)
+      level: 1
       comment: |
         レイラの命ノ星座・第4重。
+        「星芒」とは、星の光のこと。
 
     - kanji: 浮流の時に夢みるように
       yomi: ふりゅうのときにゆめみるように
@@ -83,6 +144,6 @@
         レイラの命ノ星座・第5重。
 
     - kanji: 夜彩は輝く灯火のように
-      yomi: よるいろどりはかがやくともしびのように
+      yomi: やさいはかがやくともしびのように?
       comment: |
         レイラの命ノ星座・第6重。

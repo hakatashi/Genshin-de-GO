@@ -1,7 +1,7 @@
 ファルザン:
   衣装:
     - kanji: 碧葉白花
-      yomi: へきはしろはな
+      yomi: へきようはっか？
       comment: |
         ファルザンの初期衣装。
 
@@ -13,72 +13,158 @@
 
   称号:
     - kanji: 機求封秘
-      yomi: きもとめふうひ
+      yomi: ききゅうふうひ？
       comment: |
         ファルザンの称号。
 
   通常攻撃:
     - kanji: 転回弓術
       yomi: てんかいきゅうじゅつ
+      level: 1
       comment: |
         ファルザンの通常攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=waApaOWagds
 
   元素スキル:
     - kanji: 非想風天
-      yomi: ひそうふうてん
+      yomi: ひそうふうてん？
       comment: |
         ファルザンの元素スキル。
 
+    - kanji: 疾風示現
+      yomi: しっぷうじげん
+      level: 2
+      comment: |
+        ファルザンの元素スキルによって獲得できる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=waApaOWagds
+
+    - kanji: (風烈)の矢
+      yomi: (ふうれつ)のや
+      level: 1
+      comment: |
+        ファルザンの元素スキル使用後、通常攻撃によって放たれる矢。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=waApaOWagds
+
+    - kanji: 風圧崩潰
+      yomi: ふうあつほうかい
+      comment: |
+        ファルザンの元素スキル使用後、通常攻撃によって敵に
+        付与される効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=waApaOWagds
+
   元素爆発:
     - kanji: 搏風秘道
-      yomi: 搏ふうひどう
+      yomi: はくふうひどう？
       comment: |
         ファルザンの元素爆発。
 
+    - kanji: 赫耀多面体
+      yomi: かくようためんたい
+      level: 3
+      comment: |
+        ファルザンの元素爆発によって召喚される多面体。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=waApaOWagds
+
+    - kanji: 烈風波
+      yomi: れっぷうは
+      level: 1
+      comment: |
+        ファルザンの元素爆発によって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=waApaOWagds
+
+    - kanji: 祈風の恵み
+      yomi: きふうのめぐみ
+      comment: |
+        ファルザンの元素爆発によって味方に与えることができる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=waApaOWagds
+
+    - kanji: (詭風)の(禍)つ
+      yomi: (きふう)の(まが)つ
+      level: [1, 2]
+      comment: |
+        ファルザンの元素爆発によって敵に与えることができる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=waApaOWagds
+
+    - kanji: 毘藍婆重機
+      yomi: びらんばじゅうき
+      level: 3
+      comment: |
+        ファルザンが元素爆発を放つ時の台詞。
+        彼女が開発した多機能遺跡探索補助端末の名前。
+        「毘藍婆」とは、仏教で世界の創生と終末の時に吹くとされる暴風のこと。
+      isOfficial: true
+
   固有天賦:
     - kanji: 迅速流風
-      yomi: じんそくるか
+      yomi: じんそくりゅうふう
+      level: 1
       comment: |
         ファルザンの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=waApaOWagds
 
     - kanji: 七窟遺智
-      yomi: なな窟のこさとし
+      yomi: ななくついち
+      level: 3
       comment: |
         ファルザンの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=waApaOWagds
 
     - kanji: 千書曜跡
-      yomi: せんしょ曜あと
+      yomi: せんしょようせき？
       comment: |
         ファルザンの固有天賦。
 
   命ノ星座:
-    - kanji: 藤蔓の花飾座
-      yomi: ふじづるのはなかざりざ
+    - kanji: (藤蔓)の花飾座
+      yomi: (ふじづる)のはなかざりざ
+      level: 2
       comment: |
         ファルザンの命ノ星座。
 
     - kanji: 破離求真
-      yomi: やぶはなれもとめしん
+      yomi: はりきゅうしん
       comment: |
         ファルザンの命ノ星座・第1重。
 
     - kanji: 忘形煉智
-      yomi: 忘がたねりさとし
+      yomi: ぼうけいれんち
       comment: |
         ファルザンの命ノ星座・第2重。
 
     - kanji: 霊囿漫遊
-      yomi: れい囿まんゆう
+      yomi: れいゆうまんゆう
+      level: 2
       comment: |
         ファルザンの命ノ星座・第3重。
+        「霊囿」とは、周の文王が鳥獣を放し飼いにした園のこと。
 
     - kanji: 神機明悟
-      yomi: かみきあきらさとる
+      yomi: しんきめいご
       comment: |
         ファルザンの命ノ星座・第4重。
 
     - kanji: 思慮奇境
-      yomi: しりょきさかい
+      yomi: しりょききょう
       comment: |
         ファルザンの命ノ星座・第5重。
 

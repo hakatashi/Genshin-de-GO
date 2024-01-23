@@ -1,13 +1,13 @@
 リオセスリ:
   衣装:
     - kanji: 凛冬の咆哮
-      yomi: りんふゆのほうこう
+      yomi: りんとうのほうこう
       comment: |
         リオセスリの初期衣装。
 
   称号:
     - kanji: 寂罪の密使
-      yomi: さびざいのみっし
+      yomi: じゃくざいのみっし?
       comment: |
         リオセスリの称号。
 
@@ -17,11 +17,39 @@
       comment: |
         リオセスリの通常攻撃。
 
+    - kanji: リペルブロー
+      yomi: りぺるぶろー
+      comment: |
+        リオセスリの通常攻撃によって放たれる攻撃。
+
+    - kanji: ヴォールティングアッパー
+      yomi: ゔぉーるてぃんぐあっぱー
+      comment: |
+        リオセスリの通常攻撃によって放たれる攻撃。
+
   元素スキル:
     - kanji: アイスファング・ラッシュ
       yomi: あいすふぁんぐらっしゅ
       comment: |
         リオセスリの元素スキル。
+
+    - kanji: (烈霜)の懲戒
+      yomi: (れっそう)のちょうかい
+      level: 1
+      comment: |
+        リオセスリの元素スキルによって獲得できる状態。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=zDyC_-atgBA
+
+    - kanji: 抵罪の(赦免)
+      yomi: ていざいの(しゃめん)
+      level: 2
+      comment: |
+        リオセスリの元素スキル発動中に獲得する効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=zDyC_-atgBA
 
   元素爆発:
     - kanji: ガンメタル・ウルフバイト
@@ -31,23 +59,40 @@
 
   固有天賦:
     - kanji: やがて公義は弁ぜらる
-      yomi: やがてきみよしはべんぜらる
+      yomi: やがてこうぎはべんぜらる
       comment: |
         リオセスリの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=zDyC_-atgBA
 
-    - kanji: いずれ罪業は贖わる
-      yomi: いずれざいごうはあがなわる
+    - kanji: 恩典の(戒)め
+      yomi: おんてんの(いまし)め
+      level: 1
+      comment: |
+        リオセスリの固有天賦によって獲得できる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=zDyC_-atgBA
+
+    - kanji: いずれ罪業は(贖)わる
+      yomi: いずれざいごうは(あがな)わる
+      level: 2
       comment: |
         リオセスリの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=zDyC_-atgBA
 
-    - kanji: 公爵の恩赦
-      yomi: こうしゃくのおんしゃ
+    - kanji: 公爵の(恩赦)
+      yomi: こうしゃくの(おんしゃ)
+      level: 2
       comment: |
         リオセスリの固有天賦。
 
   命ノ星座:
     - kanji: 獄守犬座
-      yomi: ごくもりいぬざ
+      yomi: ごくしゅけんざ?
       comment: |
         リオセスリの命ノ星座。
 
@@ -56,13 +101,14 @@
       comment: |
         リオセスリの命ノ星座・第1重。
 
-    - kanji: 力に驕る者に鎖を
-      yomi: ちからにおごるものにくさりを
+    - kanji: 力に(驕)る者に鎖を
+      yomi: ちからに(おご)るものにくさりを
+      level: 1
       comment: |
         リオセスリの命ノ星座・第2重。
 
     - kanji: 騙し盗る者に罰を
-      yomi: だましとるものにばちを
+      yomi: だましとるものにばつを
       comment: |
         リオセスリの命ノ星座・第3重。
 
@@ -72,7 +118,7 @@
         リオセスリの命ノ星座・第4重。
 
     - kanji: 冤を蒙る者に赦しを
-      yomi: 冤をこうむるものにゆるしを
+      yomi: えんをこうむるものにゆるしを
       comment: |
         リオセスリの命ノ星座・第5重。
 

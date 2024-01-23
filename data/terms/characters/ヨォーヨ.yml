@@ -1,74 +1,139 @@
 ヨォーヨ:
   衣装:
-    - kanji: 栗色の花蕊を持つ木犀
-      yomi: くりいろのかずいをもつもくせい
+    - kanji: 栗色の(花蕊)を持つ木犀
+      yomi: くりいろの(かずい)をもつもくせい
+      level: 3
       comment: |
         ヨォーヨの初期衣装。
+        「花蕊」とは、花のおしべとめしべの総称。
 
   名刺の飾り紋:
     - kanji: 月桂
-      yomi: げっけい
+      yomi: ゆぇーぐぇい？
       comment: |
         ヨォーヨの名刺の飾り紋。
 
   称号:
     - kanji: 仙蕊玲瓏
-      yomi: せんしべれいろう
+      yomi: せんずいれいろう
       comment: |
         ヨォーヨの称号。
 
   通常攻撃:
-    - kanji: 顛撲連擊槍
-      yomi: 顛なぐれん擊やり
+    - kanji: 顛撲連撃槍
+      yomi: てんぼくれんげきやり?
       comment: |
         ヨォーヨの通常攻撃。
 
   元素スキル:
     - kanji: 祥雲団々落清白
-      yomi: さちくもだん々落すずしろ
+      yomi: しょううんだんだんらくすずしろ？
       comment: |
         ヨォーヨの元素スキル。
+      ref:
+        - https://twitter.com/genshin_kanji/status/1614844467458244608
+
+    - kanji: 月桂
+      yomi: ゆぇーぐぇい
+      level: 3
+      comment: |
+        ヨォーヨが肌身離さず持ち歩いている人形。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=3-1hDdOaEmw
+
+    - kanji: 月桂・投擲型
+      yomi: ゆぇーぐぇいとうてきがた
+      comment: |
+        ヨォーヨの元素スキルによって召喚することができる人形。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=3-1hDdOaEmw
+
+    - kanji: 白玉大根
+      yomi: しらたまだいこん
+      level: 1
+      comment: |
+        ヨォーヨの「月桂・投擲型」が投擲する攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=3-1hDdOaEmw
 
   元素爆発:
     - kanji: 玉顆珊々月中落
-      yomi: たま顆珊々つきちゅう落
+      yomi: ぎょくかさんさんげっちゅうらく?
       comment: |
         ヨォーヨの元素爆発。
+      ref:
+        - https://twitter.com/genshin_kanji/status/1614844468926246912
+
+    - kanji: 桂子仙機
+      yomi: けいしせんき
+      level: 2
+      comment: |
+        ヨォーヨの元素爆発によって獲得できる状態。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=3-1hDdOaEmw
+
+    - kanji: 月桂・跳躍型
+      yomi: ゆぇーぐぇいちょうやくがた
+      comment: |
+        ヨォーヨの元素爆発によって召喚することができる人形。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=3-1hDdOaEmw
 
   固有天賦:
     - kanji: 天星零落
-      yomi: てんぼしれいらく
+      yomi: てんせいれいらく
+      level: 1
       comment: |
         ヨォーヨの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=3-1hDdOaEmw
 
     - kanji: 先意承問
-      yomi: せんいうけたまわとい
+      yomi: せんいじょうもん
+      level: 2
       comment: |
         ヨォーヨの固有天賦。
+        「相手の気持ちを先に察して満たしてあげること」を
+        意味する仏教用語。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=3-1hDdOaEmw
 
-    - kanji: 爪立ち・躡景足跡
-      yomi: つまだち躡けいあしあと
+    - kanji: 爪立ち・(躡景足跡)
+      yomi: つまだち(じょうえいそくせき)
+      level: 4
       comment: |
         ヨォーヨの固有天賦。
+        「躡景」とは、太陽を追うこと。
+        秦の始皇帝の七名馬の一頭の名としても知られる。
 
   命ノ星座:
-    - kanji: 木犀座
-      yomi: もくせいざ
+    - kanji: (木犀)座
+      yomi: (もくせい)ざ
+      level: 2
       comment: |
         ヨォーヨの命ノ星座。
+        キンモクセイなどの品種で知られる木。
 
     - kanji: 瑶閣賜物
-      yomi: よう閣たまもの
+      yomi: ようかくしぶつ?
       comment: |
         ヨォーヨの命ノ星座・第1重。
 
     - kanji: 正思無邪
-      yomi: せい思むよこしま
+      yomi: しょうしむじゃ?
       comment: |
         ヨォーヨの命ノ星座・第2重。
 
     - kanji: 懇々善道
-      yomi: こん々ぜんどう
+      yomi: こんこんぜんどう
+      level: 1
       comment: |
         ヨォーヨの命ノ星座・第3重。
 
@@ -79,10 +144,15 @@
 
     - kanji: 惻隠本義
       yomi: そくいんほんぎ
+      level: 2
       comment: |
         ヨォーヨの命ノ星座・第5重。
+        「惻隠」とは、憐れみの感情を抱くこと。
 
     - kanji: 慈恵仁心
-      yomi: じえひとししん
+      yomi: じけいじんしん
+      level: 2
       comment: |
         ヨォーヨの命ノ星座・第6重。
+        「慈恵」とは、慈悲の心で恵みを与えること。
+        「仁心」とは、人を思いやる心のこと。

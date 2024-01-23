@@ -7,13 +7,14 @@
 
   称号:
     - kanji: 霜晴の測量
-      yomi: しもはれのそくりょう
+      yomi: しもばれのそくりょう？
       comment: |
         ミカの称号。
 
   通常攻撃:
-    - kanji: 西風槍術・鏑矢
-      yomi: せいふうそうじゅつかぶらや
+    - kanji: 西風槍術・(鏑矢)
+      yomi: せぴゅろすそうじゅつ(かぶらや)
+      level: 3
       comment: |
         ミカの通常攻撃。
 
@@ -23,22 +24,79 @@
       comment: |
         ミカの元素スキル。
 
+    - kanji: (流霜)の矢
+      yomi: (りゅうそう)のや
+      level: 1
+      comment: |
+        ミカの元素スキルによって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=muuMAgojM6I
+
+    - kanji: 氷星のビーコン
+      yomi: ひょうせいのびーこん
+      comment: |
+        ミカの元素スキルによって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=muuMAgojM6I
+
+    - kanji: 氷星のシャード
+      yomi: ひょうせいのしゃーど
+      comment: |
+        ミカの元素スキルによって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=muuMAgojM6I
+
+    - kanji: 霊風
+      yomi: れいふう
+      comment: |
+        ミカの元素スキルによって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=muuMAgojM6I
+
   元素爆発:
     - kanji: スカイフェザーソング
       yomi: すかいふぇざーそんぐ
       comment: |
         ミカの元素爆発。
 
+    - kanji: 鷹の羽
+      yomi: たかのはね
+      comment: |
+        ミカの元素爆発によって獲得できる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=muuMAgojM6I
+
   固有天賦:
-    - kanji: 速射牽制
-      yomi: そくしゃけんせい
+    - kanji: 速射(牽制)
+      yomi: そくしゃ(けんせい)
+      level: 1
       comment: |
         ミカの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=muuMAgojM6I
+
+    - kanji: 偵察
+      yomi: ていさつ
+      level: 1
+      comment: |
+        ミカの固有天賦によって獲得できる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=muuMAgojM6I
 
     - kanji: 地形測量
       yomi: ちけいそくりょう
       comment: |
         ミカの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=muuMAgojM6I
 
     - kanji: デマケーション
       yomi: でまけーしょん
@@ -47,14 +105,16 @@
 
   命ノ星座:
     - kanji: 森鳩座
-      yomi: もりはとざ
+      yomi: もりばとざ?
       comment: |
         ミカの命ノ星座。
 
-    - kanji: 逢遇の因縁
-      yomi: 逢ぐうのいんねん
+    - kanji: (逢遇)の因縁
+      yomi: (ほうぐう)のいんねん
+      level: 2
       comment: |
         ミカの命ノ星座・第1重。
+        「逢遇」とは、思いがけず出くわすこと。
 
     - kanji: 同行の旅路
       yomi: どうこうのたびじ
@@ -67,16 +127,18 @@
         ミカの命ノ星座・第3重。
 
     - kanji: 霜晴の祈念
-      yomi: しもはれのきねん
+      yomi: しもばれのきねん?
       comment: |
         ミカの命ノ星座・第4重。
 
     - kanji: 道標の鳴鏑
-      yomi: どうひょうのなりかぶら
+      yomi: みちしるべのなりかぶら?
       comment: |
         ミカの命ノ星座・第5重。
 
-    - kanji: 臨機の策応
-      yomi: りんきのさくおう
+    - kanji: 臨機の(策応)
+      yomi: りんきの(さくおう)
+      level: 1
       comment: |
         ミカの命ノ星座・第6重。
+        「策応」とは、計略を通じて互いに助け合うこと。

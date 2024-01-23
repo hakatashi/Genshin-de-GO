@@ -126,8 +126,9 @@
       ref:
         - https://www.youtube.com/watch?v=2xZkIfz2V9M
 
-    - kanji: 至誠の尊崇
-      yomi: しせいのそんすう
+    - kanji: 至誠の(尊崇)
+      yomi: しせいの(そんすう)
+      level: 1
       comment: |
         ディシアの固有天賦。
       isOfficial: true

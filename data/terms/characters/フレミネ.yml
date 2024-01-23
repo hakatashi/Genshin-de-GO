@@ -23,25 +23,67 @@
       comment: |
         フレミネの元素スキル。
 
+    - kanji: ペールスタイマー
+      yomi: ぺーるすたいまー
+      comment: |
+        フレミネの元素スキルによって発動するタイマー。
+
+    - kanji: 高圧粉砕
+      yomi: こうあつふんさい
+      comment: |
+        フレミネの元素スキルによって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=1Sek3MQF0oM
+
+    - kanji: 霜寒
+      yomi: そうかん
+      level: 1
+      comment: |
+        フレミネの元素スキル発動後、通常攻撃が変化した状態。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=1Sek3MQF0oM
+
+    - kanji: ペールス
+      yomi: ぺーるす
+      comment: |
+        フレミネの持つクロックワークペンギン。
+
   元素爆発:
     - kanji: シャドウハンターの奇襲
       yomi: しゃどうはんたーのきしゅう
       comment: |
         フレミネの元素爆発。
 
+    - kanji: (潜猟)モード
+      yomi: (せんりょう)もーど
+      level: 1
+      comment: |
+        フレミネの元素爆発によって発動するモード。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=1Sek3MQF0oM
+
   固有天賦:
     - kanji: 飽和潜水
       yomi: ほうわせんすい
       comment: |
         フレミネの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=1Sek3MQF0oM
 
     - kanji: 並流式冷却装置
-      yomi: なみりゅうしきれいきゃくそうち
+      yomi: へいりゅうしきれいきゃくそうち
       comment: |
         フレミネの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=1Sek3MQF0oM
 
     - kanji: 深海ナビゲート
-      yomi: ふかうみなびげーと
+      yomi: しんかいなびげーと
       comment: |
         フレミネの固有天賦。
 
@@ -52,7 +94,9 @@
         フレミネの命ノ星座。
 
     - kanji: 深海と泡沫の夢
-      yomi: しんかいとほうまつのゆめ
+      yomi:
+        - しんかいとほうまつのゆめ？
+        - しんかいとうたかたのゆめ？
       comment: |
         フレミネの命ノ星座・第1重。
 
@@ -67,7 +111,7 @@
         フレミネの命ノ星座・第3重。
 
     - kanji: 雪の月とあし笛の舞
-      yomi: ゆきのつきとあしふえのまい
+      yomi: ゆきのつきとあしぶえのまい
       comment: |
         フレミネの命ノ星座・第4重。
 
@@ -77,6 +121,6 @@
         フレミネの命ノ星座・第5重。
 
     - kanji: 目覚めと決意の刻
-      yomi: めざめとけついのこく
+      yomi: めざめとけついのとき
       comment: |
         フレミネの命ノ星座・第6重。

@@ -1,7 +1,7 @@
 フリーナ:
   衣装:
     - kanji: 伶優の戴冠式
-      yomi: 伶ゆうのたいかんしき
+      yomi: れいゆうのたいかんしき
       comment: |
         フリーナの初期衣装。
 
@@ -13,9 +13,18 @@
 
   通常攻撃:
     - kanji: ソリストの誘い
-      yomi: そりすとのさそい
+      yomi:
+        - そりすとのさそい？
+        - そりすとのいざない？
       comment: |
         フリーナの通常攻撃。
+
+    - kanji: 聖俗の(座客)
+      yomi: せいぞくの(ざかく)
+      level: 2
+      comment: |
+        フリーナの通常攻撃に伴って放たれる追撃。
+        「座客」とは、同じ会場に居合わせた客のこと。
 
   元素スキル:
     - kanji: サロン・ソリティア
@@ -23,22 +32,78 @@
       comment: |
         フリーナの元素スキル。
 
+    - kanji: 歓喜の泡
+      yomi: かんきのあわ
+      comment: |
+        フリーナの元素スキル。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=5uPrAvqXFJc
+
+    - kanji: ジェントルマン・アッシャー
+      yomi: じぇんとるまんあっしゃー
+      comment: |
+        フリーナのサロンメンバーの一員。
+
+    - kanji: シュヴァルマラン婦人
+      yomi: しゅゔぁるまらんふじん
+      comment: |
+        フリーナのサロンメンバーの一員。
+      isOfficial: true
+
+    - kanji: クラバレッタさん
+      yomi: くらばれったさん
+      comment: |
+        フリーナのサロンメンバーの一員。
+
+    - kanji: (衆)の水の歌い手
+      yomi: (おおく)のみずのうたいて
+      level: 3
+      comment: |
+        フリーナの元素スキル。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=5uPrAvqXFJc
+
+    - kanji: 僕を(讃)えよ
+      yomi: ぼくをたたえよ
+      comment: |
+        フリーナが元素スキルを放つ時の台詞。
+      isOfficial: true
+
   元素爆発:
     - kanji: 万民のカルナバル
       yomi: ばんみんのかるなばる
       comment: |
         フリーナの元素爆発。
 
+    - kanji: もろびとこぞりて
+      yomi: もろびとこぞりて
+      comment: |
+        フリーナの元素爆発。
+
+    - kanji: テンション
+      yomi: てんしょん
+      comment: |
+        フリーナの元素爆発。
+
   固有天賦:
-    - kanji: 終わりなき円舞
-      yomi: おわりなきえんぶ
+    - kanji: 終わりなき(円舞)
+      yomi: おわりなき(えんぶ)
+      level: 1
       comment: |
         フリーナの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=5uPrAvqXFJc
 
     - kanji: 聴き手なき独白
       yomi: ききてなきどくはく
       comment: |
         フリーナの固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=5uPrAvqXFJc
 
     - kanji: 蒼海もまた舞台なり
       yomi: そうかいもまたぶたいなり
@@ -46,10 +111,12 @@
         フリーナの固有天賦。
 
   命ノ星座:
-    - kanji: 頌歌者座
-      yomi: 頌うたしゃざ
+    - kanji: (頌歌者)座
+      yomi: (しょうかしゃ)ざ
+      level: 3
       comment: |
         フリーナの命ノ星座。
+        「頌歌」とは、叙情詩の形式の一種。
 
     - kanji: 「愛は野の鳥 哀願しても手懐けられぬ」
       yomi: あいはののとりあいがんしてもてなづけられぬ
@@ -67,16 +134,16 @@
         フリーナの命ノ星座・第3重。
 
     - kanji: 「地獄に堕ちずして いかに生の価値を知る！」
-      yomi: じごくにおちずしていかになまのかちをしる
+      yomi: じごくにおちずしていかにせいのかちをしる
       comment: |
         フリーナの命ノ星座・第4重。
 
     - kanji: 「あぁ！その者の名は…！」
-      yomi: あぁそのもののなは…
+      yomi: あぁそのもののなは
       comment: |
         フリーナの命ノ星座・第5重。
 
     - kanji: 「僕の歌を聴きたまえ―― さあ 愛の杯を掲げよう！」
-      yomi: ぼくのうたをききたまえさああいのはいをかかげよう
+      yomi: ぼくのうたをききたまえさああいのさかずきをかかげよう
       comment: |
         フリーナの命ノ星座・第6重。
