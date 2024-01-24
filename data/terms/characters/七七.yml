@@ -1,44 +1,83 @@
 七七:
   衣装:
     - kanji: 夏氷の夢
-      yomi: なつこおりのゆめ
+      yomi: なつごおりのゆめ?
       comment: |
         七七の初期衣装。
 
   称号:
-    - kanji: 冷たき黄泉帰り
-      yomi: つめたきよみがえり
+    - kanji: 冷たき(黄泉帰)り
+      yomi: つめたき(よみがえ)り
+      level: 2
       comment: |
         七七の称号。
 
   通常攻撃:
     - kanji: 雲来古剣法
-      yomi: うんらいこけんぽう
+      yomi: うんらいこけんほう
       comment: |
         七七の通常攻撃。
 
   元素スキル:
     - kanji: 仙法・寒病鬼差
-      yomi: せんほうかんびょうおにさ
+      yomi: せんぽうかんびょうきさ
+      level: 2
       comment: |
         七七の元素スキル。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=VQmMwGN7VZs
+
+    - kanji: 寒病鬼差
+      yomi: かんびょうきさ
+      level: 2
+      comment: |
+        七七の元素スキル。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=VQmMwGN7VZs
 
   元素爆発:
-    - kanji: 仙法・救苦度厄
-      yomi: せんほう救くどわざわい
+    - kanji: 仙法・(救苦度厄)
+      yomi: せんぽう(きゅうくどあく)
+      level: 3
       comment: |
         七七の元素爆発。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=VQmMwGN7VZs
+      note: |
+        「度厄」は漢和辞典には「どやく」で掲載されている。
+        一方、七七のチュートリアル動画では「度厄のお札」を「どあくのおふだ」
+        七七のボイス「元素爆発・2」では「度厄真君」を「どあくしんくん」と読ませている。
+        よって本問では「どあく」を正とした。
+
+    - kanji: 度厄のお札
+      yomi: どあくのおふだ
+      comment: |
+        七七の元素爆発。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=VQmMwGN7VZs
 
   固有天賦:
     - kanji: 延命妙法
       yomi: えんめいみょうほう
+      level: 2
       comment: |
         七七の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=VQmMwGN7VZs
 
     - kanji: 玉籤偶開
-      yomi: たまくじ偶ひらく
+      yomi: ぎょくせんぐかい
+      level: 3
       comment: |
         七七の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=VQmMwGN7VZs
 
     - kanji: 往事記憶
       yomi: おうじきおく
@@ -47,27 +86,29 @@
 
   命ノ星座:
     - kanji: 法鈴座
-      yomi: ほうすずざ
+      yomi: ほうりんざ?
       comment: |
         七七の命ノ星座。
 
     - kanji: 寒苦回向
       yomi: かんくえこう
+      level: 3
       comment: |
         七七の命ノ星座・第1重。
+        「回向」とは、仏教用語で自他ともに悟りを得るために助けること。
 
     - kanji: 氷寒蝕骨
-      yomi: こおりかん蝕ぼね
+      yomi: ひょうかんしょっこつ?
       comment: |
         七七の命ノ星座・第2重。
 
     - kanji: 昇天宝誥
-      yomi: しょうてんたから誥
+      yomi: しょうてんほうこう?
       comment: |
         七七の命ノ星座・第3重。
 
     - kanji: 天威圧衆
-      yomi: てんいあつしゅう
+      yomi: てんいあっしゅう
       comment: |
         七七の命ノ星座・第4重。
 
@@ -77,6 +118,6 @@
         七七の命ノ星座・第5重。
 
     - kanji: 起死回骸
-      yomi: きしかいむくろ
+      yomi: きしかいがい
       comment: |
         七七の命ノ星座・第6重。

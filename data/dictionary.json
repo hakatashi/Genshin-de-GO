@@ -2596,6 +2596,24 @@
     "answers": [
       "ざんげ"
     ],
+    "prefix": "罪喰いの",
+    "suffix": "",
+    "yomiPrefix": "つみくいの",
+    "yomiSuffix": "",
+    "category": [
+      "ロサリア",
+      "元素スキル"
+    ],
+    "comment": "ロサリアの元素スキル。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "懺悔",
+    "answers": [
+      "ざんげ"
+    ],
     "prefix": "",
     "suffix": "に耳を傾ける幻影",
     "yomiPrefix": "",
@@ -2806,6 +2824,150 @@
     "hint": "none",
     "level": 1,
     "isOfficial": false
+  },
+  {
+    "kanji": "檻",
+    "answers": [
+      "おり"
+    ],
+    "prefix": "",
+    "suffix": "を破る志",
+    "yomiPrefix": "",
+    "yomiSuffix": "をやぶるこころざし",
+    "category": [
+      "久岐忍",
+      "固有天賦"
+    ],
+    "comment": "久岐忍の固有天賦。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "憐憫",
+    "answers": [
+      "れんびん"
+    ],
+    "prefix": "捨て去りし",
+    "suffix": "の心",
+    "yomiPrefix": "すてさりし",
+    "yomiSuffix": "のこころ",
+    "category": [
+      "久岐忍",
+      "命ノ星座"
+    ],
+    "comment": "久岐忍の命ノ星座・第1重。\n「憐憫」とは、哀れに思い同情すること。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "僥倖",
+    "answers": [
+      "ぎょうこう"
+    ],
+    "prefix": "捨て去りし",
+    "suffix": "の心",
+    "yomiPrefix": "すてさりし",
+    "yomiSuffix": "のこころ",
+    "category": [
+      "久岐忍",
+      "命ノ星座"
+    ],
+    "comment": "久岐忍の命ノ星座・第2重。\n「僥倖」とは、思いがけない幸運のこと。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "御公儀",
+    "answers": [
+      "ごこうぎ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "九条裟羅",
+      "固有天賦"
+    ],
+    "comment": "九条裟羅の固有天賦。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "律令",
+    "answers": [
+      "りつりょう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "八重神子",
+      "元素スキル"
+    ],
+    "comment": "八重神子が元素スキルを発動する時の台詞。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "雲来剣法",
+    "answers": [
+      "うんらいけんぽう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "刻晴",
+      "通常攻撃"
+    ],
+    "comment": "刻晴の通常攻撃。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "打破",
+    "answers": [
+      "だは"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "夜蘭",
+      "通常攻撃"
+    ],
+    "comment": "夜蘭が戦闘解除時に獲得することができる状態。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "雲間草",
+    "answers": [
+      "くもまぐさ"
+    ],
+    "prefix": "琉金の",
+    "suffix": "",
+    "yomiPrefix": "りゅうきんの",
+    "yomiSuffix": "",
+    "category": [
+      "宵宮",
+      "元素爆発"
+    ],
+    "comment": "宵宮の元素爆発。\nまた、彼女特製の花火玉の名前。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
   },
   {
     "kanji": "艶",
@@ -5187,6 +5349,78 @@
     "isOfficial": false
   },
   {
+    "kanji": "黄泉帰",
+    "answers": [
+      "よみがえ"
+    ],
+    "prefix": "冷たき",
+    "suffix": "り",
+    "yomiPrefix": "つめたき",
+    "yomiSuffix": "り",
+    "category": [
+      "七七",
+      "称号"
+    ],
+    "comment": "七七の称号。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "仙法・寒病鬼差",
+    "answers": [
+      "せんぽうかんびょうきさ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "七七",
+      "元素スキル"
+    ],
+    "comment": "七七の元素スキル。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "寒病鬼差",
+    "answers": [
+      "かんびょうきさ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "七七",
+      "元素スキル"
+    ],
+    "comment": "七七の元素スキル。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "延命妙法",
+    "answers": [
+      "えんめいみょうほう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "七七",
+      "固有天賦"
+    ],
+    "comment": "七七の固有天賦。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
     "kanji": "荒星",
     "answers": [
       "こうせい"
@@ -5348,6 +5582,384 @@
     "hint": "none",
     "level": 2,
     "isOfficial": false
+  },
+  {
+    "kanji": "祈雷祓除",
+    "answers": [
+      "きらいばつじょ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "久岐忍",
+      "元素爆発"
+    ],
+    "comment": "久岐忍が元素爆発を放つ時の台詞。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "厳正浄衣",
+    "answers": [
+      "げんせいじょうえ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "九条裟羅",
+      "衣装"
+    ],
+    "comment": "九条裟羅の初期衣装。\n「浄衣」とは、仏教や神道で儀式の際に着用する衣装の総称。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "烏羽護持",
+    "answers": [
+      "からすばごじ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "九条裟羅",
+      "元素スキル"
+    ],
+    "comment": "九条裟羅の元素スキルによって獲得できる効果。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "恢弘",
+    "answers": [
+      "かいこう"
+    ],
+    "prefix": "常道を",
+    "suffix": "せしは永遠なる鳴神なり",
+    "yomiPrefix": "じょうどうを",
+    "yomiSuffix": "せしはえいえんなるなるかみなり",
+    "category": [
+      "九条裟羅",
+      "元素爆発"
+    ],
+    "comment": "九条裟羅が元素爆発を放つ時の台詞。\n「恢弘」とは、教えなどを押し広めること。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "羽団扇",
+    "answers": [
+      "はうちわ"
+    ],
+    "prefix": "",
+    "suffix": "座",
+    "yomiPrefix": "",
+    "yomiSuffix": "ざ",
+    "category": [
+      "九条裟羅",
+      "命ノ星座"
+    ],
+    "comment": "九条裟羅の命ノ星座。\n「羽団扇」とは、天狗が持つ鳥の羽で作った団扇のこと。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "殺生櫻",
+    "answers": [
+      "せっしょうおう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "八重神子",
+      "元素スキル"
+    ],
+    "comment": "八重神子の元素スキルで設置される桜の株。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "呪禁",
+    "answers": [
+      "じゅごん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "八重神子",
+      "元素スキル"
+    ],
+    "comment": "八重神子が元素スキルを発動する時の台詞。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "敕",
+    "answers": [
+      "ちょく"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "八重神子",
+      "元素スキル"
+    ],
+    "comment": "八重神子が元素スキルを発動する時の台詞。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "天狐雷霆",
+    "answers": [
+      "てんこらいてい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "八重神子",
+      "元素爆発"
+    ],
+    "comment": "八重神子の元素爆発によって放たれる攻撃。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "真瞳",
+    "answers": [
+      "しんどう"
+    ],
+    "prefix": "",
+    "suffix": "の顕現",
+    "yomiPrefix": "",
+    "yomiSuffix": "のけんげん",
+    "category": [
+      "八重神子",
+      "元素爆発"
+    ],
+    "comment": "八重神子の元素爆発を放つ時の台詞。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "燦々",
+    "answers": [
+      "さんさん"
+    ],
+    "prefix": "",
+    "suffix": "たる七星",
+    "yomiPrefix": "",
+    "yomiSuffix": "たるしちせい",
+    "category": [
+      "凝光",
+      "命ノ星座"
+    ],
+    "comment": "凝光の命ノ星座・第6重。\n「燦々」とは、太陽などが明るく光り輝く様子。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "星辰帰位",
+    "answers": [
+      "せいしんきい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "刻晴",
+      "元素スキル"
+    ],
+    "comment": "刻晴の元素スキル。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "暴雷連斬",
+    "answers": [
+      "ぼうらいれんざん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "刻晴",
+      "元素スキル"
+    ],
+    "comment": "刻晴の元素スキルによって放たれる攻撃。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "霞光",
+    "answers": [
+      "かこう"
+    ],
+    "prefix": "白波に映る",
+    "suffix": "",
+    "yomiPrefix": "しらなみにうつる",
+    "yomiSuffix": "",
+    "category": [
+      "北斗",
+      "命ノ星座"
+    ],
+    "comment": "北斗の命ノ星座・第5重。\n「霞光」とは、朝焼け・夕焼けのこと。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "玲瓏一擲",
+    "answers": [
+      "れいろういってき"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "夜蘭",
+      "元素爆発"
+    ],
+    "comment": "夜蘭の元素爆発。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "移花接木",
+    "answers": [
+      "いかせつぼく"
+    ],
+    "prefix": "騙し取る者、",
+    "suffix": "",
+    "yomiPrefix": "だましとるもの",
+    "yomiSuffix": "",
+    "category": [
+      "夜蘭",
+      "命ノ星座"
+    ],
+    "comment": "夜蘭の命ノ星座・第4重。\n「移花接木」とは、花を接ぎ木するように\n巧みに物事をすり替えることを意味する四字熟語。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "焔硝",
+    "answers": [
+      "えんしょう"
+    ],
+    "prefix": "庭火の",
+    "suffix": "",
+    "yomiPrefix": "にわびの",
+    "yomiSuffix": "",
+    "category": [
+      "宵宮",
+      "元素スキル"
+    ],
+    "comment": "宵宮の元素スキル発動によって獲得できる効果。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "熾焔",
+    "answers": [
+      "しえん"
+    ],
+    "prefix": "",
+    "suffix": "の矢",
+    "yomiPrefix": "",
+    "yomiSuffix": "のや",
+    "category": [
+      "宵宮",
+      "元素スキル"
+    ],
+    "comment": "宵宮の元素スキル使用後、通常攻撃で放つことができる攻撃。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "琉金",
+    "answers": [
+      "りゅうきん"
+    ],
+    "prefix": "",
+    "suffix": "の雲間草",
+    "yomiPrefix": "",
+    "yomiSuffix": "のくもまぐさ",
+    "category": [
+      "宵宮",
+      "元素爆発"
+    ],
+    "comment": "宵宮の元素爆発。\nまた、彼女特製の花火玉の名前。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "袖火百景図",
+    "answers": [
+      "そでびひゃくけいず"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "宵宮",
+      "固有天賦"
+    ],
+    "comment": "宵宮の固有天賦。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "炎昼",
+    "answers": [
+      "えんちゅう"
+    ],
+    "prefix": "",
+    "suffix": "の風物詩",
+    "yomiPrefix": "",
+    "yomiSuffix": "のふうぶつし",
+    "category": [
+      "宵宮",
+      "固有天賦"
+    ],
+    "comment": "宵宮の固有天賦。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
   },
   {
     "kanji": "白鷺",
@@ -6319,6 +6931,60 @@
     "isOfficial": true
   },
   {
+    "kanji": "救苦度厄",
+    "answers": [
+      "きゅうくどあく"
+    ],
+    "prefix": "仙法・",
+    "suffix": "",
+    "yomiPrefix": "せんぽう",
+    "yomiSuffix": "",
+    "category": [
+      "七七",
+      "元素爆発"
+    ],
+    "comment": "七七の元素爆発。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "玉籤偶開",
+    "answers": [
+      "ぎょくせんぐかい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "七七",
+      "固有天賦"
+    ],
+    "comment": "七七の固有天賦。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "寒苦回向",
+    "answers": [
+      "かんくえこう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "七七",
+      "命ノ星座"
+    ],
+    "comment": "七七の命ノ星座・第1重。\n「回向」とは、仏教用語で自他ともに悟りを得るために助けること。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
     "kanji": "蔓生",
     "answers": [
       "まんせい"
@@ -6388,6 +7054,241 @@
       "命ノ星座"
     ],
     "comment": "草主人公の命ノ星座・第3重。\n「婆娑」とは、踊るときに衣の袖が舞う様子のこと。\n「瑶草」は、美しく咲く仙草。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "越祓雷草",
+    "answers": [
+      "こしのはらえらいそう"
+    ],
+    "prefix": "",
+    "suffix": "の輪",
+    "yomiPrefix": "",
+    "yomiSuffix": "のわ",
+    "category": [
+      "久岐忍",
+      "元素スキル"
+    ],
+    "comment": "久岐忍の元素スキル。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "越祓草輪",
+    "answers": [
+      "えつふつそうりん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "久岐忍",
+      "元素スキル"
+    ],
+    "comment": "久岐忍の元素スキルによって生成される輪。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "鳴草",
+    "answers": [
+      "なぐさ"
+    ],
+    "prefix": "",
+    "suffix": "の輪",
+    "yomiPrefix": "",
+    "yomiSuffix": "のりん",
+    "category": [
+      "久岐忍",
+      "元素スキル"
+    ],
+    "comment": "久岐忍が元素スキルを放つ時の台詞。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "御詠鳴神刈山祭",
+    "answers": [
+      "ぎょえいなるかみかりやまさい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "久岐忍",
+      "元素爆発"
+    ],
+    "comment": "久岐忍の元素爆発。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "阿諛",
+    "answers": [
+      "あゆ"
+    ],
+    "prefix": "捨て去りし",
+    "suffix": "の心",
+    "yomiPrefix": "すてさりし",
+    "yomiSuffix": "のこころ",
+    "category": [
+      "久岐忍",
+      "命ノ星座"
+    ],
+    "comment": "久岐忍の命ノ星座・第5重。\n「阿諛」とは、おもねりへつらうこと。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "野干役呪",
+    "answers": [
+      "やかんやくじゅ"
+    ],
+    "prefix": "",
+    "suffix": "・殺生櫻",
+    "yomiPrefix": "",
+    "yomiSuffix": "せっしょうおう",
+    "category": [
+      "八重神子",
+      "元素スキル"
+    ],
+    "comment": "八重神子の元素スキル。\n「野干」とは、狐のこと。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "啓蟄之祝詞",
+    "answers": [
+      "けいちつののりと"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "八重神子",
+      "固有天賦"
+    ],
+    "comment": "八重神子の固有天賦。\n「啓蟄」は二十四節気の一。3月6日ごろ。\n「祝詞」は、神に向かって唱える言葉のこと。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "嗤笑",
+    "answers": [
+      "ししょう"
+    ],
+    "prefix": "暴悪",
+    "suffix": "面",
+    "yomiPrefix": "ぼうあく",
+    "yomiSuffix": "めん",
+    "category": [
+      "八重神子",
+      "命ノ星座"
+    ],
+    "comment": "八重神子の命ノ星座・第5重。\n「嗤笑」とは、あざけり笑うこと。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "璇璣屏",
+    "answers": [
+      "せんきへい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "凝光",
+      "元素スキル"
+    ],
+    "comment": "凝光の元素スキルによって設置できる塀。\n「璇璣」とは北斗七星のこと。転じて天文器具のこと。\nまた、さらに転じて政治のこと。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "崑崙",
+    "answers": [
+      "こんろん",
+      "くんるん"
+    ],
+    "prefix": "璇璣、",
+    "suffix": "を鎮める",
+    "yomiPrefix": "せんき",
+    "yomiSuffix": "をしずめる",
+    "category": [
+      "凝光",
+      "命ノ星座"
+    ],
+    "comment": "凝光の命ノ星座・第2重。\n「璇璣」とは北斗七星のこと。\n「崑崙」は、中国の伝説の山。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "雷楔",
+    "answers": [
+      "らいけつ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "刻晴",
+      "元素スキル"
+    ],
+    "comment": "刻晴の元素スキルによって設置することができる楔。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "気随気儘",
+    "answers": [
+      "きずいきまま"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "夜蘭",
+      "固有天賦"
+    ],
+    "comment": "夜蘭の固有天賦。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "幽客",
+    "answers": [
+      "ゆうかく"
+    ],
+    "prefix": "",
+    "suffix": "座",
+    "yomiPrefix": "",
+    "yomiSuffix": "ざ",
+    "category": [
+      "夜蘭",
+      "命ノ星座"
+    ],
+    "comment": "夜蘭の命ノ星座。\n「幽客」は、ランの別名。\n",
     "hint": "none",
     "level": 3,
     "isOfficial": false
@@ -6603,6 +7504,42 @@
       "命ノ星座"
     ],
     "comment": "水主人公の命ノ星座・第2重。\n「潺湲」とは、さらさらと水が流れる様子のこと。\n",
+    "hint": "none",
+    "level": 4,
+    "isOfficial": false
+  },
+  {
+    "kanji": "神籬之御蔭",
+    "answers": [
+      "ひもろぎのみかげ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "八重神子",
+      "固有天賦"
+    ],
+    "comment": "八重神子の固有天賦。\n「神籬」とは、神事を執り行う際の依り代とするため、\n室内や庭に立てる榊の枝葉のこと。\n",
+    "hint": "none",
+    "level": 4,
+    "isOfficial": true
+  },
+  {
+    "kanji": "吼噦",
+    "answers": [
+      "こんかい"
+    ],
+    "prefix": "望月之",
+    "suffix": "",
+    "yomiPrefix": "もちづきの",
+    "yomiSuffix": "",
+    "category": [
+      "八重神子",
+      "命ノ星座"
+    ],
+    "comment": "八重神子の命ノ星座・第2重。\n「吼噦」は、狐の鳴き声を表す擬音。\n",
     "hint": "none",
     "level": 4,
     "isOfficial": false

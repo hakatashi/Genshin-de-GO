@@ -2,12 +2,14 @@
   衣装:
     - kanji: 厳正浄衣
       yomi: げんせいじょうえ
+      level: 2
       comment: |
         九条裟羅の初期衣装。
+        「浄衣」とは、仏教や神道で儀式の際に着用する衣装の総称。
 
   称号:
     - kanji: 黒羽鳴鏑
-      yomi: くろはなりかぶら
+      yomi: くろはなりかぶら?
       comment: |
         九条裟羅の称号。
 
@@ -19,26 +21,84 @@
 
   元素スキル:
     - kanji: 烏天狗雷霆召呪
-      yomi: からすてんぐらいてい召のろい
+      yomi: からすてんぐらいていしょうじゅ
       comment: |
         九条裟羅の元素スキル。
 
+    - kanji: 烏羽護持
+      yomi: からすばごじ
+      level: 2
+      comment: |
+        九条裟羅の元素スキルによって獲得できる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=9uw2QOBQB7Q
+
+    - kanji: 烏羽
+      yomi: からすば
+      comment: |
+        九条裟羅の元素スキル発動後に通常攻撃で設置することができる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=9uw2QOBQB7Q
+
+    - kanji: 天狗呪雷・伏
+      yomi: てんぐじゅらいふく
+      comment: |
+        九条裟羅の元素スキル発動後に通常攻撃で放つことができる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=9uw2QOBQB7Q
+
   元素爆発:
     - kanji: 煌煌千道鎮式
-      yomi: こうこうせんみち鎮しき
+      yomi: こうこうせんどうちんしき
       comment: |
         九条裟羅の元素爆発。
+
+    - kanji: 天狗呪雷・金剛破
+      yomi: てんぐじゅらいこんごうは
+      comment: |
+        九条裟羅の元素爆発によって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=9uw2QOBQB7Q
+
+    - kanji: 天狗呪雷・雷礫
+      yomi: てんぐじゅらいらいれき
+      comment: |
+        九条裟羅の元素爆発によって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=9uw2QOBQB7Q
+
+    - kanji: 常道を(恢弘)せしは永遠なる鳴神なり
+      yomi: じょうどうを(かいこう)せしはえいえんなるなるかみなり
+      level: 2
+      comment: |
+        九条裟羅が元素爆発を放つ時の台詞。
+        「恢弘」とは、教えなどを押し広めること。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=9uw2QOBQB7Q
 
   固有天賦:
     - kanji: 不動心
       yomi: ふどうしん
       comment: |
         九条裟羅の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=9uw2QOBQB7Q
 
     - kanji: 御公儀
       yomi: ごこうぎ
+      level: 1
       comment: |
         九条裟羅の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=9uw2QOBQB7Q
 
     - kanji: 検地
       yomi: けんち
@@ -46,13 +106,15 @@
         九条裟羅の固有天賦。
 
   命ノ星座:
-    - kanji: 羽団扇座
-      yomi: はうちわざ
+    - kanji: (羽団扇)座
+      yomi: (はうちわ)ざ
+      level: 2
       comment: |
         九条裟羅の命ノ星座。
+        「羽団扇」とは、天狗が持つ鳥の羽で作った団扇のこと。
 
     - kanji: 烏目
-      yomi: からすめ
+      yomi: からすめ?
       comment: |
         九条裟羅の命ノ星座・第1重。
 
@@ -62,7 +124,7 @@
         九条裟羅の命ノ星座・第2重。
 
     - kanji: 心魔
-      yomi: こころま
+      yomi: しんま?
       comment: |
         九条裟羅の命ノ星座・第3重。
 
@@ -72,11 +134,11 @@
         九条裟羅の命ノ星座・第4重。
 
     - kanji: 呪詠
-      yomi: のろいえい
+      yomi: じゅえい
       comment: |
         九条裟羅の命ノ星座・第5重。
 
     - kanji: 我界
-      yomi: わがかい
+      yomi: がかい
       comment: |
         九条裟羅の命ノ星座・第6重。

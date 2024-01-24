@@ -7,7 +7,7 @@
 
   称号:
     - kanji: 琉焔に舞う大輪
-      yomi: 琉ほのおにまうたいりん
+      yomi: りゅうえんにまうたいりん
       comment: |
         宵宮の称号。
 
@@ -17,31 +17,78 @@
       comment: |
         宵宮の通常攻撃。
 
+    - kanji: 焔硝の矢
+      yomi: えんしょうのや
+      comment: |
+        宵宮の通常攻撃2段チャージで放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=Y4ZNGFsjWzg
+
   元素スキル:
     - kanji: 焔硝の庭火舞い
-      yomi: ほのお硝のにわひまい
+      yomi: えんしょうのにわびまい
       comment: |
         宵宮の元素スキル。
 
+    - kanji: 庭火の(焔硝)
+      yomi: にわびの(えんしょう)
+      level: 2
+      comment: |
+        宵宮の元素スキル発動によって獲得できる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=Y4ZNGFsjWzg
+
+    - kanji: (熾焔)の矢
+      yomi: (しえん)のや
+      level: 2
+      comment: |
+        宵宮の元素スキル使用後、通常攻撃で放つことができる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=Y4ZNGFsjWzg
+
   元素爆発:
-    - kanji: 琉金の雲間草
-      yomi: りゅうきんのくもまくさ
+    - kanji: (琉金)の(雲間草)
+      yomi: (りゅうきん)の(くもまぐさ)
+      level: [2, 1]
       comment: |
         宵宮の元素爆発。
+        また、彼女特製の花火玉の名前。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=Y4ZNGFsjWzg
+
+    - kanji: 琉金の炎
+      yomi: りゅうきんのほのお
+      comment: |
+        宵宮の元素爆発によって敵に与えることができる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=Y4ZNGFsjWzg
 
   固有天賦:
     - kanji: 袖火百景図
-      yomi: そでひひゃくけいず
+      yomi: そでびひゃくけいず
+      level: 2
       comment: |
         宵宮の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=Y4ZNGFsjWzg
 
-    - kanji: 炎昼の風物詩
-      yomi: ほのおひるのふうぶつし
+    - kanji: (炎昼)の風物詩
+      yomi: (えんちゅう)のふうぶつし
+      level: 2
       comment: |
         宵宮の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=Y4ZNGFsjWzg
 
     - kanji: 炎色の配合法
-      yomi: ほのおしょくのはいごうほう
+      yomi: えんしょくのはいごうほう
       comment: |
         宵宮の固有天賦。
 
@@ -57,7 +104,7 @@
         宵宮の命ノ星座・第1重。
 
     - kanji: 万燈の火
-      yomi: まん燈のひ
+      yomi: まんどうのひ
       comment: |
         宵宮の命ノ星座・第2重。
 
@@ -77,6 +124,6 @@
         宵宮の命ノ星座・第5重。
 
     - kanji: 長野原龍勢流星群
-      yomi: ながのはらりゅうぜいりゅうせいぐん
+      yomi: ながのはらりゅうせいりゅうせいぐん
       comment: |
         宵宮の命ノ星座・第6重。

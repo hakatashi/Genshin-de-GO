@@ -6,33 +6,59 @@
         刻晴の初期衣装。
 
     - kanji: 霓裾の舞
-      yomi: 霓すそのまい
+      yomi: げいきょのまい?
       comment: |
         刻晴の限定衣装。
 
   名刺の飾り紋:
     - kanji: 雷楔
-      yomi: かみなりくさび
+      yomi: らいけつ
       comment: |
         刻晴の名刺の飾り紋。
 
   称号:
     - kanji: 疾雷快雨
-      yomi: 疾かみなりかいあめ
+      yomi: じんらいかいう
       comment: |
         刻晴の称号。
 
   通常攻撃:
     - kanji: 雲来剣法
       yomi: うんらいけんぽう
+      level: 1
       comment: |
         刻晴の通常攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=KEqEtPU6XqY
 
   元素スキル:
     - kanji: 星辰帰位
       yomi: せいしんきい
+      level: 2
       comment: |
         刻晴の元素スキル。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=KEqEtPU6XqY
+
+    - kanji: 雷楔
+      yomi: らいけつ
+      level: 3
+      comment: |
+        刻晴の元素スキルによって設置することができる楔。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=KEqEtPU6XqY
+
+    - kanji: 暴雷連斬
+      yomi: ぼうらいれんざん
+      level: 2
+      comment: |
+        刻晴の元素スキルによって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=KEqEtPU6XqY
 
   元素爆発:
     - kanji: 天街巡遊
@@ -42,14 +68,22 @@
 
   固有天賦:
     - kanji: 抵天の雷罰
-      yomi: 抵てんのかみなりばつ
+      yomi: こうてんのらいばつ
       comment: |
         刻晴の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=KEqEtPU6XqY
+      note: |
+        読み間違い?
 
     - kanji: 玉衡の貴
-      yomi: たま衡のとうと
+      yomi: ゆーへんのき
       comment: |
         刻晴の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=KEqEtPU6XqY
 
     - kanji: 総務土地
       yomi: そうむとち
@@ -58,7 +92,7 @@
 
   命ノ星座:
     - kanji: 紫金錘重座
-      yomi: むらさききんつむじゅうざ
+      yomi: しきんすいじゅうざ?
       comment: |
         刻晴の命ノ星座。
 
@@ -68,7 +102,7 @@
         刻晴の命ノ星座・第1重。
 
     - kanji: 苛捐
-      yomi: 苛捐
+      yomi: かえん?
       comment: |
         刻晴の命ノ星座・第2重。
 
@@ -83,11 +117,11 @@
         刻晴の命ノ星座・第4重。
 
     - kanji: 移燈
-      yomi: うつり燈
+      yomi: いとう?
       comment: |
         刻晴の命ノ星座・第5重。
 
     - kanji: 廉貞
-      yomi: れんさだ
+      yomi: れんてい?
       comment: |
         刻晴の命ノ星座・第6重。

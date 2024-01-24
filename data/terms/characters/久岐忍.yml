@@ -7,65 +7,111 @@
 
   名刺の飾り紋:
     - kanji: 絡
-      yomi: 絡
+      yomi: らく?
       comment: |
         久岐忍の名刺の飾り紋。
 
   称号:
     - kanji: 煩悩刈除
-      yomi: ぼんのうかりじょ
+      yomi:
+        - ぼんのうかいじょ?
+        - ぼんのうかりそき?
       comment: |
         久岐忍の称号。
 
   通常攻撃:
     - kanji: 忍流飛刃斬り
-      yomi: にんりゅうひはきり
+      yomi:
+        - しのぶりゅうひじんぎり?
+        - しのぶりゅうとびはぎり?
       comment: |
         久岐忍の通常攻撃。
 
   元素スキル:
-    - kanji: 越祓雷草の輪
-      yomi: えつ祓かみなりそうのわ
+    - kanji: (越祓雷草)の輪
+      yomi: (こしのはらえらいそう)のわ
+      level: 3
       comment: |
         久岐忍の元素スキル。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=hD-7vMWPwYE
+
+    - kanji: 越祓草輪
+      yomi: えつふつそうりん
+      level: 3
+      comment: |
+        久岐忍の元素スキルによって生成される輪。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=hD-7vMWPwYE
+
+    - kanji: (鳴草)の輪
+      yomi: (なぐさ)のりん
+      level: 3
+      comment: |
+        久岐忍が元素スキルを放つ時の台詞。
+      isOfficial: true
 
   元素爆発:
     - kanji: 御詠鳴神刈山祭
       yomi: ぎょえいなるかみかりやまさい
+      level: 3
       comment: |
         久岐忍の元素爆発。
+      isOfficial: true
+      ref:
+        - 英語版名称「Gyoei Narukami Kariyama Rite」より
+
+    - kanji: 祈雷祓除
+      yomi: きらいばつじょ
+      level: 2
+      comment: |
+        久岐忍が元素爆発を放つ時の台詞。
+      isOfficial: true
 
   固有天賦:
-    - kanji: 檻を破る志
-      yomi: おりをやぶるこころざし
+    - kanji: (檻)を破る志
+      yomi: (おり)をやぶるこころざし
+      level: 1
       comment: |
         久岐忍の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=hD-7vMWPwYE
 
     - kanji: 安心の処
-      yomi: あんしんのしょ
+      yomi: あんしんのところ
       comment: |
         久岐忍の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=hD-7vMWPwYE
 
     - kanji: 永き刻の祈り
-      yomi: ながきこくのいのり
+      yomi: ながきときのいのり
       comment: |
         久岐忍の固有天賦。
 
   命ノ星座:
     - kanji: 煩悩刈座
-      yomi: ぼんのうかりざ
+      yomi: ぼんのうがりざ?
       comment: |
         久岐忍の命ノ星座。
 
-    - kanji: 捨て去りし憐憫の心
-      yomi: すてさりしれんびんのこころ
+    - kanji: 捨て去りし(憐憫)の心
+      yomi: すてさりし(れんびん)のこころ
+      level: 1
       comment: |
         久岐忍の命ノ星座・第1重。
+        「憐憫」とは、哀れに思い同情すること。
 
-    - kanji: 捨て去りし僥倖の心
-      yomi: すてさりしぎょうこうのこころ
+    - kanji: 捨て去りし(僥倖)の心
+      yomi: すてさりし(ぎょうこう)のこころ
+      level: 1
       comment: |
         久岐忍の命ノ星座・第2重。
+        「僥倖」とは、思いがけない幸運のこと。
 
     - kanji: 捨て去りし苦痛の心
       yomi: すてさりしくつうのこころ
@@ -77,10 +123,12 @@
       comment: |
         久岐忍の命ノ星座・第4重。
 
-    - kanji: 捨て去りし阿諛の心
-      yomi: すてさりしあゆのこころ
+    - kanji: 捨て去りし(阿諛)の心
+      yomi: すてさりし(あゆ)のこころ
+      level: 3
       comment: |
         久岐忍の命ノ星座・第5重。
+        「阿諛」とは、おもねりへつらうこと。
 
     - kanji: 捨て去りし軟弱な心
       yomi: すてさりしなんじゃくなこころ

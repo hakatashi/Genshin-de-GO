@@ -23,6 +23,7 @@ const entrySchema = z.object({
 	isOfficial: z.boolean().default(false),
 	ref: z.string().array().default([]),
 	hint: z.enum(['length', 'initial', 'none'] as const).default('none'),
+	note: z.string().default(''),
 }).strict();
 
 type Entry = z.infer<typeof entrySchema>;

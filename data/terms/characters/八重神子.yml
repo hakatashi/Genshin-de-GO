@@ -7,65 +7,147 @@
 
   名刺の飾り紋:
     - kanji: 夢狐
-      yomi: ゆめきつね
+      yomi:
+        - むこ?
+        - ゆめぎつね?
       comment: |
         八重神子の名刺の飾り紋。
 
   称号:
     - kanji: 浮世笑百姿
-      yomi: うきよえみひゃくすがた
+      yomi: うきよわらいのひゃくし?
       comment: |
         八重神子の称号。
+      note: |
+        浮世絵「月百姿(つきのひゃくし/つきひゃくし)」が元ネタ?
 
   通常攻撃:
     - kanji: 狐霊罪喰い式
-      yomi: きつねれいざいくいしき
+      yomi: これいつみぐいしき
       comment: |
         八重神子の通常攻撃。
 
+    - kanji: 狐霊
+      yomi: これい
+      comment: |
+        八重神子の通常攻撃で召喚される狐の霊。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=CKOCsnZkH2Q
+
   元素スキル:
-    - kanji: 野干役呪・殺生櫻
-      yomi: のひやくのろいせっしょうさくら
+    - kanji: (野干役呪)・殺生櫻
+      yomi: (やかんやくじゅ)せっしょうおう
+      level: 3
       comment: |
         八重神子の元素スキル。
+        「野干」とは、狐のこと。
+
+    - kanji: 殺生櫻
+      yomi: せっしょうおう
+      level: 2
+      comment: |
+        八重神子の元素スキルで設置される桜の株。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=CKOCsnZkH2Q
+
+    - kanji: 律令
+      yomi: りつりょう
+      level: 1
+      comment: |
+        八重神子が元素スキルを発動する時の台詞。
+      isOfficial: true
+
+    - kanji: 呪禁
+      yomi: じゅごん
+      level: 2
+      comment: |
+        八重神子が元素スキルを発動する時の台詞。
+      isOfficial: true
+
+    - kanji: 敕
+      yomi: ちょく
+      level: 2
+      comment: |
+        八重神子が元素スキルを発動する時の台詞。
+      isOfficial: true
 
   元素爆発:
     - kanji: 大密法・天狐顕現
-      yomi: だいみつほうてんきつねけんげん
+      yomi: だいみっぽうてんこけんげん
       comment: |
         八重神子の元素爆発。
 
+    - kanji: 天狐の憑
+      yomi: てんこのひょう
+      comment: |
+        八重神子の持つ狐憑きの能力。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=CKOCsnZkH2Q
+
+    - kanji: 天狐雷霆
+      yomi: てんこらいてい
+      level: 2
+      comment: |
+        八重神子の元素爆発によって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=CKOCsnZkH2Q
+
+    - kanji: (真瞳)の顕現
+      yomi: (しんどう)のけんげん
+      level: 2
+      comment: |
+        八重神子の元素爆発を放つ時の台詞。
+      isOfficial: true
+
   固有天賦:
     - kanji: 神籬之御蔭
-      yomi: かみませのおかげ
+      yomi: ひもろぎのみかげ
+      level: 4
       comment: |
         八重神子の固有天賦。
+        「神籬」とは、神事を執り行う際の依り代とするため、
+        室内や庭に立てる榊の枝葉のこと。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=CKOCsnZkH2Q
 
     - kanji: 啓蟄之祝詞
       yomi: けいちつののりと
+      level: 3
       comment: |
         八重神子の固有天賦。
+        「啓蟄」は二十四節気の一。3月6日ごろ。
+        「祝詞」は、神に向かって唱える言葉のこと。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=CKOCsnZkH2Q
 
     - kanji: 野狐説禅
-      yomi: のきつねせつぜん
+      yomi: のきつねせつぜん?
       comment: |
         八重神子の固有天賦。
 
   命ノ星座:
-    - kanji: 座
-      yomi: ざ
+    - kanji: 仙狐座
+      yomi: せんこざ
       comment: |
         八重神子の命ノ星座。
 
     - kanji: 野狐供真編
-      yomi: のきつねきょうしんへん
+      yomi: のきつねきょうしんへん?
       comment: |
         八重神子の命ノ星座・第1重。
 
-    - kanji: 望月之吼噦
-      yomi: もちづきの吼噦
+    - kanji: 望月之(吼噦)
+      yomi: もちづきの(こんかい)
+      level: 4
       comment: |
         八重神子の命ノ星座・第2重。
+        「吼噦」は、狐の鳴き声を表す擬音。
 
     - kanji: 七化けの段
       yomi: しちばけのだん
@@ -73,16 +155,18 @@
         八重神子の命ノ星座・第3重。
 
     - kanji: 緋櫻誘雷章
-      yomi: ひさくら誘かみなりあきら
+      yomi: ひおうゆうらいしょう?
       comment: |
         八重神子の命ノ星座・第4重。
 
-    - kanji: 暴悪嗤笑面
-      yomi: ぼうあくししょうめん
+    - kanji: 暴悪(嗤笑)面
+      yomi: ぼうあく(ししょう)めん
+      level: 3
       comment: |
         八重神子の命ノ星座・第5重。
+        「嗤笑」とは、あざけり笑うこと。
 
     - kanji: 大殺生呪禁
-      yomi: だいせっしょうのろいきん
+      yomi: だいせっしょうじゅごん
       comment: |
         八重神子の命ノ星座・第6重。

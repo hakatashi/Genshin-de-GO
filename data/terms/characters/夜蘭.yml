@@ -1,7 +1,7 @@
 夜蘭:
   衣装:
     - kanji: 凋零之処
-      yomi: 凋れいのしょ
+      yomi: ちょうれいのしょ
       comment: |
         夜蘭の初期衣装。
 
@@ -19,9 +19,26 @@
 
   通常攻撃:
     - kanji: 匿影隠曜の弓
-      yomi: 匿かげこも曜のゆみ
+      yomi: とくえいいんようのゆみ?
       comment: |
         夜蘭の通常攻撃。
+
+    - kanji: 打破
+      yomi: だは
+      level: 1
+      comment: |
+        夜蘭が戦闘解除時に獲得することができる状態。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=AoqU31SeI0o
+
+    - kanji: 打破の矢
+      yomi: だはのや
+      comment: |
+        夜蘭が「打破」状態のときに放つことができる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=AoqU31SeI0o
 
   元素スキル:
     - kanji: 絡み合う命の糸
@@ -29,22 +46,46 @@
       comment: |
         夜蘭の元素スキル。
 
+    - kanji: 命の糸
+      yomi: いのちのいと
+      comment: |
+        夜蘭の元素スキルによって敵に与えることができる状態。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=AoqU31SeI0o
+
   元素爆発:
     - kanji: 深謀玲瓏賽
       yomi: しんぼうれいろうさい
       comment: |
         夜蘭の元素爆発。
 
+    - kanji: 玲瓏一擲
+      yomi: れいろういってき
+      level: 2
+      comment: |
+        夜蘭の元素爆発。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=AoqU31SeI0o
+
   固有天賦:
     - kanji: 先後の決め手
       yomi: せんごのきめて
       comment: |
         夜蘭の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=AoqU31SeI0o
 
     - kanji: 気随気儘
-      yomi: きずいき儘
+      yomi: きずいきまま
+      level: 3
       comment: |
         夜蘭の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=AoqU31SeI0o
 
     - kanji: 長考一手
       yomi: ちょうこういちて
@@ -52,13 +93,15 @@
         夜蘭の固有天賦。
 
   命ノ星座:
-    - kanji: 幽客座
-      yomi: かそけきゃくざ
+    - kanji: (幽客)座
+      yomi: (ゆうかく)ざ
+      level: 3
       comment: |
         夜蘭の命ノ星座。
+        「幽客」は、ランの別名。
 
     - kanji: 共謀する者、以局征局
-      yomi: きょうぼうするもの以きょくせいきょく
+      yomi: きょうぼうするものいきょくせいきょく
       comment: |
         夜蘭の命ノ星座・第1重。
 
@@ -72,10 +115,13 @@
       comment: |
         夜蘭の命ノ星座・第3重。
 
-    - kanji: 騙し取る者、移花接木
-      yomi: だましとるものうつりはなつぎき
+    - kanji: 騙し取る者、(移花接木)
+      yomi: だましとるもの(いかせつぼく)
+      level: 2
       comment: |
         夜蘭の命ノ星座・第4重。
+        「移花接木」とは、花を接ぎ木するように
+        巧みに物事をすり替えることを意味する四字熟語。
 
     - kanji: 胴元になる者、三仙奇術
       yomi: どうもとになるものさんせんきじゅつ
