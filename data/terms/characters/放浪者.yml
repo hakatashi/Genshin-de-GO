@@ -1,9 +1,11 @@
 放浪者:
   衣装:
     - kanji: 寂忿空相
-      yomi: さび忿そらしょう
+      yomi: じゃくふんくうそう?
       comment: |
         放浪者の初期衣装。
+      note: |
+        チベット死者の書に「寂忿尊」なる名前の仏が現れるとの説もあるが、不詳
 
   名刺の飾り紋:
     - kanji: 憂き世の歌
@@ -13,76 +15,152 @@
 
   称号:
     - kanji: 久世浮傾
-      yomi: くぜ浮傾
+      yomi: くせふけい?
       comment: |
         放浪者の称号。
+      note: |
+        命の星座に「久世舞(くせまい)」が含まれているため、「くぜ」ではなく「くせ」読みである可能性は高い。
 
   通常攻撃:
     - kanji: 幡舞鳴弦
-      yomi: はたまいなつる
+      yomi: ゆうばんめいげん?
       comment: |
         放浪者の通常攻撃。
+      note: |
+        英語版名称は「Yuuban Meigen」だがこれをそのまま正解としていいかは疑問
 
   元素スキル:
     - kanji: 羽画・風姿華歌
-      yomi: はねがふうしはなか
+      yomi: はねがふうしかか?
       comment: |
         放浪者の元素スキル。
+      ref:
+        - '英語版名称「Hanega: Song of the Wind」'
+        - https://note.com/softlylonely01/n/n80f15b1067e3
+
+    - kanji: 児姿優風
+      yomi: こしゆうふう
+      level: 3
+      comment: |
+        放浪者が元素スキルによって変化した状態。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=7AaNr8jbc2A
+
+    - kanji: 空居・不生断
+      yomi: くうごふしょうだん
+      comment: |
+        放浪者が元素スキル使用時に放つことができる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=7AaNr8jbc2A
+
+    - kanji: 空居・風刀界
+      yomi: くうごふうとうかい
+      comment: |
+        放浪者が元素スキル使用時に放つことができる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=7AaNr8jbc2A
+
+    - kanji: 空居力
+      yomi: くうごりょく
+      level: 3
+      comment: |
+        放浪者が元素スキル使用時、スタミナの代わりに消費する力。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=7AaNr8jbc2A
+
+    - kanji: 傾落
+      yomi: けいらく
+      level: 2
+      comment: |
+        放浪者が元素スキル使用時、攻撃を敵に命中させると獲得することができる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=7AaNr8jbc2A
 
   元素爆発:
     - kanji: 狂言・式楽伍番
-      yomi: きょうげんしきらくごばん
+      yomi: きょうげんしきがくごばん
       comment: |
         放浪者の元素爆発。
 
   固有天賦:
     - kanji: 拾玉得花
-      yomi: じつだまとくはな
+      yomi: しゅうぎょくとっか
+      level: 2
       comment: |
         放浪者の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=7AaNr8jbc2A
 
     - kanji: 夢跡一風
-      yomi: ゆめあといっぷう
+      yomi: むせきいっぷう
+      level: 2
       comment: |
         放浪者の固有天賦。
+      ref:
+        - https://www.youtube.com/watch?v=7AaNr8jbc2A
 
     - kanji: 廻色雲弦
-      yomi: まわりしょくくもつる
+      yomi: かいしょくうんげん
       comment: |
         放浪者の固有天賦。
 
   命ノ星座:
     - kanji: 浪客座
-      yomi: なみきゃくざ
+      yomi: ろうかくざ
       comment: |
         放浪者の命ノ星座。
 
     - kanji: 初番・茂風流羽行
-      yomi: はつばんしげふりゅうはねゆき
+      yomi: しょばんものふりゅうのはぎょう?
       comment: |
         放浪者の命ノ星座・第1重。
+      ref:
+        - https://note.com/softlylonely01/n/n80f15b1067e3
 
-    - kanji: 弐番・箙島月白浪
-      yomi: 弐ばんえびらとうつきしろなみ
+    - kanji: 弐番・箙島(廓白浪)
+      yomi: にばんえびらじま(ながれのしらなみ)
+      level: 4
       comment: |
         放浪者の命ノ星座・第2重。
+        歌舞伎の外題「都鳥廓白浪」が元ネタと思われる。
+      ref:
+        - https://kotobank.jp/word/%E9%83%BD%E9%B3%A5%E5%BB%93%E7%99%BD%E6%B5%AA-392517#w-1598341
+        - https://ja.wikipedia.org/wiki/%E9%83%BD%E9%B3%A5%E5%BB%93%E7%99%BD%E6%B5%AA
+        - https://note.com/softlylonely01/n/n80f15b1067e3
 
     - kanji: 参番・久世舞夕顔
-      yomi: さんばんくぜまいゆうがお
+      yomi: さんばんくせまいのゆうがお?
       comment: |
         放浪者の命ノ星座・第3重。
+        「久世舞」とは、能楽に取り入れられた舞の一種。
+      ref:
+        - https://note.com/softlylonely01/n/n80f15b1067e3
 
     - kanji: 肆番・花月歌浮舟
-      yomi: 肆ばんかげつかうきふね
+      yomi: しばんはなにつきうたのうきふね?
       comment: |
         放浪者の命ノ星座・第4重。
+      ref:
+        - https://note.com/softlylonely01/n/n80f15b1067e3
 
     - kanji: 末番・今昔渡来殿
-      yomi: すえばんこんじゃくとらいどの
+      yomi: まつばんこんじゃくとらいでん?
       comment: |
         放浪者の命ノ星座・第5重。
+      ref:
+        - https://note.com/softlylonely01/n/n80f15b1067e3
 
     - kanji: 言祝・霞幕傾松風
-      yomi: げんしゅくかすみまく傾まつかぜ
+      yomi: ことほぎかすみまくにかぶくまつかぜ?
       comment: |
         放浪者の命ノ星座・第6重。
+      note: |
+        「祝言能」が元ネタのはずなので、何らかのミス?
+      ref:
+        - https://note.com/softlylonely01/n/n80f15b1067e3

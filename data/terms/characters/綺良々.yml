@@ -1,19 +1,29 @@
 綺良々:
   衣装:
-    - kanji: 百花戯れ綺良々の衣装。「美しい花を心地よく纏う」——この信念に基づいて、有名デザイナーの千織さんが綺良々のために仕立ててくれた。
-      yomi: ひゃっかたわむれあやぎぬりょう々のいしょううつくしいはなをここちよくまとう——このしんねんにもとづいてゆうめいでざいなーのちおりさんがあやぎぬりょう々のためにしたててくれた
+    - kanji: 百花戯れ
+      yomi: ひゃっかたわむれ
       comment: |
         綺良々の初期衣装。
 
   称号:
     - kanji: 檐宇遊猫
-      yomi: 檐宇遊ねこ
+      yomi: えんうゆうびょう
+      level: 3
       comment: |
         綺良々の称号。
+        「檐宇」とは家屋のこと。
+
+    - kanji: 狛荷屋金等級配達員
+      yomi: こまにやきんとうきゅうはいたついん
+      comment: |
+        綺良々の狛荷屋での称号。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=p1hpwe5Ushs
 
   通常攻撃:
     - kanji: 段板紙・切り裂き術
-      yomi: だんいたがみきりさきじゅつ
+      yomi: だんばんしきりさきじゅつ
       comment: |
         綺良々の通常攻撃。
 
@@ -23,22 +33,87 @@
       comment: |
         綺良々の元素スキル。
 
+    - kanji: (猫又返)し
+      yomi: (ねこまたがえ)し
+      level: 1
+      comment: |
+        綺良々の元素スキルによって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=p1hpwe5Ushs
+
+    - kanji: 安全運送シールド
+      yomi: あんぜんうんそうしーるど
+      comment: |
+        綺良々の元素スキルによって獲得できるシールド。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=p1hpwe5Ushs
+
+    - kanji: 宅配用(段板紙)
+      yomi: たくはいよう(だんばんし)
+      level: 2
+      comment: |
+        綺良々特製のダンボール箱。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=p1hpwe5Ushs
+
+    - kanji: ネコ(箱急便)
+      yomi: ねこ(そうきゅうびん)
+      level: 3
+      comment: |
+        綺良々が元素スキル長押しで変化した状態。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=p1hpwe5Ushs
+
+    - kanji: がっちり(梱包)
+      yomi: がっちり(こんぽう)
+      level: 1
+      comment: |
+        綺良々が元素スキル長押しで獲得できる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=p1hpwe5Ushs
+
+    - kanji: くるりん(爪撃)
+      yomi: くるりん(そうげき)
+      level: 2
+      comment: |
+        綺良々の元素スキル長押しで放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=p1hpwe5Ushs
+
   元素爆発:
     - kanji: 秘法・サプライズ特別配送
       yomi: ひほうさぷらいずとくべつはいそう
       comment: |
         綺良々の元素爆発。
 
+    - kanji: ニャルダモン
+      yomi: にゃるだもん
+      comment: |
+        綺良々が元素爆発によってばらまく爆弾。
+
   固有天賦:
-    - kanji: 妖説岐尾の変
-      yomi: 妖せつ岐おのへん
+    - kanji: (妖説岐尾)の変
+      yomi: (ようせつきび)のへん
+      level: 2
       comment: |
         綺良々の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=p1hpwe5Ushs
 
     - kanji: ネコのぐるぐる目時計
-      yomi: ねこのぐるぐるめときはかる
+      yomi: ねこのぐるぐるめどけい
       comment: |
         綺良々の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=p1hpwe5Ushs
 
     - kanji: 抜き足、差し足、忍び猫
       yomi: ぬきあしさしあししのびねこ
@@ -47,7 +122,7 @@
 
   命ノ星座:
     - kanji: 箱筥座
-      yomi: ばこ筥ざ
+      yomi: そうきょざ
       comment: |
         綺良々の命ノ星座。
 
@@ -57,26 +132,32 @@
         綺良々の命ノ星座・第1重。
 
     - kanji: 八隅・完璧梱包術
-      yomi: はちすみかんぺきこんぽうじゅつ
+      yomi: やすみかんぺきこんぽうじゅつ
       comment: |
         綺良々の命ノ星座・第2重。
 
     - kanji: 万戸門札に通ず
-      yomi: まんこもんさつにつうず
+      yomi: ばんこもんさつにつうず
       comment: |
         綺良々の命ノ星座・第3重。
 
     - kanji: 韋駄天駿足
-      yomi: 韋だてんしゅんそく
+      yomi: いだてんしゅんそく
+      level: 1
       comment: |
         綺良々の命ノ星座・第4重。
+        「韋駄天」は、仏教の守護神。俗説に足の速い神とされる。
 
     - kanji: 一日千里
-      yomi: いちにちせんり
+      yomi:
+        - いちじつせんり
+        - いちにちせんり
+      level: 1
       comment: |
         綺良々の命ノ星座・第5重。
+        一日に千里も走る馬のように、才能が優れていること。
 
     - kanji: 道中百景心得たり
-      yomi: どうちゅうひゃくけいこころえたり
+      yomi: どうちゅうひゃっけいこころえたり
       comment: |
         綺良々の命ノ星座・第6重。

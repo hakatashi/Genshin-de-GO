@@ -1,19 +1,22 @@
 楓原万葉:
   衣装:
-    - kanji: 天涯に落ちゆく葉
-      yomi: てんがいにおちゆくは
+    - kanji: (天涯)に落ちゆく葉
+      yomi: (てんがい)におちゆくは
+      level: 1
       comment: |
         楓原万葉の初期衣装。
+        「天涯」とは、極めて遠い場所。特に故郷から遠いこと。
 
   名刺の飾り紋:
-    - kanji: 秋の紅葉狩り
-      yomi: あきのもみじがり
+    - kanji: 秋の(紅葉狩)り
+      yomi: あきの(もみじが)り
+      level: 1
       comment: |
         楓原万葉の名刺の飾り紋。
 
   称号:
     - kanji: 風波流浪の紅葉
-      yomi: ふうはるろうのこうよう
+      yomi: かざなみるろうのもみじ?
       comment: |
         楓原万葉の称号。
 
@@ -24,10 +27,27 @@
         楓原万葉の通常攻撃。
 
   元素スキル:
-    - kanji: 千早振る
-      yomi: ちはやふる
+    - kanji: (千早振)る
+      yomi: (ちはやぶ)る
+      level: 2
       comment: |
         楓原万葉の元素スキル。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=K1QdZmHQUzE
+        - https://www.dwc.doshisha.ac.jp/research/faculty_column/2016-05-17-10-36
+      note: |
+        「ふる」の清濁の問題があるが、万葉集の時代は「ちはやふる」「ちはやぶる」どちらも用いられており、後代で「ちはやふる」が一般的になっていった模様。
+        なお、百人一首では「ちはやぶる」が正。
+
+    - kanji: 乱れ(嵐斬)
+      yomi: みだれ(らんざん)
+      level: 2
+      comment: |
+        楓原万葉の通常攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=K1QdZmHQUzE
 
   元素爆発:
     - kanji: 万葉の一刀
@@ -35,16 +55,57 @@
       comment: |
         楓原万葉の元素爆発。
 
+    - kanji: 流風秋野
+      yomi: りゅうふうしゅうや
+      level: 2
+      comment: |
+        楓原万葉の元素爆発によって生成される領域。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=K1QdZmHQUzE
+
+    - kanji: 雲隠れ(雁)鳴く時
+      yomi: くもがくれ(かり)なくとき
+      level: 2
+      comment: |
+        楓原万葉が元素爆発を放つ時の台詞。
+      isOfficial: true
+
+    - kanji: 風の(共)雲の行くごと
+      yomi: かぜの(むた)くものゆくごと
+      level: 3
+      comment: |
+        楓原万葉が元素爆発を放つ時の台詞。
+        「共」は「～とともに」といった意味を持つ古語。
+      isOfficial: true
+
+    - kanji: (黄葉)を散らまく惜しみ
+      yomi: (もみちば)をちらまくおしみ
+      level: 3
+      comment: |
+        楓原万葉が元素爆発を放つ時の台詞。
+      isOfficial: true
+      ref:
+        - https://kobun.weblio.jp/content/%E9%BB%84%E8%91%89
+
   固有天賦:
     - kanji: 相聞剣法
       yomi: そうもんけんぽう
+      level: 2
       comment: |
         楓原万葉の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=K1QdZmHQUzE
 
-    - kanji: 風物の詩吟
-      yomi: ふうぶつのしぎん
+    - kanji: 風物の(詩吟)
+      yomi: ふうぶつの(しぎん)
+      level: 1
       comment: |
         楓原万葉の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=K1QdZmHQUzE
 
     - kanji: 霞立つ松風
       yomi: かすみたつまつかぜ
@@ -53,12 +114,12 @@
 
   命ノ星座:
     - kanji: 紅葉座
-      yomi: こうようざ
+      yomi: もみじざ
       comment: |
         楓原万葉の命ノ星座。
 
     - kanji: 千山紅葉
-      yomi: せんやまこうよう
+      yomi: せんさんもみじ?
       comment: |
         楓原万葉の命ノ星座・第1重。
 
@@ -66,23 +127,34 @@
       yomi: やまあらしざんしん
       comment: |
         楓原万葉の命ノ星座・第2重。
+      ref:
+        - 英語版名称「Yamaarashi Tailwind」
 
     - kanji: 楓袖奇譚
-      yomi: かえでそできたん
+      yomi: ふうしゅうきたん?
       comment: |
         楓原万葉の命ノ星座・第3重。
+      ref:
+        - https://twitter.com/genshin_kanji/status/1410440369540517901
 
     - kanji: 大空幻法
-      yomi: おおぞらまぼろしほう
+      yomi: おおぞらげんぽう
       comment: |
         楓原万葉の命ノ星座・第4重。
+      isOfficial: true
+      ref:
+        - 英語版名称「Oozora Genpou」
 
     - kanji: 万世集
       yomi: ばんせいしゅう
+      level: 2
       comment: |
         楓原万葉の命ノ星座・第5重。
+      isOfficial: true
+      ref:
+        - 英語版名称「Wisdom of Bansei」
 
     - kanji: 血赤の紅葉
-      yomi: ちあかのこうよう
+      yomi: けっせきのもみじ?
       comment: |
         楓原万葉の命ノ星座・第6重。

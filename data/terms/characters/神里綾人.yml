@@ -1,21 +1,25 @@
 神里綾人:
   衣装:
     - kanji: 綾羅錦繡
-      yomi: りょうらにしき繡
+      yomi: りょうらきんしゅう
+      level: 3
       comment: |
         神里綾人の初期衣装。
+        上等な布を使用した美しい衣服を意味する四字熟語。
 
   名刺の飾り紋:
     - kanji: 細波
-      yomi: さざなみ
+      yomi: さざなみ?
       comment: |
         神里綾人の名刺の飾り紋。
 
   称号:
     - kanji: 磐祭葉守
-      yomi: いわさいはもり
+      yomi: ばんさいはもり?
       comment: |
         神里綾人の称号。
+      ref:
+        - https://www.hoyolab.com/article/17248280
 
   通常攻撃:
     - kanji: 神里流・転
@@ -24,27 +28,107 @@
         神里綾人の通常攻撃。
 
   元素スキル:
-    - kanji: 神里流・鏡花
-      yomi: かみさとりゅうきょうか
+    - kanji: 神里流・(鏡花)
+      yomi: かみさとりゅう(きょうか)
+      level: 1
       comment: |
         神里綾人の元素スキル。
 
+    - kanji: 滝廻鑑花
+      yomi: たきめぐりかんか
+      comment: |
+        神里綾人が元素スキルによって獲得することができる状態。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=PqJzSwJDn3U
+
+    - kanji: 水の幻影
+      yomi: みずのげんえい
+      comment: |
+        神里綾人の元素スキルによって生成される幻影。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=PqJzSwJDn3U
+
+    - kanji: 瞬水剣
+      yomi: しゅんすいけん
+      level: 1
+      comment: |
+        神里綾人が元素スキル使用後に通常攻撃で放つことができる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=PqJzSwJDn3U
+
+    - kanji: 浪閃
+      yomi: なみせん
+      level: 2
+      comment: |
+        神里綾人が元素スキル使用後に通常攻撃で獲得することができる状態。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=PqJzSwJDn3U
+
+    - kanji: 蒼流水影
+      yomi: そうりゅうすいえい
+      level: 1
+      comment: |
+        神里綾人が元素スキルを放つ時の台詞。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=PqJzSwJDn3U
+
   元素爆発:
-    - kanji: 神里流・水囿
-      yomi: かみさとりゅうみず囿
+    - kanji: 神里流・(水囿)
+      yomi: かみさとりゅう(すいゆう)
+      level: 3
       comment: |
         神里綾人の元素爆発。
+      isOfficial: true
+
+    - kanji: 清浄之園囿
+      yomi: しょうじょうのえんゆう
+      level: 3
+      comment: |
+        神里綾人の元素爆発によって展開される領域。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=PqJzSwJDn3U
+
+    - kanji: 水沫剣
+      yomi: すいまつけん
+      level: 3
+      comment: |
+        神里綾人の元素爆発によって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=PqJzSwJDn3U
+
+    - kanji: 三尺の(秋水)
+      yomi: さんじゃくの(しゅうすい)
+      level: 2
+      comment: |
+        神里綾人が元素爆発を放つ時の台詞。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=PqJzSwJDn3U
 
   固有天賦:
     - kanji: 神里流・峰を纏いし清滝
       yomi: かみさとりゅうみねをまといしきよたき
       comment: |
         神里綾人の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=PqJzSwJDn3U
 
-    - kanji: 神里流・満ちゆく破月
-      yomi: かみさとりゅうみちゆくやぶつき
+    - kanji: 神里流・満ちゆく(破月)
+      yomi: かみさとりゅうみちゆく(はげつ)
+      level: 1
       comment: |
         神里綾人の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=PqJzSwJDn3U
 
     - kanji: 神里流・日常茶飯
       yomi: かみさとりゅうにちじょうさはん
@@ -53,14 +137,16 @@
 
   命ノ星座:
     - kanji: 神守柏座
-      yomi: かもりかしわざ
+      yomi: かもりかしわざ?
       comment: |
         神里綾人の命ノ星座。
 
     - kanji: 鏡華風姿
-      yomi: かがみはなふうし
+      yomi: きょうかふうし?
       comment: |
         神里綾人の命ノ星座・第1重。
+      ref:
+        - https://twitter.com/OHANA4649ne/status/1727243223838687610
 
     - kanji: 世に源泉ありて
       yomi: よにげんせんありて
@@ -72,17 +158,33 @@
       comment: |
         神里綾人の命ノ星座・第3重。
 
-    - kanji: 細流厭わず
-      yomi: さいりゅういとわず
+    - kanji: (細流厭)わず
+      yomi: (さいりゅういと)わず
+      level: 2
       comment: |
         神里綾人の命ノ星座・第4重。
+        『史記』の「河海は細流を厭わず」が元ネタと思われる。
+      ref:
+        - https://twitter.com/OHANA4649ne/status/1727243223838687610
+        - https://ndlsearch.ndl.go.jp/books/R100000076-I200200c0cd89uvN3XuLp
 
     - kanji: 万水一露
-      yomi: まんみずいちつゆ
+      yomi: ばんすいいちろ
+      level: 2
       comment: |
         神里綾人の命ノ星座・第5重。
+        源氏物語の注釈書『万水一露』が元ネタと思われる。
+      ref:
+        - https://twitter.com/genshin_kanji/status/1510108906559000577
+        - https://twitter.com/OHANA4649ne/status/1727243223838687610
 
     - kanji: 濫觴無底
-      yomi: らんしょうむそこ
+      yomi: らんしょうむてい
+      level: 3
       comment: |
         神里綾人の命ノ星座・第6重。
+        源氏物語の注釈書『濫觴無底抄』が元ネタと思われる。
+      ref:
+        - https://twitter.com/genshin_kanji/status/1510108906559000577
+        - https://twitter.com/OHANA4649ne/status/1727243223838687610
+        - https://kokusho.nijl.ac.jp/biblio/100000597/8?ln=ja

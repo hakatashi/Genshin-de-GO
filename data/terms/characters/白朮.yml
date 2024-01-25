@@ -1,44 +1,105 @@
 白朮:
   衣装:
-    - kanji: 君臣佐使白朮の衣装。肩に羽織った氅衣は、長生の好む草木を焚き込めたもの。淡い香りの余韻が長く残り、心身を癒してくれる。
-      yomi: くんしんさししろおけらのいしょうかたにはおった氅ころもはちょうせいのこのむくさきをたきこめたものあわいかおりのよいんがながくのこりしんしんをいやしてくれる
+    - kanji: 君臣佐使
+      yomi: くんしんさし
       comment: |
         白朮の初期衣装。
 
   称号:
     - kanji: 遵生合和
-      yomi: 遵せいごうわ
+      yomi: じゅんせいごうわ
       comment: |
         白朮の称号。
 
   通常攻撃:
     - kanji: 金匱鍼解
-      yomi: きむ匱鍼かい
+      yomi: きんきしんかい
       comment: |
         白朮の通常攻撃。
+      ref:
+        - https://note.com/softlylonely01/n/na2569940afa2
 
   元素スキル:
     - kanji: 太素診要
-      yomi: ふとそみよう
+      yomi: たいそしんよう?
       comment: |
         白朮の元素スキル。
 
+    - kanji: 遊糸徴霊
+      yomi: ゆうしちょうれい
+      level: 2
+      comment: |
+        白朮が元素スキルで使役する霊。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=Zp9qesNpxs0
+
   元素爆発:
     - kanji: 癒気全形論
-      yomi: 癒きぜんけいろん
+      yomi: ゆきぜんけいろん
       comment: |
         白朮の元素爆発。
 
+    - kanji: 脈象宣明
+      yomi: みゃくしょうせんみょう
+      level: 2
+      comment: |
+        白朮が元素爆発によって獲得することができる状態。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=Zp9qesNpxs0
+
+    - kanji: (無隙)シールド
+      yomi: (むげき)しーるど
+      level: 3
+      comment: |
+        白朮の元素爆発によって獲得できるシールド。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=Zp9qesNpxs0
+
+    - kanji: 霊気脈
+      yomi: れいきみゃく
+      level: 1
+      comment: |
+        白朮の元素爆発によって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=Zp9qesNpxs0
+
+    - kanji: (木運)の歳
+      yomi: (もくうん)のさい
+      level: 1
+      comment: |
+        白朮の元素爆発の治療効果で獲得することができる状態。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=Zp9qesNpxs0
+
+    - kanji: (苦尽甘来)です
+      yomi: (くじんかんらい)です
+      level: 2
+      comment: |
+        白朮が元素爆発を放つ時の台詞。
+      isOfficial: true
+
   固有天賦:
     - kanji: 五運終天
-      yomi: ごうんおわりてん
+      yomi: ごうんしゅうてん
+      level: 2
       comment: |
         白朮の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=Zp9qesNpxs0
 
     - kanji: 地に在りて形を成す
       yomi: ちにありてかたちをなす
       comment: |
         白朮の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=Zp9qesNpxs0
 
     - kanji: 草木の滋養
       yomi: くさきのじよう
@@ -46,25 +107,36 @@
         白朮の固有天賦。
 
   命ノ星座:
-    - kanji: 懸壺座
-      yomi: かかつぼざ
+    - kanji: (懸壺)座
+      yomi: (けんこ)ざ
+      level: 3
       comment: |
         白朮の命ノ星座。
+        「懸壺」とは、薬売りのこと。
+      ref:
+        - https://note.com/softlylonely01/n/na2569940afa2
 
     - kanji: 至微呻吟
-      yomi: いたりびしんぎん
+      yomi: しびしんぎん
       comment: |
         白朮の命ノ星座・第1重。
+      ref:
+        - https://note.com/softlylonely01/n/na2569940afa2
 
     - kanji: 脈絡明哲
       yomi: みゃくらくめいてつ
       comment: |
         白朮の命ノ星座・第2重。
+      ref:
+        - https://note.com/softlylonely01/n/na2569940afa2
 
     - kanji: 八正之気
-      yomi: はちまさゆきき
+      yomi: はっせいのき
       comment: |
         白朮の命ノ星座・第3重。
+      ref:
+        - https://note.com/softlylonely01/n/na2569940afa2
+        - https://www.osaka-hari9.jp/study/somon2022061701.html
 
     - kanji: 古法故視
       yomi: こほうこし
@@ -75,8 +147,12 @@
       yomi: えいきょぞうぞう
       comment: |
         白朮の命ノ星座・第5重。
+      ref:
+        - https://note.com/softlylonely01/n/na2569940afa2
 
     - kanji: 真邪離合
-      yomi: まよこしまりごう
+      yomi: しんじゃりごう
       comment: |
         白朮の命ノ星座・第6重。
+      ref:
+        - https://note.com/softlylonely01/n/na2569940afa2

@@ -2970,6 +2970,240 @@
     "isOfficial": true
   },
   {
+    "kanji": "天涯",
+    "answers": [
+      "てんがい"
+    ],
+    "prefix": "",
+    "suffix": "に落ちゆく葉",
+    "yomiPrefix": "",
+    "yomiSuffix": "におちゆくは",
+    "category": [
+      "楓原万葉",
+      "衣装"
+    ],
+    "comment": "楓原万葉の初期衣装。\n「天涯」とは、極めて遠い場所。特に故郷から遠いこと。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "紅葉狩",
+    "answers": [
+      "もみじが"
+    ],
+    "prefix": "秋の",
+    "suffix": "り",
+    "yomiPrefix": "あきの",
+    "yomiSuffix": "り",
+    "category": [
+      "楓原万葉",
+      "名刺の飾り紋"
+    ],
+    "comment": "楓原万葉の名刺の飾り紋。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "詩吟",
+    "answers": [
+      "しぎん"
+    ],
+    "prefix": "風物の",
+    "suffix": "",
+    "yomiPrefix": "ふうぶつの",
+    "yomiSuffix": "",
+    "category": [
+      "楓原万葉",
+      "固有天賦"
+    ],
+    "comment": "楓原万葉の固有天賦。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "封蝋",
+    "answers": [
+      "ふうろう"
+    ],
+    "prefix": "",
+    "suffix": "の印",
+    "yomiPrefix": "",
+    "yomiSuffix": "のしるし",
+    "category": [
+      "煙緋",
+      "通常攻撃"
+    ],
+    "comment": "煙緋の通常攻撃。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "丹火",
+    "answers": [
+      "たんか"
+    ],
+    "prefix": "",
+    "suffix": "の印",
+    "yomiPrefix": "",
+    "yomiSuffix": "のいん",
+    "category": [
+      "煙緋",
+      "通常攻撃"
+    ],
+    "comment": "煙緋の通常攻撃によって獲得できる効果。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "灼眼",
+    "answers": [
+      "しゃくがん"
+    ],
+    "prefix": "法獣の",
+    "suffix": "",
+    "yomiPrefix": "ほうじゅうの",
+    "yomiSuffix": "",
+    "category": [
+      "煙緋",
+      "固有天賦"
+    ],
+    "comment": "煙緋の固有天賦。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "遵法",
+    "answers": [
+      "じゅんぽう"
+    ],
+    "prefix": "",
+    "suffix": "誓約書",
+    "yomiPrefix": "",
+    "yomiSuffix": "せいやくしょ",
+    "category": [
+      "煙緋",
+      "命ノ星座"
+    ],
+    "comment": "煙緋の命ノ星座・第5重。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "霊気脈",
+    "answers": [
+      "れいきみゃく"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "白朮",
+      "元素爆発"
+    ],
+    "comment": "白朮の元素爆発によって放たれる攻撃。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "木運",
+    "answers": [
+      "もくうん"
+    ],
+    "prefix": "",
+    "suffix": "の歳",
+    "yomiPrefix": "",
+    "yomiSuffix": "のさい",
+    "category": [
+      "白朮",
+      "元素爆発"
+    ],
+    "comment": "白朮の元素爆発の治療効果で獲得することができる状態。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "鏡花",
+    "answers": [
+      "きょうか"
+    ],
+    "prefix": "神里流・",
+    "suffix": "",
+    "yomiPrefix": "かみさとりゅう",
+    "yomiSuffix": "",
+    "category": [
+      "神里綾人",
+      "元素スキル"
+    ],
+    "comment": "神里綾人の元素スキル。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "瞬水剣",
+    "answers": [
+      "しゅんすいけん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "神里綾人",
+      "元素スキル"
+    ],
+    "comment": "神里綾人が元素スキル使用後に通常攻撃で放つことができる攻撃。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "蒼流水影",
+    "answers": [
+      "そうりゅうすいえい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "神里綾人",
+      "元素スキル"
+    ],
+    "comment": "神里綾人が元素スキルを放つ時の台詞。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "破月",
+    "answers": [
+      "はげつ"
+    ],
+    "prefix": "神里流・満ちゆく",
+    "suffix": "",
+    "yomiPrefix": "かみさとりゅうみちゆく",
+    "yomiSuffix": "",
+    "category": [
+      "神里綾人",
+      "固有天賦"
+    ],
+    "comment": "神里綾人の固有天賦。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
     "kanji": "艶",
     "answers": [
       "あで"
@@ -3061,6 +3295,79 @@
     "isOfficial": false
   },
   {
+    "kanji": "猫又返",
+    "answers": [
+      "ねこまたがえ"
+    ],
+    "prefix": "",
+    "suffix": "し",
+    "yomiPrefix": "",
+    "yomiSuffix": "し",
+    "category": [
+      "綺良々",
+      "元素スキル"
+    ],
+    "comment": "綺良々の元素スキルによって放たれる攻撃。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "梱包",
+    "answers": [
+      "こんぽう"
+    ],
+    "prefix": "がっちり",
+    "suffix": "",
+    "yomiPrefix": "がっちり",
+    "yomiSuffix": "",
+    "category": [
+      "綺良々",
+      "元素スキル"
+    ],
+    "comment": "綺良々が元素スキル長押しで獲得できる効果。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "韋駄天駿足",
+    "answers": [
+      "いだてんしゅんそく"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "綺良々",
+      "命ノ星座"
+    ],
+    "comment": "綺良々の命ノ星座・第4重。\n「韋駄天」は、仏教の守護神。俗説に足の速い神とされる。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "一日千里",
+    "answers": [
+      "いちじつせんり",
+      "いちにちせんり"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "綺良々",
+      "命ノ星座"
+    ],
+    "comment": "綺良々の命ノ星座・第5重。\n一日に千里も走る馬のように、才能が優れていること。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
     "kanji": "チ虎魚",
     "answers": [
       "ちこざかな"
@@ -3107,6 +3414,23 @@
       "その他"
     ],
     "comment": "浮遊する群玉閣を制御するのに用いられているアイテム。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "嗚呼流",
+    "answers": [
+      "おこりゅう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "その他"
+    ],
+    "comment": "忍術の流派の一つ。敵をいたぶる戦法で有名。\n早柚はこの流派の最後の後継者。\n",
     "hint": "none",
     "level": 2,
     "isOfficial": true
@@ -5325,7 +5649,7 @@
       "ロサリア",
       "元素爆発"
     ],
-    "comment": "ロサリアの元素爆発。\n",
+    "comment": "ロサリアの元素爆発でフィールドに設置される槍。\n",
     "hint": "none",
     "level": 2,
     "isOfficial": true
@@ -5962,6 +6286,636 @@
     "isOfficial": true
   },
   {
+    "kanji": "傾落",
+    "answers": [
+      "けいらく"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "放浪者",
+      "元素スキル"
+    ],
+    "comment": "放浪者が元素スキル使用時、攻撃を敵に命中させると獲得することができる効果。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "拾玉得花",
+    "answers": [
+      "しゅうぎょくとっか"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "放浪者",
+      "固有天賦"
+    ],
+    "comment": "放浪者の固有天賦。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "夢跡一風",
+    "answers": [
+      "むせきいっぷう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "放浪者",
+      "固有天賦"
+    ],
+    "comment": "放浪者の固有天賦。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "貉",
+    "answers": [
+      "むじな"
+    ],
+    "prefix": "忍びの里の",
+    "suffix": "",
+    "yomiPrefix": "しのびのさとの",
+    "yomiSuffix": "",
+    "category": [
+      "早柚",
+      "称号"
+    ],
+    "comment": "早柚の称号。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "風々輪",
+    "answers": [
+      "ふうふうりん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "早柚",
+      "元素スキル"
+    ],
+    "comment": "早柚が元素スキルを用いて転がっている状態。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "旋舞蹴",
+    "answers": [
+      "せんぶしゅう"
+    ],
+    "prefix": "風々輪・",
+    "suffix": "",
+    "yomiPrefix": "ふうふうりん",
+    "yomiSuffix": "",
+    "category": [
+      "早柚",
+      "元素スキル"
+    ],
+    "comment": "早柚の元素スキルによって放たれる攻撃。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "遁走",
+    "answers": [
+      "とんそう"
+    ],
+    "prefix": "",
+    "suffix": "の極意",
+    "yomiPrefix": "",
+    "yomiSuffix": "のごくい",
+    "category": [
+      "早柚",
+      "元素スキル"
+    ],
+    "comment": "早柚が元素スキルを放つ時の台詞。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "千早振",
+    "answers": [
+      "ちはやぶ"
+    ],
+    "prefix": "",
+    "suffix": "る",
+    "yomiPrefix": "",
+    "yomiSuffix": "る",
+    "category": [
+      "楓原万葉",
+      "元素スキル"
+    ],
+    "comment": "楓原万葉の元素スキル。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "嵐斬",
+    "answers": [
+      "らんざん"
+    ],
+    "prefix": "乱れ",
+    "suffix": "",
+    "yomiPrefix": "みだれ",
+    "yomiSuffix": "",
+    "category": [
+      "楓原万葉",
+      "元素スキル"
+    ],
+    "comment": "楓原万葉の通常攻撃。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "流風秋野",
+    "answers": [
+      "りゅうふうしゅうや"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "楓原万葉",
+      "元素爆発"
+    ],
+    "comment": "楓原万葉の元素爆発によって生成される領域。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "雁",
+    "answers": [
+      "かり"
+    ],
+    "prefix": "雲隠れ",
+    "suffix": "鳴く時",
+    "yomiPrefix": "くもがくれ",
+    "yomiSuffix": "なくとき",
+    "category": [
+      "楓原万葉",
+      "元素爆発"
+    ],
+    "comment": "楓原万葉が元素爆発を放つ時の台詞。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "相聞剣法",
+    "answers": [
+      "そうもんけんぽう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "楓原万葉",
+      "固有天賦"
+    ],
+    "comment": "楓原万葉の固有天賦。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "万世集",
+    "answers": [
+      "ばんせいしゅう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "楓原万葉",
+      "命ノ星座"
+    ],
+    "comment": "楓原万葉の命ノ星座・第5重。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "灼灼",
+    "answers": [
+      "しゃくしゃく"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "煙緋",
+      "元素爆発"
+    ],
+    "comment": "煙緋の元素爆発によって獲得できる効果。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "丹書鉄契",
+    "answers": [
+      "たんしょてっけい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "煙緋",
+      "元素爆発"
+    ],
+    "comment": "煙緋が元素爆発を放つ時の台詞。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "化海月",
+    "answers": [
+      "ばけくらげ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "珊瑚宮心海",
+      "元素スキル"
+    ],
+    "comment": "珊瑚宮心海の元素スキルによって召喚される海月。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "儀来羽衣",
+    "answers": [
+      "ぎらいはごろも"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "珊瑚宮心海",
+      "元素爆発"
+    ],
+    "comment": "珊瑚宮心海が元素爆発によって変化した状態。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "葛籠",
+    "answers": [
+      "つづら"
+    ],
+    "prefix": "",
+    "suffix": "の中の玉櫛",
+    "yomiPrefix": "",
+    "yomiSuffix": "のなかのたまくし",
+    "category": [
+      "珊瑚宮心海",
+      "固有天賦"
+    ],
+    "comment": "珊瑚宮心海の特殊天賦。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "玉櫛",
+    "answers": [
+      "たまくし"
+    ],
+    "prefix": "葛籠の中の",
+    "suffix": "",
+    "yomiPrefix": "つづらのなかの",
+    "yomiSuffix": "",
+    "category": [
+      "珊瑚宮心海",
+      "固有天賦"
+    ],
+    "comment": "珊瑚宮心海の特殊天賦。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "霜華",
+    "answers": [
+      "そうか"
+    ],
+    "prefix": "",
+    "suffix": "の矢",
+    "yomiPrefix": "",
+    "yomiSuffix": "のや",
+    "category": [
+      "甘雨",
+      "通常攻撃"
+    ],
+    "comment": "甘雨の通常攻撃2段チャージで放たれる攻撃。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "霜華満開",
+    "answers": [
+      "そうかまんかい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "甘雨",
+      "通常攻撃"
+    ],
+    "comment": "甘雨の通常攻撃2段チャージが命中したあとに放たれる攻撃。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "氷蓮",
+    "answers": [
+      "ひょうれん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "甘雨",
+      "元素スキル"
+    ],
+    "comment": "甘雨の元素スキルによって設置される蓮の花。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "霜寒化生",
+    "answers": [
+      "そうかんけしょう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "甘雨",
+      "元素スキル"
+    ],
+    "comment": "甘雨が元素スキルを発動する時の台詞。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "氷霊珠",
+    "answers": [
+      "ひょうれいじゅ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "甘雨",
+      "元素爆発"
+    ],
+    "comment": "甘雨の元素爆発によって生成される領域。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "天地安泰",
+    "answers": [
+      "てんちあんたい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "甘雨",
+      "固有天賦"
+    ],
+    "comment": "甘雨の固有天賦。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "縛絶紅塵",
+    "answers": [
+      "ばくぜつこうじん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "申鶴",
+      "衣装"
+    ],
+    "comment": "申鶴の初期衣装。\n「紅塵」とは、俗世のこと。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "煉気化神",
+    "answers": [
+      "れんきかしん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "申鶴",
+      "元素スキル"
+    ],
+    "comment": "申鶴が元素スキルを放つ時の台詞。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "遊糸徴霊",
+    "answers": [
+      "ゆうしちょうれい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "白朮",
+      "元素スキル"
+    ],
+    "comment": "白朮が元素スキルで使役する霊。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "脈象宣明",
+    "answers": [
+      "みゃくしょうせんみょう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "白朮",
+      "元素爆発"
+    ],
+    "comment": "白朮が元素爆発によって獲得することができる状態。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "苦尽甘来",
+    "answers": [
+      "くじんかんらい"
+    ],
+    "prefix": "",
+    "suffix": "です",
+    "yomiPrefix": "",
+    "yomiSuffix": "です",
+    "category": [
+      "白朮",
+      "元素爆発"
+    ],
+    "comment": "白朮が元素爆発を放つ時の台詞。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "五運終天",
+    "answers": [
+      "ごうんしゅうてん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "白朮",
+      "固有天賦"
+    ],
+    "comment": "白朮の固有天賦。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "浪閃",
+    "answers": [
+      "なみせん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "神里綾人",
+      "元素スキル"
+    ],
+    "comment": "神里綾人が元素スキル使用後に通常攻撃で獲得することができる状態。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "秋水",
+    "answers": [
+      "しゅうすい"
+    ],
+    "prefix": "三尺の",
+    "suffix": "",
+    "yomiPrefix": "さんじゃくの",
+    "yomiSuffix": "",
+    "category": [
+      "神里綾人",
+      "元素爆発"
+    ],
+    "comment": "神里綾人が元素爆発を放つ時の台詞。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "細流厭",
+    "answers": [
+      "さいりゅういと"
+    ],
+    "prefix": "",
+    "suffix": "わず",
+    "yomiPrefix": "",
+    "yomiSuffix": "わず",
+    "category": [
+      "神里綾人",
+      "命ノ星座"
+    ],
+    "comment": "神里綾人の命ノ星座・第4重。\n『史記』の「河海は細流を厭わず」が元ネタと思われる。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "万水一露",
+    "answers": [
+      "ばんすいいちろ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "神里綾人",
+      "命ノ星座"
+    ],
+    "comment": "神里綾人の命ノ星座・第5重。\n源氏物語の注釈書『万水一露』が元ネタと思われる。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
     "kanji": "白鷺",
     "answers": [
       "しらさぎ"
@@ -6014,6 +6968,60 @@
     "hint": "none",
     "level": 2,
     "isOfficial": false
+  },
+  {
+    "kanji": "段板紙",
+    "answers": [
+      "だんばんし"
+    ],
+    "prefix": "宅配用",
+    "suffix": "",
+    "yomiPrefix": "たくはいよう",
+    "yomiSuffix": "",
+    "category": [
+      "綺良々",
+      "元素スキル"
+    ],
+    "comment": "綺良々特製のダンボール箱。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "爪撃",
+    "answers": [
+      "そうげき"
+    ],
+    "prefix": "くるりん",
+    "suffix": "",
+    "yomiPrefix": "くるりん",
+    "yomiSuffix": "",
+    "category": [
+      "綺良々",
+      "元素スキル"
+    ],
+    "comment": "綺良々の元素スキル長押しで放たれる攻撃。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "妖説岐尾",
+    "answers": [
+      "ようせつきび"
+    ],
+    "prefix": "",
+    "suffix": "の変",
+    "yomiPrefix": "",
+    "yomiSuffix": "のへん",
+    "category": [
+      "綺良々",
+      "固有天賦"
+    ],
+    "comment": "綺良々の固有天賦。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
   },
   {
     "kanji": "蝸虎魚",
@@ -7294,6 +8302,348 @@
     "isOfficial": false
   },
   {
+    "kanji": "児姿優風",
+    "answers": [
+      "こしゆうふう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "放浪者",
+      "元素スキル"
+    ],
+    "comment": "放浪者が元素スキルによって変化した状態。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "空居力",
+    "answers": [
+      "くうごりょく"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "放浪者",
+      "元素スキル"
+    ],
+    "comment": "放浪者が元素スキル使用時、スタミナの代わりに消費する力。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "共",
+    "answers": [
+      "むた"
+    ],
+    "prefix": "風の",
+    "suffix": "雲の行くごと",
+    "yomiPrefix": "かぜの",
+    "yomiSuffix": "くものゆくごと",
+    "category": [
+      "楓原万葉",
+      "元素爆発"
+    ],
+    "comment": "楓原万葉が元素爆発を放つ時の台詞。\n「共」は「～とともに」といった意味を持つ古語。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "黄葉",
+    "answers": [
+      "もみちば"
+    ],
+    "prefix": "",
+    "suffix": "を散らまく惜しみ",
+    "yomiPrefix": "",
+    "yomiSuffix": "をちらまくおしみ",
+    "category": [
+      "楓原万葉",
+      "元素爆発"
+    ],
+    "comment": "楓原万葉が元素爆発を放つ時の台詞。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "月舟霧渚",
+    "answers": [
+      "げっしゅうむしょ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "珊瑚宮心海",
+      "命ノ星座"
+    ],
+    "comment": "珊瑚宮心海の命ノ星座・第3重。\n文武天皇の詠物詩「詠月」にある\n「月舟霧渚に移り 楓楫霞浜に泛ぶ」が元ネタと思われる。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "降衆天華",
+    "answers": [
+      "こうしゅうてんげ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "甘雨",
+      "元素爆発"
+    ],
+    "comment": "甘雨の元素爆発。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "氷翎",
+    "answers": [
+      "ひょうれい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "申鶴",
+      "元素スキル"
+    ],
+    "comment": "申鶴の元素スキルによって獲得できる効果。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "籙霊",
+    "answers": [
+      "ろくれい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "申鶴",
+      "元素スキル"
+    ],
+    "comment": "申鶴が元素スキルおよび元素爆発で使役する霊。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "神女遣霊真訣",
+    "answers": [
+      "しんにょけんれいしんけつ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "申鶴",
+      "元素爆発"
+    ],
+    "comment": "申鶴の元素爆発。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "天真敕奏",
+    "answers": [
+      "てんしんちょくそう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "申鶴",
+      "元素爆発"
+    ],
+    "comment": "申鶴が元素爆発を放つ時の台詞。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "大洞弥羅尊法",
+    "answers": [
+      "だいどうみらじゅんぽう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "申鶴",
+      "固有天賦"
+    ],
+    "comment": "申鶴の固有天賦。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "縛霊通真法印",
+    "answers": [
+      "ばくれいつうしんほういん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "申鶴",
+      "固有天賦"
+    ],
+    "comment": "申鶴の固有天賦。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "無隙",
+    "answers": [
+      "むげき"
+    ],
+    "prefix": "",
+    "suffix": "シールド",
+    "yomiPrefix": "",
+    "yomiSuffix": "しーるど",
+    "category": [
+      "白朮",
+      "元素爆発"
+    ],
+    "comment": "白朮の元素爆発によって獲得できるシールド。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "懸壺",
+    "answers": [
+      "けんこ"
+    ],
+    "prefix": "",
+    "suffix": "座",
+    "yomiPrefix": "",
+    "yomiSuffix": "ざ",
+    "category": [
+      "白朮",
+      "命ノ星座"
+    ],
+    "comment": "白朮の命ノ星座。\n「懸壺」とは、薬売りのこと。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "綾羅錦繡",
+    "answers": [
+      "りょうらきんしゅう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "神里綾人",
+      "衣装"
+    ],
+    "comment": "神里綾人の初期衣装。\n上等な布を使用した美しい衣服を意味する四字熟語。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "水囿",
+    "answers": [
+      "すいゆう"
+    ],
+    "prefix": "神里流・",
+    "suffix": "",
+    "yomiPrefix": "かみさとりゅう",
+    "yomiSuffix": "",
+    "category": [
+      "神里綾人",
+      "元素爆発"
+    ],
+    "comment": "神里綾人の元素爆発。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "清浄之園囿",
+    "answers": [
+      "しょうじょうのえんゆう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "神里綾人",
+      "元素爆発"
+    ],
+    "comment": "神里綾人の元素爆発によって展開される領域。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "水沫剣",
+    "answers": [
+      "すいまつけん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "神里綾人",
+      "元素爆発"
+    ],
+    "comment": "神里綾人の元素爆発によって放たれる攻撃。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "濫觴無底",
+    "answers": [
+      "らんしょうむてい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "神里綾人",
+      "命ノ星座"
+    ],
+    "comment": "神里綾人の命ノ星座・第6重。\n源氏物語の注釈書『濫觴無底抄』が元ネタと思われる。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
     "kanji": "傾",
     "answers": [
       "かぶ"
@@ -7343,6 +8693,42 @@
       "固有天賦"
     ],
     "comment": "神里綾華の固有天賦。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "檐宇遊猫",
+    "answers": [
+      "えんうゆうびょう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "綺良々",
+      "称号"
+    ],
+    "comment": "綺良々の称号。\n「檐宇」とは家屋のこと。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
+    "kanji": "箱急便",
+    "answers": [
+      "そうきゅうびん"
+    ],
+    "prefix": "ネコ",
+    "suffix": "",
+    "yomiPrefix": "ねこ",
+    "yomiSuffix": "",
+    "category": [
+      "綺良々",
+      "元素スキル"
+    ],
+    "comment": "綺良々が元素スキル長押しで変化した状態。\n",
     "hint": "none",
     "level": 3,
     "isOfficial": true
@@ -7543,6 +8929,42 @@
     "hint": "none",
     "level": 4,
     "isOfficial": false
+  },
+  {
+    "kanji": "廓白浪",
+    "answers": [
+      "ながれのしらなみ"
+    ],
+    "prefix": "弐番・箙島",
+    "suffix": "",
+    "yomiPrefix": "にばんえびらじま",
+    "yomiSuffix": "",
+    "category": [
+      "放浪者",
+      "命ノ星座"
+    ],
+    "comment": "放浪者の命ノ星座・第2重。\n歌舞伎の外題「都鳥廓白浪」が元ネタと思われる。\n",
+    "hint": "none",
+    "level": 4,
+    "isOfficial": false
+  },
+  {
+    "kanji": "霜見雪関扉",
+    "answers": [
+      "しもみゆきのせきのと"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "神里綾華",
+      "元素爆発"
+    ],
+    "comment": "神里綾華の元素爆発で放たれる攻撃。\n",
+    "hint": "none",
+    "level": 4,
+    "isOfficial": true
   },
   {
     "kanji": "鎮詞",

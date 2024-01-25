@@ -1,25 +1,25 @@
 珊瑚宮心海:
   衣装:
     - kanji: 珊骨の白波
-      yomi: 珊ぼねのしらなみ
+      yomi: さんこつのしらなみ?
       comment: |
         珊瑚宮心海の初期衣装。
 
   名刺の飾り紋:
     - kanji: 淵
-      yomi: ふち
+      yomi: えん?
       comment: |
         珊瑚宮心海の名刺の飾り紋。
 
   称号:
     - kanji: 真珠の智
-      yomi: しんじゅのさとし
+      yomi: しんじゅのち
       comment: |
         珊瑚宮心海の称号。
 
   通常攻撃:
     - kanji: 水の常形
-      yomi: みずのつねかたち
+      yomi: みずのじょうけい?
       comment: |
         珊瑚宮心海の通常攻撃。
 
@@ -29,26 +29,50 @@
       comment: |
         珊瑚宮心海の元素スキル。
 
-  特殊天賦:
-    - kanji: 葛籠の中の玉櫛
-      yomi: つづろのなかのたまくし
+    - kanji: 化海月
+      yomi: ばけくらげ
+      level: 2
       comment: |
-        珊瑚宮心海の特殊天賦。
+        珊瑚宮心海の元素スキルによって召喚される海月。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=Rr3bT1H-LtI
 
   元素爆発:
     - kanji: 海人の羽衣
-      yomi: あまのはごろも
+      yomi: あまのはごろも?
       comment: |
         珊瑚宮心海の元素爆発。
 
+    - kanji: 儀来羽衣
+      yomi: ぎらいはごろも
+      level: 2
+      comment: |
+        珊瑚宮心海が元素爆発によって変化した状態。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=Rr3bT1H-LtI
+
   固有天賦:
     - kanji: 真珠の御唄
-      yomi: しんじゅのごうた
+      yomi: しんじゅのおうた
       comment: |
         珊瑚宮心海の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=Rr3bT1H-LtI
+
+    - kanji: (葛籠)の中の(玉櫛)
+      yomi: (つづら)のなかの(たまくし)
+      level: [2, 2]
+      comment: |
+        珊瑚宮心海の特殊天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=Rr3bT1H-LtI
 
     - kanji: 海祇の姬君
-      yomi: うみかみの姬くん
+      yomi: わたつみのひめぎみ
       comment: |
         珊瑚宮心海の固有天賦。
 
@@ -59,14 +83,19 @@
 
   命ノ星座:
     - kanji: 睡竜座
-      yomi: ねむりゅうざ
+      yomi: すいりゅうざ
       comment: |
         珊瑚宮心海の命ノ星座。
 
     - kanji: 水を渓に決する
-      yomi: みずをけいにけっする
+      yomi: すいをたににけっする?
       comment: |
         珊瑚宮心海の命ノ星座・第1重。
+        孫氏の「積水を千仞の谿(たに)に決する」が元ネタと思われる。
+        なお、この故事は「積水ハウス」などの「積水」の由来である。
+      ref:
+        - https://note.com/genshin_kanji/n/n0d9e9ddc3bef
+        - https://www.sekisui.co.jp/company/outline/yurai/1940.html
 
     - kanji: 雲海の波立ち
       yomi: うんかいのなみだち
@@ -74,9 +103,15 @@
         珊瑚宮心海の命ノ星座・第2重。
 
     - kanji: 月舟霧渚
-      yomi: げっしゅうきりなぎさ
+      yomi: げっしゅうむしょ
+      level: 3
       comment: |
         珊瑚宮心海の命ノ星座・第3重。
+        文武天皇の詠物詩「詠月」にある
+        「月舟霧渚に移り 楓楫霞浜に泛ぶ」が元ネタと思われる。
+      ref:
+        - https://www.nishogakusha-kanbun.net/03kanbun-027tosa.pdf
+        - https://note.com/genshin_kanji/n/n32a0c2866397
 
     - kanji: 月に摂す千の川
       yomi: つきにせっすせんのかわ
@@ -84,9 +119,11 @@
         珊瑚宮心海の命ノ星座・第4重。
 
     - kanji: 百川集海
-      yomi: ひゃくがわあつまりかい
+      yomi: ひゃくせんしゅうかい
       comment: |
         珊瑚宮心海の命ノ星座・第5重。
+      note: |
+        「法言」の「百川海に学んで海に至る」が元ネタ?
 
     - kanji: 珊瑚一心
       yomi: さんごいっしん

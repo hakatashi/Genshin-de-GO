@@ -6,28 +6,65 @@
         早柚の初期衣装。
 
   称号:
-    - kanji: 忍びの里の貉
-      yomi: しのびのさとのむじな
+    - kanji: 忍びの里の(貉)
+      yomi: しのびのさとの(むじな)
+      level: 2
       comment: |
         早柚の称号。
 
   通常攻撃:
     - kanji: 忍刀・終末番
-      yomi: にんがたなしゅうまつばん
+      yomi: しのびがたなしゅうまつばん
       comment: |
         早柚の通常攻撃。
+      ref:
+        - 英語版名称「Shuumatsuban Ninja Blade」
 
   元素スキル:
     - kanji: 嗚呼流・風隠急進
-      yomi: あありゅうかぜこもきゅうしん
+      yomi: おこりゅうふういんきゅうしん
       comment: |
         早柚の元素スキル。
+      isOfficial: true
+      ref:
+        - '英語版名称「Yoohoo Art: Fuuin Dash」'
+
+    - kanji: 風々輪
+      yomi: ふうふうりん
+      level: 2
+      comment: |
+        早柚が元素スキルを用いて転がっている状態。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=nBeoa06AG7U
+
+    - kanji: 風々輪・(旋舞蹴)
+      yomi: ふうふうりん(せんぶしゅう)
+      level: 2
+      comment: |
+        早柚の元素スキルによって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=nBeoa06AG7U
+
+    - kanji: (遁走)の極意
+      yomi: (とんそう)のごくい
+      level: 2
+      comment: |
+        早柚が元素スキルを放つ時の台詞。
+      isOfficial: true
 
   元素爆発:
     - kanji: 嗚呼流・影貉繚乱
-      yomi: あありゅうかげむじなりょうらん
+      yomi: おこりゅうかげむじなりょうらん?
       comment: |
         早柚の元素爆発。
+
+    - kanji: むじむじだるま
+      yomi: むじむじだるま
+      comment: |
+        早柚の元素爆発によって召喚されるだるま。
+        早柚の良き片腕。
 
   固有天賦:
     - kanji: 適任の人を探そう
@@ -39,11 +76,16 @@
       yomi: しごとをさぼるのだ
       comment: |
         早柚の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=nBeoa06AG7U
 
     - kanji: 嗚呼流・屏息秘伝
-      yomi: あありゅうへいそくひでん
+      yomi: おこりゅうへいそくひでん
       comment: |
         早柚の固有天賦。
+      ref:
+        - https://www.youtube.com/watch?v=nBeoa06AG7U (「屏息の術(へいそくのじゅつ)」が読まれている)
 
   命ノ星座:
     - kanji: 子貉座

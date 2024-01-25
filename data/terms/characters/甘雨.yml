@@ -1,7 +1,7 @@
 甘雨:
   衣装:
     - kanji: 霜麟聚露
-      yomi: しも麟聚ろ
+      yomi: そうりんしゅうろ?
       comment: |
         甘雨の初期衣装。
 
@@ -13,47 +13,103 @@
 
   称号:
     - kanji: 循々守月
-      yomi: 循々まもりつき
+      yomi: じゅんじゅんしゅげつ?
       comment: |
         甘雨の称号。
 
   通常攻撃:
     - kanji: 流天射術
-      yomi: ながれてんしゃじゅつ
+      yomi: りゅうてんしゃじゅつ
       comment: |
         甘雨の通常攻撃。
 
+    - kanji: (霜華)の矢
+      yomi: (そうか)のや
+      level: 2
+      comment: |
+        甘雨の通常攻撃2段チャージで放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=oebf9dJvUag
+
+    - kanji: 霜華満開
+      yomi: そうかまんかい
+      level: 2
+      comment: |
+        甘雨の通常攻撃2段チャージが命中したあとに放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=oebf9dJvUag
+
   元素スキル:
     - kanji: 山沢麟跡
-      yomi: やまざわ麟あと
+      yomi: さんたくりんせき?
       comment: |
         甘雨の元素スキル。
 
+    - kanji: 氷蓮
+      yomi: ひょうれん
+      level: 2
+      comment: |
+        甘雨の元素スキルによって設置される蓮の花。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=oebf9dJvUag
+
+    - kanji: 霜寒化生
+      yomi: そうかんけしょう
+      level: 2
+      comment: |
+        甘雨が元素スキルを発動する時の台詞。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=oebf9dJvUag
+
   元素爆発:
     - kanji: 降衆天華
-      yomi: くだしゅうてんはな
+      yomi: こうしゅうてんげ
+      level: 3
       comment: |
         甘雨の元素爆発。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=oebf9dJvUag
+
+    - kanji: 氷霊珠
+      yomi: ひょうれいじゅ
+      level: 2
+      comment: |
+        甘雨の元素爆発によって生成される領域。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=oebf9dJvUag
 
   固有天賦:
     - kanji: 唯一の心
       yomi: ゆいいつのこころ
       comment: |
         甘雨の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=oebf9dJvUag
 
     - kanji: 天地安泰
       yomi: てんちあんたい
+      level: 2
       comment: |
         甘雨の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=oebf9dJvUag
 
     - kanji: 弓蔵待命
-      yomi: ゆみくらたいめい
+      yomi: きゅうぞうたいめい?
       comment: |
         甘雨の固有天賦。
 
   命ノ星座:
     - kanji: 仙麟座
-      yomi: せん麟ざ
+      yomi: せんりんざ
       comment: |
         甘雨の命ノ星座。
 
@@ -63,26 +119,26 @@
         甘雨の命ノ星座・第1重。
 
     - kanji: 獲麟
-      yomi: え麟
+      yomi: かくりん
       comment: |
         甘雨の命ノ星座・第2重。
 
     - kanji: 雲行
-      yomi: くもくだり
+      yomi: うんこう?
       comment: |
         甘雨の命ノ星座・第3重。
 
     - kanji: 西狩
-      yomi: にしかり
+      yomi: せいしゅ
       comment: |
         甘雨の命ノ星座・第4重。
 
     - kanji: 折草
-      yomi: おりくさ
+      yomi: せっそう?
       comment: |
         甘雨の命ノ星座・第5重。
 
     - kanji: 履虫
-      yomi: 履ちゅう
+      yomi: りちゅう?
       comment: |
         甘雨の命ノ星座・第6重。

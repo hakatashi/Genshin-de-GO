@@ -64,6 +64,15 @@
         神里綾華の元素爆発。
       isOfficial: true
 
+    - kanji: 霜見雪関扉
+      yomi: しもみゆきのせきのと
+      level: 4
+      comment: |
+        神里綾華の元素爆発で放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://youtu.be/R7uBLW2SWHg?t=113
+
   固有天賦:
     - kanji: (鑑査)の心得
       yomi: (かんさ、しんさ)のこころえ

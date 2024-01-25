@@ -1,9 +1,13 @@
 煙緋:
   衣装:
     - kanji: 金科赤律
-      yomi: きんかあかりつ
+      yomi: きんかせきりつ?
       comment: |
         煙緋の初期衣装。
+      ref:
+        - https://note.com/softlylonely01/n/n056bc2e3b5fe
+      note: |
+        「金科玉律」を改変したものと思われる。
 
   名刺の飾り紋:
     - kanji: 公正
@@ -18,14 +22,24 @@
         煙緋の称号。
 
   通常攻撃:
-    - kanji: 封蝋の印
-      yomi: ふうろうのしるし
+    - kanji: (封蝋)の印
+      yomi: (ふうろう)のしるし
+      level: 1
       comment: |
         煙緋の通常攻撃。
 
+    - kanji: (丹火)の印
+      yomi: (たんか)のいん
+      level: 1
+      comment: |
+        煙緋の通常攻撃によって獲得できる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=p03lW8pjDdY
+
   元素スキル:
     - kanji: 丹書契約
-      yomi: にしょけいやく
+      yomi: たんしょけいやく
       comment: |
         煙緋の元素スキル。
 
@@ -35,16 +49,39 @@
       comment: |
         煙緋の元素爆発。
 
+    - kanji: 灼灼
+      yomi: しゃくしゃく
+      level: 2
+      comment: |
+        煙緋の元素爆発によって獲得できる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=p03lW8pjDdY
+
+    - kanji: 丹書鉄契
+      yomi: たんしょてっけい
+      level: 2
+      comment: |
+        煙緋が元素爆発を放つ時の台詞。
+      isOfficial: true
+
   固有天賦:
     - kanji: 関連条約
       yomi: かんれんじょうやく
       comment: |
         煙緋の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=p03lW8pjDdY
 
-    - kanji: 法獣の灼眼
-      yomi: ほうじゅうの灼め
+    - kanji: 法獣の(灼眼)
+      yomi: ほうじゅうの(しゃくがん)
+      level: 1
       comment: |
         煙緋の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=p03lW8pjDdY
 
     - kanji: 法律百科
       yomi: ほうりつひゃっか
@@ -68,17 +105,21 @@
         煙緋の命ノ星座・第2重。
 
     - kanji: 真火の宝印
-      yomi: まひのたからしるし
+      yomi: まひのほういん?
       comment: |
         煙緋の命ノ星座・第3重。
 
     - kanji: 丹書金鉄券
-      yomi: にしょきんてつけん
+      yomi: たんしょきんてっけん
       comment: |
         煙緋の命ノ星座・第4重。
+      ref:
+        - https://note.com/softlylonely01/n/n056bc2e3b5fe
+        - https://ja.wikipedia.org/wiki/%E9%89%84%E5%88%B8
 
-    - kanji: 遵法誓約書
-      yomi: じゅんぽうせいやくしょ
+    - kanji: (遵法)誓約書
+      yomi: (じゅんぽう)せいやくしょ
+      level: 1
       comment: |
         煙緋の命ノ星座・第5重。
 

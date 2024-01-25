@@ -1,50 +1,106 @@
 申鶴:
   衣装:
     - kanji: 縛絶紅塵
-      yomi: ばくぜっべにちり
+      yomi: ばくぜつこうじん
+      level: 2
       comment: |
         申鶴の初期衣装。
+        「紅塵」とは、俗世のこと。
 
   名刺の飾り紋:
     - kanji: 櫛掠
-      yomi: くしかす
+      yomi: しつりゃく?
       comment: |
         申鶴の名刺の飾り紋。
 
   称号:
     - kanji: 孤辰悲哀
-      yomi: こたつひあい
+      yomi: こしんひあい
       comment: |
         申鶴の称号。
 
   通常攻撃:
     - kanji: 踏辰摂斗
-      yomi: 踏たつとと
+      yomi: とうしんせっと
       comment: |
         申鶴の通常攻撃。
+      isOfficial: true
+      ref:
+        - https://twitter.com/OHANA4649ne/status/1720058689216979138
 
   元素スキル:
     - kanji: 仰霊威召将役呪
-      yomi: おっしゃれいい召しょうやくのろい
+      yomi: ぎょうれいいしょうしょうやくじゅ
       comment: |
         申鶴の元素スキル。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=bzMKlBEDihI
+
+    - kanji: 氷翎
+      yomi: ひょうれい
+      level: 3
+      comment: |
+        申鶴の元素スキルによって獲得できる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=bzMKlBEDihI
+
+    - kanji: 籙霊
+      yomi: ろくれい
+      level: 3
+      comment: |
+        申鶴が元素スキルおよび元素爆発で使役する霊。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=bzMKlBEDihI
+
+    - kanji: 煉気化神
+      yomi: れんきかしん
+      level: 2
+      comment: |
+        申鶴が元素スキルを放つ時の台詞。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=bzMKlBEDihI
 
   元素爆発:
     - kanji: 神女遣霊真訣
-      yomi: かみおんなやれいま訣
+      yomi: しんにょけんれいしんけつ
+      level: 3
       comment: |
         申鶴の元素爆発。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=bzMKlBEDihI
+
+    - kanji: 天真敕奏
+      yomi: てんしんちょくそう
+      level: 3
+      comment: |
+        申鶴が元素爆発を放つ時の台詞。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=bzMKlBEDihI
 
   固有天賦:
     - kanji: 大洞弥羅尊法
-      yomi: おおほらわたるらたかしほう
+      yomi: だいどうみらじゅんぽう
+      level: 3
       comment: |
         申鶴の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=bzMKlBEDihI
 
     - kanji: 縛霊通真法印
-      yomi: ばくれいどおりまほういん
+      yomi: ばくれいつうしんほういん
+      level: 3
       comment: |
         申鶴の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=bzMKlBEDihI
 
     - kanji: 往来通暁
       yomi: おうらいつうぎょう
@@ -53,36 +109,50 @@
 
   命ノ星座:
     - kanji: 愁疏座
-      yomi: 愁疏ざ
+      yomi: しゅうそざ?
       comment: |
         申鶴の命ノ星座。
 
     - kanji: 心斎
-      yomi: こころとき
+      yomi: しんさい
       comment: |
         申鶴の命ノ星座・第1重。
+      ref:
+        - https://twitter.com/OHANA4649ne/status/1720058672943087666
 
     - kanji: 定蒙
-      yomi: ていこうむ
+      yomi: ていもう?
       comment: |
         申鶴の命ノ星座・第2重。
+      ref:
+        - https://twitter.com/OHANA4649ne/status/1720058672943087666
 
     - kanji: 潜虚
-      yomi: せんうろ
+      yomi: せんきょ
       comment: |
         申鶴の命ノ星座・第3重。
+      ref:
+        - https://twitter.com/OHANA4649ne/status/1720058672943087666
 
     - kanji: 洞観
-      yomi: ほらかん
+      yomi: どうかん
       comment: |
         申鶴の命ノ星座・第4重。
+      ref:
+        - https://twitter.com/OHANA4649ne/status/1720058672943087666
 
     - kanji: 化神
-      yomi: かかみ
+      yomi:
+        - かしん?
+        - けしん?
       comment: |
         申鶴の命ノ星座・第5重。
+      ref:
+        - https://twitter.com/OHANA4649ne/status/1720058672943087666
 
     - kanji: 忘玄
-      yomi: 忘げん
+      yomi: ぼうげん
       comment: |
         申鶴の命ノ星座・第6重。
+      ref:
+        - https://twitter.com/OHANA4649ne/status/1720058672943087666
