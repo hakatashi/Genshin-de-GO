@@ -7,15 +7,31 @@
 
   名刺の飾り紋:
     - kanji: 儺面
-      yomi: 儺めん
+      yomi: なめん
       comment: |
         魈の名刺の飾り紋。
 
   称号:
-    - kanji: 夜叉
-      yomi: やしゃ
+    - kanji: 護法夜叉
+      yomi: ごほうやしゃ
       comment: |
         魈の称号。
+
+    - kanji: 降魔大聖
+      yomi: こうまたいせい
+      comment: |
+        魈の異名。
+      isOfficial: true
+
+    - kanji: 護法夜叉大将
+      yomi: ごほうやしゃたいしょう
+      comment: |
+        魈の異名。
+
+    - kanji: 金鵬大将
+      yomi: きんほうたいしょう
+      comment: |
+        魈の異名。
 
   通常攻撃:
     - kanji: 微塵突進
@@ -25,60 +41,91 @@
 
   元素スキル:
     - kanji: 風輪両立
-      yomi: かぜわりょうりつ
+      yomi: ふうりんりょうりつ
       comment: |
         魈の元素スキル。
 
   元素爆発:
     - kanji: 靖妖儺舞
-      yomi: やすし妖儺まい
+      yomi: せいようなぶ
+      level: 2
       comment: |
         魈の元素爆発。
+      isOfficial: true
+
+    - kanji: 夜叉の(儺面)
+      yomi: やしゃの(なめん)
+      level: 3
+      comment: |
+        魈が元素爆発によって変化した状態。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=l7Rvnp5yGKY
+
+    - kanji: (喚)くがいい
+      yomi: (わめ)くがいい
+      level: 1
+      comment: |
+        魈が元素爆発を放つ時の台詞。
+      isOfficial: true
 
   固有天賦:
     - kanji: 降魔・平妖大聖
-      yomi: ごうまひら妖たいせい
+      yomi: こうまへいようたいせい
       comment: |
         魈の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=l7Rvnp5yGKY
 
-    - kanji: 壊劫・国土砕き
-      yomi: 壊こうこくどくだき
+    - kanji: (壊劫)・国土砕き
+      yomi: (えこう)こくどくだき
+      level: 3
       comment: |
         魈の固有天賦。
+        「壊劫」は、仏教の四劫の一つ。
+        世界が破滅する時期を意味する。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=l7Rvnp5yGKY
 
     - kanji: 神通・空中自在法
-      yomi: じんずうくうちゅうじざいほう
+      yomi: じんずうくうちゅうじざいほう?
       comment: |
         魈の固有天賦。
 
   命ノ星座:
-    - kanji: 座
-      yomi: ざ
+    - kanji: 金翼鵬王座
+      yomi: きんよくほうおうざ
       comment: |
         魈の命ノ星座。
+      note: |
+        修正前は「金翅鵬王座」となっていたこともあり、金翅鳥(こんじちょう)がモチーフと考えられている。
+      ref:
+        - https://twitter.com/OHANA4649ne/status/1741782732496339208
 
     - kanji: 壊劫・三界破壊
-      yomi: 壊こうさんがいはかい
+      yomi: えこうさんがいはかい
       comment: |
         魈の命ノ星座・第1重。
 
-    - kanji: 空劫・虚空開敷の変
-      yomi: そらこうこくうひらきしきのへん
+    - kanji: 空劫・(虚空開敷)の変
+      yomi: くうこうこくうかいふのへん
       comment: |
         魈の命ノ星座・第2重。
 
     - kanji: 降魔・憤怒の相
-      yomi: ごうまふんどのそう
+      yomi: こうまふんぬのそう
       comment: |
         魈の命ノ星座・第3重。
 
     - kanji: 神通・諸苦滅尽
-      yomi: じんずうしょくめつじん
+      yomi: じんずうしょくめつじん?
       comment: |
         魈の命ノ星座・第4重。
 
     - kanji: 成劫・無明増長
-      yomi: なるこうむみょうぞうちょう
+      yomi: じょうこうむみょうぞうちょう
       comment: |
         魈の命ノ星座・第5重。
 

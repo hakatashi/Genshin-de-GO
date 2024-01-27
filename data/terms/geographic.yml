@@ -503,6 +503,91 @@
         三杯酔の店員。
         日本語版では「シニャク」表記。
 
+    - kanji: 浮舎
+      yomi: ふしゃ
+      level: 2
+      comment: |
+        かつて璃月を守るために戦った5人の夜叉の1人。
+      isOfficial: true
+      ref:
+        - 魔神任務「険路怪跡」
+
+    - kanji: 騰蛇太元帥
+      yomi: とうだたいげんすい
+      level: 3
+      comment: |
+        かつて璃月を守るために戦った5人の夜叉の1人。
+        またの名を「浮舎」。
+      isOfficial: true
+      ref:
+        - 魔神任務「険路怪跡」
+
+    - kanji: 弥怒
+      yomi: みぬ
+      level: 3
+      comment: |
+        かつて璃月を守るために戦った5人の夜叉の1人。
+      isOfficial: true
+      ref:
+        - 魔神任務「活路を開け」
+
+    - kanji: 心猿大将
+      yomi: しんえんたいしょう
+      level: 2
+      comment: |
+        かつて璃月を守るために戦った5人の夜叉の1人。
+        またの名を「弥怒」。
+      isOfficial: true
+      ref:
+        - 魔神任務「活路を開け」
+
+    - kanji: 伐難
+      yomi: ばつなん
+      level: 2
+      comment: |
+        かつて璃月を守るために戦った5人の夜叉の1人。
+      isOfficial: true
+      ref:
+        - 魔神任務「活路を開け」
+
+    - kanji: 螺巻大将
+      yomi: らかんたいしょう
+      level: 3
+      comment: |
+        かつて璃月を守るために戦った5人の夜叉の1人。
+        またの名を「伐難」。
+      isOfficial: true
+      ref:
+        - 魔神任務「活路を開け」
+
+    - kanji: 応達
+      yomi: おうたつ
+      level: 2
+      comment: |
+        かつて璃月を守るために戦った5人の夜叉の1人。
+      isOfficial: true
+      ref:
+        - 魔神任務「活路を開け」
+
+    - kanji: 火鼠大将
+      yomi: かそたいしょう
+      level: 3
+      comment: |
+        かつて璃月を守るために戦った5人の夜叉の1人。
+        またの名を「応達」。
+      isOfficial: true
+      ref:
+        - 魔神任務「活路を開け」
+
+    - kanji: 銅雀
+      yomi: どうじゃく
+      level: 2
+      comment: |
+        かつて璃月に存在した夜叉の1人。
+      isOfficial: true
+      ref:
+        - 魔神任務「活路を開け」
+
   団体:
     - kanji: 雲翰社
       yomi: うんかんしゃ

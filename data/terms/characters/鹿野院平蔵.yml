@@ -1,7 +1,7 @@
 鹿野院平蔵:
   衣装:
     - kanji: 武弁爽風
-      yomi: ぶべん爽ふう
+      yomi: ぶべんそうふう
       comment: |
         鹿野院平蔵の初期衣装。
 
@@ -12,10 +12,16 @@
         鹿野院平蔵の名刺の飾り紋。
 
   称号:
-    - kanji: 乂安を願う者
-      yomi: 乂やすをねがうもの
+    - kanji: (乂安)を願う者
+      yomi: (がいあん、かいあん)をねがうもの
+      level: 4
       comment: |
         鹿野院平蔵の称号。
+        「乂安」とは、世の中が平和な様子のこと。
+      ref:
+        - https://kotobank.jp/word/%E8%89%BE%E5%AE%89%E3%83%BB%E4%B9%82%E5%AE%89-224090
+        - https://dictionary.goo.ne.jp/word/%E8%89%BE%E5%AE%89/
+        - 全訳漢辞海 第四版
 
   通常攻撃:
     - kanji: 不動流格闘術
@@ -23,28 +29,83 @@
       comment: |
         鹿野院平蔵の通常攻撃。
 
+    - kanji: 砂撒脚
+      yomi: ささんきゃく
+      level: 3
+      comment: |
+        鹿野院平蔵の重撃で放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=r9RpXjI1DCk
+
   元素スキル:
     - kanji: 戮心拳
-      yomi: 戮しんこぶし
+      yomi: りくしんけん
+      level: 2
       comment: |
         鹿野院平蔵の元素スキル。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=r9RpXjI1DCk
+
+    - kanji: 変格
+      yomi: へんかく
+      level: 1
+      comment: |
+        鹿野院平蔵の元素スキルによって獲得できる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=r9RpXjI1DCk
+
+    - kanji: 正論
+      yomi: せいろん
+      level: 1
+      comment: |
+        鹿野院平蔵の元素スキルによって獲得できる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=r9RpXjI1DCk
 
   元素爆発:
     - kanji: 廻風蹴
-      yomi: まわりふうけ
+      yomi: かいふうげり?
       comment: |
         鹿野院平蔵の元素爆発。
 
+    - kanji: 不動流·真空弾
+      yomi: ふどうりゅうしんくうだん
+      comment: |
+        鹿野院平蔵の元素爆発によって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=r9RpXjI1DCk
+
+    - kanji: 廻風真眼
+      yomi: かいふうしんがん
+      level: 2
+      comment: |
+        鹿野院平蔵の元素爆発によって敵に与えることができる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=r9RpXjI1DCk
+
   固有天賦:
     - kanji: 反論稽古
-      yomi: はんろんけいこ
+      yomi: はんろんげいこ
       comment: |
         鹿野院平蔵の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=r9RpXjI1DCk
 
     - kanji: 因由勘破
-      yomi: いんゆかんやぶ
+      yomi: いんゆうかんぱ
+      level: 2
       comment: |
         鹿野院平蔵の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=r9RpXjI1DCk
 
     - kanji: 罪より前に
       yomi: つみよりまえに
@@ -72,15 +133,18 @@
       comment: |
         鹿野院平蔵の命ノ星座・第3重。
 
-    - kanji: 荒唐無稽百物語
-      yomi: こうとうむけいひゃくものがたり
+    - kanji: (荒唐無稽)百物語
+      yomi: (こうとうむけい)ひゃくものがたり
+      level: 1
       comment: |
         鹿野院平蔵の命ノ星座・第4重。
 
-    - kanji: 屏禁密室大図鑑
-      yomi: へいきんみっしつだいずかん
+    - kanji: (屏禁密室)大図鑑
+      yomi: (へいきんみっしつ)だいずかん
+      level: 2
       comment: |
         鹿野院平蔵の命ノ星座・第5重。
+        「屏禁」とは、規律に違反した囚人に課される拘禁罰のこと。
 
     - kanji: 奇想天外捕物帳
       yomi: きそうてんがいとりものちょう

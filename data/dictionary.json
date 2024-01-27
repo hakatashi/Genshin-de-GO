@@ -3620,6 +3620,132 @@
     "isOfficial": true
   },
   {
+    "kanji": "一太刀",
+    "answers": [
+      "ひとたち"
+    ],
+    "prefix": "夢想の",
+    "suffix": "",
+    "yomiPrefix": "むそうの",
+    "yomiSuffix": "",
+    "category": [
+      "雷電将軍",
+      "元素爆発"
+    ],
+    "comment": "雷電将軍の元素爆発で放たれる攻撃。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "寂滅",
+    "answers": [
+      "じゃくめつ"
+    ],
+    "prefix": "ここより",
+    "suffix": "の時",
+    "yomiPrefix": "ここより",
+    "yomiSuffix": "のとき",
+    "category": [
+      "雷電将軍",
+      "元素爆発"
+    ],
+    "comment": "雷電将軍が元素爆発を放つ時の台詞。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "御体",
+    "answers": [
+      "ごたい"
+    ],
+    "prefix": "殊勝な",
+    "suffix": "",
+    "yomiPrefix": "しゅしょうな",
+    "yomiSuffix": "",
+    "category": [
+      "雷電将軍",
+      "固有天賦"
+    ],
+    "comment": "雷電将軍の固有天賦。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "喚",
+    "answers": [
+      "わめ"
+    ],
+    "prefix": "",
+    "suffix": "くがいい",
+    "yomiPrefix": "",
+    "yomiSuffix": "くがいい",
+    "category": [
+      "魈",
+      "元素爆発"
+    ],
+    "comment": "魈が元素爆発を放つ時の台詞。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "変格",
+    "answers": [
+      "へんかく"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "鹿野院平蔵",
+      "元素スキル"
+    ],
+    "comment": "鹿野院平蔵の元素スキルによって獲得できる効果。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "正論",
+    "answers": [
+      "せいろん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "鹿野院平蔵",
+      "元素スキル"
+    ],
+    "comment": "鹿野院平蔵の元素スキルによって獲得できる効果。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "荒唐無稽",
+    "answers": [
+      "こうとうむけい"
+    ],
+    "prefix": "",
+    "suffix": "百物語",
+    "yomiPrefix": "",
+    "yomiSuffix": "ひゃくものがたり",
+    "category": [
+      "鹿野院平蔵",
+      "命ノ星座"
+    ],
+    "comment": "鹿野院平蔵の命ノ星座・第4重。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
     "kanji": "チ虎魚",
     "answers": [
       "ちこざかな"
@@ -4226,6 +4352,96 @@
     "hint": "none",
     "level": 2,
     "isOfficial": false
+  },
+  {
+    "kanji": "浮舎",
+    "answers": [
+      "ふしゃ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "人物"
+    ],
+    "comment": "かつて璃月を守るために戦った5人の夜叉の1人。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "心猿大将",
+    "answers": [
+      "しんえんたいしょう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "人物"
+    ],
+    "comment": "かつて璃月を守るために戦った5人の夜叉の1人。\nまたの名を「弥怒」。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "伐難",
+    "answers": [
+      "ばつなん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "人物"
+    ],
+    "comment": "かつて璃月を守るために戦った5人の夜叉の1人。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "応達",
+    "answers": [
+      "おうたつ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "人物"
+    ],
+    "comment": "かつて璃月を守るために戦った5人の夜叉の1人。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "銅雀",
+    "answers": [
+      "どうじゃく"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "人物"
+    ],
+    "comment": "かつて璃月に存在した夜叉の1人。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
   },
   {
     "kanji": "特殊縛境",
@@ -5943,13 +6159,13 @@
     "isOfficial": false
   },
   {
-    "kanji": "仙法・寒病鬼差",
+    "kanji": "寒病鬼差",
     "answers": [
-      "せんぽうかんびょうきさ"
+      "かんびょうきさ"
     ],
-    "prefix": "",
+    "prefix": "仙法・",
     "suffix": "",
-    "yomiPrefix": "",
+    "yomiPrefix": "せんぽう",
     "yomiSuffix": "",
     "category": [
       "七七",
@@ -7492,6 +7708,186 @@
     "isOfficial": false
   },
   {
+    "kanji": "雷罰悪曜",
+    "answers": [
+      "らいばつあくよう"
+    ],
+    "prefix": "",
+    "suffix": "の眼",
+    "yomiPrefix": "",
+    "yomiSuffix": "のまなこ",
+    "category": [
+      "雷電将軍",
+      "元素スキル"
+    ],
+    "comment": "雷電将軍の元素スキルによって味方に付与される効果。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "眼",
+    "answers": [
+      "まなこ"
+    ],
+    "prefix": "雷罰悪曜の",
+    "suffix": "",
+    "yomiPrefix": "らいばつあくようの",
+    "yomiSuffix": "",
+    "category": [
+      "雷電将軍",
+      "元素スキル"
+    ],
+    "comment": "雷電将軍の元素スキルによって味方に付与される効果。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "諸願百目",
+    "answers": [
+      "しょがんひゃくもく"
+    ],
+    "prefix": "",
+    "suffix": "の輪",
+    "yomiPrefix": "",
+    "yomiSuffix": "のりん",
+    "category": [
+      "雷電将軍",
+      "元素爆発"
+    ],
+    "comment": "雷電将軍編成時、雷電将軍以外のメンバーが元素爆発を使用した時に\n願力が蓄積される輪。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "千万",
+    "answers": [
+      "せんばん"
+    ],
+    "prefix": "",
+    "suffix": "の願望",
+    "yomiPrefix": "",
+    "yomiSuffix": "のがんぼう",
+    "category": [
+      "雷電将軍",
+      "固有天賦"
+    ],
+    "comment": "雷電将軍の固有天賦。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "武火調理",
+    "answers": [
+      "ぶかちょうり"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "香菱",
+      "命ノ星座"
+    ],
+    "comment": "香菱の命ノ星座・第3重。\n「武火」とは、激しく燃える火のこと。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "靖妖儺舞",
+    "answers": [
+      "せいようなぶ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "魈",
+      "元素爆発"
+    ],
+    "comment": "魈の元素爆発。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "戮心拳",
+    "answers": [
+      "りくしんけん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "鹿野院平蔵",
+      "元素スキル"
+    ],
+    "comment": "鹿野院平蔵の元素スキル。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "廻風真眼",
+    "answers": [
+      "かいふうしんがん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "鹿野院平蔵",
+      "元素爆発"
+    ],
+    "comment": "鹿野院平蔵の元素爆発によって敵に与えることができる効果。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "因由勘破",
+    "answers": [
+      "いんゆうかんぱ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "鹿野院平蔵",
+      "固有天賦"
+    ],
+    "comment": "鹿野院平蔵の固有天賦。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "屏禁密室",
+    "answers": [
+      "へいきんみっしつ"
+    ],
+    "prefix": "",
+    "suffix": "大図鑑",
+    "yomiPrefix": "",
+    "yomiSuffix": "だいずかん",
+    "category": [
+      "鹿野院平蔵",
+      "命ノ星座"
+    ],
+    "comment": "鹿野院平蔵の命ノ星座・第5重。\n「屏禁」とは、規律に違反した囚人に課される拘禁罰のこと。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
     "kanji": "蝸虎魚",
     "answers": [
       "ちこざかな"
@@ -7667,6 +8063,78 @@
     "hint": "none",
     "level": 3,
     "isOfficial": false
+  },
+  {
+    "kanji": "騰蛇太元帥",
+    "answers": [
+      "とうだたいげんすい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "人物"
+    ],
+    "comment": "かつて璃月を守るために戦った5人の夜叉の1人。\nまたの名を「浮舎」。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "弥怒",
+    "answers": [
+      "みぬ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "人物"
+    ],
+    "comment": "かつて璃月を守るために戦った5人の夜叉の1人。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "螺巻大将",
+    "answers": [
+      "らかんたいしょう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "人物"
+    ],
+    "comment": "かつて璃月を守るために戦った5人の夜叉の1人。\nまたの名を「伐難」。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "火鼠大将",
+    "answers": [
+      "かそたいしょう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "人物"
+    ],
+    "comment": "かつて璃月を守るために戦った5人の夜叉の1人。\nまたの名を「応達」。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
   },
   {
     "kanji": "雲翰社",
@@ -9364,6 +9832,60 @@
     "isOfficial": false
   },
   {
+    "kanji": "儺面",
+    "answers": [
+      "なめん"
+    ],
+    "prefix": "夜叉の",
+    "suffix": "",
+    "yomiPrefix": "やしゃの",
+    "yomiSuffix": "",
+    "category": [
+      "魈",
+      "元素爆発"
+    ],
+    "comment": "魈が元素爆発によって変化した状態。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "壊劫",
+    "answers": [
+      "えこう"
+    ],
+    "prefix": "",
+    "suffix": "・国土砕き",
+    "yomiPrefix": "",
+    "yomiSuffix": "こくどくだき",
+    "category": [
+      "魈",
+      "固有天賦"
+    ],
+    "comment": "魈の固有天賦。\n「壊劫」は、仏教の四劫の一つ。\n世界が破滅する時期を意味する。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "砂撒脚",
+    "answers": [
+      "ささんきゃく"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "鹿野院平蔵",
+      "通常攻撃"
+    ],
+    "comment": "鹿野院平蔵の重撃で放たれる攻撃。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
     "kanji": "鍋巴",
     "answers": [
       "ぐぅおぱぁー"
@@ -9685,6 +10207,25 @@
       "命ノ星座"
     ],
     "comment": "雲菫の命ノ星座・第3重。\n「牙纛」とは、象牙の飾りが付けられた大将軍の旗のこと。\n",
+    "hint": "none",
+    "level": 4,
+    "isOfficial": false
+  },
+  {
+    "kanji": "乂安",
+    "answers": [
+      "がいあん",
+      "かいあん"
+    ],
+    "prefix": "",
+    "suffix": "を願う者",
+    "yomiPrefix": "",
+    "yomiSuffix": "をねがうもの",
+    "category": [
+      "鹿野院平蔵",
+      "称号"
+    ],
+    "comment": "鹿野院平蔵の称号。\n「乂安」とは、世の中が平和な様子のこと。\n",
     "hint": "none",
     "level": 4,
     "isOfficial": false

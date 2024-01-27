@@ -1,13 +1,13 @@
 雷電将軍:
   衣装:
     - kanji: 御建鳴神主尊の典
-      yomi: ごけんなるかみぬしみことのてん
+      yomi: みたけなるかみぬしのみことのてん?
       comment: |
         雷電将軍の初期衣装。
 
   名刺の飾り紋:
     - kanji: 開眼
-      yomi: かいがん
+      yomi: かいげん?
       comment: |
         雷電将軍の名刺の飾り紋。
 
@@ -25,29 +25,83 @@
 
   元素スキル:
     - kanji: 神変・悪曜開眼
-      yomi: しんぺんあく曜かいがん
+      yomi: しんぺんあくようかいげん?
       comment: |
         雷電将軍の元素スキル。
+
+    - kanji: (雷罰悪曜)の(眼)
+      yomi: (らいばつあくよう)の(まなこ)
+      level: [2, 2]
+      comment: |
+        雷電将軍の元素スキルによって味方に付与される効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=7P8cyHWjIxY
 
   元素爆発:
     - kanji: 奥義・夢想真説
       yomi: おうぎむそうしんせつ
       comment: |
         雷電将軍の元素爆発。
+      isOfficial: true
+      ref:
+        - '英語版名称「Secret Art: Musou Shinsetsu」'
+
+    - kanji: 夢想の(一太刀)
+      yomi: むそうの(ひとたち)
+      level: 1
+      comment: |
+        雷電将軍の元素爆発で放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=7P8cyHWjIxY
+
+    - kanji: 夢想の一心
+      yomi: むそうのいっしん
+      comment: |
+        雷電将軍が元素爆発によって変化した状態。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=7P8cyHWjIxY
+
+    - kanji: (諸願百目)の輪
+      yomi: (しょがんひゃくもく)のりん
+      level: 2
+      comment: |
+        雷電将軍編成時、雷電将軍以外のメンバーが元素爆発を使用した時に
+        願力が蓄積される輪。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=7P8cyHWjIxY
+
+    - kanji: ここより(寂滅)の時
+      yomi: ここより(じゃくめつ)のとき
+      level: 1
+      comment: |
+        雷電将軍が元素爆発を放つ時の台詞。
+      isOfficial: true
 
   固有天賦:
-    - kanji: 千万の願望
-      yomi: せんまんのがんぼう
+    - kanji: (千万)の願望
+      yomi: (せんばん)のがんぼう
+      level: 2
       comment: |
         雷電将軍の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=7P8cyHWjIxY
 
-    - kanji: 殊勝な御体
-      yomi: しゅしょうなごからだ
+    - kanji: 殊勝な(御体)
+      yomi: しゅしょうな(ごたい)
+      level: 1
       comment: |
         雷電将軍の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=7P8cyHWjIxY
 
     - kanji: 天下名物狩り
-      yomi: てんかめいぶつかり
+      yomi: てんかめいぶつがり
       comment: |
         雷電将軍の固有天賦。
 
@@ -58,19 +112,21 @@
         雷電将軍の命ノ星座。
 
     - kanji: 悪曜の呪詛
-      yomi: あく曜のじゅそ
+      yomi: あくようのじゅそ
       comment: |
         雷電将軍の命ノ星座・第1重。
 
     - kanji: 斬鉄断金
-      yomi: きてつだんきん
+      yomi: ざんてつだんきん
       comment: |
         雷電将軍の命ノ星座・第2重。
 
     - kanji: 眞影旧事
-      yomi: まことかげきゅうこと
+      yomi: しんかげきゅうじ?
       comment: |
         雷電将軍の命ノ星座・第3重。
+      ref:
+        - 英語版名称「Shinkage Bygones」
 
     - kanji: 常道への誓い
       yomi: じょうどうへのちかい
