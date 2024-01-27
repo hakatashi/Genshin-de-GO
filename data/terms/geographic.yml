@@ -503,6 +503,17 @@
         三杯酔の店員。
         日本語版では「シニャク」表記。
 
+  団体:
+    - kanji: 雲翰社
+      yomi: うんかんしゃ
+      level: 3
+      comment: |
+        璃月の劇団。
+        看板役者の雲菫が座長を務める。
+      isOfficial: true
+      ref:
+        - https://twitter.com/Genshin_7/status/1462723781680640005
+
 稲妻:
   地名:
     - kanji: 烏有亭

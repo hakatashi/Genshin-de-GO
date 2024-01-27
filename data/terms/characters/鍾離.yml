@@ -7,13 +7,13 @@
 
   称号:
     - kanji: 浮世閑歩
-      yomi: うきよ閑ふ
+      yomi: ふせいかんぽ?
       comment: |
         鍾離の称号。
 
   通常攻撃:
     - kanji: 岩雨
-      yomi: いわう
+      yomi: がんう
       comment: |
         鍾離の通常攻撃。
 
@@ -23,31 +23,103 @@
       comment: |
         鍾離の元素スキル。
 
+    - kanji: (玉璋)シールド
+      yomi: (ぎょくしょう)しーるど
+      level: 2
+      comment: |
+        鍾離の元素スキルによって獲得できるシールド。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=UkJ07HvWVhE
+
+    - kanji: 壁立千仞
+      yomi: へりきつせんじん
+      level: 3
+      comment: |
+        鍾離が元素スキルを放つ時の台詞。
+        高い崖が険しく立っていることを意味する四字熟語。
+      isOfficial: true
+
+    - kanji: 震天動地
+      yomi: しんてんどうち
+      level: 1
+      comment: |
+        鍾離が元素スキルを放つ時の台詞。
+        人を驚かすほどの激しい勢いを意味する四字熟語。
+      isOfficial: true
+
+    - kanji: 岩山破蓄
+      yomi: がんざんはちく
+      level: 1
+      comment: |
+        鍾離が元素スキルを放つ時の台詞。
+      isOfficial: true
+
+    - kanji: 堅如磐石
+      yomi: けんにょばんじゃく
+      level: 3
+      comment: |
+        鍾離が元素スキルを放つ時の台詞。
+        巨大な岩のように堅くしっかりしていることを意味する四字熟語。
+      isOfficial: true
+      ref:
+        - https://sanabo.com/words/archives/2003/01/post_1304.html
+
+    - kanji: 難攻不落
+      yomi: なんこうふらく
+      level: 1
+      comment: |
+        鍾離が元素スキルを放つ時の台詞。
+        攻めるのが難しく、容易に陥落しないことを意味する四字熟語。
+      isOfficial: true
+
   元素爆発:
     - kanji: 天星
-      yomi: てんぼし
+      yomi: てんせい
       comment: |
         鍾離の元素爆発。
 
-  固有天賦:
-    - kanji: 岩の宸断
-      yomi: いわの宸だん
+    - kanji: 天理長駆
+      yomi: てんりちょうく
+      level: 1
       comment: |
-        鍾離の固有天賦。
+        鍾離が元素爆発を放つ時の台詞。
+      isOfficial: true
 
-    - kanji: 贅沢な食饌
-      yomi: ぜいたくなしょく饌
+    - kanji: 天動万象
+      yomi: てんどうばんしょう
+      level: 2
+      comment: |
+        鍾離が元素爆発を放つ時の台詞。
+      isOfficial: true
+
+  固有天賦:
+    - kanji: 岩の(宸断)
+      yomi: いわの(しんだん)
+      level: 3
       comment: |
         鍾離の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=UkJ07HvWVhE
+
+    - kanji: 贅沢な(食饌)
+      yomi: ぜいたくな(しょくせん)
+      level: 2
+      comment: |
+        鍾離の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=UkJ07HvWVhE
 
     - kanji: 結晶推命
-      yomi: けっしょう推いのち
+      yomi: けっしょうすいめい
       comment: |
         鍾離の固有天賦。
 
   命ノ星座:
-    - kanji: ？？？岩王帝君座
-      yomi: いわおうみかどくんざ
+    - kanji: 岩王帝君座
+      yomi: がんおうていくんざ
       comment: |
         鍾離の命ノ星座。
 
@@ -61,22 +133,27 @@
       comment: |
         鍾離の命ノ星座・第2重。
 
-    - kanji: 圭璋、闇の中で輝く
-      yomi: けいあきらやみのなかでかがやく
+    - kanji: (圭璋)、闇の中で輝く
+      yomi: (けいしょう)やみのなかでかがやく
+      level: 2
       comment: |
         鍾離の命ノ星座・第3重。
+        「圭璋」は、儀礼に用いられる玉の器。
+        転じて、人柄が優れていること。
+      ref:
+        - 全訳漢辞海 第四版
 
     - kanji: 黄玉、破れぬ堅さ
-      yomi: おうぎょくやぶれぬかたさ
+      yomi: こうぎょくやぶれぬかたさ?
       comment: |
         鍾離の命ノ星座・第4重。
 
     - kanji: 璧、天理を守る
-      yomi: 璧てんりをまもる
+      yomi: へきてんりをまもる
       comment: |
         鍾離の命ノ星座・第5重。
 
     - kanji: 金、天地の恵み
-      yomi: きむてんちのめぐみ
+      yomi: きんてんちのめぐみ
       comment: |
         鍾離の命ノ星座・第6重。

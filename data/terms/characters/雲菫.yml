@@ -1,60 +1,90 @@
 雲菫:
   衣装:
-    - kanji: 氍毹煙雲
-      yomi: 氍毹けむりくも
+    - kanji: (氍毹)煙雲
+      yomi: (くゆ、くしゅ)えんうん
+      level: 4
       comment: |
         雲菫の初期衣装。
+        「氍毹」は、毛織の敷物のこと。
+      ref:
+        - https://kanji.jitenon.jp/kanjiy/12979.html
+        - https://objecthub.keio.ac.jp/ja/object/1641
+        - https://kanjibunka.com/yomimono/kambun_animal/yomimono-10472/
 
   称号:
-    - kanji: 紅絨毯に舞う麗姿
-      yomi: べにじゅうたんにまうれいし
+    - kanji: 紅(絨毯)に舞う麗姿
+      yomi: べに(じゅうたん)にまうれいし
+      level: 2
       comment: |
         雲菫の称号。
 
   通常攻撃:
     - kanji: 拂雲出手
-      yomi: 拂くもいでしゅ
+      yomi: ふつうんしゅっしゅ?
       comment: |
         雲菫の通常攻撃。
 
   元素スキル:
     - kanji: 旋雲開相
-      yomi: 旋くもひらきしょう
+      yomi: せんうんかいそう
       comment: |
         雲菫の元素スキル。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=mSKOqTkRhR4
 
   元素爆発:
     - kanji: 破嶂の旌儀
-      yomi: やぶ嶂の旌ぎ
+      yomi: はしょうのせいぎ
       comment: |
         雲菫の元素爆発。
+
+    - kanji: 飛雲旗陣
+      yomi: ひうんきじん
+      level: 1
+      comment: |
+        雲菫の元素爆発によって味方が獲得できる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=mSKOqTkRhR4
 
   固有天賦:
     - kanji: 自我堅守
       yomi: じがけんしゅ
       comment: |
         雲菫の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=mSKOqTkRhR4
 
     - kanji: 独立嶄然
       yomi: どくりつざんぜん
+      level: 3
       comment: |
         雲菫の固有天賦。
+        「嶄然」とは、山が高くそびえる様子。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=mSKOqTkRhR4
 
     - kanji: 清食養性
-      yomi: しんしょくようせい
+      yomi: せいしょくようじょう
       comment: |
         雲菫の固有天賦。
 
   命ノ星座:
     - kanji: 虹章座
-      yomi: にじあきらざ
+      yomi: こうしょうざ
       comment: |
         雲菫の命ノ星座。
 
     - kanji: 飛身趟馬
-      yomi: ひみ趟ば
+      yomi: ひしんとうば?
       comment: |
         雲菫の命ノ星座・第1重。
+      ref:
+        - https://baike.baidu.hk/item/%E8%B6%9F%E9%A6%AC/10021022
+        - https://twitter.com/genshin_kanji/status/1480874700637356037
 
     - kanji: 諸般切末
       yomi: しょはんせつまつ
@@ -62,21 +92,28 @@
         雲菫の命ノ星座・第2重。
 
     - kanji: 牙纛探海
-      yomi: きば纛さぐうみ
+      yomi: がとうたんかい
+      level: 4
       comment: |
         雲菫の命ノ星座・第3重。
+        「牙纛」とは、象牙の飾りが付けられた大将軍の旗のこと。
+      ref:
+        - https://twitter.com/genshin_kanji/status/1480874700637356037
+        - https://kotobank.jp/word/%E7%89%99%E7%BA%9B-464830
 
     - kanji: 昇堂吊雲
-      yomi: のぼりどうつくも
+      yomi: しょうどうちょううん
       comment: |
         雲菫の命ノ星座・第4重。
 
     - kanji: 翹楚名坤
-      yomi: 翹すわえめいひつじさる
+      yomi: ぎょうそめいこん
+      level: 3
       comment: |
         雲菫の命ノ星座・第5重。
+        「翹楚」とは、抜きん出た才能を持っていること。
 
     - kanji: 荘諧併持
-      yomi: そう諧併じ
+      yomi: そうかいへいじ
       comment: |
         雲菫の命ノ星座・第6重。

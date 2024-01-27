@@ -1,7 +1,7 @@
 荒瀧一斗:
   衣装:
     - kanji: 傾奇の狂鬼
-      yomi: 傾きのきょうおに
+      yomi: かぶきのきょうき?
       comment: |
         荒瀧一斗の初期衣装。
 
@@ -23,11 +23,57 @@
       comment: |
         荒瀧一斗の通常攻撃。
 
+    - kanji: (乱神)の怪力
+      yomi: (らんしん)のかいりき
+      level: 1
+      comment: |
+        荒瀧一斗の通常攻撃によって獲得できる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=bI2bi1h_jD0
+
+    - kanji: 荒瀧逆袈裟
+      yomi: あらたきぎゃくけさ
+      level: 2
+      comment: |
+        荒瀧一斗の特殊な重撃によって放たれる攻撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=bI2bi1h_jD0
+
+    - kanji: (左一文字)斬り
+      yomi: (ひだりいちもんじ)ぎり
+      level: 1
+      comment: |
+        荒瀧一斗の通常重撃。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=bI2bi1h_jD0
+
   元素スキル:
     - kanji: 魔殺絶技・岩牛発破！
-      yomi: まやぜつぎいわうしはっぱ
+      yomi: まさつぜつぎいわうしはっぱ?
       comment: |
         荒瀧一斗の元素スキル。
+      ref:
+        - '英語版名称「Masatsu Zetsugi: Akaushi Burst!」'
+
+    - kanji: 丑雄
+      yomi: うしお
+      level: 1
+      comment: |
+        荒瀧派のサブメンバーのアカウシ。
+        荒瀧一斗の元素スキルで召喚できる。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=bI2bi1h_jD0
+
+    - kanji: 岩闘牛
+      yomi: がんとうぎゅう
+      level: 1
+      comment: |
+        荒瀧一斗が元素スキルを放つ時の台詞。
+      isOfficial: true
 
   元素爆発:
     - kanji: 最凶鬼王・一斗轟臨！！
@@ -35,19 +81,43 @@
       comment: |
         荒瀧一斗の元素爆発。
 
+    - kanji: (憤怒)の鬼王
+      yomi: (ふんぬ)のきおう
+      level: 1
+      comment: |
+        荒瀧一斗の元素爆発によって獲得できる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=bI2bi1h_jD0
+
+    - kanji: 鬼王金砕棒
+      yomi: きおうかなさいぼう
+      level: 3
+      comment: |
+        荒瀧一斗が元素爆発発動時に使用する武器。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=bI2bi1h_jD0
+
   固有天賦:
     - kanji: 荒瀧第一
       yomi: あらたきだいいち
       comment: |
         荒瀧一斗の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=bI2bi1h_jD0
 
     - kanji: 赤鬼の血
       yomi: あかおにのち
       comment: |
         荒瀧一斗の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=bI2bi1h_jD0
 
     - kanji: 乾裂枝砕き
-      yomi: いぬい裂えだくだき
+      yomi: かんれつえだくだき
       comment: |
         荒瀧一斗の固有天賦。
 
@@ -63,17 +133,17 @@
         荒瀧一斗の命ノ星座・第1重。
 
     - kanji: 衆よ集いて、山岳倒し
-      yomi: しゅうよつどいてさんがくたおし
+      yomi: しゅうよつどいてさんがくたおし?
       comment: |
         荒瀧一斗の命ノ星座・第2重。
 
     - kanji: 牛王跨げば、水陸自在
-      yomi: うしおうまたげばすいりくじざい
+      yomi: ごおうまたげばすいりくじざい
       comment: |
         荒瀧一斗の命ノ星座・第3重。
 
     - kanji: 奉行牢獄、御食事処
-      yomi: ぶぎょうろうごくごしょくじしょ
+      yomi: ぶぎょうろうごくおしょくじどころ
       comment: |
         荒瀧一斗の命ノ星座・第4重。
 
@@ -83,6 +153,8 @@
         荒瀧一斗の命ノ星座・第5重。
 
     - kanji: 傾奇の張本、荒瀧一斗
-      yomi: 傾きのちょうほんあらたきいちと
+      yomi: かぶきのちょうほんあらたきいっと
       comment: |
         荒瀧一斗の命ノ星座・第6重。
+      note: |
+        「張本(ちょうほん)」とは、原因のこと。

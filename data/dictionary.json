@@ -3331,14 +3331,14 @@
     "isOfficial": true
   },
   {
-    "kanji": "韋駄天駿足",
+    "kanji": "韋駄天",
     "answers": [
-      "いだてんしゅんそく"
+      "いだてん"
     ],
     "prefix": "",
-    "suffix": "",
+    "suffix": "駿足",
     "yomiPrefix": "",
-    "yomiSuffix": "",
+    "yomiSuffix": "しゅんそく",
     "category": [
       "綺良々",
       "命ノ星座"
@@ -3366,6 +3366,258 @@
     "hint": "none",
     "level": 1,
     "isOfficial": false
+  },
+  {
+    "kanji": "漂",
+    "answers": [
+      "ただよ"
+    ],
+    "prefix": "",
+    "suffix": "う花の香り",
+    "yomiPrefix": "",
+    "yomiSuffix": "うはなのかおり",
+    "category": [
+      "胡桃",
+      "命ノ星座"
+    ],
+    "comment": "胡桃の命ノ星座・第5重。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "抱擁",
+    "answers": [
+      "ほうよう"
+    ],
+    "prefix": "冥蝶の",
+    "suffix": "",
+    "yomiPrefix": "めいちょうの",
+    "yomiSuffix": "",
+    "category": [
+      "胡桃",
+      "命ノ星座"
+    ],
+    "comment": "胡桃の命ノ星座・第6重。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "乱神",
+    "answers": [
+      "らんしん"
+    ],
+    "prefix": "",
+    "suffix": "の怪力",
+    "yomiPrefix": "",
+    "yomiSuffix": "のかいりき",
+    "category": [
+      "荒瀧一斗",
+      "通常攻撃"
+    ],
+    "comment": "荒瀧一斗の通常攻撃によって獲得できる効果。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "左一文字",
+    "answers": [
+      "ひだりいちもんじ"
+    ],
+    "prefix": "",
+    "suffix": "斬り",
+    "yomiPrefix": "",
+    "yomiSuffix": "ぎり",
+    "category": [
+      "荒瀧一斗",
+      "通常攻撃"
+    ],
+    "comment": "荒瀧一斗の通常重撃。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "丑雄",
+    "answers": [
+      "うしお"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "荒瀧一斗",
+      "元素スキル"
+    ],
+    "comment": "荒瀧派のサブメンバーのアカウシ。\n荒瀧一斗の元素スキルで召喚できる。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "岩闘牛",
+    "answers": [
+      "がんとうぎゅう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "荒瀧一斗",
+      "元素スキル"
+    ],
+    "comment": "荒瀧一斗が元素スキルを放つ時の台詞。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "憤怒",
+    "answers": [
+      "ふんぬ"
+    ],
+    "prefix": "",
+    "suffix": "の鬼王",
+    "yomiPrefix": "",
+    "yomiSuffix": "のきおう",
+    "category": [
+      "荒瀧一斗",
+      "元素爆発"
+    ],
+    "comment": "荒瀧一斗の元素爆発によって獲得できる効果。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "少壮気鋭",
+    "answers": [
+      "しょうそうきえい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "行秋",
+      "称号"
+    ],
+    "comment": "行秋の称号。\n若くて気力にあふれていることを意味する四字熟語。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "薙",
+    "answers": [
+      "な"
+    ],
+    "prefix": "情熱の",
+    "suffix": "ぎ払い",
+    "yomiPrefix": "じょうねつの",
+    "yomiSuffix": "ぎはらい",
+    "category": [
+      "辛炎",
+      "元素スキル"
+    ],
+    "comment": "辛炎の元素スキル。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": false
+  },
+  {
+    "kanji": "震天動地",
+    "answers": [
+      "しんてんどうち"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "鍾離",
+      "元素スキル"
+    ],
+    "comment": "鍾離が元素スキルを放つ時の台詞。\n人を驚かすほどの激しい勢いを意味する四字熟語。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "岩山破蓄",
+    "answers": [
+      "がんざんはちく"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "鍾離",
+      "元素スキル"
+    ],
+    "comment": "鍾離が元素スキルを放つ時の台詞。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "難攻不落",
+    "answers": [
+      "なんこうふらく"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "鍾離",
+      "元素スキル"
+    ],
+    "comment": "鍾離が元素スキルを放つ時の台詞。\n攻めるのが難しく、容易に陥落しないことを意味する四字熟語。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "天理長駆",
+    "answers": [
+      "てんりちょうく"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "鍾離",
+      "元素爆発"
+    ],
+    "comment": "鍾離が元素爆発を放つ時の台詞。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
+    "kanji": "飛雲旗陣",
+    "answers": [
+      "ひうんきじん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "雲菫",
+      "元素爆発"
+    ],
+    "comment": "雲菫の元素爆発によって味方が獲得できる効果。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
   },
   {
     "kanji": "チ虎魚",
@@ -6252,7 +6504,7 @@
   {
     "kanji": "袖火百景図",
     "answers": [
-      "そでびひゃくけいず"
+      "そでびひゃっけいず"
     ],
     "prefix": "",
     "suffix": "",
@@ -7024,6 +7276,222 @@
     "isOfficial": true
   },
   {
+    "kanji": "血梅香",
+    "answers": [
+      "ちばいこう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "胡桃",
+      "通常攻撃"
+    ],
+    "comment": "胡桃が元素スキル発動後、重撃で敵に与えることができる効果。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "冥蝶",
+    "answers": [
+      "めいちょう"
+    ],
+    "prefix": "",
+    "suffix": "の舞",
+    "yomiPrefix": "",
+    "yomiSuffix": "のまい",
+    "category": [
+      "胡桃",
+      "元素スキル"
+    ],
+    "comment": "胡桃が元素スキルによって獲得できる効果。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "蝶隠",
+    "answers": [
+      "ちょういん"
+    ],
+    "prefix": "",
+    "suffix": "の時",
+    "yomiPrefix": "",
+    "yomiSuffix": "のとき",
+    "category": [
+      "胡桃",
+      "固有天賦"
+    ],
+    "comment": "胡桃の固有天賦。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "多々益善",
+    "answers": [
+      "たたえきぜん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "胡桃",
+      "固有天賦"
+    ],
+    "comment": "胡桃の固有天賦。\n「多ければ多いほど良い」という意味の四字熟語。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "荒瀧逆袈裟",
+    "answers": [
+      "あらたきぎゃくけさ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "荒瀧一斗",
+      "通常攻撃"
+    ],
+    "comment": "荒瀧一斗の特殊な重撃によって放たれる攻撃。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "裁雨留虹",
+    "answers": [
+      "さいうるこう"
+    ],
+    "prefix": "古華剣・",
+    "suffix": "",
+    "yomiPrefix": "こかけん",
+    "yomiSuffix": "",
+    "category": [
+      "行秋",
+      "元素爆発"
+    ],
+    "comment": "行秋の元素爆発。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "宝印幻剣",
+    "answers": [
+      "ほういんげんけん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "重雲",
+      "元素爆発"
+    ],
+    "comment": "重雲が元素スキルを放つ時の台詞。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "玉璋",
+    "answers": [
+      "ぎょくしょう"
+    ],
+    "prefix": "",
+    "suffix": "シールド",
+    "yomiPrefix": "",
+    "yomiSuffix": "しーるど",
+    "category": [
+      "鍾離",
+      "元素スキル"
+    ],
+    "comment": "鍾離の元素スキルによって獲得できるシールド。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "天動万象",
+    "answers": [
+      "てんどうばんしょう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "鍾離",
+      "元素爆発"
+    ],
+    "comment": "鍾離が元素爆発を放つ時の台詞。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "食饌",
+    "answers": [
+      "しょくせん"
+    ],
+    "prefix": "贅沢な",
+    "suffix": "",
+    "yomiPrefix": "ぜいたくな",
+    "yomiSuffix": "",
+    "category": [
+      "鍾離",
+      "固有天賦"
+    ],
+    "comment": "鍾離の固有天賦。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "圭璋",
+    "answers": [
+      "けいしょう"
+    ],
+    "prefix": "",
+    "suffix": "、闇の中で輝く",
+    "yomiPrefix": "",
+    "yomiSuffix": "やみのなかでかがやく",
+    "category": [
+      "鍾離",
+      "命ノ星座"
+    ],
+    "comment": "鍾離の命ノ星座・第3重。\n「圭璋」は、儀礼に用いられる玉の器。\n転じて、人柄が優れていること。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
+    "kanji": "絨毯",
+    "answers": [
+      "じゅうたん"
+    ],
+    "prefix": "紅",
+    "suffix": "に舞う麗姿",
+    "yomiPrefix": "べに",
+    "yomiSuffix": "にまうれいし",
+    "category": [
+      "雲菫",
+      "称号"
+    ],
+    "comment": "雲菫の称号。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
+  },
+  {
     "kanji": "蝸虎魚",
     "answers": [
       "ちこざかな"
@@ -7199,6 +7667,24 @@
     "hint": "none",
     "level": 3,
     "isOfficial": false
+  },
+  {
+    "kanji": "雲翰社",
+    "answers": [
+      "うんかんしゃ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "団体"
+    ],
+    "comment": "璃月の劇団。\n看板役者の雲菫が座長を務める。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
   },
   {
     "kanji": "琢光鏡",
@@ -8734,6 +9220,150 @@
     "isOfficial": true
   },
   {
+    "kanji": "鬼王金砕棒",
+    "answers": [
+      "きおうかなさいぼう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "荒瀧一斗",
+      "元素爆発"
+    ],
+    "comment": "荒瀧一斗が元素爆発発動時に使用する武器。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "剣印染氷",
+    "answers": [
+      "けんいんぜんひょう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "重雲",
+      "元素スキル"
+    ],
+    "comment": "重雲が元素スキルを放つ時の台詞。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "急急如律令",
+    "answers": [
+      "きゅうきゅうにょりつりょう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "重雲",
+      "元素スキル"
+    ],
+    "comment": "重雲が元素スキルを放つ時の台詞。\n陰陽道の呪文の一つ。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "壁立千仞",
+    "answers": [
+      "へりきつせんじん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "鍾離",
+      "元素スキル"
+    ],
+    "comment": "鍾離が元素スキルを放つ時の台詞。\n高い崖が険しく立っていることを意味する四字熟語。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "堅如磐石",
+    "answers": [
+      "けんにょばんじゃく"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "鍾離",
+      "元素スキル"
+    ],
+    "comment": "鍾離が元素スキルを放つ時の台詞。\n巨大な岩のように堅くしっかりしていることを意味する四字熟語。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "宸断",
+    "answers": [
+      "しんだん"
+    ],
+    "prefix": "岩の",
+    "suffix": "",
+    "yomiPrefix": "いわの",
+    "yomiSuffix": "",
+    "category": [
+      "鍾離",
+      "固有天賦"
+    ],
+    "comment": "鍾離の固有天賦。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "独立嶄然",
+    "answers": [
+      "どくりつざんぜん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "雲菫",
+      "固有天賦"
+    ],
+    "comment": "雲菫の固有天賦。\n「嶄然」とは、山が高くそびえる様子。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "翹楚名坤",
+    "answers": [
+      "ぎょうそめいこん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "雲菫",
+      "命ノ星座"
+    ],
+    "comment": "雲菫の命ノ星座・第5重。\n「翹楚」とは、抜きん出た才能を持っていること。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
     "kanji": "鍋巴",
     "answers": [
       "ぐぅおぱぁー"
@@ -9018,6 +9648,43 @@
       "命ノ星座"
     ],
     "comment": "神里綾華の命ノ星座・第5重。\n同名の歌舞伎の外題から取られたと思われる。\n",
+    "hint": "none",
+    "level": 4,
+    "isOfficial": false
+  },
+  {
+    "kanji": "氍毹",
+    "answers": [
+      "くゆ",
+      "くしゅ"
+    ],
+    "prefix": "",
+    "suffix": "煙雲",
+    "yomiPrefix": "",
+    "yomiSuffix": "えんうん",
+    "category": [
+      "雲菫",
+      "衣装"
+    ],
+    "comment": "雲菫の初期衣装。\n「氍毹」は、毛織の敷物のこと。\n",
+    "hint": "none",
+    "level": 4,
+    "isOfficial": false
+  },
+  {
+    "kanji": "牙纛探海",
+    "answers": [
+      "がとうたんかい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "雲菫",
+      "命ノ星座"
+    ],
+    "comment": "雲菫の命ノ星座・第3重。\n「牙纛」とは、象牙の飾りが付けられた大将軍の旗のこと。\n",
     "hint": "none",
     "level": 4,
     "isOfficial": false

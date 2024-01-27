@@ -19,15 +19,33 @@
 
   通常攻撃:
     - kanji: 往生秘伝槍法
-      yomi: おうじょうひでんやりほう
+      yomi: おうじょうひでんそうほう
       comment: |
         胡桃の通常攻撃。
 
+    - kanji: 血梅香
+      yomi: ちばいこう
+      level: 2
+      comment: |
+        胡桃が元素スキル発動後、重撃で敵に与えることができる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=BdlO9RAt7TE
+
   元素スキル:
     - kanji: 蝶導来世
-      yomi: ちょうしるべらいせ
+      yomi: ちょうどうらいせ
       comment: |
         胡桃の元素スキル。
+
+    - kanji: (冥蝶)の舞
+      yomi: (めいちょう)のまい
+      level: 2
+      comment: |
+        胡桃が元素スキルによって獲得できる効果。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=BdlO9RAt7TE
 
   元素爆発:
     - kanji: 安神秘法
@@ -35,21 +53,38 @@
       comment: |
         胡桃の元素爆発。
 
+    - kanji: (燎原)の蝶
+      yomi: (りょうげん)のちょう
+      comment: |
+        胡桃が元素爆発を放つ時の台詞。
+      isOfficial: true
+
   固有天賦:
-    - kanji: 蝶隠の時
-      yomi: ちょうこものとき
+    - kanji: (蝶隠)の時
+      yomi: (ちょういん)のとき
+      level: 2
       comment: |
         胡桃の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=BdlO9RAt7TE
 
     - kanji: 血のかまど
       yomi: ちのかまど
       comment: |
         胡桃の固有天賦。
+      isOfficial: true
+      ref:
+        - https://www.youtube.com/watch?v=BdlO9RAt7TE
 
     - kanji: 多々益善
       yomi: たたえきぜん
+      level: 2
       comment: |
         胡桃の固有天賦。
+        「多ければ多いほど良い」という意味の四字熟語。
+      ref:
+        - https://ja.wiktionary.org/wiki/%E5%A4%9A%E5%A4%9A%E7%9B%8A%E5%96%84
 
   命ノ星座:
     - kanji: 彼岸蝶座
@@ -63,7 +98,7 @@
         胡桃の命ノ星座・第1重。
 
     - kanji: 晴れのち雨
-      yomi: はれのちう
+      yomi: はれのちあめ
       comment: |
         胡桃の命ノ星座・第2重。
 
@@ -73,16 +108,18 @@
         胡桃の命ノ星座・第3重。
 
     - kanji: 花室の添い寝
-      yomi: はなしつのそいね
+      yomi: はなむろのそいね?
       comment: |
         胡桃の命ノ星座・第4重。
 
-    - kanji: 漂う花の香り
-      yomi: ただようはなのかおり
+    - kanji: (漂)う花の香り
+      yomi: (ただよ)うはなのかおり
+      level: 1
       comment: |
         胡桃の命ノ星座・第5重。
 
-    - kanji: 冥蝶の抱擁
-      yomi: めいちょうのほうよう
+    - kanji: 冥蝶の(抱擁)
+      yomi: めいちょうの(ほうよう)
+      level: 1
       comment: |
         胡桃の命ノ星座・第6重。
