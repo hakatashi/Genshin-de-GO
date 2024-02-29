@@ -14,8 +14,12 @@
   称号:
     - kanji: 一心浄土
       yomi: いっしんじょうど
+      level: 1
       comment: |
         雷電将軍の称号。
+      isOfficial: true
+      ref:
+        - 雷電将軍・塵歌壺会話「もうここには慣れた？」
 
   通常攻撃:
     - kanji: 源流

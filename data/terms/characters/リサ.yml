@@ -74,6 +74,9 @@
       yomi: すなどけいざ
       comment: |
         リサの命ノ星座。
+      isOfficial: true
+      ref:
+        - モナのボイス「リサについて…」
 
     - kanji: 無限の電気回路
       yomi: むげんのでんきかいろ

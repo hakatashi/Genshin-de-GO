@@ -79,6 +79,9 @@
       yomi: よつばざ
       comment: |
         クレーの命ノ星座。
+      isOfficial: true
+      ref:
+        - モナのボイス「クレーについて…」
 
     - kanji: ゴロゴロコンボ
       yomi: ごろごろこんぼ

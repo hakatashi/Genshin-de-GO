@@ -520,6 +520,24 @@
     "isOfficial": true
   },
   {
+    "kanji": "和記庁",
+    "answers": [
+      "わきちょう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "団体"
+    ],
+    "comment": "璃月の交通輸送を担当する管理組織。\n嘉明が所属している。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
     "kanji": "教令院",
     "answers": [
       "きょうれいいん"
@@ -643,7 +661,7 @@
     "comment": "アルベドの命ノ星座・第6重。\n",
     "hint": "none",
     "level": 1,
-    "isOfficial": false
+    "isOfficial": true
   },
   {
     "kanji": "伯爵",
@@ -3620,6 +3638,24 @@
     "isOfficial": true
   },
   {
+    "kanji": "一心浄土",
+    "answers": [
+      "いっしんじょうど"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "雷電将軍",
+      "称号"
+    ],
+    "comment": "雷電将軍の称号。\n",
+    "hint": "none",
+    "level": 1,
+    "isOfficial": true
+  },
+  {
     "kanji": "一太刀",
     "answers": [
       "ひとたち"
@@ -3744,6 +3780,23 @@
     "hint": "none",
     "level": 1,
     "isOfficial": false
+  },
+  {
+    "kanji": "鏢局",
+    "answers": [
+      "ひょうきょく"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "一般名詞"
+    ],
+    "comment": "清代の中国に存在した、荷物や旅客の護送を行う職業。\n原神では嘉明の仕事として描かれている。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
   },
   {
     "kanji": "チ虎魚",
@@ -4189,7 +4242,7 @@
     "comment": "璃月港のアイテムショップ。\n",
     "hint": "none",
     "level": 2,
-    "isOfficial": false
+    "isOfficial": true
   },
   {
     "kanji": "黒岩場",
@@ -4354,6 +4407,24 @@
     "isOfficial": false
   },
   {
+    "kanji": "遺瓏埠",
+    "answers": [
+      "いろうふ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月の地名。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
     "kanji": "浮舎",
     "answers": [
       "ふしゃ"
@@ -4439,6 +4510,114 @@
       "人物"
     ],
     "comment": "かつて璃月に存在した夜叉の1人。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "隴舟",
+    "answers": [
+      "ろうしゅう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "人物"
+    ],
+    "comment": "璃月の和記庁の職員。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "泊溯",
+    "answers": [
+      "はくそ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "人物"
+    ],
+    "comment": "沈玉の谷の渡し守。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "知貴",
+    "answers": [
+      "ちき"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "人物"
+    ],
+    "comment": "沈玉の谷の鏢局の職員。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "永賛",
+    "answers": [
+      "えいさん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "人物"
+    ],
+    "comment": "沈玉の谷の鏢局の職員。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "松蘿仙芽",
+    "answers": [
+      "しょうらせんが"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "料理"
+    ],
+    "comment": "璃月産の高級茶葉。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
+    "kanji": "游韻単叢",
+    "answers": [
+      "ゆういんたんそう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "料理"
+    ],
+    "comment": "璃月産の高級茶葉。\n",
     "hint": "none",
     "level": 2,
     "isOfficial": true
@@ -4658,6 +4837,24 @@
     "hint": "none",
     "level": 2,
     "isOfficial": false
+  },
+  {
+    "kanji": "孔雀羽",
+    "answers": [
+      "くじゃくう"
+    ],
+    "prefix": "",
+    "suffix": "座",
+    "yomiPrefix": "",
+    "yomiSuffix": "ざ",
+    "category": [
+      "ガイア",
+      "命ノ星座"
+    ],
+    "comment": "ガイアの命ノ星座。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
   },
   {
     "kanji": "蒼鷺",
@@ -5419,6 +5616,24 @@
     "hint": "none",
     "level": 2,
     "isOfficial": false
+  },
+  {
+    "kanji": "夜梟",
+    "answers": [
+      "よふくろう"
+    ],
+    "prefix": "",
+    "suffix": "座",
+    "yomiPrefix": "",
+    "yomiSuffix": "ざ",
+    "category": [
+      "ディルック",
+      "命ノ星座"
+    ],
+    "comment": "ディルックの命ノ星座。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
   },
   {
     "kanji": "烈炎侍立",
@@ -6319,6 +6534,24 @@
     "hint": "none",
     "level": 2,
     "isOfficial": true
+  },
+  {
+    "kanji": "蔓生",
+    "answers": [
+      "まんせい"
+    ],
+    "prefix": "",
+    "suffix": "の埜草",
+    "yomiPrefix": "",
+    "yomiSuffix": "のやそう",
+    "category": [
+      "主人公",
+      "固有天賦"
+    ],
+    "comment": "草主人公の固有天賦。\n「蔓生」とは、植物の茎がつるとなって生長すること。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": false
   },
   {
     "kanji": "恩眷",
@@ -7240,6 +7473,24 @@
     "isOfficial": true
   },
   {
+    "kanji": "縛霊通真法印",
+    "answers": [
+      "ばくれいつうしんほういん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "申鶴",
+      "固有天賦"
+    ],
+    "comment": "申鶴の固有天賦。\n",
+    "hint": "none",
+    "level": 2,
+    "isOfficial": true
+  },
+  {
     "kanji": "遊糸徴霊",
     "answers": [
       "ゆうしちょうれい"
@@ -7888,6 +8139,23 @@
     "isOfficial": false
   },
   {
+    "kanji": "早茶",
+    "answers": [
+      "ざおちゃ"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "一般名詞"
+    ],
+    "comment": "朝に嗜む飲茶のこと。\n原神では夜蘭や嘉明が嗜んでいる。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": false
+  },
+  {
     "kanji": "蝸虎魚",
     "answers": [
       "ちこざかな"
@@ -7900,6 +8168,23 @@
       "その他"
     ],
     "comment": "「チ虎魚」の本来の名称。\n昔の璃月で豊富に採れた。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "螭虎魚",
+    "answers": [
+      "ちこざかな"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "その他"
+    ],
+    "comment": "「チ虎魚」の本来の名称。\nこれを焼いた料理が銅雀の好物。\n",
     "hint": "none",
     "level": 3,
     "isOfficial": true
@@ -8137,6 +8422,24 @@
     "isOfficial": true
   },
   {
+    "kanji": "枕鳶",
+    "answers": [
+      "ちんえん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "人物"
+    ],
+    "comment": "璃月の凧屋台の店主。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
     "kanji": "雲翰社",
     "answers": [
       "うんかんしゃ"
@@ -8150,6 +8453,42 @@
       "団体"
     ],
     "comment": "璃月の劇団。\n看板役者の雲菫が座長を務める。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "冬蓉酥",
+    "answers": [
+      "どんろんすー"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "料理"
+    ],
+    "comment": "璃月の料理。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
+    "kanji": "芙蓉鶏片",
+    "answers": [
+      "ふーろんちーぴん"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "料理"
+    ],
+    "comment": "璃月の料理。\n",
     "hint": "none",
     "level": 3,
     "isOfficial": true
@@ -8350,7 +8689,7 @@
     "comment": "セノが元素爆発を発動する時の台詞。\n",
     "hint": "none",
     "level": 3,
-    "isOfficial": false
+    "isOfficial": true
   },
   {
     "kanji": "花筐",
@@ -8731,6 +9070,24 @@
     "isOfficial": false
   },
   {
+    "kanji": "滌",
+    "answers": [
+      "あら"
+    ],
+    "prefix": "天を",
+    "suffix": "う水環",
+    "yomiPrefix": "てんを",
+    "yomiSuffix": "うすいかん",
+    "category": [
+      "ニィロウ",
+      "元素スキル"
+    ],
+    "comment": "ニィロウの旋舞のステップによって生成される水の輪。\n",
+    "hint": "none",
+    "level": 3,
+    "isOfficial": true
+  },
+  {
     "kanji": "瀑",
     "answers": [
       "たき"
@@ -8942,24 +9299,6 @@
       "命ノ星座"
     ],
     "comment": "七七の命ノ星座・第1重。\n「回向」とは、仏教用語で自他ともに悟りを得るために助けること。\n",
-    "hint": "none",
-    "level": 3,
-    "isOfficial": false
-  },
-  {
-    "kanji": "蔓生",
-    "answers": [
-      "まんせい"
-    ],
-    "prefix": "",
-    "suffix": "の埜草",
-    "yomiPrefix": "",
-    "yomiSuffix": "のやそう",
-    "category": [
-      "主人公",
-      "固有天賦"
-    ],
-    "comment": "草主人公の固有天賦。\n「蔓生」とは、植物の茎がつるとなって生長すること。\n",
     "hint": "none",
     "level": 3,
     "isOfficial": false
@@ -9454,24 +9793,6 @@
     "isOfficial": true
   },
   {
-    "kanji": "縛霊通真法印",
-    "answers": [
-      "ばくれいつうしんほういん"
-    ],
-    "prefix": "",
-    "suffix": "",
-    "yomiPrefix": "",
-    "yomiSuffix": "",
-    "category": [
-      "申鶴",
-      "固有天賦"
-    ],
-    "comment": "申鶴の固有天賦。\n",
-    "hint": "none",
-    "level": 3,
-    "isOfficial": true
-  },
-  {
     "kanji": "無隙",
     "answers": [
       "むげき"
@@ -9903,6 +10224,23 @@
     "isOfficial": true
   },
   {
+    "kanji": "文仔",
+    "answers": [
+      "うぇんつぁい"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "その他"
+    ],
+    "comment": "嘉明の相棒の小さなマスコット。\n日本語版では「ウェンツァイ」表記。\n",
+    "hint": "length",
+    "level": 4,
+    "isOfficial": true
+  },
+  {
     "kanji": "小雨",
     "answers": [
       "しゃおゆう"
@@ -9970,24 +10308,6 @@
       "固有天賦"
     ],
     "comment": "ナヒーダの固有天賦。\n「摂受」とは、仏教用語で衆生の善なる心を受け入れて導くこと。\n",
-    "hint": "none",
-    "level": 4,
-    "isOfficial": true
-  },
-  {
-    "kanji": "滌",
-    "answers": [
-      "あら"
-    ],
-    "prefix": "天を",
-    "suffix": "う水環",
-    "yomiPrefix": "てんを",
-    "yomiSuffix": "うすいかん",
-    "category": [
-      "ニィロウ",
-      "元素スキル"
-    ],
-    "comment": "ニィロウの旋舞のステップによって生成される水の輪。\n",
     "hint": "none",
     "level": 4,
     "isOfficial": true

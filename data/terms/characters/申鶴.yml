@@ -95,7 +95,7 @@
 
     - kanji: 縛霊通真法印
       yomi: ばくれいつうしんほういん
-      level: 3
+      level: 2
       comment: |
         申鶴の固有天賦。
       isOfficial: true
@@ -142,13 +142,12 @@
         - https://twitter.com/OHANA4649ne/status/1720058672943087666
 
     - kanji: 化神
-      yomi:
-        - かしん?
-        - けしん?
+      yomi: けしん?
       comment: |
         申鶴の命ノ星座・第5重。
       ref:
         - https://twitter.com/OHANA4649ne/status/1720058672943087666
+        - 申鶴のボイス「元素爆発·2」など
 
     - kanji: 忘玄
       yomi: ぼうげん

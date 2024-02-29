@@ -4,6 +4,9 @@
       yomi: きんぎょはなび
       comment: |
         宵宮の初期衣装。
+      isOfficial: true
+      ref:
+        - 宵宮のボイス「興味のあること…」
 
   称号:
     - kanji: 琉焔に舞う大輪

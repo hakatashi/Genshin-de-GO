@@ -21,6 +21,9 @@
       yomi: ひこうちゃんぴおん
       comment: |
         アンバーの称号。
+      isOfficial: true
+      ref:
+        - アンバーボイス「アンバー自身について…」
 
   通常攻撃:
     - kanji: 一流射手
@@ -52,6 +55,9 @@
       yomi: ひゃっぱつひゃくちゅう
       comment: |
         アンバーの固有天賦。
+      isOfficial: true
+      ref:
+        - アンバーのボイス「元素爆発·1」
 
     - kanji: 制圧射撃
       yomi: せいあつしゃげき
@@ -62,6 +68,9 @@
       yomi: ひこうちゃんぴおん
       comment: |
         アンバーの固有天賦。
+      isOfficial: true
+      ref:
+        - アンバーのボイス「アンバー自身について…」
 
   命ノ星座:
     - kanji: (小兎)座

@@ -82,7 +82,7 @@
         璃月・軽策荘に位置する家具屋。
       isOfficial: true
       ref:
-        - https://genshin.honeyhunterworld.com/q_11031/?lang=JA
+        - 伝説任務 仙麟の章 第一幕「雲の海、人の海」 ストーリー「人の海の秘書」
 
     - kanji: 珉林
       yomi: みんりん
@@ -334,6 +334,8 @@
         璃月港にある、茶館⋯⋯を装ったカジノ。
         現在は夜蘭が経営している。
       isOfficial: true
+      ref:
+        - 夜蘭のボイス「夜蘭自身について·噂」など
 
     - kanji: 寒鋒鉄器
       yomi: かんほうてっき
@@ -347,6 +349,9 @@
       level: 2
       comment: |
         璃月港のアイテムショップ。
+      isOfficial: true
+      ref:
+        - 伝説任務 幽客の章 第一幕「先の布石」 ストーリー「最終決定」
 
     - kanji: 黒岩場
       yomi: こくがんじょう
@@ -362,6 +367,8 @@
         璃月港の酒場。
         田饒舌が講談を語っている。
       isOfficial: true
+      ref:
+        - 魔神任務 第一章 第二幕「久遠の体との別れ」 ストーリー「帰終」など
 
     - kanji: 新月軒
       yomi: しんげつけん
@@ -403,7 +410,7 @@
         璃月港の記念品ショップ。
       isOfficial: true
       ref:
-        - https://genshin.honeyhunterworld.com/q_1021/?lang=JA
+        - 魔神任務 第一章 第三幕「迫る客星」 ストーリー「璣衡」など
 
     - kanji: 琉璃亭
       yomi: るりてい
@@ -468,6 +475,15 @@
         璃月・漉華の池の近くにある宿屋。
         モナがモンドを訪れる前によく利用していた。
 
+    - kanji: 遺瓏埠
+      yomi: いろうふ
+      level: 2
+      comment: |
+        璃月の地名。
+      isOfficial: true
+      ref:
+        - イベント任務 春立つ風を梳かす彩鳶 其の一「春告げる鴬、空泳ぐ吉兆」 ストーリー「春告げる鴬、空泳ぐ吉兆」
+
   人物:
     - kanji: 銀杏
       yomi: ぎんきょう
@@ -477,7 +493,7 @@
         北斗のデートイベントに登場。
       isOfficial: true
       ref:
-        - https://genshin.honeyhunterworld.com/q_19051/?lang=JA
+        - 北斗・デートイベント「南十字が輝く時」 ストーリー「海上での生活」
 
     - kanji: 阿旭
       yomi: あきょく
@@ -486,7 +502,7 @@
         「飛雲商会」の従僕。
       isOfficial: true
       ref:
-        - https://youtu.be/9KMvRi-Mdq4?t=1091
+        - 魔神任務 間章 第一幕「風立ちし鶴の帰郷」 ストーリー「鳴海栖霞」
 
     - kanji: 小雨
       yomi: しゃおゆう
@@ -510,7 +526,7 @@
         かつて璃月を守るために戦った5人の夜叉の1人。
       isOfficial: true
       ref:
-        - 魔神任務「険路怪跡」
+        - 魔神任務 間章 第二幕「険路怪跡」 ストーリー「窮途末路」
 
     - kanji: 騰蛇太元帥
       yomi: とうだたいげんすい
@@ -520,7 +536,7 @@
         またの名を「浮舎」。
       isOfficial: true
       ref:
-        - 魔神任務「険路怪跡」
+        - 魔神任務 間章 第二幕「険路怪跡」 ストーリー「窮途末路」
 
     - kanji: 弥怒
       yomi: みぬ
@@ -529,7 +545,7 @@
         かつて璃月を守るために戦った5人の夜叉の1人。
       isOfficial: true
       ref:
-        - 魔神任務「活路を開け」
+        - 魔神任務 間章 第二幕「険路怪跡」 ストーリー「活路を開け」
 
     - kanji: 心猿大将
       yomi: しんえんたいしょう
@@ -539,7 +555,7 @@
         またの名を「弥怒」。
       isOfficial: true
       ref:
-        - 魔神任務「活路を開け」
+        - 魔神任務 間章 第二幕「険路怪跡」 ストーリー「活路を開け」
 
     - kanji: 伐難
       yomi: ばつなん
@@ -548,7 +564,7 @@
         かつて璃月を守るために戦った5人の夜叉の1人。
       isOfficial: true
       ref:
-        - 魔神任務「活路を開け」
+        - 魔神任務 間章 第二幕「険路怪跡」 ストーリー「活路を開け」
 
     - kanji: 螺巻大将
       yomi: らかんたいしょう
@@ -558,7 +574,7 @@
         またの名を「伐難」。
       isOfficial: true
       ref:
-        - 魔神任務「活路を開け」
+        - 魔神任務 間章 第二幕「険路怪跡」 ストーリー「活路を開け」
 
     - kanji: 応達
       yomi: おうたつ
@@ -567,7 +583,7 @@
         かつて璃月を守るために戦った5人の夜叉の1人。
       isOfficial: true
       ref:
-        - 魔神任務「活路を開け」
+        - 魔神任務 間章 第二幕「険路怪跡」 ストーリー「活路を開け」
 
     - kanji: 火鼠大将
       yomi: かそたいしょう
@@ -577,7 +593,7 @@
         またの名を「応達」。
       isOfficial: true
       ref:
-        - 魔神任務「活路を開け」
+        - 魔神任務 間章 第二幕「険路怪跡」 ストーリー「活路を開け」
 
     - kanji: 銅雀
       yomi: どうじゃく
@@ -586,7 +602,63 @@
         かつて璃月に存在した夜叉の1人。
       isOfficial: true
       ref:
-        - 魔神任務「活路を開け」
+        - 魔神任務 間章 第二幕「険路怪跡」 ストーリー「活路を開け」
+
+    - kanji: 枕鳶
+      yomi: ちんえん
+      level: 3
+      comment: |
+        璃月の凧屋台の店主。
+      isOfficial: true
+      ref:
+        - イベント任務 春立つ風を梳かす彩鳶 其の一「春告げる鴬、空泳ぐ吉兆」 ストーリー「春告げる鴬、空泳ぐ吉兆」
+
+    - kanji: 隴舟
+      yomi: ろうしゅう
+      level: 2
+      comment: |
+        璃月の和記庁の職員。
+      isOfficial: true
+      ref:
+        - イベント任務 春立つ風を梳かす彩鳶 其の一「春告げる鴬、空泳ぐ吉兆」 ストーリー「春告げる鴬、空泳ぐ吉兆」
+
+    - kanji: 泊溯
+      yomi: はくそ
+      level: 2
+      comment: |
+        沈玉の谷の渡し守。
+      isOfficial: true
+      ref:
+        - イベント任務 春立つ風を梳かす彩鳶 其の一「春告げる鴬、空泳ぐ吉兆」 ストーリー「春告げる鴬、空泳ぐ吉兆」
+
+    - kanji: 知貴
+      yomi: ちき
+      level: 2
+      comment: |
+        沈玉の谷の鏢局の職員。
+      isOfficial: true
+      ref:
+        - イベント任務 春立つ風を梳かす彩鳶 其の一「春告げる鴬、空泳ぐ吉兆」 ストーリー「春告げる鴬、空泳ぐ吉兆」
+
+    - kanji: 永賛
+      yomi: えいさん
+      level: 2
+      comment: |
+        沈玉の谷の鏢局の職員。
+      isOfficial: true
+      ref:
+        - イベント任務 春立つ風を梳かす彩鳶 其の一「春告げる鴬、空泳ぐ吉兆」 ストーリー「春告げる鴬、空泳ぐ吉兆」
+
+    - kanji: 漱玉
+      yomi: そうぎょく
+      comment: ''
+      isOfficial: true
+      ref:
+        - イベント任務 春立つ風を梳かす彩鳶 其の一「春告げる鴬、空泳ぐ吉兆」 ストーリー「春告げる鴬、空泳ぐ吉兆」
+
+    - kanji: 遠黛
+      yomi: えんたい
+      comment: ''
 
   団体:
     - kanji: 雲翰社
@@ -598,6 +670,58 @@
       isOfficial: true
       ref:
         - https://twitter.com/Genshin_7/status/1462723781680640005
+
+    - kanji: 和記庁
+      yomi: わきちょう
+      level: 1
+      comment: |
+        璃月の交通輸送を担当する管理組織。
+        嘉明が所属している。
+      isOfficial: true
+      ref:
+        - 嘉明のボイス「初めまして…」
+
+    - kanji: 剣鞘鏢局
+      yomi: けんしょうひょうきょく?
+      comment: |
+        璃月の鏢局。嘉明が所属している。
+
+  料理:
+    - kanji: 冬蓉酥
+      yomi: どんろんすー
+      level: 3
+      comment: |
+        璃月の料理。
+      isOfficial: true
+      ref:
+        - イベント任務 春立つ風を梳かす彩鳶 其の一「春告げる鴬、空泳ぐ吉兆」 ストーリー「春告げる鴬、空泳ぐ吉兆」
+
+    - kanji: 芙蓉鶏片
+      yomi: ふーろんちーぴん
+      comment: |
+        璃月の料理。
+      level: 3
+      isOfficial: true
+      ref:
+        - イベント任務 韶光撫月·其の二「六情·七仙·八方飄香·九霄到達·十分無欠」 ストーリー「六情·七仙·八方飄香·九霄到達·十分無欠」
+
+    - kanji: 松蘿仙芽
+      yomi: しょうらせんが
+      level: 2
+      comment: |
+        璃月産の高級茶葉。
+      isOfficial: true
+      ref:
+        - 嘉明のボイス「嘉明自身について·地元」
+
+    - kanji: 游韻単叢
+      yomi: ゆういんたんそう
+      level: 2
+      comment: |
+        璃月産の高級茶葉。
+      isOfficial: true
+      ref:
+        - 嘉明のボイス「嘉明自身について·地元」
 
 稲妻:
   地名:
@@ -615,3 +739,14 @@
       comment: |
         スメールの研究機関。
       isOfficial: true
+
+スネージナヤ:
+  団体:
+    - kanji: 愚人衆
+      yomi: ふぁでゅい
+      level: 4
+      comment: |
+        スネージナヤが擁する組織。
+      isOfficial: true
+      ref:
+        - 原神セレベンツ

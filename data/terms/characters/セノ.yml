@@ -71,6 +71,7 @@
       level: 3
       comment: |
         セノが元素爆発を発動する時の台詞。
+      isOfficial: true
 
   固有天賦:
     - kanji: (落羽)の裁決

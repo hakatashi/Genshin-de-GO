@@ -16,6 +16,9 @@
       yomi: ごほうやしゃ
       comment: |
         魈の称号。
+      isOfficial: true
+      ref:
+        - 魔神任務 第一章 第一幕「浮世浮生千岩間」 ストーリー「驚き」など
 
     - kanji: 降魔大聖
       yomi: こうまたいせい

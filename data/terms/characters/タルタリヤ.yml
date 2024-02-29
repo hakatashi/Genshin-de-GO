@@ -16,6 +16,7 @@
       yomi: こうし
       comment: |
         タルタリヤの称号。
+      isOfficial: true
 
   通常攻撃:
     - kanji: 断雨

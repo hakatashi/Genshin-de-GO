@@ -6,6 +6,18 @@
       「チ虎魚」の本来の名称。
       昔の璃月で豊富に採れた。
     isOfficial: true
+    note: |
+      「チ虎魚の刀」のストーリーでは「蝸虎魚」、伝説任務の「金翼鵬王の章」では「螭虎魚」と表記されている。
+
+  - kanji: 螭虎魚
+    yomi: ちこざかな
+    level: 3
+    comment: |
+      「チ虎魚」の本来の名称。
+      これを焼いた料理が銅雀の好物。
+    isOfficial: true
+    note: |
+      「チ虎魚の刀」のストーリーでは「蝸虎魚」、伝説任務の「金翼鵬王の章」では「螭虎魚」と表記されている。
 
   - kanji: チ虎魚
     yomi: ちこざかな
@@ -22,7 +34,7 @@
       群玉閣を浮遊させるのに用いられている石。
     isOfficial: true
     ref:
-      - https://genshin.honeyhunterworld.com/q_11013/?lang=JA
+      - 魔神任務 間章 第一幕「風立ちし鶴の帰郷」 ストーリー「瓊台玉閣」
 
   - kanji: 千奇核心
     yomi: せんきかくしん
@@ -31,7 +43,7 @@
       浮遊する群玉閣を制御するのに用いられているアイテム。
     isOfficial: true
     ref:
-      - https://genshin.honeyhunterworld.com/q_11015/?lang=JA
+      - 魔神任務 間章 第一幕「風立ちし鶴の帰郷」 ストーリー「瓊台玉閣」
 
   - kanji: 仙家呪符
     yomi: せんかじゅふ
@@ -40,7 +52,7 @@
       浮遊する群玉閣を制御するのに用いられているアイテム。
     isOfficial: true
     ref:
-      - https://genshin.honeyhunterworld.com/q_11015/?lang=JA
+      - 魔神任務 間章 第一幕「風立ちし鶴の帰郷」 ストーリー「瓊台玉閣」
 
   - kanji: 鍋巴
     yomi: ぐぅおぱぁー
@@ -52,14 +64,21 @@
       日本語版では「グゥオパァー」表記。
     isOfficial: true
 
+  - kanji: 文仔
+    yomi: うぇんつぁい
+    hint: length
+    level: 4
+    comment: |
+      嘉明の相棒の小さなマスコット。
+      日本語版では「ウェンツァイ」表記。
+    isOfficial: true
+
   - kanji: 草原核
     yomi: そうげんかく
     level: 1
     comment: |
       水元素と草元素が反応することによって生まれる草の核。
     isOfficial: true
-    ref:
-      - https://genshin.honeyhunterworld.com/q_11015/?lang=JA
 
   - kanji: 霊息の(棘)
     yomi: れいそくの(とげ)
@@ -88,3 +107,19 @@
     isOfficial: true
     ref:
       - https://www.youtube.com/watch?v=nBeoa06AG7U
+
+  - kanji: 丘々人
+    yomi: ひるちゃーる
+    level: 4
+    comment: |
+      モンスター。
+    isOfficial: true
+    ref:
+      - 原神セレベンツ
+
+  - kanji: 帰元ノ庭
+    yomi: きげんのにわ
+    comment: |
+      キングデシェレト時代の遺跡。
+    isOfficial: true
+    ref: []

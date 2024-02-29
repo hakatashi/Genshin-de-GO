@@ -74,10 +74,14 @@
         ディルックの固有天賦。
 
   命ノ星座:
-    - kanji: 夜梟座
-      yomi: よるふくろうざ
+    - kanji: (夜梟)座
+      yomi: (よふくろう)ざ
+      level: 2
       comment: |
         ディルックの命ノ星座。
+      isOfficial: true
+      ref:
+        - モナのボイス「ディルックについて…」
 
     - kanji: 罪の裁断
       yomi: つみのさいだん

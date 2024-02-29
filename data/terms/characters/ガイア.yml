@@ -67,10 +67,14 @@
         ガイアの固有天賦。
 
   命ノ星座:
-    - kanji: 孔雀羽座
-      yomi: くじゃくばねざ？
+    - kanji: (孔雀羽)座
+      yomi: (くじゃくう)ざ
+      level: 2
       comment: |
         ガイアの命ノ星座。
+      isOfficial: true
+      ref:
+        - モナのボイス「ガイアについて…」
 
     - kanji: 優れた血筋
       yomi: すぐれたちすじ
