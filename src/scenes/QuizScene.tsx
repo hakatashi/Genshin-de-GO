@@ -1,4 +1,4 @@
-import {Container, Text, useTick} from '@pixi/react';
+import {Container, Sprite, Text, useTick} from '@pixi/react';
 import {TextStyle} from 'pixi.js';
 import {useCallback, useEffect, useState} from 'react';
 import {useRecoilState} from 'recoil';
@@ -7,6 +7,7 @@ import {inputTextState, isInputShownState, sceneState, textInputTimeState} from 
 import {Button} from '../components/Button';
 import {ExplanationDialog} from '../components/ExplanationDialog';
 import {Explosion} from '../components/Explosion';
+import GameBackground from '../components/GameBackground';
 import {Kanji} from '../components/Kanji';
 import {QuizConfig} from '../lib/types';
 
@@ -78,7 +79,7 @@ const Quiz = (props: QuizProps) => {
 				<>
 					<Kanji
 						x={480}
-						y={200 + 50 * scale}
+						y={350 - (scale < 0.505 ? (scale - 0.5) * 100000 : 0)}
 						scale={scale}
 						quiz={quiz}
 						style={new TextStyle({
@@ -145,7 +146,7 @@ const Quiz = (props: QuizProps) => {
 			)}
 			{state === 'correct' && (
 				<Container>
-					<Explosion x={480} y={200}/>
+					<Explosion x={480} y={300}/>
 					<ExplanationDialog x={0} y={440} quiz={quiz}/>
 				</Container>
 			)}
@@ -226,6 +227,10 @@ export const QuizScene = (props: QuizSceneProps) => {
 
 	return (
 		<Container>
+			<Sprite
+				image="/background05.png"
+			/>
+			<GameBackground active={phase === 'playing'}/>
 			{quiz !== null && phase === 'playing' && (
 				<Quiz
 					key={`${progress}-${remainingLife}`}

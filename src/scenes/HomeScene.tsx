@@ -2,7 +2,9 @@ import {Container, Text} from '@pixi/react';
 import {TextStyle, Texture} from 'pixi.js';
 import {useRecoilState} from 'recoil';
 import {sceneState} from '../atoms';
+import {AnimatedGIF} from '../components/AnimatedGIF';
 import {Button} from '../components/Button';
+import GameBackground from '../components/GameBackground';
 import {Emitter} from '../components/Particles';
 
 export const HomeScene = () => {
