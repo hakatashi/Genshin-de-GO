@@ -1,6 +1,6 @@
 import {Container, Text} from '@pixi/react';
 import {TextMetrics, TextStyle} from 'pixi.js';
-import {useEffect, useState} from 'react';
+import React, {useEffect, useState} from 'react';
 import {QuizConfig} from '../lib/types';
 
 const defaultProps = {
@@ -18,7 +18,7 @@ type KanjiProps = {
 	showAnswer?: boolean,
 } & typeof defaultProps;
 
-export const Kanji = (props: KanjiProps) => {
+const Kanji = (props: KanjiProps) => {
 	const {
 		quiz: {kanji, answers, prefix, suffix},
 		x,
@@ -114,3 +114,7 @@ export const Kanji = (props: KanjiProps) => {
 };
 
 Kanji.defaultProps = defaultProps;
+
+const PureKanji = React.memo(Kanji);
+
+export {PureKanji as Kanji};

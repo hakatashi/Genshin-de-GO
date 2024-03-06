@@ -1,6 +1,6 @@
 import {Container, Sprite, Text, useTick} from '@pixi/react';
 import {TextStyle} from 'pixi.js';
-import {useCallback, useEffect, useState} from 'react';
+import {useCallback, useEffect, useMemo, useState} from 'react';
 import {useRecoilState} from 'recoil';
 import dictionary from '../../data/dictionary';
 import {inputTextState, isInputShownState, sceneState, textInputTimeState} from '../atoms';
@@ -78,34 +78,42 @@ const Quiz = (props: QuizProps) => {
 	const kanjiLength = quiz.kanji.length + quiz.prefix.length + quiz.suffix.length;
 	const kanjiFontSize = kanjiLength <= 5 ? 144 : 144 * 5 / kanjiLength;
 
+	const kanjiTextStyle = useMemo(() => new TextStyle({
+		fontFamily: 'Noto Sans JP',
+		fontSize: kanjiFontSize,
+		fontStyle: 'normal',
+		fontWeight: '800',
+		fill: ['#f3c72e'],
+		stroke: '#000000',
+		strokeThickness: 20,
+		dropShadow: true,
+		dropShadowColor: '#000000',
+		dropShadowBlur: 4,
+		dropShadowAngle: Math.PI / 6,
+		dropShadowDistance: 6,
+		wordWrap: true,
+		wordWrapWidth: 440,
+		lineJoin: 'round',
+	}), [kanjiFontSize]);
+
 	return (
 		<Container>
 			{state === 'playing' ? (
 				<>
-					<Kanji
+					<Container
 						x={480}
 						y={350 - (scale < 0.505 ? (scale - 0.5) * 100000 : 0)}
 						scale={scale}
-						quiz={quiz}
-						style={new TextStyle({
-							fontFamily: 'Noto Sans JP',
-							fontSize: kanjiFontSize,
-							fontStyle: 'normal',
-							fontWeight: '800',
-							fill: ['#f3c72e'],
-							stroke: '#000000',
-							strokeThickness: 20,
-							dropShadow: true,
-							dropShadowColor: '#000000',
-							dropShadowBlur: 4,
-							dropShadowAngle: Math.PI / 6,
-							dropShadowDistance: 6,
-							wordWrap: true,
-							wordWrapWidth: 440,
-							lineJoin: 'round',
-						})}
-						maxWidth={1000}
-					/>
+						pivot={0}
+					>
+						<Kanji
+							x={0}
+							y={0}
+							quiz={quiz}
+							style={kanjiTextStyle}
+							maxWidth={1000}
+						/>
+					</Container>
 					<Text
 						text={`${remainingTime.toFixed(2)}秒`}
 						x={480}
