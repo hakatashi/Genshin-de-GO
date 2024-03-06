@@ -120,7 +120,7 @@ const Quiz = (props: QuizProps) => {
 						y={40}
 						anchor={0.5}
 						style={new TextStyle({
-							fontFamily: 'Noto Sans JP',
+							fontFamily: 'Silkscreen',
 							fontSize: 48,
 							fontStyle: 'normal',
 							fontWeight: 'bold',
