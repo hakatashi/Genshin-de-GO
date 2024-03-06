@@ -20,9 +20,10 @@ const Quiz = (props: QuizProps) => {
 	const {quiz, onEnd} = props;
 	const {answers, category} = quiz;
 
-	const [scale, setScale] = useState(0.5);
+	const [ticks, setTicks] = useState(0);
 	const [lastAnswer, setLastAnswer] = useState<string | null>(null);
-	const [remainingTime, setRemainingTime] = useState<number>(20);
+	// eslint-disable-next-line react/hook-use-state
+	const [startTime] = useState<number>(Date.now());
 	const [state, setState] = useState<'playing' | 'correct'>('playing');
 	const [correctTimer, setCorrectTimer] = useState<number | null>(null);
 
@@ -30,11 +31,12 @@ const Quiz = (props: QuizProps) => {
 	const [textInputTime, setTextInputTime] = useRecoilState(textInputTimeState);
 	const [inputText, setInputText] = useRecoilState(inputTextState);
 
+	const consumedTime = (Date.now() - startTime) / 1000;
+	const remainingTime = 20 - consumedTime;
+	const scale = 0.5 + consumedTime / 20;
+
 	useTick((delta) => {
-		if (remainingTime > 0 && state === 'playing') {
-			setScale(scale + delta / 1000);
-			setRemainingTime(remainingTime - delta / 60);
-		}
+		setTicks(ticks + 1);
 
 		if (correctTimer !== null) {
 			setCorrectTimer(correctTimer - delta);
@@ -64,7 +66,7 @@ const Quiz = (props: QuizProps) => {
 	}, [textInputTime]);
 
 	useEffect(() => {
-		if (remainingTime <= 0) {
+		if (remainingTime <= 0 && state === 'playing') {
 			setLastAnswer(null);
 			setInputText('');
 			setTextInputTime(null);
@@ -72,6 +74,9 @@ const Quiz = (props: QuizProps) => {
 			onEnd('wrong');
 		}
 	}, [remainingTime]);
+
+	const kanjiLength = quiz.kanji.length + quiz.prefix.length + quiz.suffix.length;
+	const kanjiFontSize = kanjiLength <= 5 ? 144 : 144 * 5 / kanjiLength;
 
 	return (
 		<Container>
@@ -84,7 +89,7 @@ const Quiz = (props: QuizProps) => {
 						quiz={quiz}
 						style={new TextStyle({
 							fontFamily: 'Noto Sans JP',
-							fontSize: 144,
+							fontSize: kanjiFontSize,
 							fontStyle: 'normal',
 							fontWeight: '800',
 							fill: ['#f3c72e'],
