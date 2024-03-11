@@ -80,7 +80,7 @@ const Quiz = (props: QuizProps) => {
 			onEnd('wrong');
 		}
 
-		if (remainingTime <= 3) {
+		if (remainingTime <= 5) {
 			setRemainingTimeText(Math.ceil(remainingTime).toString());
 		}
 	}, [remainingTime]);
@@ -107,7 +107,7 @@ const Quiz = (props: QuizProps) => {
 	}), [kanjiFontSize]);
 
 	useEffect(() => {
-		if (countdownRef.current !== null && !isCountdownStarted && remainingTime <= 4) {
+		if (countdownRef.current !== null && !isCountdownStarted && remainingTime <= 6.5) {
 			ease.add(
 				countdownRef.current,
 				{y: 50},
@@ -127,7 +127,7 @@ const Quiz = (props: QuizProps) => {
 				remainingTimeTextRef.current,
 				{
 					alpha: 0,
-					scale: 1.5,
+					scale: 1.3,
 				},
 				{
 					duration: 300,
@@ -171,9 +171,7 @@ const Quiz = (props: QuizProps) => {
 								anchor={0.5}
 								style={new TextStyle({
 									fontFamily: 'Silkscreen',
-									fontSize: 80,
-									fontStyle: 'normal',
-									fontWeight: 'bold',
+									fontSize: 90,
 									fill: '#FFF',
 								})}
 							/>
@@ -186,9 +184,7 @@ const Quiz = (props: QuizProps) => {
 								anchor={0.5}
 								style={new TextStyle({
 									fontFamily: 'Silkscreen',
-									fontSize: 80,
-									fontStyle: 'normal',
-									fontWeight: 'bold',
+									fontSize: 90,
 									fill: '#FFF',
 								})}
 							/>
