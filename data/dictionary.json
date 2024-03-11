@@ -1,5 +1,23 @@
 [
   {
+    "kanji": "北国",
+    "answers": [
+      "きたくに"
+    ],
+    "prefix": "",
+    "suffix": "銀行",
+    "yomiPrefix": "",
+    "yomiSuffix": "ぎんこう",
+    "category": [
+      "テイワット",
+      "地名"
+    ],
+    "comment": "世界各地に支店を持つスネージナヤ系の銀行。\n",
+    "hint": "none",
+    "level": 0,
+    "isOfficial": true
+  },
+  {
     "kanji": "稲妻",
     "answers": [
       "いなずま"
@@ -13,6 +31,42 @@
       "地名"
     ],
     "comment": "テイワットの七国の1つ。\n雷神を信仰する「永遠」の国。\n",
+    "hint": "none",
+    "level": 0,
+    "isOfficial": true
+  },
+  {
+    "kanji": "原",
+    "answers": [
+      "はら"
+    ],
+    "prefix": "碧水の",
+    "suffix": "",
+    "yomiPrefix": "へきすいの",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
+    "hint": "none",
+    "level": 0,
+    "isOfficial": true
+  },
+  {
+    "kanji": "軽策荘",
+    "answers": [
+      "けいさくそう"
+    ],
+    "prefix": "",
+    "suffix": "",
+    "yomiPrefix": "",
+    "yomiSuffix": "",
+    "category": [
+      "璃月",
+      "地名"
+    ],
+    "comment": "璃月のエリア名。\n",
     "hint": "none",
     "level": 0,
     "isOfficial": true
@@ -1225,24 +1279,6 @@
     "isOfficial": true
   },
   {
-    "kanji": "北国",
-    "answers": [
-      "きたくに"
-    ],
-    "prefix": "",
-    "suffix": "銀行",
-    "yomiPrefix": "",
-    "yomiSuffix": "ぎんこう",
-    "category": [
-      "テイワット",
-      "地名"
-    ],
-    "comment": "世界各地に支店を持つスネージナヤ系の銀行。\n",
-    "hint": "none",
-    "level": 1,
-    "isOfficial": true
-  },
-  {
     "kanji": "璃月",
     "answers": [
       "りーゆえ"
@@ -1269,42 +1305,6 @@
     "suffix": "の原",
     "yomiPrefix": "",
     "yomiSuffix": "のはら",
-    "category": [
-      "璃月",
-      "地名"
-    ],
-    "comment": "璃月のエリア名。\n",
-    "hint": "none",
-    "level": 1,
-    "isOfficial": true
-  },
-  {
-    "kanji": "原",
-    "answers": [
-      "はら"
-    ],
-    "prefix": "碧水の",
-    "suffix": "",
-    "yomiPrefix": "へきすいの",
-    "yomiSuffix": "",
-    "category": [
-      "璃月",
-      "地名"
-    ],
-    "comment": "璃月のエリア名。\n",
-    "hint": "none",
-    "level": 1,
-    "isOfficial": true
-  },
-  {
-    "kanji": "軽策荘",
-    "answers": [
-      "けいさくそう"
-    ],
-    "prefix": "",
-    "suffix": "",
-    "yomiPrefix": "",
-    "yomiSuffix": "",
     "category": [
       "璃月",
       "地名"
@@ -6837,7 +6837,7 @@
       "北斗",
       "命ノ星座"
     ],
-    "comment": "北斗の命ノ星座・第5重。\n「霞光」とは、朝焼け・夕焼けのこと。\n",
+    "comment": "北斗の命ノ星座・第5重。\n「霞光」とは、朝焼けや夕焼けのこと。\n",
     "hint": "none",
     "level": 2,
     "isOfficial": false

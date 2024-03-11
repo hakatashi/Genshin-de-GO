@@ -2,7 +2,7 @@
   地名:
     - kanji: (北国)銀行
       yomi: (きたくに)ぎんこう
-      level: 1
+      level: 0
       comment: |
         世界各地に支店を持つスネージナヤ系の銀行。
       isOfficial: true
@@ -27,14 +27,14 @@
   地名:
     - kanji: (碧水)の(原)
       yomi: (へきすい)の(はら)
-      level: [1, 1]
+      level: [1, 0]
       comment: |
         璃月のエリア名。
       isOfficial: true
 
     - kanji: 軽策荘
       yomi: けいさくそう
-      level: 1
+      level: 0
       comment: |
         璃月のエリア名。
       isOfficial: true
