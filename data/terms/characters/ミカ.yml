@@ -72,8 +72,8 @@
         - https://www.youtube.com/watch?v=muuMAgojM6I
 
   固有天賦:
-    - kanji: 速射(牽制)
-      yomi: そくしゃ(けんせい)
+    - kanji: 速射牽制
+      yomi: そくしゃけんせい
       level: 1
       comment: |
         ミカの固有天賦。
@@ -83,7 +83,7 @@
 
     - kanji: 偵察
       yomi: ていさつ
-      level: 1
+      level: 0
       comment: |
         ミカの固有天賦によって獲得できる効果。
       isOfficial: true

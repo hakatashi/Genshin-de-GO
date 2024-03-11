@@ -30,7 +30,7 @@
   元素スキル:
     - kanji: 神里流・(鏡花)
       yomi: かみさとりゅう(きょうか)
-      level: 1
+      level: 0
       comment: |
         神里綾人の元素スキル。
 
@@ -52,7 +52,7 @@
 
     - kanji: 瞬水剣
       yomi: しゅんすいけん
-      level: 1
+      level: 0
       comment: |
         神里綾人が元素スキル使用後に通常攻撃で放つことができる攻撃。
       isOfficial: true
@@ -123,7 +123,7 @@
 
     - kanji: 神里流・満ちゆく(破月)
       yomi: かみさとりゅうみちゆく(はげつ)
-      level: 1
+      level: 0
       comment: |
         神里綾人の固有天賦。
       isOfficial: true

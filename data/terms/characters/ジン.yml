@@ -68,7 +68,7 @@
   固有天賦:
     - kanji: (導)きの風
       yomi: (みちび)きのかぜ
-      level: 1
+      level: 0
       comment: |
         ジンの固有天賦。
 
@@ -83,7 +83,7 @@
 
     - kanji: 風の(導)くままに
       yomi: かぜの(みちび)くままに
-      level: 1
+      level: 0
       comment: |
         ジンの固有天賦。
       isOfficial: true

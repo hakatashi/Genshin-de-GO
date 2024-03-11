@@ -39,7 +39,7 @@
 
     - kanji: 陽華
       yomi: ようか
-      level: 1
+      level: 0
       comment: |
         アルベドの元素スキルによって生成される花。
       isOfficial: true
@@ -91,7 +91,7 @@
 
     - kanji: ホムンクルスの(天智)
       yomi: ほむんくるすの(てんち)
-      level: 1
+      level: 0
       comment: |
         アルベドの固有天賦。
       isOfficial: true

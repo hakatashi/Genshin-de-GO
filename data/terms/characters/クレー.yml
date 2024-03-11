@@ -24,7 +24,7 @@
 
     - kanji: 火花騎士
       yomi: ひばなきし
-      level: 1
+      level: 0
       comment: |
         クレーの西風騎士団での称号。
       isOfficial: true
@@ -100,7 +100,7 @@
 
     - kanji: 一触即発
       yomi: いっしょくそくはつ
-      level: 1
+      level: 0
       comment: |
         クレーの命ノ星座・第4重。
         少し触れただけでたちまち爆発するという意味の四字熟語。

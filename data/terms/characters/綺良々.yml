@@ -35,7 +35,7 @@
 
     - kanji: (猫又返)し
       yomi: (ねこまたがえ)し
-      level: 1
+      level: 0
       comment: |
         綺良々の元素スキルによって放たれる攻撃。
       isOfficial: true
@@ -70,7 +70,7 @@
 
     - kanji: がっちり(梱包)
       yomi: がっちり(こんぽう)
-      level: 1
+      level: 0
       comment: |
         綺良々が元素スキル長押しで獲得できる効果。
       isOfficial: true
@@ -152,7 +152,7 @@
       yomi:
         - いちじつせんり
         - いちにちせんり
-      level: 1
+      level: 0
       comment: |
         綺良々の命ノ星座・第5重。
         一日に千里も走る馬のように、才能が優れていること。

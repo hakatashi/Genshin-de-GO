@@ -52,7 +52,7 @@
 
     - kanji: 白玉大根
       yomi: しらたまだいこん
-      level: 1
+      level: 0
       comment: |
         ヨォーヨの「月桂・投擲型」が投擲する攻撃。
       isOfficial: true
@@ -133,7 +133,6 @@
 
     - kanji: 懇々善道
       yomi: こんこんぜんどう
-      level: 1
       comment: |
         ヨォーヨの命ノ星座・第3重。
 

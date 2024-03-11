@@ -42,7 +42,7 @@
 
     - kanji: 夜星
       yomi: よぼし
-      level: 1
+      level: 0
       comment: |
         レイラの元素スキルによって獲得できる効果。
       isOfficial: true
@@ -81,7 +81,7 @@
 
     - kanji: 星光弾
       yomi: せいこうだん
-      level: 1
+      level: 0
       comment: |
         レイラの元素爆発によって放たれる攻撃。
       isOfficial: true
@@ -133,7 +133,7 @@
 
     - kanji: 啓示を照らす(星芒)
       yomi: けいじをてらす(せいぼう)
-      level: 1
+      level: 0
       comment: |
         レイラの命ノ星座・第4重。
         「星芒」とは、星の光のこと。

@@ -80,6 +80,7 @@
 
     - kanji: (頭)を垂れろ
       yomi: (こうべ)をたれろ
+      level: 1
       comment: |
         ヌヴィレットが元素スキルを放つ時の台詞。
       isOfficial: true

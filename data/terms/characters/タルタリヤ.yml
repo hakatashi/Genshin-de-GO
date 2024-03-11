@@ -26,7 +26,7 @@
 
     - kanji: 断流
       yomi: だんりゅう
-      level: 1
+      level: 0
       comment: |
         タルタリヤの攻撃によって敵に与えることができる効果。
       isOfficial: true
@@ -68,7 +68,7 @@
   固有天賦:
     - kanji: 無尽蔵
       yomi: むじんぞう
-      level: 1
+      level: 0
       comment: |
         タルタリヤの固有天賦。
       isOfficial: true
@@ -77,7 +77,7 @@
 
     - kanji: 水形剣
       yomi: すいけいけん
-      level: 1
+      level: 0
       comment: |
         タルタリヤの固有天賦。
       isOfficial: true

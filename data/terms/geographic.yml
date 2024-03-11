@@ -17,7 +17,7 @@
 
     - kanji: 稲妻
       yomi: いなずま
-      level: 1
+      level: 0
       comment: |
         テイワットの七国の1つ。
         雷神を信仰する「永遠」の国。
@@ -41,14 +41,14 @@
 
     - kanji: 石門
       yomi: せきもん
-      level: 1
+      level: 0
       comment: |
         璃月のエリア名。
       isOfficial: true
 
     - kanji: 地中の(塩)
       yomi: ちちゅうの(しお)
-      level: 1
+      level: 0
       comment: |
         璃月のエリア名。
       isOfficial: true
@@ -101,7 +101,7 @@
 
     - kanji: (華光)の(林)
       yomi: (かこう)の(りん)
-      level: [1, 2]
+      level: [0, 2]
       comment: |
         璃月のエリア名。
       isOfficial: true
@@ -130,7 +130,7 @@
 
     - kanji: (絶雲)の間
       yomi: (ぜつうん)のま
-      level: 1
+      level: 0
       comment: |
         璃月のエリア名。
       isOfficial: true
@@ -144,7 +144,7 @@
 
     - kanji: 南天門
       yomi: なんてんもん
-      level: 1
+      level: 0
       comment: |
         璃月のエリア名。
       isOfficial: true
@@ -242,7 +242,7 @@
 
     - kanji: (雲来)の海
       yomi: (うんらい)のうみ
-      level: 1
+      level: 0
       comment: |
         璃月のエリア名。
       isOfficial: true
@@ -298,7 +298,7 @@
 
     - kanji: 月海亭
       yomi: げっかいてい
-      level: 1
+      level: 0
       comment: |
         玉京台にある建物。
         璃月七星の秘書である甘雨が勤務している。
@@ -372,7 +372,7 @@
 
     - kanji: 新月軒
       yomi: しんげつけん
-      level: 1
+      level: 0
       comment: |
         璃月港のレストラン。
       isOfficial: true
@@ -735,7 +735,7 @@
   地名:
     - kanji: 教令院
       yomi: きょうれいいん
-      level: 1
+      level: 0
       comment: |
         スメールの研究機関。
       isOfficial: true

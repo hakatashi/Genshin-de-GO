@@ -3,7 +3,7 @@ import {stripIndent} from 'common-tags';
 import {z} from 'zod';
 import type {QuizConfig} from '../src/lib/types';
 
-const levelSchema = z.number().int().gte(1).lte(4);
+const levelSchema = z.number().int().gte(0).lte(4);
 
 const entrySchema = z.object({
 	kanji: z.string(),

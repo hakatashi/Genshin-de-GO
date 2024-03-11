@@ -24,7 +24,7 @@
   元素スキル:
     - kanji: (近迫阻止射撃)・速
       yomi: (きんぱくそししゃげき)そく
-      level: 1
+      level: 0
       comment: |
         シュヴルーズの元素スキル。
       isOfficial: true
@@ -74,7 +74,7 @@
       yomi: きょうどうせんじゅつ
       comment: |
         シュヴルーズの固有天賦によって付与される効果。
-      level: 1
+      level: 0
       isOfficial: true
       ref:
         - https://www.youtube.com/watch?v=Tg6LjGXuBWk

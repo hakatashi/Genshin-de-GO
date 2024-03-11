@@ -77,7 +77,7 @@
 
     - kanji: 烈風波
       yomi: れっぷうは
-      level: 1
+      level: 0
       comment: |
         ファルザンの元素爆発によって放たれる攻撃。
       isOfficial: true
@@ -113,7 +113,7 @@
   固有天賦:
     - kanji: 迅速流風
       yomi: じんそくりゅうふう
-      level: 1
+      level: 0
       comment: |
         ファルザンの固有天賦。
       isOfficial: true

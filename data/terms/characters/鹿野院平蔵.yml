@@ -50,7 +50,7 @@
 
     - kanji: 変格
       yomi: へんかく
-      level: 1
+      level: 0
       comment: |
         鹿野院平蔵の元素スキルによって獲得できる効果。
       isOfficial: true
@@ -59,7 +59,7 @@
 
     - kanji: 正論
       yomi: せいろん
-      level: 1
+      level: 0
       comment: |
         鹿野院平蔵の元素スキルによって獲得できる効果。
       isOfficial: true
@@ -135,7 +135,7 @@
 
     - kanji: (荒唐無稽)百物語
       yomi: (こうとうむけい)ひゃくものがたり
-      level: 1
+      level: 0
       comment: |
         鹿野院平蔵の命ノ星座・第4重。
 
