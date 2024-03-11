@@ -1,6 +1,7 @@
 import {Container, Sprite, Text, useTick} from '@pixi/react';
-import {TextStyle} from 'pixi.js';
-import {useCallback, useEffect, useMemo, useState} from 'react';
+import {ease} from 'pixi-ease';
+import {Sprite as PixiSprite, Text as PixiText, TextStyle} from 'pixi.js';
+import {useCallback, useEffect, useMemo, useRef, useState} from 'react';
 import {useRecoilState} from 'recoil';
 import dictionary from '../../data/dictionary';
 import {inputTextState, isInputShownState, sceneState, textInputTimeState} from '../atoms';
@@ -26,10 +27,15 @@ const Quiz = (props: QuizProps) => {
 	const [startTime] = useState<number>(Date.now());
 	const [state, setState] = useState<'playing' | 'correct'>('playing');
 	const [correctTimer, setCorrectTimer] = useState<number | null>(null);
+	const [isCountdownStarted, setIsCountdownStarted] = useState(false);
+	const [remainingTimeText, setRemainingTimeText] = useState<string | null>(null);
 
 	const [, setIsInputShown] = useRecoilState(isInputShownState);
 	const [textInputTime, setTextInputTime] = useRecoilState(textInputTimeState);
 	const [inputText, setInputText] = useRecoilState(inputTextState);
+
+	const countdownRef = useRef<PixiSprite | null>(null);
+	const remainingTimeTextRef = useRef<PixiText | null>(null);
 
 	const consumedTime = (Date.now() - startTime) / 1000;
 	const remainingTime = 20 - consumedTime;
@@ -73,6 +79,10 @@ const Quiz = (props: QuizProps) => {
 			setIsInputShown(false);
 			onEnd('wrong');
 		}
+
+		if (remainingTime <= 3) {
+			setRemainingTimeText(Math.ceil(remainingTime).toString());
+		}
 	}, [remainingTime]);
 
 	const kanjiLength = quiz.kanji.length + quiz.prefix.length + quiz.suffix.length;
@@ -96,6 +106,37 @@ const Quiz = (props: QuizProps) => {
 		lineJoin: 'round',
 	}), [kanjiFontSize]);
 
+	useEffect(() => {
+		if (countdownRef.current !== null && !isCountdownStarted && remainingTime <= 4) {
+			ease.add(
+				countdownRef.current,
+				{y: 50},
+				{
+					duration: 1200,
+					ease: 'easeOutExpo',
+				},
+			);
+
+			setIsCountdownStarted(true);
+		}
+	}, [countdownRef.current, remainingTime, isCountdownStarted]);
+
+	useEffect(() => {
+		if (remainingTimeTextRef.current !== null) {
+			ease.add(
+				remainingTimeTextRef.current,
+				{
+					alpha: 0,
+					scale: 1.5,
+				},
+				{
+					duration: 300,
+					ease: 'linear',
+				},
+			);
+		}
+	}, [remainingTimeTextRef.current, remainingTimeText]);
+
 	return (
 		<Container>
 			{state === 'playing' ? (
@@ -114,19 +155,45 @@ const Quiz = (props: QuizProps) => {
 							maxWidth={1000}
 						/>
 					</Container>
-					<Text
-						text={`${remainingTime.toFixed(2)}秒`}
+					<Sprite
+						image="/countdown.png"
 						x={480}
-						y={40}
+						y={-100}
 						anchor={0.5}
-						style={new TextStyle({
-							fontFamily: 'Silkscreen',
-							fontSize: 48,
-							fontStyle: 'normal',
-							fontWeight: 'bold',
-							fill: '#000',
-						})}
+						ref={countdownRef}
 					/>
+					{remainingTimeText !== null && (
+						<>
+							<Text
+								text={remainingTimeText}
+								x={480}
+								y={40}
+								anchor={0.5}
+								style={new TextStyle({
+									fontFamily: 'Silkscreen',
+									fontSize: 80,
+									fontStyle: 'normal',
+									fontWeight: 'bold',
+									fill: '#FFF',
+								})}
+							/>
+							<Text
+								text={remainingTimeText}
+								key={remainingTimeText}
+								ref={remainingTimeTextRef}
+								x={480}
+								y={40}
+								anchor={0.5}
+								style={new TextStyle({
+									fontFamily: 'Silkscreen',
+									fontSize: 80,
+									fontStyle: 'normal',
+									fontWeight: 'bold',
+									fill: '#FFF',
+								})}
+							/>
+						</>
+					)}
 					<Text
 						text={category.join(' / ')}
 						x={480}
