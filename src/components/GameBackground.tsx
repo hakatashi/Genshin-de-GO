@@ -51,10 +51,6 @@ const GameBackground = (props: GameBackgroundProps) => {
 		}
 	});
 
-	useEffect(() => {
-		console.log(Array.from(Array(60).keys()).map((i) => getScale(i)));
-	}, [getScale]);
-
 	return (
 		<Container x={0} y={0} scale={1}>
 			{/*

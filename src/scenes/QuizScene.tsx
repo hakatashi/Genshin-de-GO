@@ -1,4 +1,5 @@
 import {Container, Sprite, Text, useTick} from '@pixi/react';
+import {range} from 'lodash';
 import {ease} from 'pixi-ease';
 import {Sprite as PixiSprite, Text as PixiText, TextStyle} from 'pixi.js';
 import {useCallback, useEffect, useMemo, useRef, useState} from 'react';
@@ -10,6 +11,8 @@ import {ExplanationDialog} from '../components/ExplanationDialog';
 import {Explosion} from '../components/Explosion';
 import GameBackground from '../components/GameBackground';
 import {Kanji} from '../components/Kanji';
+import {Polygon} from '../components/Polygon';
+import {Rectangle} from '../components/Rectangle';
 import {QuizConfig} from '../lib/types';
 
 interface QuizProps {
@@ -230,6 +233,96 @@ const Quiz = (props: QuizProps) => {
 	);
 };
 
+const getProgressColor = (progress: number) => {
+	const categories = [
+		[0x2196F3, 3],
+		[0x4CAF50, 3],
+		[0xFF9800, 3],
+		[0xF44336, 1],
+	];
+
+	let total = 0;
+	for (const [color, count] of categories) {
+		if (progress < total + count) {
+			return color;
+		}
+
+		total += count;
+	}
+
+	return 0x000000;
+};
+
+interface ProgressBarProps {
+	progress: number,
+	totalProgress: number,
+	x: number,
+	y: number,
+}
+
+const ProgressBar = (props: ProgressBarProps) => {
+	const {x, y, progress, totalProgress} = props;
+
+	const sheer = 7;
+	const width = 30;
+	const height = 20;
+	const gap = 5;
+	const padding = 6;
+	const marginLeft = 5;
+
+	return (
+		<Container
+			x={x}
+			y={y}
+		>
+			<Polygon
+				points={[
+					[0, padding],
+					[marginLeft + (width + gap) * (totalProgress - 1) + width + sheer, padding],
+					[marginLeft + (width + gap) * (totalProgress - 1) + width, padding + height],
+					[0, padding + height],
+				]}
+				backgroundColor={0x444444}
+				borderWidth={padding * 2}
+				borderColor={0x444444}
+				x={0}
+				y={0}
+			/>
+			{range(totalProgress).map((i) => (
+				<Polygon
+					key={i}
+					points={[
+						[0, height],
+						[width, height],
+						[width + sheer, 0],
+						[sheer, 0],
+					]}
+					backgroundColor={i < progress ? getProgressColor(i) : 0x888888}
+					x={marginLeft + (width + gap) * i}
+					y={padding}
+				/>
+			))}
+			{range(totalProgress).map((i) => (
+				<Text
+					key={i}
+					text={(i + 1).toString()}
+					x={marginLeft + (width + gap) * i + width * 0.6}
+					y={padding + height / 2}
+					anchor={0.5}
+					style={new TextStyle({
+						fontFamily: 'Noto Sans JP',
+						fontSize: 18,
+						fontStyle: 'normal',
+						fontWeight: 'bold',
+						align: 'center',
+						fill: 'white',
+					})}
+				/>
+			))}
+		</Container>
+	);
+};
+
 const getRandomQuiz = (level: number) => {
 	const candidates = dictionary.filter((quiz) => quiz.level === level);
 	return candidates[Math.floor(Math.random() * candidates.length)];
@@ -314,18 +407,11 @@ export const QuizScene = (props: QuizSceneProps) => {
 					onEnd={onEnd}
 				/>
 			)}
-			<Text
-				text={`${progress + 1} / ${totalProgress}`}
-				x={20}
-				y={40}
-				anchor={[0, 0.5]}
-				style={new TextStyle({
-					fontFamily: 'Noto Sans JP',
-					fontSize: 24,
-					fontStyle: 'normal',
-					fontWeight: 'bold',
-					fill: '#000',
-				})}
+			<ProgressBar
+				x={0}
+				y={10}
+				progress={progress}
+				totalProgress={totalProgress}
 			/>
 			<Text
 				text={`残機: ${remainingLife}`}
