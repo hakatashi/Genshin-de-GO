@@ -159,7 +159,7 @@ const Quiz = (props: QuizProps) => {
 						/>
 					</Container>
 					<Sprite
-						image="/countdown.png"
+						image="countdown.png"
 						x={480}
 						y={-100}
 						anchor={0.5}
@@ -397,7 +397,7 @@ export const QuizScene = (props: QuizSceneProps) => {
 	return (
 		<Container>
 			<Sprite
-				image="/background05.png"
+				image="background05.png"
 			/>
 			<GameBackground active={phase === 'playing'}/>
 			{quiz !== null && phase === 'playing' && (

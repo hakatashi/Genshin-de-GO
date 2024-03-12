@@ -85,7 +85,7 @@ const GameBackground = (props: GameBackgroundProps) => {
 							scale={getScale(timer - tree.addTime) * 1.5}
 							alpha={(timer - tree.addTime < 10) ? (timer - tree.addTime) / 10 : 1}
 							pivot={[0, 1700]}
-							image="/tree.png"
+							image="tree.png"
 						/>
 					</Container>
 				))}
