@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@pixi/display": "^7.3.3",
+    "@pixi/display": "^7.4.0",
     "@pixi/gif": "^2.1.0",
     "@pixi/particle-emitter": "^5.0.8",
     "@pixi/react": "^7.1.1",
