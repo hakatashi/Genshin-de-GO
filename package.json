@@ -52,7 +52,7 @@
     "@types/klaw": "^3.0.6",
     "@types/node-persist": "^3.1.8",
     "@types/regex-escape": "^3.4.1",
-    "axios": "^1.6.5",
+    "axios": "^1.6.7",
     "common-tags": "^1.8.2",
     "eslint": "^8.57.0",
     "japanese": "^1.2.0",
